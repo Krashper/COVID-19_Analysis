@@ -1,0 +1,455 @@
+[2024-08-17T02:58:56.513+0000] {processor.py:161} INFO - Started process (PID=88638) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T02:58:56.514+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T02:58:56.514+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:58:56.514+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T02:58:56.527+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T02:58:56.537+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.028 seconds
+[2024-08-17T02:59:27.535+0000] {processor.py:161} INFO - Started process (PID=89026) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T02:59:27.536+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T02:59:27.537+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:59:27.537+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T02:59:27.550+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T02:59:27.560+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.029 seconds
+[2024-08-17T02:59:58.389+0000] {processor.py:161} INFO - Started process (PID=89389) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T02:59:58.390+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T02:59:58.390+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:59:58.390+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T02:59:58.404+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T02:59:58.415+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.030 seconds
+[2024-08-17T03:00:29.067+0000] {processor.py:161} INFO - Started process (PID=89777) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:00:29.068+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:00:29.069+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:00:29.068+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:00:29.111+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:00:29.121+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.057 seconds
+[2024-08-17T03:00:54.148+0000] {processor.py:161} INFO - Started process (PID=90113) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:00:54.149+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:00:54.150+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:00:54.149+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:00:54.161+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:00:54.171+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:01:24.858+0000] {processor.py:161} INFO - Started process (PID=90472) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:01:24.858+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:01:24.859+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:01:24.859+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:01:24.867+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:01:24.878+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:01:55.782+0000] {processor.py:161} INFO - Started process (PID=90858) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:01:55.783+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:01:55.784+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:01:55.783+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:01:55.797+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:01:55.808+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.030 seconds
+[2024-08-17T03:02:26.709+0000] {processor.py:161} INFO - Started process (PID=91244) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:02:26.710+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:02:26.710+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:02:26.710+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:02:26.720+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:02:26.730+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:02:57.790+0000] {processor.py:161} INFO - Started process (PID=91605) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:02:57.790+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:02:57.791+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:02:57.791+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:02:57.801+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:02:57.811+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:03:28.394+0000] {processor.py:161} INFO - Started process (PID=91972) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:03:28.395+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:03:28.395+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:03:28.395+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:03:28.403+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:03:28.413+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:04:02.566+0000] {processor.py:161} INFO - Started process (PID=92385) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:04:02.567+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:04:02.568+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:04:02.567+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:04:02.582+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:04:02.593+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.031 seconds
+[2024-08-17T03:04:34.185+0000] {processor.py:161} INFO - Started process (PID=92772) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:04:34.186+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:04:34.187+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:04:34.186+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:04:34.195+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:04:34.204+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:05:06.010+0000] {processor.py:161} INFO - Started process (PID=93185) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:05:06.010+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:05:06.011+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:05:06.011+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:05:06.017+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:05:06.027+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.021 seconds
+[2024-08-17T03:05:36.842+0000] {processor.py:161} INFO - Started process (PID=93562) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:05:36.843+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:05:36.843+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:05:36.843+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:05:36.856+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:05:36.867+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.029 seconds
+[2024-08-17T03:06:07.678+0000] {processor.py:161} INFO - Started process (PID=93972) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:06:07.678+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:06:07.679+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:06:07.679+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:06:07.691+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:06:07.702+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.028 seconds
+[2024-08-17T03:06:38.812+0000] {processor.py:161} INFO - Started process (PID=94386) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:06:38.812+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:06:38.813+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:06:38.813+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:06:38.828+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:06:38.837+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.030 seconds
+[2024-08-17T03:07:09.808+0000] {processor.py:161} INFO - Started process (PID=94774) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:07:09.809+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:07:09.809+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:07:09.809+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:07:09.823+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:07:09.835+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.031 seconds
+[2024-08-17T03:07:41.329+0000] {processor.py:161} INFO - Started process (PID=95186) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:07:41.330+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:07:41.331+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:07:41.331+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:07:41.342+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:07:41.353+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.028 seconds
+[2024-08-17T03:08:13.841+0000] {processor.py:161} INFO - Started process (PID=95600) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:08:13.841+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:08:13.842+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:08:13.842+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:08:13.876+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:08:13.887+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.051 seconds
+[2024-08-17T03:08:46.006+0000] {processor.py:161} INFO - Started process (PID=95969) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:08:46.007+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:08:46.007+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:08:46.007+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:08:46.016+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:08:46.025+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:09:16.568+0000] {processor.py:161} INFO - Started process (PID=96411) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:09:16.568+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:09:16.569+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:09:16.569+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:09:16.580+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:09:16.590+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:09:47.941+0000] {processor.py:161} INFO - Started process (PID=96829) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:09:47.943+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:09:47.944+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:09:47.944+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:09:47.953+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:09:47.964+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:10:19.125+0000] {processor.py:161} INFO - Started process (PID=97273) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:10:19.126+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:10:19.127+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:10:19.126+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:10:19.161+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:10:19.172+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.051 seconds
+[2024-08-17T03:10:49.811+0000] {processor.py:161} INFO - Started process (PID=97712) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:10:49.812+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:10:49.813+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:10:49.812+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:10:49.824+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:10:49.834+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:11:20.827+0000] {processor.py:161} INFO - Started process (PID=98098) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:11:20.827+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:11:20.828+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:11:20.828+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:11:20.838+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:11:20.848+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:11:51.977+0000] {processor.py:161} INFO - Started process (PID=98541) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:11:51.977+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:11:51.978+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:11:51.978+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:11:51.991+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:11:52.003+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.031 seconds
+[2024-08-17T03:12:22.839+0000] {processor.py:161} INFO - Started process (PID=98959) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:12:22.840+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:12:22.841+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:12:22.840+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:12:22.851+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:12:22.862+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:12:53.713+0000] {processor.py:161} INFO - Started process (PID=99402) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:12:53.715+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:12:53.716+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:12:53.715+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:12:53.724+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:12:53.734+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:13:25.182+0000] {processor.py:161} INFO - Started process (PID=99847) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:13:25.183+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:13:25.184+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:13:25.184+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:13:25.196+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:13:25.206+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.028 seconds
+[2024-08-17T03:13:58.248+0000] {processor.py:161} INFO - Started process (PID=470) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:13:58.249+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:13:58.250+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:13:58.249+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:13:58.262+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:13:58.271+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:14:29.203+0000] {processor.py:161} INFO - Started process (PID=922) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:14:29.204+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:14:29.205+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:14:29.204+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:14:29.219+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:14:29.229+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.030 seconds
+[2024-08-17T03:14:59.779+0000] {processor.py:161} INFO - Started process (PID=1357) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:14:59.780+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:14:59.781+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:14:59.781+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:14:59.795+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:14:59.805+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.030 seconds
+[2024-08-17T03:15:30.790+0000] {processor.py:161} INFO - Started process (PID=1804) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:15:30.791+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:15:30.792+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:15:30.791+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:15:30.802+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:15:30.812+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:16:01.835+0000] {processor.py:161} INFO - Started process (PID=2258) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:16:01.835+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:16:01.836+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:16:01.836+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:16:01.845+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:16:01.855+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:16:32.576+0000] {processor.py:161} INFO - Started process (PID=2685) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:16:32.577+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:16:32.578+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:16:32.578+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:16:32.588+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:16:32.598+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:17:03.272+0000] {processor.py:161} INFO - Started process (PID=3138) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:17:03.273+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:17:03.274+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:17:03.273+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:17:03.307+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:17:03.317+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.049 seconds
+[2024-08-17T03:17:34.232+0000] {processor.py:161} INFO - Started process (PID=3591) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:17:34.233+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:17:34.233+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:17:34.233+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:17:34.241+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:17:34.250+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:18:04.864+0000] {processor.py:161} INFO - Started process (PID=4019) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:18:04.865+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:18:04.865+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:18:04.865+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:18:04.878+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:18:04.887+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:18:35.679+0000] {processor.py:161} INFO - Started process (PID=4454) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:18:35.680+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:18:35.680+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:18:35.680+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:18:35.688+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:18:35.697+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:19:06.282+0000] {processor.py:161} INFO - Started process (PID=4879) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:19:06.283+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:19:06.283+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:19:06.283+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:19:06.290+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:19:06.299+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.020 seconds
+[2024-08-17T03:19:36.901+0000] {processor.py:161} INFO - Started process (PID=5332) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:19:36.901+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:19:36.902+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:19:36.902+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:19:36.910+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:19:36.920+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:20:07.434+0000] {processor.py:161} INFO - Started process (PID=5746) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:20:07.435+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:20:07.435+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:20:07.435+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:20:07.448+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:20:07.458+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:20:37.959+0000] {processor.py:161} INFO - Started process (PID=6193) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:20:37.959+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:20:37.960+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:20:37.960+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:20:37.968+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:20:37.977+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.021 seconds
+[2024-08-17T03:21:08.767+0000] {processor.py:161} INFO - Started process (PID=6647) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:21:08.767+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:21:08.768+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:21:08.768+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:21:08.775+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:21:08.784+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.021 seconds
+[2024-08-17T03:21:39.564+0000] {processor.py:161} INFO - Started process (PID=7074) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:21:39.566+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:21:39.566+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:21:39.566+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:21:39.575+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:21:39.583+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:22:10.221+0000] {processor.py:161} INFO - Started process (PID=7526) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:22:10.221+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:22:10.222+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:22:10.222+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:22:10.231+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:22:10.241+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:22:41.127+0000] {processor.py:161} INFO - Started process (PID=7961) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:22:41.128+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:22:41.129+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:22:41.129+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:22:41.137+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:22:41.147+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:23:11.852+0000] {processor.py:161} INFO - Started process (PID=8401) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:23:11.853+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:23:11.853+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:23:11.853+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:23:11.860+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:23:11.870+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.021 seconds
+[2024-08-17T03:23:42.703+0000] {processor.py:161} INFO - Started process (PID=8834) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:23:42.703+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:23:42.704+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:23:42.704+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:23:42.715+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:23:42.724+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:24:13.233+0000] {processor.py:161} INFO - Started process (PID=9262) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:24:13.234+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:24:13.235+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:24:13.234+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:24:13.247+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:24:13.256+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:24:44.593+0000] {processor.py:161} INFO - Started process (PID=9713) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:24:44.594+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:24:44.594+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:24:44.594+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:24:44.602+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:24:44.612+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:25:15.330+0000] {processor.py:161} INFO - Started process (PID=10139) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:25:15.330+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:25:15.331+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:25:15.331+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:25:15.340+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:25:15.349+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:25:46.024+0000] {processor.py:161} INFO - Started process (PID=10566) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:25:46.025+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:25:46.026+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:25:46.026+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:25:46.033+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:25:46.042+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.021 seconds
+[2024-08-17T03:26:17.580+0000] {processor.py:161} INFO - Started process (PID=11020) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:26:17.580+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:26:17.581+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:26:17.581+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:26:17.589+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:26:17.598+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:26:48.425+0000] {processor.py:161} INFO - Started process (PID=11434) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:26:48.425+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:26:48.426+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:26:48.426+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:26:48.435+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:26:48.444+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:27:19.117+0000] {processor.py:161} INFO - Started process (PID=11881) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:27:19.118+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:27:19.118+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:27:19.118+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:27:19.125+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:27:19.136+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:27:49.860+0000] {processor.py:161} INFO - Started process (PID=12335) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:27:49.861+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:27:49.862+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:27:49.861+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:27:49.870+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:27:49.879+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:28:20.650+0000] {processor.py:161} INFO - Started process (PID=12762) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:28:20.652+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:28:20.653+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:28:20.652+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:28:20.666+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:28:20.675+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.029 seconds
+[2024-08-17T03:28:56.492+0000] {processor.py:161} INFO - Started process (PID=13198) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:28:56.493+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:28:56.494+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:28:56.493+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:28:56.501+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:28:56.511+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:29:27.197+0000] {processor.py:161} INFO - Started process (PID=13651) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:29:27.197+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:29:27.198+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:29:27.198+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:29:27.210+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:29:27.221+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.028 seconds
+[2024-08-17T03:29:58.336+0000] {processor.py:161} INFO - Started process (PID=14105) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:29:58.337+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:29:58.338+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:29:58.337+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:29:58.345+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:29:58.356+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:30:28.963+0000] {processor.py:161} INFO - Started process (PID=14533) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:30:28.963+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:30:28.964+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:30:28.964+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:30:28.972+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:30:28.981+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:30:59.743+0000] {processor.py:161} INFO - Started process (PID=14987) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:30:59.744+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:30:59.745+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:30:59.745+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:30:59.756+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:30:59.766+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:31:30.391+0000] {processor.py:161} INFO - Started process (PID=15423) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:31:30.392+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:31:30.392+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:31:30.392+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:31:30.400+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:31:30.410+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:32:01.211+0000] {processor.py:161} INFO - Started process (PID=15870) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:32:01.212+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:32:01.212+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:32:01.212+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:32:01.220+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:32:01.230+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:32:32.071+0000] {processor.py:161} INFO - Started process (PID=16323) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:32:32.071+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:32:32.072+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:32:32.072+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:32:32.083+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:32:32.093+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:33:03.602+0000] {processor.py:161} INFO - Started process (PID=16732) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:33:03.603+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:33:03.603+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:33:03.603+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:33:03.611+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:33:03.620+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.021 seconds
+[2024-08-17T03:33:34.530+0000] {processor.py:161} INFO - Started process (PID=17184) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:33:34.531+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:33:34.531+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:33:34.531+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:33:34.550+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:33:34.561+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.035 seconds
+[2024-08-17T03:34:06.042+0000] {processor.py:161} INFO - Started process (PID=17638) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:34:06.042+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:34:06.043+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:34:06.043+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:34:06.051+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:34:06.061+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:34:36.622+0000] {processor.py:161} INFO - Started process (PID=18024) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:34:36.631+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:34:36.647+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:34:36.646+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:34:36.657+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:34:36.666+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.049 seconds
+[2024-08-17T03:35:07.566+0000] {processor.py:161} INFO - Started process (PID=18478) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:35:07.568+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:35:07.568+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:35:07.568+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:35:07.579+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:35:07.588+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:35:38.890+0000] {processor.py:161} INFO - Started process (PID=18932) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:35:38.891+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:35:38.891+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:35:38.891+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:35:38.901+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:35:38.910+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:36:09.802+0000] {processor.py:161} INFO - Started process (PID=19360) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:36:09.803+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:36:09.803+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:36:09.803+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:36:09.812+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:36:09.822+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:36:40.801+0000] {processor.py:161} INFO - Started process (PID=19814) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:36:40.802+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:36:40.803+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:36:40.802+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:36:40.817+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:36:40.826+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.028 seconds
+[2024-08-17T03:37:11.753+0000] {processor.py:161} INFO - Started process (PID=20249) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:37:11.754+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:37:11.754+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:37:11.754+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:37:11.764+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:37:11.773+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:37:42.506+0000] {processor.py:161} INFO - Started process (PID=20696) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:37:42.507+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T03:37:42.508+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:37:42.507+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:37:42.515+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T03:37:42.524+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.021 seconds
+[2024-08-17T09:22:48.771+0000] {processor.py:161} INFO - Started process (PID=196) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T09:22:48.776+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T09:22:48.778+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:22:48.777+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T09:22:48.794+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T09:22:48.802+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.035 seconds
+[2024-08-17T09:23:21.267+0000] {processor.py:161} INFO - Started process (PID=652) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T09:23:21.268+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T09:23:21.269+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:23:21.269+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T09:23:21.276+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T09:23:21.284+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.020 seconds
+[2024-08-17T09:23:53.013+0000] {processor.py:161} INFO - Started process (PID=1106) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T09:23:53.014+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T09:23:53.015+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:23:53.015+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T09:23:53.024+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T09:23:53.033+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.024 seconds
+[2024-08-17T09:24:25.497+0000] {processor.py:161} INFO - Started process (PID=1560) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T09:24:25.498+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T09:24:25.500+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:24:25.500+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T09:24:25.511+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T09:24:25.521+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.027 seconds
+[2024-08-17T09:24:56.662+0000] {processor.py:161} INFO - Started process (PID=1988) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T09:24:56.663+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T09:24:56.664+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:24:56.664+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T09:24:56.673+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T09:24:56.682+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.023 seconds
+[2024-08-17T09:25:27.432+0000] {processor.py:161} INFO - Started process (PID=2442) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T09:25:27.433+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T09:25:27.434+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:25:27.434+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T09:25:27.442+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T09:25:27.451+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.023 seconds
+[2024-08-17T09:25:58.501+0000] {processor.py:161} INFO - Started process (PID=2896) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T09:25:58.502+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T09:25:58.503+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:25:58.502+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T09:25:58.510+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T09:25:58.519+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.022 seconds
+[2024-08-17T09:26:29.041+0000] {processor.py:161} INFO - Started process (PID=3324) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T09:26:29.042+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T09:26:29.043+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:26:29.043+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T09:26:29.055+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T09:26:29.063+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.026 seconds
+[2024-08-17T09:26:59.845+0000] {processor.py:161} INFO - Started process (PID=3778) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T09:26:59.845+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T09:26:59.846+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:26:59.846+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T09:26:59.854+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T09:26:59.863+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.022 seconds
+[2024-08-17T09:27:30.582+0000] {processor.py:161} INFO - Started process (PID=4214) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T09:27:30.583+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T09:27:30.585+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:27:30.585+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T09:27:30.593+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T09:27:30.602+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.023 seconds
+[2024-08-17T09:28:01.388+0000] {processor.py:161} INFO - Started process (PID=4661) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T09:28:01.389+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T09:28:01.390+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:28:01.390+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T09:28:01.397+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T09:28:01.406+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.021 seconds
+[2024-08-17T09:28:32.514+0000] {processor.py:161} INFO - Started process (PID=5115) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T09:28:32.514+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T09:28:32.515+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:28:32.515+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T09:28:32.524+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T09:28:32.533+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.023 seconds
+[2024-08-17T09:29:04.814+0000] {processor.py:161} INFO - Started process (PID=5550) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T09:29:04.814+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T09:29:04.815+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:29:04.815+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T09:29:04.827+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T09:29:04.836+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.026 seconds
+[2024-08-17T09:29:36.484+0000] {processor.py:161} INFO - Started process (PID=5978) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T09:29:36.484+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T09:29:36.492+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:29:36.492+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T09:29:36.500+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T09:29:36.508+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.028 seconds
+[2024-08-17T09:30:07.186+0000] {processor.py:161} INFO - Started process (PID=6430) to work on /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T09:30:07.187+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Qatar/TS_model.pkl for tasks to queue
+[2024-08-17T09:30:07.188+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:30:07.188+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T09:30:07.196+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Qatar/TS_model.pkl
+[2024-08-17T09:30:07.205+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Qatar/TS_model.pkl took 0.023 seconds

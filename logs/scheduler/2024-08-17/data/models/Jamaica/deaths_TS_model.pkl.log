@@ -1,0 +1,830 @@
+[2024-08-17T09:57:49.384+0000] {processor.py:161} INFO - Started process (PID=21209) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T09:57:49.385+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T09:57:49.386+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:57:49.386+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T09:57:49.397+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T09:57:49.407+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.026 seconds
+[2024-08-17T09:58:20.859+0000] {processor.py:161} INFO - Started process (PID=21715) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T09:58:20.860+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T09:58:20.860+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:58:20.860+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T09:58:20.868+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T09:58:20.877+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.022 seconds
+[2024-08-17T09:58:52.143+0000] {processor.py:161} INFO - Started process (PID=22194) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T09:58:52.144+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T09:58:52.145+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:58:52.144+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T09:58:52.153+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T09:58:52.162+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.022 seconds
+[2024-08-17T09:59:23.138+0000] {processor.py:161} INFO - Started process (PID=22685) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T09:59:23.142+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T09:59:23.143+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:59:23.142+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T09:59:23.155+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T09:59:23.166+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.032 seconds
+[2024-08-17T09:59:54.621+0000] {processor.py:161} INFO - Started process (PID=23183) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T09:59:54.622+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T09:59:54.622+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:59:54.622+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T09:59:54.634+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T09:59:54.643+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.026 seconds
+[2024-08-17T10:00:25.673+0000] {processor.py:161} INFO - Started process (PID=23655) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:00:25.674+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:00:25.674+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:00:25.674+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:00:25.684+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:00:25.693+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:00:56.414+0000] {processor.py:161} INFO - Started process (PID=24153) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:00:56.415+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:00:56.416+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:00:56.416+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:00:56.427+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:00:56.436+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.026 seconds
+[2024-08-17T10:01:27.352+0000] {processor.py:161} INFO - Started process (PID=24650) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:01:27.353+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:01:27.354+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:01:27.354+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:01:27.366+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:01:27.375+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.027 seconds
+[2024-08-17T10:01:58.625+0000] {processor.py:161} INFO - Started process (PID=25122) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:01:58.626+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:01:58.626+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:01:58.626+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:01:58.644+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:01:58.653+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.033 seconds
+[2024-08-17T10:02:30.775+0000] {processor.py:161} INFO - Started process (PID=25601) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:02:30.780+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:02:30.781+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:02:30.780+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:02:30.792+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:02:30.802+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.032 seconds
+[2024-08-17T10:03:02.378+0000] {processor.py:161} INFO - Started process (PID=26163) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:03:02.379+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:03:02.380+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:03:02.379+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:03:02.393+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:03:02.404+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.030 seconds
+[2024-08-17T10:03:35.496+0000] {processor.py:161} INFO - Started process (PID=26679) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:03:35.496+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:03:35.497+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:03:35.497+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:03:35.505+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:03:35.514+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.022 seconds
+[2024-08-17T10:04:06.984+0000] {processor.py:161} INFO - Started process (PID=27198) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:04:06.985+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:04:06.986+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:04:06.985+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:04:06.994+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:04:07.004+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:04:39.089+0000] {processor.py:161} INFO - Started process (PID=27761) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:04:39.090+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:04:39.091+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:04:39.090+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:04:39.102+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:04:39.111+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.026 seconds
+[2024-08-17T10:05:09.928+0000] {processor.py:161} INFO - Started process (PID=28286) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:05:09.929+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:05:09.929+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:05:09.929+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:05:09.938+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:05:09.948+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:05:40.915+0000] {processor.py:161} INFO - Started process (PID=28835) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:05:40.915+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:05:40.916+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:05:40.916+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:05:40.924+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:05:40.934+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:06:12.647+0000] {processor.py:161} INFO - Started process (PID=29379) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:06:12.649+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:06:12.649+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:06:12.649+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:06:12.660+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:06:12.669+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.026 seconds
+[2024-08-17T10:06:44.044+0000] {processor.py:161} INFO - Started process (PID=29927) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:06:44.045+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:06:44.046+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:06:44.045+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:06:44.056+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:06:44.066+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:07:14.964+0000] {processor.py:161} INFO - Started process (PID=30485) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:07:14.965+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:07:14.966+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:07:14.966+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:07:14.976+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:07:14.986+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:07:56.622+0000] {processor.py:161} INFO - Started process (PID=31056) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:07:56.624+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:07:56.624+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:07:56.624+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:07:56.632+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:07:56.643+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:08:29.448+0000] {processor.py:161} INFO - Started process (PID=31684) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:08:29.449+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:08:29.449+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:08:29.449+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:08:29.458+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:08:29.467+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:09:02.232+0000] {processor.py:161} INFO - Started process (PID=32313) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:09:02.233+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:09:02.234+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:09:02.234+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:09:02.242+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:09:02.251+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:09:33.648+0000] {processor.py:161} INFO - Started process (PID=32900) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:09:33.649+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:09:33.649+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:09:33.649+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:09:33.660+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:09:33.670+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.026 seconds
+[2024-08-17T10:10:05.148+0000] {processor.py:161} INFO - Started process (PID=33510) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:10:05.149+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:10:05.150+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:10:05.150+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:10:05.166+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:10:05.175+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.030 seconds
+[2024-08-17T10:10:36.691+0000] {processor.py:161} INFO - Started process (PID=34136) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:10:36.691+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:10:36.692+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:10:36.692+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:10:36.707+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:10:36.718+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.030 seconds
+[2024-08-17T10:11:08.435+0000] {processor.py:161} INFO - Started process (PID=34738) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:11:08.435+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:11:08.436+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:11:08.436+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:11:08.445+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:11:08.455+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:11:39.594+0000] {processor.py:161} INFO - Started process (PID=35366) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:11:39.595+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:11:39.596+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:11:39.596+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:11:39.607+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:11:39.617+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.026 seconds
+[2024-08-17T10:12:10.699+0000] {processor.py:161} INFO - Started process (PID=35968) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:12:10.700+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:12:10.701+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:12:10.700+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:12:10.709+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:12:10.717+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.022 seconds
+[2024-08-17T10:12:57.192+0000] {processor.py:161} INFO - Started process (PID=36683) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:12:57.193+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:12:57.193+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:12:57.193+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:12:57.205+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:12:57.214+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.026 seconds
+[2024-08-17T10:13:29.454+0000] {processor.py:161} INFO - Started process (PID=37369) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:13:29.454+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:13:29.455+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:13:29.455+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:13:29.464+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:13:29.473+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:14:01.732+0000] {processor.py:161} INFO - Started process (PID=38062) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:14:01.733+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:14:01.733+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:14:01.733+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:14:01.742+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:14:01.752+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:14:33.940+0000] {processor.py:161} INFO - Started process (PID=38755) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:14:33.941+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:14:33.941+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:14:33.941+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:14:33.953+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:14:33.962+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.026 seconds
+[2024-08-17T10:15:06.373+0000] {processor.py:161} INFO - Started process (PID=39422) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:15:06.374+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:15:06.374+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:15:06.374+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:15:06.382+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:15:06.392+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.022 seconds
+[2024-08-17T10:15:39.969+0000] {processor.py:161} INFO - Started process (PID=40115) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:15:39.970+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:15:39.970+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:15:39.970+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:15:39.982+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:15:39.992+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.026 seconds
+[2024-08-17T10:16:12.338+0000] {processor.py:161} INFO - Started process (PID=40787) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:16:12.338+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:16:12.339+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:16:12.338+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:16:12.347+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:16:12.357+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:16:44.512+0000] {processor.py:161} INFO - Started process (PID=41456) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:16:44.513+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:16:44.513+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:16:44.513+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:16:44.521+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:16:44.530+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.022 seconds
+[2024-08-17T10:17:16.470+0000] {processor.py:161} INFO - Started process (PID=42123) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:17:16.471+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:17:16.471+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:17:16.471+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:17:16.478+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:17:16.487+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.020 seconds
+[2024-08-17T10:18:02.142+0000] {processor.py:161} INFO - Started process (PID=42909) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:18:02.142+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:18:02.143+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:18:02.143+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:18:02.151+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:18:02.160+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.022 seconds
+[2024-08-17T10:18:35.517+0000] {processor.py:161} INFO - Started process (PID=43652) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:18:35.518+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:18:35.519+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:18:35.519+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:18:35.528+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:18:35.536+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:19:09.176+0000] {processor.py:161} INFO - Started process (PID=44395) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:19:09.177+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:19:09.178+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:19:09.177+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:19:09.185+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:19:09.194+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.021 seconds
+[2024-08-17T10:19:41.604+0000] {processor.py:161} INFO - Started process (PID=45138) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:19:41.604+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:19:41.605+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:19:41.605+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:19:41.616+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:19:41.630+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.030 seconds
+[2024-08-17T10:20:13.284+0000] {processor.py:161} INFO - Started process (PID=45836) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:20:13.285+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:20:13.285+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:20:13.285+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:20:13.293+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:20:13.301+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.020 seconds
+[2024-08-17T10:20:44.773+0000] {processor.py:161} INFO - Started process (PID=46598) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:20:44.773+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:20:44.774+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:20:44.773+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:20:44.782+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:20:44.791+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.022 seconds
+[2024-08-17T10:21:16.870+0000] {processor.py:161} INFO - Started process (PID=47341) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:21:16.870+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:21:16.871+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:21:16.871+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:21:16.878+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T10:21:16.888+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.023 seconds
+[2024-08-17T11:22:58.970+0000] {processor.py:161} INFO - Started process (PID=81033) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:22:58.971+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:22:58.973+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:22:58.972+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:22:59.001+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:22:59.020+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.056 seconds
+[2024-08-17T11:23:30.433+0000] {processor.py:161} INFO - Started process (PID=81472) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:23:30.434+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:23:30.436+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:23:30.435+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:23:30.455+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:23:30.472+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:24:03.190+0000] {processor.py:161} INFO - Started process (PID=81918) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:24:03.192+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:24:03.193+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:24:03.193+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:24:03.211+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:24:03.229+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:24:38.267+0000] {processor.py:161} INFO - Started process (PID=82402) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:24:38.268+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:24:38.269+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:24:38.269+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:24:38.289+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:24:38.307+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.045 seconds
+[2024-08-17T11:25:11.278+0000] {processor.py:161} INFO - Started process (PID=82836) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:25:11.280+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:25:11.281+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:25:11.281+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:25:11.303+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:25:11.322+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.051 seconds
+[2024-08-17T11:25:46.786+0000] {processor.py:161} INFO - Started process (PID=83323) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:25:46.787+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:25:46.789+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:25:46.788+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:25:46.807+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:25:46.826+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.044 seconds
+[2024-08-17T11:26:20.876+0000] {processor.py:161} INFO - Started process (PID=83774) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:26:20.878+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:26:20.879+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:26:20.879+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:26:20.899+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:26:20.921+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.052 seconds
+[2024-08-17T11:26:45.689+0000] {processor.py:161} INFO - Started process (PID=84110) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:26:45.691+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:26:45.692+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:26:45.691+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:26:45.715+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:26:45.732+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:27:18.461+0000] {processor.py:161} INFO - Started process (PID=84570) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:27:18.462+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:27:18.463+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:27:18.463+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:27:18.481+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:27:18.500+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:28:03.416+0000] {processor.py:161} INFO - Started process (PID=85032) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:28:03.417+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:28:03.418+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:28:03.418+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:28:03.438+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:28:03.455+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.045 seconds
+[2024-08-17T11:28:35.827+0000] {processor.py:161} INFO - Started process (PID=85510) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:28:35.828+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:28:35.830+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:28:35.829+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:28:35.853+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:28:35.874+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.054 seconds
+[2024-08-17T11:28:44.072+0000] {processor.py:161} INFO - Started process (PID=85607) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:28:44.073+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:28:44.074+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:28:44.074+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:28:44.095+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:28:44.113+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:29:17.993+0000] {processor.py:161} INFO - Started process (PID=86108) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:29:17.994+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:29:17.996+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:29:17.995+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:29:18.014+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:29:18.030+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.045 seconds
+[2024-08-17T11:29:49.584+0000] {processor.py:161} INFO - Started process (PID=86540) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:29:49.586+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:29:49.588+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:29:49.587+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:29:49.612+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:29:49.632+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.056 seconds
+[2024-08-17T11:30:21.214+0000] {processor.py:161} INFO - Started process (PID=86979) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:30:21.215+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:30:21.217+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:30:21.216+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:30:21.250+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:30:21.270+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.066 seconds
+[2024-08-17T11:30:53.652+0000] {processor.py:161} INFO - Started process (PID=87432) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:30:53.653+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:30:53.655+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:30:53.654+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:30:53.676+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:30:53.698+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.050 seconds
+[2024-08-17T11:31:25.349+0000] {processor.py:161} INFO - Started process (PID=87870) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:31:25.350+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:31:25.351+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:31:25.351+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:31:25.371+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:31:25.390+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:32:00.104+0000] {processor.py:161} INFO - Started process (PID=88371) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:32:00.106+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:32:00.107+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:32:00.106+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:32:00.125+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:32:00.143+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:32:31.958+0000] {processor.py:161} INFO - Started process (PID=88816) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:32:31.959+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:32:31.960+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:32:31.960+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:32:31.980+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:32:32.002+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.051 seconds
+[2024-08-17T11:33:08.894+0000] {processor.py:161} INFO - Started process (PID=89151) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:33:08.896+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:33:08.898+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:33:08.897+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:33:08.924+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:33:08.944+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.059 seconds
+[2024-08-17T11:33:42.134+0000] {processor.py:161} INFO - Started process (PID=89652) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:33:42.135+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:33:42.136+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:33:42.136+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:33:42.156+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:33:42.173+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:34:16.537+0000] {processor.py:161} INFO - Started process (PID=90152) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:34:16.538+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:34:16.540+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:34:16.539+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:34:16.560+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:34:16.584+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.053 seconds
+[2024-08-17T11:34:51.290+0000] {processor.py:161} INFO - Started process (PID=90675) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:34:51.293+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:34:51.295+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:34:51.295+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:34:51.309+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:34:51.328+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:34:55.182+0000] {processor.py:161} INFO - Started process (PID=90712) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:34:55.183+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:34:55.185+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:34:55.184+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:34:55.207+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:34:55.227+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.051 seconds
+[2024-08-17T11:35:24.693+0000] {processor.py:161} INFO - Started process (PID=91111) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:35:24.694+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:35:24.695+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:35:24.695+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:35:24.716+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:35:24.734+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:35:57.658+0000] {processor.py:161} INFO - Started process (PID=91598) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:35:57.660+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:35:57.661+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:35:57.660+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:35:57.687+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:35:57.706+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.054 seconds
+[2024-08-17T11:36:32.043+0000] {processor.py:161} INFO - Started process (PID=92079) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:36:32.044+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:36:32.046+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:36:32.045+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:36:32.062+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:36:32.080+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.044 seconds
+[2024-08-17T11:36:55.536+0000] {processor.py:161} INFO - Started process (PID=92428) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:36:55.537+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:36:55.538+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:36:55.538+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:36:55.559+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:36:55.583+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.055 seconds
+[2024-08-17T11:37:28.313+0000] {processor.py:161} INFO - Started process (PID=92915) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:37:28.315+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:37:28.316+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:37:28.316+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:37:28.333+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:37:28.353+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:38:05.659+0000] {processor.py:161} INFO - Started process (PID=93245) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:38:05.661+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:38:05.662+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:38:05.661+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:38:05.687+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:38:05.706+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.054 seconds
+[2024-08-17T11:38:38.514+0000] {processor.py:161} INFO - Started process (PID=93777) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:38:38.515+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:38:38.516+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:38:38.516+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:38:38.533+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:38:38.550+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.044 seconds
+[2024-08-17T11:39:14.089+0000] {processor.py:161} INFO - Started process (PID=94313) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:39:14.090+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:39:14.092+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:39:14.092+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:39:14.175+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:39:14.191+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.109 seconds
+[2024-08-17T11:39:50.525+0000] {processor.py:161} INFO - Started process (PID=94840) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:39:50.526+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:39:50.527+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:39:50.527+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:39:50.551+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:39:50.569+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.051 seconds
+[2024-08-17T11:40:25.776+0000] {processor.py:161} INFO - Started process (PID=95387) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:40:25.777+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:40:25.779+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:40:25.778+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:40:25.792+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:40:25.807+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.038 seconds
+[2024-08-17T11:40:58.716+0000] {processor.py:161} INFO - Started process (PID=95856) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:40:58.717+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:40:58.718+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:40:58.718+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:40:58.732+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:40:58.750+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.041 seconds
+[2024-08-17T11:41:32.168+0000] {processor.py:161} INFO - Started process (PID=96344) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:41:32.169+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:41:32.171+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:41:32.170+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:41:32.200+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:41:32.222+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.065 seconds
+[2024-08-17T11:42:05.132+0000] {processor.py:161} INFO - Started process (PID=96824) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:42:05.134+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:42:05.135+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:42:05.135+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:42:05.158+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:42:05.176+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:42:42.922+0000] {processor.py:161} INFO - Started process (PID=97373) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:42:42.923+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:42:42.925+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:42:42.924+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:42:42.945+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:42:42.966+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.051 seconds
+[2024-08-17T11:43:31.105+0000] {processor.py:161} INFO - Started process (PID=97902) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:43:31.106+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:43:31.108+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:43:31.107+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:43:31.129+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:43:31.147+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:44:04.823+0000] {processor.py:161} INFO - Started process (PID=98369) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:44:04.825+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:44:04.826+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:44:04.825+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:44:04.843+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:44:04.858+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.042 seconds
+[2024-08-17T11:44:39.470+0000] {processor.py:161} INFO - Started process (PID=98911) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:44:39.472+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:44:39.473+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:44:39.472+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:44:39.490+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:44:39.509+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:45:15.624+0000] {processor.py:161} INFO - Started process (PID=99465) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:45:15.627+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:45:15.629+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:45:15.628+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:45:15.644+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:45:15.667+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.050 seconds
+[2024-08-17T11:45:50.373+0000] {processor.py:161} INFO - Started process (PID=309) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:45:50.374+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:45:50.375+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:45:50.375+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:45:50.402+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:45:50.420+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.053 seconds
+[2024-08-17T11:46:25.963+0000] {processor.py:161} INFO - Started process (PID=861) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:46:25.964+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:46:25.966+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:46:25.965+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:46:25.981+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:46:26.002+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:47:06.265+0000] {processor.py:161} INFO - Started process (PID=1446) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:47:06.267+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:47:06.268+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:47:06.268+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:47:06.289+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:47:06.308+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.050 seconds
+[2024-08-17T11:47:45.362+0000] {processor.py:161} INFO - Started process (PID=2025) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:47:45.363+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:47:45.364+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:47:45.364+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:47:45.382+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:47:45.400+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.045 seconds
+[2024-08-17T11:48:39.750+0000] {processor.py:161} INFO - Started process (PID=2616) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:48:39.752+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:48:39.754+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:48:39.754+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:48:39.774+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:48:39.793+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:49:15.805+0000] {processor.py:161} INFO - Started process (PID=3087) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:49:15.806+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:49:15.807+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:49:15.807+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:49:15.828+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:49:15.847+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.050 seconds
+[2024-08-17T11:49:53.555+0000] {processor.py:161} INFO - Started process (PID=3630) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:49:53.557+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:49:53.559+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:49:53.558+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:49:53.591+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:49:53.615+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.070 seconds
+[2024-08-17T11:50:36.379+0000] {processor.py:161} INFO - Started process (PID=4239) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:50:36.380+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:50:36.381+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:50:36.380+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:50:36.402+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:50:36.418+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:51:14.688+0000] {processor.py:161} INFO - Started process (PID=4809) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:51:14.690+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:51:14.692+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:51:14.691+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:51:14.717+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:51:14.734+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.053 seconds
+[2024-08-17T11:51:54.935+0000] {processor.py:161} INFO - Started process (PID=5364) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:51:54.937+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:51:54.938+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:51:54.938+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:51:54.960+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:51:54.979+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.051 seconds
+[2024-08-17T11:52:34.999+0000] {processor.py:161} INFO - Started process (PID=5961) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:52:35.000+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:52:35.001+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:52:35.001+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:52:35.026+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:52:35.041+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.050 seconds
+[2024-08-17T11:53:17.234+0000] {processor.py:161} INFO - Started process (PID=6338) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:53:17.235+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:53:17.237+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:53:17.236+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:53:17.255+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:53:17.273+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.044 seconds
+[2024-08-17T11:54:00.930+0000] {processor.py:161} INFO - Started process (PID=6976) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:54:00.931+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:54:00.932+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:54:00.932+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:54:00.946+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:54:00.965+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.043 seconds
+[2024-08-17T11:54:37.027+0000] {processor.py:161} INFO - Started process (PID=7507) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:54:37.029+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:54:37.030+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:54:37.029+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:54:37.053+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:54:37.075+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.055 seconds
+[2024-08-17T11:55:18.663+0000] {processor.py:161} INFO - Started process (PID=8124) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:55:18.664+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:55:18.666+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:55:18.665+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:55:18.687+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:55:18.705+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:55:59.252+0000] {processor.py:161} INFO - Started process (PID=8755) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:55:59.253+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:55:59.254+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:55:59.254+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:55:59.273+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:55:59.292+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:56:36.442+0000] {processor.py:161} INFO - Started process (PID=9342) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:56:36.443+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:56:36.444+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:56:36.444+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:56:36.465+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:56:36.485+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.050 seconds
+[2024-08-17T11:57:11.420+0000] {processor.py:161} INFO - Started process (PID=9892) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:57:11.421+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:57:11.422+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:57:11.422+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:57:11.443+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:57:11.464+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.052 seconds
+[2024-08-17T11:58:19.978+0000] {processor.py:161} INFO - Started process (PID=10671) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:58:19.979+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:58:19.980+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:58:19.980+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:58:20.000+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:58:20.015+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.045 seconds
+[2024-08-17T11:58:59.494+0000] {processor.py:161} INFO - Started process (PID=11296) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:58:59.495+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:58:59.496+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:58:59.496+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:58:59.518+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:58:59.537+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.051 seconds
+[2024-08-17T11:59:42.595+0000] {processor.py:161} INFO - Started process (PID=11933) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:59:42.596+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:59:42.598+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:59:42.597+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:59:42.611+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T11:59:42.628+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.039 seconds
+[2024-08-17T12:00:23.473+0000] {processor.py:161} INFO - Started process (PID=12577) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:00:23.474+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:00:23.475+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:00:23.475+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:00:23.491+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:00:23.508+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.040 seconds
+[2024-08-17T12:01:04.469+0000] {processor.py:161} INFO - Started process (PID=13184) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:01:04.470+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:01:04.471+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:01:04.471+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:01:04.492+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:01:04.509+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.049 seconds
+[2024-08-17T12:01:42.307+0000] {processor.py:161} INFO - Started process (PID=13809) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:01:42.309+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:01:42.311+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:01:42.310+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:01:42.334+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:01:42.353+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.054 seconds
+[2024-08-17T12:02:25.523+0000] {processor.py:161} INFO - Started process (PID=14446) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:02:25.524+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:02:25.525+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:02:25.525+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:02:25.546+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:02:25.561+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.045 seconds
+[2024-08-17T12:03:18.889+0000] {processor.py:161} INFO - Started process (PID=14998) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:03:18.890+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:03:18.891+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:03:18.891+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:03:18.909+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:03:18.927+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.047 seconds
+[2024-08-17T12:04:01.766+0000] {processor.py:161} INFO - Started process (PID=15674) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:04:01.768+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:04:01.771+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:04:01.771+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:04:01.792+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:04:01.813+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.054 seconds
+[2024-08-17T12:04:43.632+0000] {processor.py:161} INFO - Started process (PID=16287) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:04:43.633+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:04:43.635+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:04:43.634+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:04:43.652+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:04:43.671+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.048 seconds
+[2024-08-17T12:05:30.264+0000] {processor.py:161} INFO - Started process (PID=16961) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:05:30.266+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:05:30.267+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:05:30.266+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:05:30.288+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:05:30.306+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.048 seconds
+[2024-08-17T12:06:09.204+0000] {processor.py:161} INFO - Started process (PID=17555) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:06:09.205+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:06:09.207+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:06:09.206+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:06:09.232+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:06:09.255+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.058 seconds
+[2024-08-17T12:06:47.935+0000] {processor.py:161} INFO - Started process (PID=18184) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:06:47.936+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:06:47.938+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:06:47.937+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:06:47.964+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:06:47.984+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.056 seconds
+[2024-08-17T12:07:37.907+0000] {processor.py:161} INFO - Started process (PID=18909) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:07:37.908+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:07:37.910+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:07:37.909+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:07:37.930+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:07:37.952+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.052 seconds
+[2024-08-17T12:08:43.190+0000] {processor.py:161} INFO - Started process (PID=19516) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:08:43.192+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:08:43.194+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:08:43.194+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:08:43.226+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:08:43.248+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.072 seconds
+[2024-08-17T12:09:27.508+0000] {processor.py:161} INFO - Started process (PID=20198) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:09:27.510+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:09:27.511+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:09:27.510+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:09:27.527+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:09:27.547+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.045 seconds
+[2024-08-17T12:10:19.687+0000] {processor.py:161} INFO - Started process (PID=20913) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:10:19.688+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:10:19.689+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:10:19.689+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:10:19.709+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:10:19.726+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.044 seconds
+[2024-08-17T12:10:58.722+0000] {processor.py:161} INFO - Started process (PID=21556) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:10:58.723+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:10:58.725+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:10:58.724+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:10:58.752+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:10:58.776+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.062 seconds
+[2024-08-17T12:11:51.003+0000] {processor.py:161} INFO - Started process (PID=22313) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:11:51.004+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:11:51.006+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:11:51.005+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:11:51.030+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:11:51.050+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.055 seconds
+[2024-08-17T12:12:44.254+0000] {processor.py:161} INFO - Started process (PID=23077) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:12:44.255+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:12:44.256+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:12:44.256+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:12:44.273+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:12:44.289+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.041 seconds
+[2024-08-17T12:13:34.545+0000] {processor.py:161} INFO - Started process (PID=23546) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:13:34.547+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:13:34.549+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:13:34.548+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:13:34.568+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:13:34.590+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.052 seconds
+[2024-08-17T12:14:22.648+0000] {processor.py:161} INFO - Started process (PID=24257) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:14:22.650+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:14:22.651+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:14:22.650+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:14:22.670+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:14:22.692+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.053 seconds
+[2024-08-17T12:15:19.134+0000] {processor.py:161} INFO - Started process (PID=25027) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:15:19.135+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:15:19.137+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:15:19.136+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:15:19.158+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:15:19.178+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.052 seconds
+[2024-08-17T12:15:59.827+0000] {processor.py:161} INFO - Started process (PID=25657) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:15:59.829+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:15:59.830+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:15:59.830+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:15:59.849+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:15:59.869+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.049 seconds
+[2024-08-17T12:16:57.856+0000] {processor.py:161} INFO - Started process (PID=26476) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:16:57.858+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:16:57.860+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:16:57.859+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:16:57.882+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:16:57.901+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.053 seconds
+[2024-08-17T12:18:22.887+0000] {processor.py:161} INFO - Started process (PID=27342) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:18:22.889+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:18:22.890+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:18:22.890+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:18:22.917+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:18:22.937+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.056 seconds
+[2024-08-17T12:19:19.204+0000] {processor.py:161} INFO - Started process (PID=28110) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:19:19.205+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:19:19.207+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:19:19.206+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:19:19.227+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:19:19.244+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.047 seconds
+[2024-08-17T12:20:00.832+0000] {processor.py:161} INFO - Started process (PID=28694) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:20:00.833+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:20:00.834+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:20:00.834+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:20:00.850+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:20:00.868+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.043 seconds
+[2024-08-17T12:20:58.273+0000] {processor.py:161} INFO - Started process (PID=29374) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:20:58.274+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:20:58.276+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:20:58.275+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:20:58.292+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:20:58.310+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.045 seconds
+[2024-08-17T12:21:41.199+0000] {processor.py:161} INFO - Started process (PID=30061) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:21:41.200+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:21:41.201+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:21:41.201+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:21:41.221+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:21:41.243+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.049 seconds
+[2024-08-17T12:22:36.155+0000] {processor.py:161} INFO - Started process (PID=30872) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:22:36.156+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:22:36.158+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:22:36.157+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:22:36.170+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:22:36.190+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.045 seconds
+[2024-08-17T12:23:36.265+0000] {processor.py:161} INFO - Started process (PID=31460) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:23:36.267+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:23:36.268+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:23:36.268+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:23:36.289+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:23:36.310+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.052 seconds
+[2024-08-17T12:24:22.076+0000] {processor.py:161} INFO - Started process (PID=32209) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:24:22.077+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:24:22.078+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:24:22.078+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:24:22.099+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:24:22.115+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.044 seconds
+[2024-08-17T12:25:04.816+0000] {processor.py:161} INFO - Started process (PID=32957) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:25:04.817+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:25:04.818+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:25:04.818+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:25:04.839+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:25:04.854+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.044 seconds
+[2024-08-17T12:25:49.905+0000] {processor.py:161} INFO - Started process (PID=33719) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:25:49.907+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:25:49.908+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:25:49.907+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:25:49.923+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:25:49.938+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.039 seconds
+[2024-08-17T12:26:26.249+0000] {processor.py:161} INFO - Started process (PID=34422) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:26:26.250+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:26:26.251+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:26:26.251+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:26:26.267+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:26:26.280+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.035 seconds
+[2024-08-17T12:27:06.587+0000] {processor.py:161} INFO - Started process (PID=35170) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:27:06.588+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:27:06.589+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:27:06.588+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:27:06.604+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:27:06.615+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.033 seconds
+[2024-08-17T12:27:43.960+0000] {processor.py:161} INFO - Started process (PID=35919) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:27:43.960+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:27:43.961+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:27:43.961+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:27:43.975+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:27:43.987+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.031 seconds
+[2024-08-17T12:28:36.068+0000] {processor.py:161} INFO - Started process (PID=36705) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:28:36.068+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:28:36.069+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:28:36.069+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:28:36.084+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:28:36.095+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.032 seconds
+[2024-08-17T12:29:08.936+0000] {processor.py:161} INFO - Started process (PID=37359) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:29:08.937+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:29:08.938+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:29:08.938+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:29:08.949+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:29:08.959+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.027 seconds
+[2024-08-17T12:29:42.090+0000] {processor.py:161} INFO - Started process (PID=38107) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:29:42.090+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:29:42.091+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:29:42.091+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:29:42.101+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:29:42.111+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.025 seconds
+[2024-08-17T12:30:15.493+0000] {processor.py:161} INFO - Started process (PID=38854) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:30:15.493+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:30:15.494+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:30:15.494+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:30:15.506+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:30:15.516+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.027 seconds
+[2024-08-17T12:30:47.696+0000] {processor.py:161} INFO - Started process (PID=39582) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:30:47.697+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:30:47.697+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:30:47.697+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:30:47.707+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:30:47.715+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.024 seconds
+[2024-08-17T12:31:21.735+0000] {processor.py:161} INFO - Started process (PID=40329) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:31:21.736+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:31:21.737+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:31:21.737+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:31:21.748+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:31:21.758+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.026 seconds
+[2024-08-17T12:31:55.532+0000] {processor.py:161} INFO - Started process (PID=41089) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:31:55.533+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:31:55.533+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:31:55.533+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:31:55.540+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:31:55.551+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.022 seconds
+[2024-08-17T12:32:31.221+0000] {processor.py:161} INFO - Started process (PID=41838) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:32:31.222+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:32:31.222+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:32:31.222+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:32:31.240+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:32:31.249+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.032 seconds
+[2024-08-17T12:33:14.118+0000] {processor.py:161} INFO - Started process (PID=42653) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:33:14.119+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:33:14.119+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:33:14.119+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:33:14.127+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:33:14.137+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.023 seconds
+[2024-08-17T12:33:48.291+0000] {processor.py:161} INFO - Started process (PID=43363) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:33:48.292+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:33:48.292+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:33:48.292+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:33:48.299+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:33:48.309+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.021 seconds
+[2024-08-17T12:34:21.925+0000] {processor.py:161} INFO - Started process (PID=44086) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:34:21.926+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:34:21.926+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:34:21.926+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:34:21.934+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:34:21.943+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.022 seconds
+[2024-08-17T12:34:54.909+0000] {processor.py:161} INFO - Started process (PID=44822) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:34:54.910+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:34:54.910+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:34:54.910+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:34:54.920+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:34:54.930+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.025 seconds
+[2024-08-17T12:35:27.021+0000] {processor.py:161} INFO - Started process (PID=45548) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:35:27.021+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:35:27.022+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:35:27.022+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:35:27.034+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:35:27.044+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.027 seconds
+[2024-08-17T12:35:59.938+0000] {processor.py:161} INFO - Started process (PID=46291) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:35:59.939+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:35:59.939+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:35:59.939+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:35:59.948+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:35:59.958+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.023 seconds
+[2024-08-17T12:36:32.212+0000] {processor.py:161} INFO - Started process (PID=47018) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:36:32.216+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:36:32.216+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:36:32.216+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:36:32.225+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:36:32.234+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.025 seconds
+[2024-08-17T12:37:04.187+0000] {processor.py:161} INFO - Started process (PID=47723) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:37:04.188+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:37:04.188+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:37:04.188+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:37:04.198+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:37:04.206+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.022 seconds
+[2024-08-17T12:37:36.947+0000] {processor.py:161} INFO - Started process (PID=48466) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:37:36.947+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:37:36.948+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:37:36.948+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:37:36.956+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:37:36.965+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.021 seconds
+[2024-08-17T12:38:13.651+0000] {processor.py:161} INFO - Started process (PID=49172) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:38:13.652+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:38:13.652+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:38:13.652+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:38:13.661+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:38:13.671+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.023 seconds
+[2024-08-17T12:38:48.829+0000] {processor.py:161} INFO - Started process (PID=49925) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:38:48.830+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:38:48.830+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:38:48.830+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:38:48.841+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:38:48.852+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.026 seconds
+[2024-08-17T12:39:21.038+0000] {processor.py:161} INFO - Started process (PID=50626) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:39:21.040+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:39:21.041+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:39:21.040+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:39:21.050+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:39:21.060+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.025 seconds
+[2024-08-17T12:39:53.508+0000] {processor.py:161} INFO - Started process (PID=51370) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:39:53.508+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:39:53.509+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:39:53.509+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:39:53.517+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:39:53.528+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.024 seconds
+[2024-08-17T12:40:25.480+0000] {processor.py:161} INFO - Started process (PID=52079) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:40:25.481+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:40:25.481+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:40:25.481+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:40:25.490+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:40:25.500+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.024 seconds
+[2024-08-17T12:40:57.698+0000] {processor.py:161} INFO - Started process (PID=52821) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:40:57.699+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:40:57.699+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:40:57.699+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:40:57.706+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:40:57.715+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.020 seconds
+[2024-08-17T12:41:31.432+0000] {processor.py:161} INFO - Started process (PID=53569) to work on /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:41:31.432+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:41:31.433+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:41:31.433+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:41:31.446+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl
+[2024-08-17T12:41:31.455+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jamaica/deaths_TS_model.pkl took 0.027 seconds

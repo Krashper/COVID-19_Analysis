@@ -1,0 +1,350 @@
+[2024-08-17T10:12:53.282+0000] {processor.py:161} INFO - Started process (PID=36596) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:12:53.283+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:12:53.284+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:12:53.284+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:12:53.294+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:12:53.304+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.026 seconds
+[2024-08-17T10:13:25.410+0000] {processor.py:161} INFO - Started process (PID=37297) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:13:25.410+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:13:25.411+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:13:25.411+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:13:25.422+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:13:25.432+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.026 seconds
+[2024-08-17T10:13:57.022+0000] {processor.py:161} INFO - Started process (PID=37990) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:13:57.022+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:13:57.023+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:13:57.023+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:13:57.032+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:13:57.041+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:14:28.721+0000] {processor.py:161} INFO - Started process (PID=38657) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:14:28.721+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:14:28.722+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:14:28.722+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:14:28.732+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:14:28.742+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:15:01.178+0000] {processor.py:161} INFO - Started process (PID=39299) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:15:01.179+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:15:01.179+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:15:01.179+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:15:01.188+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:15:01.198+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:15:35.492+0000] {processor.py:161} INFO - Started process (PID=39992) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:15:35.492+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:15:35.493+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:15:35.493+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:15:35.504+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:15:35.514+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.027 seconds
+[2024-08-17T10:16:07.236+0000] {processor.py:161} INFO - Started process (PID=40648) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:16:07.236+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:16:07.237+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:16:07.237+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:16:07.249+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:16:07.258+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.026 seconds
+[2024-08-17T10:16:39.087+0000] {processor.py:161} INFO - Started process (PID=41326) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:16:39.088+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:16:39.088+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:16:39.088+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:16:39.099+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:16:39.109+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:17:11.161+0000] {processor.py:161} INFO - Started process (PID=42018) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:17:11.161+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:17:11.162+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:17:11.162+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:17:11.170+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:17:11.178+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.021 seconds
+[2024-08-17T10:17:57.920+0000] {processor.py:161} INFO - Started process (PID=42788) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:17:57.921+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:17:57.921+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:17:57.921+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:17:57.930+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:17:57.941+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:18:29.642+0000] {processor.py:161} INFO - Started process (PID=43509) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:18:29.643+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:18:29.643+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:18:29.643+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:18:29.662+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:18:29.672+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.033 seconds
+[2024-08-17T10:19:01.638+0000] {processor.py:161} INFO - Started process (PID=44245) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:19:01.639+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:19:01.639+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:19:01.639+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:19:01.648+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:19:01.659+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:19:33.852+0000] {processor.py:161} INFO - Started process (PID=44987) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:19:33.852+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:19:33.853+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:19:33.853+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:19:33.859+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:19:33.868+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.020 seconds
+[2024-08-17T10:20:04.763+0000] {processor.py:161} INFO - Started process (PID=45701) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:20:04.764+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:20:04.764+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:20:04.764+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:20:04.772+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:20:04.781+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.022 seconds
+[2024-08-17T10:20:37.784+0000] {processor.py:161} INFO - Started process (PID=46432) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:20:37.785+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:20:37.786+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:20:37.786+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:20:37.793+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:20:37.803+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.022 seconds
+[2024-08-17T10:21:10.472+0000] {processor.py:161} INFO - Started process (PID=47175) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:21:10.473+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:21:10.473+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:21:10.473+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:21:10.482+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T10:21:10.490+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.022 seconds
+[2024-08-17T12:08:09.542+0000] {processor.py:161} INFO - Started process (PID=19064) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:08:09.543+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:08:09.545+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:08:09.544+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:08:09.565+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:08:09.580+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.045 seconds
+[2024-08-17T12:08:59.919+0000] {processor.py:161} INFO - Started process (PID=19789) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:08:59.920+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:08:59.922+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:08:59.921+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:08:59.942+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:08:59.963+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.052 seconds
+[2024-08-17T12:09:16.678+0000] {processor.py:161} INFO - Started process (PID=19997) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:09:16.679+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:09:16.680+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:09:16.680+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:09:16.702+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:09:16.720+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.050 seconds
+[2024-08-17T12:09:58.477+0000] {processor.py:161} INFO - Started process (PID=20649) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:09:58.479+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:09:58.481+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:09:58.480+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:09:58.507+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:09:58.526+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.057 seconds
+[2024-08-17T12:10:16.692+0000] {processor.py:161} INFO - Started process (PID=20868) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:10:16.693+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:10:16.695+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:10:16.694+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:10:16.714+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:10:16.733+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.049 seconds
+[2024-08-17T12:10:55.863+0000] {processor.py:161} INFO - Started process (PID=21514) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:10:55.865+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:10:55.866+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:10:55.865+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:10:55.884+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:10:55.904+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.048 seconds
+[2024-08-17T12:11:29.798+0000] {processor.py:161} INFO - Started process (PID=22011) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:11:29.799+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:11:29.800+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:11:29.800+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:11:29.823+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:11:29.845+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.055 seconds
+[2024-08-17T12:12:03.874+0000] {processor.py:161} INFO - Started process (PID=22466) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:12:03.875+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:12:03.877+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:12:03.876+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:12:03.901+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:12:03.922+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.056 seconds
+[2024-08-17T12:12:39.639+0000] {processor.py:161} INFO - Started process (PID=23020) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:12:39.640+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:12:39.642+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:12:39.642+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:12:39.661+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:12:39.680+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.051 seconds
+[2024-08-17T12:13:20.550+0000] {processor.py:161} INFO - Started process (PID=23297) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:13:20.552+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:13:20.554+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:13:20.553+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:13:20.580+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:13:20.599+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.058 seconds
+[2024-08-17T12:13:55.439+0000] {processor.py:161} INFO - Started process (PID=23887) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:13:55.440+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:13:55.442+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:13:55.441+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:13:55.460+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:13:55.480+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.047 seconds
+[2024-08-17T12:14:29.263+0000] {processor.py:161} INFO - Started process (PID=24346) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:14:29.265+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:14:29.267+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:14:29.267+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:14:29.293+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:14:29.314+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.059 seconds
+[2024-08-17T12:15:12.174+0000] {processor.py:161} INFO - Started process (PID=24938) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:15:12.176+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:15:12.177+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:15:12.176+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:15:12.199+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:15:12.219+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.052 seconds
+[2024-08-17T12:15:53.653+0000] {processor.py:161} INFO - Started process (PID=25553) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:15:53.655+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:15:53.656+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:15:53.656+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:15:53.679+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:15:53.701+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.055 seconds
+[2024-08-17T12:16:30.293+0000] {processor.py:161} INFO - Started process (PID=26066) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:16:30.295+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:16:30.296+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:16:30.296+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:16:30.323+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:16:30.350+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.065 seconds
+[2024-08-17T12:17:13.113+0000] {processor.py:161} INFO - Started process (PID=26670) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:17:13.114+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:17:13.115+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:17:13.115+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:17:13.138+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:17:13.160+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.055 seconds
+[2024-08-17T12:18:18.844+0000] {processor.py:161} INFO - Started process (PID=27281) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:18:18.846+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:18:18.848+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:18:18.847+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:18:18.871+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:18:18.890+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.053 seconds
+[2024-08-17T12:19:15.979+0000] {processor.py:161} INFO - Started process (PID=28070) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:19:15.980+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:19:15.982+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:19:15.981+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:19:16.011+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:19:16.030+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.060 seconds
+[2024-08-17T12:19:58.330+0000] {processor.py:161} INFO - Started process (PID=28655) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:19:58.331+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:19:58.332+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:19:58.332+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:19:58.352+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:19:58.367+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.044 seconds
+[2024-08-17T12:20:54.150+0000] {processor.py:161} INFO - Started process (PID=29319) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:20:54.151+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:20:54.152+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:20:54.152+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:20:54.173+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:20:54.190+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.046 seconds
+[2024-08-17T12:21:38.377+0000] {processor.py:161} INFO - Started process (PID=30007) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:21:38.378+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:21:38.380+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:21:38.379+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:21:38.397+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:21:38.413+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.043 seconds
+[2024-08-17T12:22:11.786+0000] {processor.py:161} INFO - Started process (PID=30526) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:22:11.788+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:22:11.789+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:22:11.789+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:22:11.807+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:22:11.824+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.045 seconds
+[2024-08-17T12:23:17.464+0000] {processor.py:161} INFO - Started process (PID=31167) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:23:17.465+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:23:17.467+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:23:17.466+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:23:17.491+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:23:17.512+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.057 seconds
+[2024-08-17T12:24:01.196+0000] {processor.py:161} INFO - Started process (PID=31869) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:24:01.197+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:24:01.198+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:24:01.198+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:24:01.211+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:24:01.228+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.038 seconds
+[2024-08-17T12:24:46.648+0000] {processor.py:161} INFO - Started process (PID=32621) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:24:46.650+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:24:46.651+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:24:46.650+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:24:46.670+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:24:46.686+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.044 seconds
+[2024-08-17T12:25:24.748+0000] {processor.py:161} INFO - Started process (PID=33269) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:25:24.749+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:25:24.750+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:25:24.750+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:25:24.766+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:25:24.780+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.036 seconds
+[2024-08-17T12:26:00.145+0000] {processor.py:161} INFO - Started process (PID=33942) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:26:00.145+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:26:00.146+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:26:00.146+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:26:00.161+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:26:00.173+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.034 seconds
+[2024-08-17T12:26:43.047+0000] {processor.py:161} INFO - Started process (PID=34708) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:26:43.048+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:26:43.049+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:26:43.048+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:26:43.063+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:26:43.079+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.036 seconds
+[2024-08-17T12:27:19.703+0000] {processor.py:161} INFO - Started process (PID=35430) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:27:19.704+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:27:19.705+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:27:19.705+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:27:19.724+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:27:19.738+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.039 seconds
+[2024-08-17T12:28:15.831+0000] {processor.py:161} INFO - Started process (PID=36234) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:28:15.832+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:28:15.833+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:28:15.833+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:28:15.846+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:28:15.857+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.030 seconds
+[2024-08-17T12:28:49.588+0000] {processor.py:161} INFO - Started process (PID=36980) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:28:49.589+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:28:49.590+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:28:49.590+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:28:49.606+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:28:49.618+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.034 seconds
+[2024-08-17T12:29:24.439+0000] {processor.py:161} INFO - Started process (PID=37709) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:29:24.440+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:29:24.441+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:29:24.440+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:29:24.454+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:29:24.465+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.030 seconds
+[2024-08-17T12:29:57.234+0000] {processor.py:161} INFO - Started process (PID=38436) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:29:57.234+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:29:57.235+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:29:57.235+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:29:57.244+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:29:57.255+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.026 seconds
+[2024-08-17T12:30:29.815+0000] {processor.py:161} INFO - Started process (PID=39166) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:30:29.815+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:30:29.816+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:30:29.816+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:30:29.823+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:30:29.832+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.021 seconds
+[2024-08-17T12:31:01.866+0000] {processor.py:161} INFO - Started process (PID=39904) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:31:01.867+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:31:01.867+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:31:01.867+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:31:01.874+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:31:01.883+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.021 seconds
+[2024-08-17T12:31:34.924+0000] {processor.py:161} INFO - Started process (PID=40634) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:31:34.925+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:31:34.925+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:31:34.925+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:31:34.933+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:31:34.942+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.022 seconds
+[2024-08-17T12:32:10.036+0000] {processor.py:161} INFO - Started process (PID=41339) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:32:10.037+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:32:10.038+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:32:10.037+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:32:10.048+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:32:10.059+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.026 seconds
+[2024-08-17T12:32:41.606+0000] {processor.py:161} INFO - Started process (PID=42062) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:32:41.606+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:32:41.607+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:32:41.607+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:32:41.616+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:32:41.625+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.023 seconds
+[2024-08-17T12:33:20.384+0000] {processor.py:161} INFO - Started process (PID=42816) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:33:20.384+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:33:20.385+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:33:20.385+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:33:20.392+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:33:20.402+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.022 seconds
+[2024-08-17T12:33:52.117+0000] {processor.py:161} INFO - Started process (PID=43448) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:33:52.117+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:33:52.123+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:33:52.123+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:33:52.138+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:33:52.147+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.034 seconds
+[2024-08-17T12:34:25.044+0000] {processor.py:161} INFO - Started process (PID=44172) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:34:25.044+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:34:25.045+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:34:25.045+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:34:25.059+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:34:25.069+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.029 seconds
+[2024-08-17T12:34:56.979+0000] {processor.py:161} INFO - Started process (PID=44875) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:34:56.980+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:34:56.980+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:34:56.980+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:34:56.988+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:34:56.997+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.023 seconds
+[2024-08-17T12:35:28.867+0000] {processor.py:161} INFO - Started process (PID=45581) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:35:28.868+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:35:28.869+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:35:28.869+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:35:28.879+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:35:28.889+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.026 seconds
+[2024-08-17T12:36:01.880+0000] {processor.py:161} INFO - Started process (PID=46324) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:36:01.881+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:36:01.881+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:36:01.881+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:36:01.891+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:36:01.901+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.025 seconds
+[2024-08-17T12:36:33.872+0000] {processor.py:161} INFO - Started process (PID=47068) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:36:33.873+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:36:33.873+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:36:33.873+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:36:33.882+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:36:33.890+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.022 seconds
+[2024-08-17T12:37:06.782+0000] {processor.py:161} INFO - Started process (PID=47775) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:37:06.782+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:37:06.783+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:37:06.783+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:37:06.795+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:37:06.805+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.026 seconds
+[2024-08-17T12:37:39.150+0000] {processor.py:161} INFO - Started process (PID=48508) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:37:39.150+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:37:39.151+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:37:39.151+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:37:39.160+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:37:39.169+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.023 seconds
+[2024-08-17T12:38:12.831+0000] {processor.py:161} INFO - Started process (PID=49151) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:38:12.833+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:38:12.834+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:38:12.834+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:38:12.841+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:38:12.850+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.022 seconds
+[2024-08-17T12:38:45.798+0000] {processor.py:161} INFO - Started process (PID=49844) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:38:45.799+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:38:45.799+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:38:45.799+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:38:45.811+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:38:45.820+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.027 seconds
+[2024-08-17T12:39:18.903+0000] {processor.py:161} INFO - Started process (PID=50587) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:39:18.904+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:39:18.905+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:39:18.904+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:39:18.911+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:39:18.923+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.023 seconds
+[2024-08-17T12:39:51.611+0000] {processor.py:161} INFO - Started process (PID=51304) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:39:51.612+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:39:51.612+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:39:51.612+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:39:51.620+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:39:51.628+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.021 seconds
+[2024-08-17T12:40:24.567+0000] {processor.py:161} INFO - Started process (PID=52048) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:40:24.568+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:40:24.568+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:40:24.568+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:40:24.580+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:40:24.590+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.027 seconds
+[2024-08-17T12:40:56.534+0000] {processor.py:161} INFO - Started process (PID=52790) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:40:56.534+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:40:56.535+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:40:56.535+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:40:56.550+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:40:56.560+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.030 seconds
+[2024-08-17T12:41:29.892+0000] {processor.py:161} INFO - Started process (PID=53532) to work on /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:41:29.893+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:41:29.894+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:41:29.894+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:41:29.905+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl
+[2024-08-17T12:41:29.916+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Timor-Leste/deaths_TS_model.pkl took 0.028 seconds

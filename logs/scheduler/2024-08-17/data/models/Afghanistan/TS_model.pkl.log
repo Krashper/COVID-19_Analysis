@@ -1,0 +1,785 @@
+[2024-08-17T02:23:47.805+0000] {processor.py:161} INFO - Started process (PID=71028) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:23:47.806+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:23:47.807+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:23:47.806+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:23:47.822+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:23:47.833+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.032 seconds
+[2024-08-17T02:24:19.191+0000] {processor.py:161} INFO - Started process (PID=71184) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:24:19.191+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:24:19.192+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:24:19.192+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:24:19.201+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:24:19.211+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.024 seconds
+[2024-08-17T02:24:49.518+0000] {processor.py:161} INFO - Started process (PID=71364) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:24:49.519+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:24:49.519+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:24:49.519+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:24:49.531+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:24:49.541+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.027 seconds
+[2024-08-17T02:25:19.813+0000] {processor.py:161} INFO - Started process (PID=71501) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:25:19.814+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:25:19.814+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:25:19.814+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:25:19.827+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:25:19.836+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.026 seconds
+[2024-08-17T02:25:49.966+0000] {processor.py:161} INFO - Started process (PID=71682) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:25:49.966+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:25:49.967+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:25:49.967+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:25:49.978+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:25:49.988+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.027 seconds
+[2024-08-17T02:26:20.351+0000] {processor.py:161} INFO - Started process (PID=71838) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:26:20.352+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:26:20.353+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:26:20.352+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:26:20.362+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:26:20.372+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.026 seconds
+[2024-08-17T02:26:50.540+0000] {processor.py:161} INFO - Started process (PID=72020) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:26:50.541+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:26:50.542+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:26:50.541+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:26:50.551+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:26:50.560+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.024 seconds
+[2024-08-17T02:27:21.099+0000] {processor.py:161} INFO - Started process (PID=72183) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:27:21.100+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:27:21.101+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:27:21.100+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:27:21.111+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:27:21.120+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.026 seconds
+[2024-08-17T02:27:51.310+0000] {processor.py:161} INFO - Started process (PID=72358) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:27:51.310+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:27:51.313+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:27:51.313+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:27:51.323+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:27:51.332+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.027 seconds
+[2024-08-17T02:28:22.223+0000] {processor.py:161} INFO - Started process (PID=72540) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:28:22.223+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:28:22.224+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:28:22.224+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:28:22.236+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:28:22.247+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.029 seconds
+[2024-08-17T02:28:53.168+0000] {processor.py:161} INFO - Started process (PID=72727) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:28:53.169+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:28:53.169+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:28:53.169+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:28:53.179+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:28:53.188+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.024 seconds
+[2024-08-17T02:29:23.634+0000] {processor.py:161} INFO - Started process (PID=72939) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:29:23.634+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:29:23.635+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:29:23.635+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:29:23.646+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:29:23.658+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.029 seconds
+[2024-08-17T02:29:53.871+0000] {processor.py:161} INFO - Started process (PID=73125) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:29:53.872+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:29:53.873+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:29:53.872+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:29:53.882+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:29:53.892+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.025 seconds
+[2024-08-17T02:30:24.208+0000] {processor.py:161} INFO - Started process (PID=73338) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:30:24.208+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:30:24.209+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:30:24.209+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:30:24.217+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:30:24.228+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.024 seconds
+[2024-08-17T02:30:55.419+0000] {processor.py:161} INFO - Started process (PID=73512) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:30:55.419+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:30:55.420+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:30:55.420+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:30:55.428+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:30:55.438+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.024 seconds
+[2024-08-17T02:31:26.510+0000] {processor.py:161} INFO - Started process (PID=73715) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:31:26.510+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:31:26.511+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:31:26.511+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:31:26.519+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:31:26.529+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.023 seconds
+[2024-08-17T02:31:56.889+0000] {processor.py:161} INFO - Started process (PID=73927) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:31:56.889+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:31:56.890+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:31:56.890+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:31:56.917+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:31:56.927+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.043 seconds
+[2024-08-17T02:32:27.280+0000] {processor.py:161} INFO - Started process (PID=74093) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:32:27.281+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:32:27.281+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:32:27.281+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:32:27.290+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:32:27.300+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.025 seconds
+[2024-08-17T02:32:57.505+0000] {processor.py:161} INFO - Started process (PID=74303) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:32:57.505+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:32:57.506+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:32:57.506+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:32:57.518+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:32:57.529+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.028 seconds
+[2024-08-17T02:33:27.815+0000] {processor.py:161} INFO - Started process (PID=74489) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:33:27.818+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:33:27.819+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:33:27.818+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:33:27.849+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:33:27.859+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.048 seconds
+[2024-08-17T02:33:58.288+0000] {processor.py:161} INFO - Started process (PID=74733) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:33:58.289+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:33:58.290+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:33:58.290+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:33:58.303+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:33:58.313+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.029 seconds
+[2024-08-17T02:34:28.936+0000] {processor.py:161} INFO - Started process (PID=74950) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:34:28.937+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:34:28.938+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:34:28.938+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:34:28.951+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:34:28.962+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.029 seconds
+[2024-08-17T02:34:59.422+0000] {processor.py:161} INFO - Started process (PID=75193) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:34:59.430+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:34:59.431+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:34:59.430+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:34:59.454+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:34:59.465+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.047 seconds
+[2024-08-17T02:35:30.125+0000] {processor.py:161} INFO - Started process (PID=75436) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:35:30.125+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:35:30.126+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:35:30.126+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:35:30.142+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:35:30.152+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.032 seconds
+[2024-08-17T02:36:00.847+0000] {processor.py:161} INFO - Started process (PID=75653) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:36:00.848+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:36:00.849+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:36:00.849+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:36:00.862+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:36:00.873+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.029 seconds
+[2024-08-17T02:36:31.425+0000] {processor.py:161} INFO - Started process (PID=75896) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:36:31.426+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:36:31.426+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:36:31.426+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:36:31.435+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:36:31.444+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.023 seconds
+[2024-08-17T02:37:02.220+0000] {processor.py:161} INFO - Started process (PID=76113) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:37:02.220+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:37:02.221+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:37:02.221+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:37:02.235+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:37:02.245+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.029 seconds
+[2024-08-17T02:37:32.730+0000] {processor.py:161} INFO - Started process (PID=76356) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:37:32.731+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:37:32.732+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:37:32.732+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:37:32.746+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:37:32.756+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.032 seconds
+[2024-08-17T02:38:03.288+0000] {processor.py:161} INFO - Started process (PID=76552) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:38:03.289+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:38:03.289+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:38:03.289+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:38:03.303+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:38:03.314+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.030 seconds
+[2024-08-17T02:38:33.676+0000] {processor.py:161} INFO - Started process (PID=76795) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:38:33.677+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:38:33.678+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:38:33.678+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:38:33.687+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:38:33.698+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.025 seconds
+[2024-08-17T02:39:04.162+0000] {processor.py:161} INFO - Started process (PID=77031) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:39:04.162+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:39:04.163+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:39:04.163+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:39:04.175+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:39:04.186+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.028 seconds
+[2024-08-17T02:39:34.963+0000] {processor.py:161} INFO - Started process (PID=77297) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:39:34.964+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:39:34.965+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:39:34.965+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:39:34.977+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:39:34.988+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.029 seconds
+[2024-08-17T02:40:05.842+0000] {processor.py:161} INFO - Started process (PID=77570) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:40:05.842+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:40:05.843+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:40:05.843+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:40:05.858+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:40:05.869+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.031 seconds
+[2024-08-17T02:40:36.638+0000] {processor.py:161} INFO - Started process (PID=77817) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:40:36.639+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:40:36.640+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:40:36.639+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:40:36.653+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:40:36.663+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.030 seconds
+[2024-08-17T02:41:07.206+0000] {processor.py:161} INFO - Started process (PID=78069) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:41:07.207+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:41:07.207+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:41:07.207+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:41:07.219+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:41:07.230+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.028 seconds
+[2024-08-17T02:41:37.882+0000] {processor.py:161} INFO - Started process (PID=78316) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:41:37.882+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:41:37.883+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:41:37.883+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:41:37.897+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:41:37.907+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.031 seconds
+[2024-08-17T02:42:08.375+0000] {processor.py:161} INFO - Started process (PID=78590) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:42:08.376+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:42:08.377+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:42:08.377+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:42:08.390+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:42:08.400+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.029 seconds
+[2024-08-17T02:42:39.032+0000] {processor.py:161} INFO - Started process (PID=78845) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:42:39.032+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:42:39.034+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:42:39.033+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:42:39.054+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:42:39.064+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.036 seconds
+[2024-08-17T02:43:10.269+0000] {processor.py:161} INFO - Started process (PID=79111) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:43:10.270+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:43:10.270+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:43:10.270+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:43:10.283+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:43:10.294+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.029 seconds
+[2024-08-17T02:43:41.085+0000] {processor.py:161} INFO - Started process (PID=79385) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:43:41.086+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:43:41.086+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:43:41.086+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:43:41.097+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:43:41.107+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.026 seconds
+[2024-08-17T02:44:11.975+0000] {processor.py:161} INFO - Started process (PID=79623) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:44:11.976+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:44:11.977+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:44:11.976+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:44:11.989+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:44:12.000+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.029 seconds
+[2024-08-17T02:44:42.449+0000] {processor.py:161} INFO - Started process (PID=79924) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:44:42.450+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:44:42.451+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:44:42.451+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:44:42.460+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:44:42.470+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.026 seconds
+[2024-08-17T02:45:13.138+0000] {processor.py:161} INFO - Started process (PID=80201) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:45:13.139+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:45:13.140+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:45:13.140+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:45:13.151+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:45:13.161+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.026 seconds
+[2024-08-17T02:45:44.277+0000] {processor.py:161} INFO - Started process (PID=80503) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:45:44.278+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:45:44.279+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:45:44.279+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:45:44.289+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:45:44.299+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.026 seconds
+[2024-08-17T02:46:14.906+0000] {processor.py:161} INFO - Started process (PID=80765) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:46:14.907+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:46:14.907+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:46:14.907+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:46:14.920+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:46:14.931+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.030 seconds
+[2024-08-17T02:46:45.389+0000] {processor.py:161} INFO - Started process (PID=81060) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:46:45.390+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:46:45.390+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:46:45.390+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:46:45.402+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:46:45.413+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.027 seconds
+[2024-08-17T02:47:16.271+0000] {processor.py:161} INFO - Started process (PID=81362) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:47:16.272+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:47:16.273+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:47:16.273+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:47:16.284+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:47:16.295+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.028 seconds
+[2024-08-17T02:47:46.886+0000] {processor.py:161} INFO - Started process (PID=81638) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:47:46.887+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:47:46.888+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:47:46.887+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:47:46.900+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:47:46.910+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.028 seconds
+[2024-08-17T02:48:17.611+0000] {processor.py:161} INFO - Started process (PID=81941) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:48:17.612+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:48:17.613+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:48:17.612+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:48:17.636+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:48:17.647+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.039 seconds
+[2024-08-17T02:48:54.644+0000] {processor.py:161} INFO - Started process (PID=82274) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:48:54.645+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:48:54.645+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:48:54.645+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:48:54.657+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:48:54.667+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.027 seconds
+[2024-08-17T02:49:25.432+0000] {processor.py:161} INFO - Started process (PID=82577) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:49:25.434+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:49:25.435+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:49:25.434+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:49:25.446+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:49:25.456+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.028 seconds
+[2024-08-17T02:49:56.113+0000] {processor.py:161} INFO - Started process (PID=82906) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:49:56.114+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:49:56.115+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:49:56.115+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:49:56.129+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:49:56.140+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.031 seconds
+[2024-08-17T02:50:26.782+0000] {processor.py:161} INFO - Started process (PID=83209) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:50:26.782+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:50:26.783+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:50:26.783+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:50:26.792+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:50:26.803+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.027 seconds
+[2024-08-17T02:50:57.621+0000] {processor.py:161} INFO - Started process (PID=83538) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:50:57.622+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:50:57.622+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:50:57.622+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:50:57.635+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:50:57.646+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.029 seconds
+[2024-08-17T02:51:28.724+0000] {processor.py:161} INFO - Started process (PID=83867) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:51:28.725+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:51:28.726+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:51:28.726+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:51:28.736+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:51:28.748+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.028 seconds
+[2024-08-17T02:51:59.916+0000] {processor.py:161} INFO - Started process (PID=84170) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:51:59.917+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:51:59.917+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:51:59.917+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:51:59.930+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:51:59.939+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.027 seconds
+[2024-08-17T02:52:30.833+0000] {processor.py:161} INFO - Started process (PID=84480) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:52:30.834+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:52:30.835+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:52:30.834+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:52:30.847+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:52:30.859+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.030 seconds
+[2024-08-17T02:53:01.344+0000] {processor.py:161} INFO - Started process (PID=84781) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:53:01.345+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:53:01.345+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:53:01.345+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:53:01.354+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:53:01.363+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.023 seconds
+[2024-08-17T02:53:32.004+0000] {processor.py:161} INFO - Started process (PID=85110) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:53:32.004+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:53:32.005+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:53:32.005+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:53:32.011+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:53:32.022+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.023 seconds
+[2024-08-17T02:54:02.864+0000] {processor.py:161} INFO - Started process (PID=85443) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:54:02.865+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:54:02.866+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:54:02.865+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:54:02.876+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:54:02.886+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.026 seconds
+[2024-08-17T02:54:34.467+0000] {processor.py:161} INFO - Started process (PID=85783) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:54:34.468+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:54:34.468+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:54:34.468+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:54:34.479+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:54:34.490+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.027 seconds
+[2024-08-17T02:55:05.273+0000] {processor.py:161} INFO - Started process (PID=86140) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:55:05.273+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:55:05.274+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:55:05.274+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:55:05.284+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:55:05.294+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.025 seconds
+[2024-08-17T02:55:36.432+0000] {processor.py:161} INFO - Started process (PID=86474) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:55:36.432+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:55:36.433+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:55:36.433+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:55:36.445+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:55:36.454+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.027 seconds
+[2024-08-17T02:56:07.097+0000] {processor.py:161} INFO - Started process (PID=86832) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:56:07.098+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:56:07.099+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:56:07.098+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:56:07.111+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:56:07.121+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.028 seconds
+[2024-08-17T02:56:37.951+0000] {processor.py:161} INFO - Started process (PID=87164) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:56:37.952+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:56:37.952+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:56:37.952+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:56:37.962+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:56:37.975+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.028 seconds
+[2024-08-17T02:57:08.920+0000] {processor.py:161} INFO - Started process (PID=87523) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:57:08.921+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:57:08.922+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:57:08.921+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:57:08.933+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:57:08.944+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.029 seconds
+[2024-08-17T02:57:40.106+0000] {processor.py:161} INFO - Started process (PID=87881) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:57:40.107+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:57:40.108+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:57:40.107+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:57:40.119+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:57:40.129+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.028 seconds
+[2024-08-17T02:58:11.295+0000] {processor.py:161} INFO - Started process (PID=88213) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:58:11.296+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:58:11.297+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:58:11.297+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:58:11.310+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:58:11.323+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.032 seconds
+[2024-08-17T02:58:42.276+0000] {processor.py:161} INFO - Started process (PID=88572) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:58:42.277+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:58:42.278+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:58:42.277+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:58:42.291+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:58:42.303+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.031 seconds
+[2024-08-17T02:59:14.383+0000] {processor.py:161} INFO - Started process (PID=88940) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:59:14.384+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:59:14.385+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:59:14.385+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:59:14.397+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:59:14.408+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.030 seconds
+[2024-08-17T02:59:45.475+0000] {processor.py:161} INFO - Started process (PID=89300) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:59:45.476+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T02:59:45.477+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:59:45.477+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:59:45.490+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T02:59:45.501+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.030 seconds
+[2024-08-17T03:00:16.902+0000] {processor.py:161} INFO - Started process (PID=89691) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:00:16.903+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:00:16.903+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:00:16.903+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:00:16.917+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:00:16.932+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.034 seconds
+[2024-08-17T03:00:47.800+0000] {processor.py:161} INFO - Started process (PID=90052) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:00:47.800+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:00:47.801+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:00:47.801+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:00:47.813+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:00:47.822+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:01:19.017+0000] {processor.py:161} INFO - Started process (PID=90440) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:01:19.017+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:01:19.018+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:01:19.018+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:01:19.031+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:01:19.042+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.029 seconds
+[2024-08-17T03:01:50.664+0000] {processor.py:161} INFO - Started process (PID=90826) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:01:50.665+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:01:50.666+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:01:50.666+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:01:50.679+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:01:50.690+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.031 seconds
+[2024-08-17T03:02:22.846+0000] {processor.py:161} INFO - Started process (PID=91173) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:02:22.847+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:02:22.847+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:02:22.847+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:02:22.859+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:02:22.869+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:02:53.726+0000] {processor.py:161} INFO - Started process (PID=91558) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:02:53.727+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:02:53.727+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:02:53.727+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:02:53.740+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:02:53.752+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.030 seconds
+[2024-08-17T03:03:24.582+0000] {processor.py:161} INFO - Started process (PID=91918) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:03:24.583+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:03:24.584+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:03:24.583+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:03:24.596+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:03:24.607+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.029 seconds
+[2024-08-17T03:04:01.942+0000] {processor.py:161} INFO - Started process (PID=92362) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:04:01.943+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:04:01.943+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:04:01.943+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:04:01.956+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:04:01.968+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.030 seconds
+[2024-08-17T03:04:33.789+0000] {processor.py:161} INFO - Started process (PID=92769) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:04:33.790+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:04:33.791+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:04:33.790+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:04:33.802+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:04:33.812+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:05:05.640+0000] {processor.py:161} INFO - Started process (PID=93183) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:05:05.641+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:05:05.642+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:05:05.641+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:05:05.653+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:05:05.665+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.029 seconds
+[2024-08-17T03:05:37.514+0000] {processor.py:161} INFO - Started process (PID=93584) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:05:37.515+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:05:37.516+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:05:37.515+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:05:37.527+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:05:37.538+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.028 seconds
+[2024-08-17T03:06:09.268+0000] {processor.py:161} INFO - Started process (PID=93998) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:06:09.269+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:06:09.270+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:06:09.270+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:06:09.282+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:06:09.294+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.029 seconds
+[2024-08-17T03:06:40.329+0000] {processor.py:161} INFO - Started process (PID=94413) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:06:40.330+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:06:40.330+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:06:40.330+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:06:40.340+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:06:40.350+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:07:11.432+0000] {processor.py:161} INFO - Started process (PID=94802) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:07:11.433+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:07:11.433+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:07:11.433+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:07:11.444+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:07:11.455+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:07:42.939+0000] {processor.py:161} INFO - Started process (PID=95221) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:07:42.940+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:07:42.940+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:07:42.940+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:07:42.948+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:07:42.958+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:08:15.349+0000] {processor.py:161} INFO - Started process (PID=95635) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:08:15.351+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:08:15.354+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:08:15.354+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:08:15.367+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:08:15.377+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.032 seconds
+[2024-08-17T03:08:47.960+0000] {processor.py:161} INFO - Started process (PID=96023) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:08:47.960+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:08:47.961+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:08:47.961+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:08:47.985+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:08:47.996+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.040 seconds
+[2024-08-17T03:09:19.248+0000] {processor.py:161} INFO - Started process (PID=96447) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:09:19.248+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:09:19.249+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:09:19.249+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:09:19.261+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:09:19.272+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.029 seconds
+[2024-08-17T03:09:50.957+0000] {processor.py:161} INFO - Started process (PID=96899) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:09:50.957+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:09:50.958+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:09:50.958+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:09:50.969+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:09:50.979+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:10:22.087+0000] {processor.py:161} INFO - Started process (PID=97317) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:10:22.088+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:10:22.089+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:10:22.088+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:10:22.102+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:10:22.112+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.029 seconds
+[2024-08-17T03:10:52.956+0000] {processor.py:161} INFO - Started process (PID=97762) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:10:52.957+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:10:52.957+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:10:52.957+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:10:52.966+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:10:52.976+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:11:24.428+0000] {processor.py:161} INFO - Started process (PID=98189) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:11:24.428+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:11:24.429+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:11:24.429+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:11:24.439+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:11:24.448+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:11:56.007+0000] {processor.py:161} INFO - Started process (PID=98627) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:11:56.007+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:11:56.008+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:11:56.008+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:11:56.024+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:11:56.033+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.030 seconds
+[2024-08-17T03:12:27.459+0000] {processor.py:161} INFO - Started process (PID=99050) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:12:27.460+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:12:27.461+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:12:27.460+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:12:27.469+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:12:27.479+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:12:58.500+0000] {processor.py:161} INFO - Started process (PID=99467) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:12:58.501+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:12:58.502+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:12:58.501+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:12:58.509+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:12:58.519+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:13:29.485+0000] {processor.py:161} INFO - Started process (PID=99912) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:13:29.485+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:13:29.486+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:13:29.486+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:13:29.496+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:13:29.509+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.028 seconds
+[2024-08-17T03:14:04.139+0000] {processor.py:161} INFO - Started process (PID=671) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:14:04.140+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:14:04.140+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:14:04.140+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:14:04.151+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:14:04.160+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:14:37.268+0000] {processor.py:161} INFO - Started process (PID=1128) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:14:37.269+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:14:37.270+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:14:37.269+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:14:37.280+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:14:37.290+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:15:08.875+0000] {processor.py:161} INFO - Started process (PID=1539) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:15:08.875+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:15:08.876+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:15:08.876+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:15:08.886+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:15:08.895+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:15:40.417+0000] {processor.py:161} INFO - Started process (PID=1993) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:15:40.417+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:15:40.418+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:15:40.418+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:15:40.426+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:15:40.436+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:16:11.458+0000] {processor.py:161} INFO - Started process (PID=2426) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:16:11.459+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:16:11.459+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:16:11.459+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:16:11.471+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:16:11.480+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:16:42.156+0000] {processor.py:161} INFO - Started process (PID=2833) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:16:42.157+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:16:42.157+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:16:42.157+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:16:42.165+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:16:42.174+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:17:12.965+0000] {processor.py:161} INFO - Started process (PID=3287) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:17:12.966+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:17:12.966+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:17:12.966+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:17:12.974+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:17:12.983+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:17:43.563+0000] {processor.py:161} INFO - Started process (PID=3715) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:17:43.564+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:17:43.565+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:17:43.564+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:17:43.572+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:17:43.582+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:18:14.326+0000] {processor.py:161} INFO - Started process (PID=4169) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:18:14.327+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:18:14.327+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:18:14.327+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:18:14.334+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:18:14.343+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.021 seconds
+[2024-08-17T03:18:45.515+0000] {processor.py:161} INFO - Started process (PID=4624) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:18:45.515+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:18:45.516+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:18:45.516+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:18:45.523+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:18:45.531+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.020 seconds
+[2024-08-17T03:19:16.186+0000] {processor.py:161} INFO - Started process (PID=5052) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:19:16.187+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:19:16.187+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:19:16.187+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:19:16.196+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:19:16.206+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:19:46.952+0000] {processor.py:161} INFO - Started process (PID=5507) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:19:46.953+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:19:46.953+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:19:46.953+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:19:46.986+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:19:46.997+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.049 seconds
+[2024-08-17T03:20:18.637+0000] {processor.py:161} INFO - Started process (PID=5947) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:20:18.639+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:20:18.639+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:20:18.639+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:20:18.648+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:20:18.658+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:20:51.105+0000] {processor.py:161} INFO - Started process (PID=6405) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:20:51.106+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:20:51.107+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:20:51.106+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:20:51.113+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:20:51.122+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.021 seconds
+[2024-08-17T03:21:22.179+0000] {processor.py:161} INFO - Started process (PID=6838) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:21:22.179+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:21:22.180+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:21:22.180+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:21:22.189+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:21:22.197+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:21:53.359+0000] {processor.py:161} INFO - Started process (PID=7273) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:21:53.360+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:21:53.360+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:21:53.360+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:21:53.372+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:21:53.383+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.028 seconds
+[2024-08-17T03:22:24.998+0000] {processor.py:161} INFO - Started process (PID=7728) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:22:24.998+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:22:24.999+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:22:24.999+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:22:25.006+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:22:25.016+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:22:56.961+0000] {processor.py:161} INFO - Started process (PID=8183) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:22:56.962+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:22:56.962+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:22:56.962+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:22:56.970+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:22:56.979+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.021 seconds
+[2024-08-17T03:23:27.953+0000] {processor.py:161} INFO - Started process (PID=8597) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:23:27.954+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:23:27.954+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:23:27.954+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:23:27.964+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:23:27.972+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:24:00.191+0000] {processor.py:161} INFO - Started process (PID=9045) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:24:00.192+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:24:00.193+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:24:00.192+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:24:00.200+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:24:00.209+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.021 seconds
+[2024-08-17T03:24:31.690+0000] {processor.py:161} INFO - Started process (PID=9499) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:24:31.691+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:24:31.692+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:24:31.692+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:24:31.701+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:24:31.711+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:25:02.956+0000] {processor.py:161} INFO - Started process (PID=9953) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:25:02.957+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:25:02.958+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:25:02.958+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:25:02.970+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:25:02.980+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.028 seconds
+[2024-08-17T03:25:34.001+0000] {processor.py:161} INFO - Started process (PID=10381) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:25:34.002+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:25:34.002+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:25:34.002+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:25:34.011+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:25:34.020+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:26:05.279+0000] {processor.py:161} INFO - Started process (PID=10835) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:26:05.280+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:26:05.280+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:26:05.280+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:26:05.294+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:26:05.304+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.028 seconds
+[2024-08-17T03:26:36.504+0000] {processor.py:161} INFO - Started process (PID=11270) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:26:36.505+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:26:36.507+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:26:36.507+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:26:36.517+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:26:36.525+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:27:07.457+0000] {processor.py:161} INFO - Started process (PID=11717) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:27:07.457+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:27:07.458+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:27:07.457+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:27:07.467+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:27:07.477+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:27:38.281+0000] {processor.py:161} INFO - Started process (PID=12171) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:27:38.282+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:27:38.283+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:27:38.282+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:27:38.290+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:27:38.300+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:28:09.243+0000] {processor.py:161} INFO - Started process (PID=12599) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:28:09.244+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:28:09.245+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:28:09.244+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:28:09.252+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:28:09.261+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:28:40.333+0000] {processor.py:161} INFO - Started process (PID=13053) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:28:40.334+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:28:40.334+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:28:40.334+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:28:40.343+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:28:40.352+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:29:12.231+0000] {processor.py:161} INFO - Started process (PID=13506) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:29:12.231+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:29:12.232+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:29:12.232+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:29:12.240+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:29:12.249+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:29:43.832+0000] {processor.py:161} INFO - Started process (PID=13935) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:29:43.833+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:29:43.834+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:29:43.834+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:29:43.843+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:29:43.851+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:30:14.547+0000] {processor.py:161} INFO - Started process (PID=14368) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:30:14.548+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:30:14.549+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:30:14.548+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:30:14.556+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:30:14.566+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:30:46.217+0000] {processor.py:161} INFO - Started process (PID=14823) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:30:46.217+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:30:46.218+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:30:46.218+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:30:46.227+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:30:46.236+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:31:17.447+0000] {processor.py:161} INFO - Started process (PID=15232) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:31:17.454+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:31:17.456+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:31:17.455+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:31:17.471+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:31:17.481+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.038 seconds
+[2024-08-17T03:31:48.541+0000] {processor.py:161} INFO - Started process (PID=15685) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:31:48.542+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:31:48.542+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:31:48.542+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:31:48.553+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:31:48.564+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:32:19.307+0000] {processor.py:161} INFO - Started process (PID=16138) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:32:19.308+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:32:19.308+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:32:19.308+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:32:19.318+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:32:19.328+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:32:50.056+0000] {processor.py:161} INFO - Started process (PID=16566) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:32:50.056+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:32:50.059+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:32:50.059+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:32:50.069+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:32:50.077+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:33:20.867+0000] {processor.py:161} INFO - Started process (PID=17020) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:33:20.867+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:33:20.868+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:33:20.868+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:33:20.877+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:33:20.886+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:34:00.470+0000] {processor.py:161} INFO - Started process (PID=17535) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:34:00.470+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:34:00.471+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:34:00.471+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:34:00.479+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:34:00.488+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:34:32.559+0000] {processor.py:161} INFO - Started process (PID=17999) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:34:32.559+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:34:32.560+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:34:32.560+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:34:32.571+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:34:32.581+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:35:03.966+0000] {processor.py:161} INFO - Started process (PID=18453) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:35:03.968+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:35:03.968+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:35:03.968+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:35:03.978+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:35:03.988+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:35:35.296+0000] {processor.py:161} INFO - Started process (PID=18887) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:35:35.297+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:35:35.298+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:35:35.298+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:35:35.311+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:35:35.320+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.028 seconds
+[2024-08-17T03:36:06.280+0000] {processor.py:161} INFO - Started process (PID=19341) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:36:06.281+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:36:06.282+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:36:06.282+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:36:06.290+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:36:06.300+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:36:37.457+0000] {processor.py:161} INFO - Started process (PID=19798) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:36:37.457+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:36:37.458+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:36:37.458+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:36:37.467+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:36:37.476+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:37:08.318+0000] {processor.py:161} INFO - Started process (PID=20226) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:37:08.318+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:37:08.319+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:37:08.319+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:37:08.328+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:37:08.337+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:37:39.124+0000] {processor.py:161} INFO - Started process (PID=20680) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:37:39.125+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T03:37:39.126+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:37:39.126+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:37:39.135+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T03:37:39.144+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.024 seconds
+[2024-08-17T09:22:55.317+0000] {processor.py:161} INFO - Started process (PID=441) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T09:22:55.318+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T09:22:55.320+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:22:55.319+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T09:22:55.327+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T09:22:55.335+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.021 seconds
+[2024-08-17T09:23:29.451+0000] {processor.py:161} INFO - Started process (PID=897) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T09:23:29.452+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T09:23:29.453+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:23:29.453+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T09:23:29.461+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T09:23:29.470+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.022 seconds
+[2024-08-17T09:24:01.454+0000] {processor.py:161} INFO - Started process (PID=1351) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T09:24:01.455+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T09:24:01.456+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:24:01.456+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T09:24:01.466+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T09:24:01.476+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.025 seconds
+[2024-08-17T09:24:34.002+0000] {processor.py:161} INFO - Started process (PID=1779) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T09:24:34.002+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T09:24:34.004+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:24:34.004+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T09:24:34.012+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T09:24:34.021+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.023 seconds
+[2024-08-17T09:25:06.272+0000] {processor.py:161} INFO - Started process (PID=2233) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T09:25:06.272+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T09:25:06.274+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:25:06.274+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T09:25:06.281+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T09:25:06.289+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.021 seconds
+[2024-08-17T09:25:38.073+0000] {processor.py:161} INFO - Started process (PID=2687) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T09:25:38.073+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T09:25:38.074+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:25:38.074+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T09:25:38.084+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T09:25:38.092+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.024 seconds
+[2024-08-17T09:26:09.544+0000] {processor.py:161} INFO - Started process (PID=3122) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T09:26:09.545+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T09:26:09.547+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:26:09.546+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T09:26:09.560+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T09:26:09.573+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.035 seconds
+[2024-08-17T09:26:41.041+0000] {processor.py:161} INFO - Started process (PID=3569) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T09:26:41.042+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T09:26:41.043+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:26:41.043+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T09:26:41.051+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T09:26:41.060+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.022 seconds
+[2024-08-17T09:27:12.324+0000] {processor.py:161} INFO - Started process (PID=4023) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T09:27:12.325+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T09:27:12.326+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:27:12.326+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T09:27:12.334+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T09:27:12.342+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.022 seconds
+[2024-08-17T09:27:48.480+0000] {processor.py:161} INFO - Started process (PID=4478) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T09:27:48.481+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T09:27:48.483+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:27:48.482+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T09:27:48.491+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T09:27:48.499+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.023 seconds
+[2024-08-17T09:28:20.325+0000] {processor.py:161} INFO - Started process (PID=4932) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T09:28:20.326+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T09:28:20.327+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:28:20.327+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T09:28:20.335+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T09:28:20.344+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.022 seconds
+[2024-08-17T09:28:51.700+0000] {processor.py:161} INFO - Started process (PID=5360) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T09:28:51.701+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T09:28:51.702+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:28:51.702+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T09:28:51.709+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T09:28:51.717+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.020 seconds
+[2024-08-17T09:29:23.000+0000] {processor.py:161} INFO - Started process (PID=5814) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T09:29:23.000+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T09:29:23.002+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:29:23.001+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T09:29:23.025+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T09:29:23.033+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.037 seconds
+[2024-08-17T09:29:54.321+0000] {processor.py:161} INFO - Started process (PID=6268) to work on /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T09:29:54.321+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl for tasks to queue
+[2024-08-17T09:29:54.322+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:29:54.322+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T09:29:54.330+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl
+[2024-08-17T09:29:54.340+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Afghanistan/TS_model.pkl took 0.023 seconds

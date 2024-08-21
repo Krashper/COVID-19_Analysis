@@ -1,0 +1,785 @@
+[2024-08-17T02:23:47.353+0000] {processor.py:161} INFO - Started process (PID=71019) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:23:47.354+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:23:47.355+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:23:47.354+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:23:47.365+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:23:47.375+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.026 seconds
+[2024-08-17T02:24:18.670+0000] {processor.py:161} INFO - Started process (PID=71175) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:24:18.671+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:24:18.671+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:24:18.671+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:24:18.680+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:24:18.690+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.023 seconds
+[2024-08-17T02:24:49.092+0000] {processor.py:161} INFO - Started process (PID=71355) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:24:49.093+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:24:49.093+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:24:49.093+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:24:49.109+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:24:49.119+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.032 seconds
+[2024-08-17T02:25:19.237+0000] {processor.py:161} INFO - Started process (PID=71490) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:25:19.237+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:25:19.238+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:25:19.238+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:25:19.243+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:25:19.252+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.020 seconds
+[2024-08-17T02:25:49.543+0000] {processor.py:161} INFO - Started process (PID=71673) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:25:49.544+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:25:49.544+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:25:49.544+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:25:49.555+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:25:49.566+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.029 seconds
+[2024-08-17T02:26:19.851+0000] {processor.py:161} INFO - Started process (PID=71829) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:26:19.852+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:26:19.853+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:26:19.852+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:26:19.861+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:26:19.871+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.024 seconds
+[2024-08-17T02:26:50.178+0000] {processor.py:161} INFO - Started process (PID=72011) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:26:50.178+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:26:50.179+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:26:50.179+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:26:50.187+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:26:50.196+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.022 seconds
+[2024-08-17T02:27:20.715+0000] {processor.py:161} INFO - Started process (PID=72167) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:27:20.716+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:27:20.718+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:27:20.718+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:27:20.743+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:27:20.752+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.041 seconds
+[2024-08-17T02:27:50.910+0000] {processor.py:161} INFO - Started process (PID=72349) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:27:50.910+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:27:50.911+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:27:50.910+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:27:50.919+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:27:50.929+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.023 seconds
+[2024-08-17T02:28:21.795+0000] {processor.py:161} INFO - Started process (PID=72531) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:28:21.796+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:28:21.797+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:28:21.796+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:28:21.811+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:28:21.822+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.032 seconds
+[2024-08-17T02:28:52.806+0000] {processor.py:161} INFO - Started process (PID=72718) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:28:52.806+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:28:52.807+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:28:52.807+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:28:52.816+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:28:52.827+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.025 seconds
+[2024-08-17T02:29:23.028+0000] {processor.py:161} INFO - Started process (PID=72930) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:29:23.029+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:29:23.029+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:29:23.029+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:29:23.040+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:29:23.051+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.026 seconds
+[2024-08-17T02:29:53.327+0000] {processor.py:161} INFO - Started process (PID=73116) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:29:53.328+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:29:53.329+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:29:53.329+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:29:53.340+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:29:53.349+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.026 seconds
+[2024-08-17T02:30:23.656+0000] {processor.py:161} INFO - Started process (PID=73329) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:30:23.656+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:30:23.657+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:30:23.657+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:30:23.664+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:30:23.676+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.024 seconds
+[2024-08-17T02:30:53.792+0000] {processor.py:161} INFO - Started process (PID=73494) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:30:53.792+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:30:53.793+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:30:53.793+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:30:53.802+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:30:53.811+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.023 seconds
+[2024-08-17T02:31:24.099+0000] {processor.py:161} INFO - Started process (PID=73706) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:31:24.099+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:31:24.100+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:31:24.100+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:31:24.117+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:31:24.127+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.032 seconds
+[2024-08-17T02:31:54.493+0000] {processor.py:161} INFO - Started process (PID=73880) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:31:54.494+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:31:54.495+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:31:54.495+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:31:54.509+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:31:54.520+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.030 seconds
+[2024-08-17T02:32:24.635+0000] {processor.py:161} INFO - Started process (PID=74082) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:32:24.636+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:32:24.636+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:32:24.636+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:32:24.646+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:32:24.656+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.025 seconds
+[2024-08-17T02:32:54.822+0000] {processor.py:161} INFO - Started process (PID=74275) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:32:54.823+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:32:54.827+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:32:54.826+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:32:54.842+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:32:54.853+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.036 seconds
+[2024-08-17T02:33:25.894+0000] {processor.py:161} INFO - Started process (PID=74480) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:33:25.895+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:33:25.895+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:33:25.895+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:33:25.905+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:33:25.916+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.026 seconds
+[2024-08-17T02:33:56.847+0000] {processor.py:161} INFO - Started process (PID=74724) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:33:56.848+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:33:56.848+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:33:56.848+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:33:56.860+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:33:56.869+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.026 seconds
+[2024-08-17T02:34:27.384+0000] {processor.py:161} INFO - Started process (PID=74941) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:34:27.385+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:34:27.386+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:34:27.385+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:34:27.395+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:34:27.404+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.024 seconds
+[2024-08-17T02:34:57.976+0000] {processor.py:161} INFO - Started process (PID=75184) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:34:57.977+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:34:57.978+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:34:57.978+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:34:57.990+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:34:57.999+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.027 seconds
+[2024-08-17T02:35:28.652+0000] {processor.py:161} INFO - Started process (PID=75408) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:35:28.652+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:35:28.656+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:35:28.656+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:35:28.669+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:35:28.683+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.036 seconds
+[2024-08-17T02:35:59.367+0000] {processor.py:161} INFO - Started process (PID=75644) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:35:59.368+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:35:59.369+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:35:59.369+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:35:59.383+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:35:59.393+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.030 seconds
+[2024-08-17T02:36:30.015+0000] {processor.py:161} INFO - Started process (PID=75887) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:36:30.016+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:36:30.017+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:36:30.017+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:36:30.030+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:36:30.041+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.030 seconds
+[2024-08-17T02:37:00.363+0000] {processor.py:161} INFO - Started process (PID=76104) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:37:00.364+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:37:00.365+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:37:00.365+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:37:00.376+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:37:00.386+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.026 seconds
+[2024-08-17T02:37:30.578+0000] {processor.py:161} INFO - Started process (PID=76326) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:37:30.578+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:37:30.579+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:37:30.579+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:37:30.588+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:37:30.598+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.025 seconds
+[2024-08-17T02:38:01.640+0000] {processor.py:161} INFO - Started process (PID=76543) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:38:01.641+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:38:01.642+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:38:01.642+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:38:01.652+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:38:01.663+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.027 seconds
+[2024-08-17T02:38:31.940+0000] {processor.py:161} INFO - Started process (PID=76786) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:38:31.941+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:38:31.942+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:38:31.942+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:38:31.953+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:38:31.963+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.027 seconds
+[2024-08-17T02:39:03.270+0000] {processor.py:161} INFO - Started process (PID=77015) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:39:03.271+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:39:03.272+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:39:03.272+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:39:03.282+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:39:03.293+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.026 seconds
+[2024-08-17T02:39:34.263+0000] {processor.py:161} INFO - Started process (PID=77288) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:39:34.264+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:39:34.265+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:39:34.265+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:39:34.275+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:39:34.286+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.027 seconds
+[2024-08-17T02:40:05.173+0000] {processor.py:161} INFO - Started process (PID=77561) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:40:05.174+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:40:05.175+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:40:05.174+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:40:05.192+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:40:05.207+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.041 seconds
+[2024-08-17T02:40:35.909+0000] {processor.py:161} INFO - Started process (PID=77787) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:40:35.909+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:40:35.910+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:40:35.910+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:40:35.925+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:40:35.937+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.033 seconds
+[2024-08-17T02:41:06.651+0000] {processor.py:161} INFO - Started process (PID=78060) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:41:06.653+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:41:06.654+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:41:06.653+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:41:06.669+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:41:06.679+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.034 seconds
+[2024-08-17T02:41:37.269+0000] {processor.py:161} INFO - Started process (PID=78307) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:41:37.269+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:41:37.270+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:41:37.270+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:41:37.304+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:41:37.325+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.062 seconds
+[2024-08-17T02:42:07.628+0000] {processor.py:161} INFO - Started process (PID=78581) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:42:07.629+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:42:07.629+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:42:07.629+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:42:07.641+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:42:07.651+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.028 seconds
+[2024-08-17T02:42:38.415+0000] {processor.py:161} INFO - Started process (PID=78828) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:42:38.416+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:42:38.416+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:42:38.416+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:42:38.427+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:42:38.437+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.025 seconds
+[2024-08-17T02:43:09.886+0000] {processor.py:161} INFO - Started process (PID=79102) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:43:09.887+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:43:09.887+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:43:09.887+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:43:09.899+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:43:09.911+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.029 seconds
+[2024-08-17T02:43:40.177+0000] {processor.py:161} INFO - Started process (PID=79355) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:43:40.177+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:43:40.178+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:43:40.178+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:43:40.191+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:43:40.201+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.028 seconds
+[2024-08-17T02:44:10.993+0000] {processor.py:161} INFO - Started process (PID=79614) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:44:10.994+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:44:10.995+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:44:10.994+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:44:11.007+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:44:11.017+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.028 seconds
+[2024-08-17T02:44:41.728+0000] {processor.py:161} INFO - Started process (PID=79915) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:44:41.729+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:44:41.730+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:44:41.729+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:44:41.740+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:44:41.751+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.027 seconds
+[2024-08-17T02:45:12.504+0000] {processor.py:161} INFO - Started process (PID=80192) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:45:12.505+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:45:12.505+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:45:12.505+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:45:12.516+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:45:12.526+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.026 seconds
+[2024-08-17T02:45:43.507+0000] {processor.py:161} INFO - Started process (PID=80475) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:45:43.517+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:45:43.518+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:45:43.518+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:45:43.538+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:45:43.553+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.053 seconds
+[2024-08-17T02:46:14.003+0000] {processor.py:161} INFO - Started process (PID=80749) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:46:14.004+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:46:14.004+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:46:14.004+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:46:14.017+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:46:14.027+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.028 seconds
+[2024-08-17T02:46:44.646+0000] {processor.py:161} INFO - Started process (PID=81051) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:46:44.646+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:46:44.647+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:46:44.647+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:46:44.656+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:46:44.666+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.025 seconds
+[2024-08-17T02:47:15.562+0000] {processor.py:161} INFO - Started process (PID=81334) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:47:15.563+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:47:15.564+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:47:15.563+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:47:15.579+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:47:15.592+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.035 seconds
+[2024-08-17T02:47:46.078+0000] {processor.py:161} INFO - Started process (PID=81629) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:47:46.078+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:47:46.079+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:47:46.079+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:47:46.091+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:47:46.101+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.027 seconds
+[2024-08-17T02:48:16.831+0000] {processor.py:161} INFO - Started process (PID=81932) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:48:16.832+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:48:16.833+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:48:16.833+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:48:16.847+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:48:16.859+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.032 seconds
+[2024-08-17T02:48:47.188+0000] {processor.py:161} INFO - Started process (PID=82208) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:48:47.188+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:48:47.189+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:48:47.189+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:48:47.199+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:48:47.210+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.026 seconds
+[2024-08-17T02:49:18.114+0000] {processor.py:161} INFO - Started process (PID=82539) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:49:18.115+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:49:18.116+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:49:18.116+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:49:18.128+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:49:18.139+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.028 seconds
+[2024-08-17T02:49:48.924+0000] {processor.py:161} INFO - Started process (PID=82844) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:49:48.925+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:49:48.926+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:49:48.926+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:49:48.939+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:49:48.951+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.031 seconds
+[2024-08-17T02:50:19.823+0000] {processor.py:161} INFO - Started process (PID=83174) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:50:19.824+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:50:19.825+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:50:19.824+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:50:19.836+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:50:19.847+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.028 seconds
+[2024-08-17T02:50:50.959+0000] {processor.py:161} INFO - Started process (PID=83458) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:50:50.960+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:50:50.961+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:50:50.960+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:50:50.976+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:50:50.989+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.034 seconds
+[2024-08-17T02:51:21.641+0000] {processor.py:161} INFO - Started process (PID=83785) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:51:21.642+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:51:21.644+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:51:21.643+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:51:21.654+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:51:21.665+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.027 seconds
+[2024-08-17T02:51:52.439+0000] {processor.py:161} INFO - Started process (PID=84095) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:51:52.442+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:51:52.443+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:51:52.442+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:51:52.525+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:51:52.540+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.106 seconds
+[2024-08-17T02:52:23.229+0000] {processor.py:161} INFO - Started process (PID=84417) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:52:23.230+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:52:23.230+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:52:23.230+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:52:23.245+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:52:23.254+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.030 seconds
+[2024-08-17T02:52:54.914+0000] {processor.py:161} INFO - Started process (PID=84727) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:52:54.914+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:52:54.915+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:52:54.915+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:52:54.929+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:52:54.940+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.030 seconds
+[2024-08-17T02:53:25.568+0000] {processor.py:161} INFO - Started process (PID=85028) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:53:25.569+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:53:25.570+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:53:25.570+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:53:25.588+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:53:25.598+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.034 seconds
+[2024-08-17T02:53:58.460+0000] {processor.py:161} INFO - Started process (PID=85387) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:53:58.461+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:53:58.462+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:53:58.461+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:53:58.476+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:53:58.491+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.035 seconds
+[2024-08-17T02:54:29.982+0000] {processor.py:161} INFO - Started process (PID=85746) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:54:29.982+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:54:29.983+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:54:29.983+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:54:29.995+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:54:30.005+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.028 seconds
+[2024-08-17T02:55:01.190+0000] {processor.py:161} INFO - Started process (PID=86079) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:55:01.194+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:55:01.195+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:55:01.194+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:55:01.205+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:55:01.217+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.031 seconds
+[2024-08-17T02:55:32.556+0000] {processor.py:161} INFO - Started process (PID=86440) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:55:32.556+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:55:32.557+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:55:32.557+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:55:32.570+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:55:32.581+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.030 seconds
+[2024-08-17T02:56:03.448+0000] {processor.py:161} INFO - Started process (PID=86779) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:56:03.449+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:56:03.449+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:56:03.449+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:56:03.463+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:56:03.473+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.030 seconds
+[2024-08-17T02:56:34.343+0000] {processor.py:161} INFO - Started process (PID=87130) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:56:34.345+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:56:34.346+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:56:34.345+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:56:34.354+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:56:34.365+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.027 seconds
+[2024-08-17T02:57:05.628+0000] {processor.py:161} INFO - Started process (PID=87496) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:57:05.629+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:57:05.629+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:57:05.629+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:57:05.642+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:57:05.651+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.028 seconds
+[2024-08-17T02:57:37.190+0000] {processor.py:161} INFO - Started process (PID=87833) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:57:37.191+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:57:37.192+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:57:37.191+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:57:37.205+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:57:37.215+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.030 seconds
+[2024-08-17T02:58:08.871+0000] {processor.py:161} INFO - Started process (PID=88191) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:58:08.872+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:58:08.872+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:58:08.872+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:58:08.885+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:58:08.896+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.030 seconds
+[2024-08-17T02:58:40.713+0000] {processor.py:161} INFO - Started process (PID=88550) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:58:40.714+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:58:40.715+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:58:40.715+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:58:40.729+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:58:40.740+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.030 seconds
+[2024-08-17T02:59:13.862+0000] {processor.py:161} INFO - Started process (PID=88931) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:59:13.863+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:59:13.864+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:59:13.863+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:59:13.878+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:59:13.889+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.030 seconds
+[2024-08-17T02:59:45.069+0000] {processor.py:161} INFO - Started process (PID=89291) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:59:45.070+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T02:59:45.071+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:59:45.070+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:59:45.084+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T02:59:45.094+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.029 seconds
+[2024-08-17T03:00:15.887+0000] {processor.py:161} INFO - Started process (PID=89677) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:00:15.888+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:00:15.889+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:00:15.888+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:00:15.901+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:00:15.912+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.029 seconds
+[2024-08-17T03:00:46.950+0000] {processor.py:161} INFO - Started process (PID=90038) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:00:46.950+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:00:46.951+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:00:46.951+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:00:46.961+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:00:46.972+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:01:18.031+0000] {processor.py:161} INFO - Started process (PID=90426) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:01:18.031+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:01:18.032+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:01:18.032+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:01:18.045+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:01:18.056+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.029 seconds
+[2024-08-17T03:01:49.614+0000] {processor.py:161} INFO - Started process (PID=90796) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:01:49.615+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:01:49.616+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:01:49.616+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:01:49.628+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:01:49.638+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:02:20.430+0000] {processor.py:161} INFO - Started process (PID=91154) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:02:20.430+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:02:20.431+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:02:20.431+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:02:20.443+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:02:20.452+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:02:51.366+0000] {processor.py:161} INFO - Started process (PID=91541) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:02:51.367+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:02:51.368+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:02:51.368+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:02:51.381+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:02:51.392+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.030 seconds
+[2024-08-17T03:03:22.218+0000] {processor.py:161} INFO - Started process (PID=91901) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:03:22.219+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:03:22.220+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:03:22.220+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:03:22.235+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:03:22.246+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.033 seconds
+[2024-08-17T03:04:01.539+0000] {processor.py:161} INFO - Started process (PID=92353) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:04:01.539+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:04:01.540+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:04:01.540+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:04:01.553+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:04:01.563+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.028 seconds
+[2024-08-17T03:04:33.367+0000] {processor.py:161} INFO - Started process (PID=92760) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:04:33.368+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:04:33.369+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:04:33.368+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:04:33.380+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:04:33.389+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:05:05.277+0000] {processor.py:161} INFO - Started process (PID=93174) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:05:05.281+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:05:05.282+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:05:05.282+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:05:05.295+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:05:05.304+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.032 seconds
+[2024-08-17T03:05:37.121+0000] {processor.py:161} INFO - Started process (PID=93575) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:05:37.122+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:05:37.122+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:05:37.122+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:05:37.136+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:05:37.147+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.030 seconds
+[2024-08-17T03:06:08.210+0000] {processor.py:161} INFO - Started process (PID=93984) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:06:08.211+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:06:08.212+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:06:08.211+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:06:08.225+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:06:08.234+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.029 seconds
+[2024-08-17T03:06:39.383+0000] {processor.py:161} INFO - Started process (PID=94399) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:06:39.384+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:06:39.385+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:06:39.385+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:06:39.397+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:06:39.407+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.028 seconds
+[2024-08-17T03:07:11.025+0000] {processor.py:161} INFO - Started process (PID=94793) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:07:11.025+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:07:11.026+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:07:11.026+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:07:11.039+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:07:11.048+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:07:42.598+0000] {processor.py:161} INFO - Started process (PID=95212) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:07:42.599+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:07:42.600+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:07:42.599+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:07:42.610+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:07:42.620+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:08:15.006+0000] {processor.py:161} INFO - Started process (PID=95626) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:08:15.006+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:08:15.007+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:08:15.007+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:08:15.020+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:08:15.029+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.028 seconds
+[2024-08-17T03:08:47.619+0000] {processor.py:161} INFO - Started process (PID=96014) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:08:47.619+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:08:47.620+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:08:47.620+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:08:47.633+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:08:47.643+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.028 seconds
+[2024-08-17T03:09:18.884+0000] {processor.py:161} INFO - Started process (PID=96438) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:09:18.885+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:09:18.885+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:09:18.885+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:09:18.896+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:09:18.906+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:09:49.954+0000] {processor.py:161} INFO - Started process (PID=96882) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:09:49.955+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:09:49.956+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:09:49.955+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:09:49.968+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:09:49.979+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.029 seconds
+[2024-08-17T03:10:20.966+0000] {processor.py:161} INFO - Started process (PID=97300) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:10:20.966+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:10:20.967+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:10:20.967+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:10:20.978+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:10:20.988+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:10:51.801+0000] {processor.py:161} INFO - Started process (PID=97745) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:10:51.801+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:10:51.802+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:10:51.802+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:10:51.811+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:10:51.820+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:11:23.454+0000] {processor.py:161} INFO - Started process (PID=98164) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:11:23.455+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:11:23.455+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:11:23.455+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:11:23.463+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:11:23.473+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:11:55.652+0000] {processor.py:161} INFO - Started process (PID=98618) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:11:55.653+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:11:55.653+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:11:55.653+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:11:55.665+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:11:55.675+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.028 seconds
+[2024-08-17T03:12:26.969+0000] {processor.py:161} INFO - Started process (PID=99041) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:12:26.970+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:12:26.971+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:12:26.971+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:12:26.997+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:12:27.007+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.043 seconds
+[2024-08-17T03:12:57.812+0000] {processor.py:161} INFO - Started process (PID=99458) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:12:57.812+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:12:57.813+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:12:57.813+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:12:57.822+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:12:57.832+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:13:28.779+0000] {processor.py:161} INFO - Started process (PID=99903) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:13:28.779+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:13:28.780+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:13:28.780+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:13:28.790+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:13:28.800+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:14:03.930+0000] {processor.py:161} INFO - Started process (PID=662) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:14:03.930+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:14:03.931+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:14:03.931+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:14:03.938+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:14:03.948+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.021 seconds
+[2024-08-17T03:14:35.552+0000] {processor.py:161} INFO - Started process (PID=1055) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:14:35.552+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:14:35.553+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:14:35.553+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:14:35.562+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:14:35.571+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:15:07.339+0000] {processor.py:161} INFO - Started process (PID=1502) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:15:07.339+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:15:07.340+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:15:07.340+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:15:07.348+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:15:07.358+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:15:38.190+0000] {processor.py:161} INFO - Started process (PID=1935) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:15:38.191+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:15:38.191+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:15:38.191+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:15:38.203+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:15:38.212+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:16:08.960+0000] {processor.py:161} INFO - Started process (PID=2363) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:16:08.960+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:16:08.961+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:16:08.961+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:16:08.969+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:16:08.979+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:16:40.074+0000] {processor.py:161} INFO - Started process (PID=2817) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:16:40.074+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:16:40.075+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:16:40.075+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:16:40.084+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:16:40.093+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:17:10.863+0000] {processor.py:161} INFO - Started process (PID=3271) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:17:10.864+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:17:10.864+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:17:10.864+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:17:10.873+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:17:10.883+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:17:41.509+0000] {processor.py:161} INFO - Started process (PID=3699) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:17:41.510+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:17:41.511+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:17:41.510+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:17:41.520+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:17:41.530+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:18:12.185+0000] {processor.py:161} INFO - Started process (PID=4153) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:18:12.186+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:18:12.186+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:18:12.186+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:18:12.194+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:18:12.203+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:18:42.837+0000] {processor.py:161} INFO - Started process (PID=4581) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:18:42.838+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:18:42.838+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:18:42.838+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:18:42.847+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:18:42.856+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:19:13.736+0000] {processor.py:161} INFO - Started process (PID=5034) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:19:13.736+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:19:13.737+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:19:13.737+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:19:13.745+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:19:13.754+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:19:45.513+0000] {processor.py:161} INFO - Started process (PID=5488) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:19:45.514+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:19:45.515+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:19:45.514+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:19:45.521+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:19:45.531+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.021 seconds
+[2024-08-17T03:20:17.561+0000] {processor.py:161} INFO - Started process (PID=5917) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:20:17.561+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:20:17.562+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:20:17.562+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:20:17.570+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:20:17.580+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:20:50.857+0000] {processor.py:161} INFO - Started process (PID=6396) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:20:50.857+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:20:50.858+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:20:50.858+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:20:50.864+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:20:50.873+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.021 seconds
+[2024-08-17T03:21:21.879+0000] {processor.py:161} INFO - Started process (PID=6829) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:21:21.879+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:21:21.880+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:21:21.880+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:21:21.890+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:21:21.900+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:21:53.003+0000] {processor.py:161} INFO - Started process (PID=7257) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:21:53.003+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:21:53.004+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:21:53.004+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:21:53.011+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:21:53.021+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:22:24.138+0000] {processor.py:161} INFO - Started process (PID=7711) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:22:24.138+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:22:24.139+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:22:24.139+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:22:24.151+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:22:24.169+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.035 seconds
+[2024-08-17T03:22:56.569+0000] {processor.py:161} INFO - Started process (PID=8174) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:22:56.570+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:22:56.570+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:22:56.570+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:22:56.580+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:22:56.589+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:23:27.330+0000] {processor.py:161} INFO - Started process (PID=8581) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:23:27.331+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:23:27.331+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:23:27.331+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:23:27.339+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:23:27.347+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.021 seconds
+[2024-08-17T03:23:59.842+0000] {processor.py:161} INFO - Started process (PID=9036) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:23:59.843+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:23:59.844+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:23:59.843+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:23:59.855+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:23:59.864+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:24:31.370+0000] {processor.py:161} INFO - Started process (PID=9490) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:24:31.370+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:24:31.372+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:24:31.372+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:24:31.379+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:24:31.388+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:25:02.549+0000] {processor.py:161} INFO - Started process (PID=9925) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:25:02.549+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:25:02.550+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:25:02.550+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:25:02.559+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:25:02.568+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:25:33.695+0000] {processor.py:161} INFO - Started process (PID=10372) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:25:33.696+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:25:33.697+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:25:33.696+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:25:33.706+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:25:33.716+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:26:04.971+0000] {processor.py:161} INFO - Started process (PID=10826) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:26:04.972+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:26:04.973+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:26:04.973+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:26:04.983+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:26:04.992+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:26:35.946+0000] {processor.py:161} INFO - Started process (PID=11254) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:26:35.946+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:26:35.947+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:26:35.947+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:26:35.955+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:26:35.965+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:27:06.769+0000] {processor.py:161} INFO - Started process (PID=11708) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:27:06.770+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:27:06.771+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:27:06.770+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:27:06.782+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:27:06.791+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:27:37.645+0000] {processor.py:161} INFO - Started process (PID=12162) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:27:37.645+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:27:37.646+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:27:37.646+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:27:37.653+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:27:37.663+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:28:08.906+0000] {processor.py:161} INFO - Started process (PID=12590) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:28:08.906+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:28:08.907+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:28:08.907+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:28:08.915+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:28:08.924+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.021 seconds
+[2024-08-17T03:28:40.033+0000] {processor.py:161} INFO - Started process (PID=13044) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:28:40.034+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:28:40.034+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:28:40.034+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:28:40.043+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:28:40.052+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:29:11.878+0000] {processor.py:161} INFO - Started process (PID=13497) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:29:11.878+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:29:11.879+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:29:11.879+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:29:11.889+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:29:11.899+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:29:43.247+0000] {processor.py:161} INFO - Started process (PID=13907) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:29:43.248+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:29:43.248+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:29:43.248+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:29:43.257+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:29:43.266+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:30:13.916+0000] {processor.py:161} INFO - Started process (PID=14359) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:30:13.917+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:30:13.918+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:30:13.918+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:30:13.924+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:30:13.933+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.020 seconds
+[2024-08-17T03:30:45.910+0000] {processor.py:161} INFO - Started process (PID=14814) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:30:45.911+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:30:45.912+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:30:45.911+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:30:45.921+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:30:45.930+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:31:17.023+0000] {processor.py:161} INFO - Started process (PID=15223) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:31:17.023+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:31:17.024+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:31:17.024+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:31:17.032+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:31:17.041+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:31:47.927+0000] {processor.py:161} INFO - Started process (PID=15676) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:31:47.929+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:31:47.931+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:31:47.931+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:31:47.944+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:31:47.954+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.031 seconds
+[2024-08-17T03:32:18.666+0000] {processor.py:161} INFO - Started process (PID=16129) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:32:18.667+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:32:18.667+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:32:18.667+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:32:18.675+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:32:18.685+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:32:49.470+0000] {processor.py:161} INFO - Started process (PID=16557) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:32:49.471+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:32:49.472+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:32:49.471+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:32:49.484+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:32:49.494+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.028 seconds
+[2024-08-17T03:33:20.244+0000] {processor.py:161} INFO - Started process (PID=17011) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:33:20.245+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:33:20.245+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:33:20.245+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:33:20.257+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:33:20.267+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:34:00.147+0000] {processor.py:161} INFO - Started process (PID=17526) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:34:00.148+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:34:00.148+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:34:00.148+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:34:00.156+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:34:00.165+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.021 seconds
+[2024-08-17T03:34:32.195+0000] {processor.py:161} INFO - Started process (PID=17990) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:34:32.195+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:34:32.196+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:34:32.196+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:34:32.204+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:34:32.214+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:35:03.657+0000] {processor.py:161} INFO - Started process (PID=18444) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:35:03.658+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:35:03.658+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:35:03.658+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:35:03.667+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:35:03.677+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:35:34.506+0000] {processor.py:161} INFO - Started process (PID=18872) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:35:34.506+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:35:34.507+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:35:34.507+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:35:34.516+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:35:34.526+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:36:05.387+0000] {processor.py:161} INFO - Started process (PID=19326) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:36:05.388+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:36:05.388+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:36:05.388+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:36:05.397+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:36:05.406+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:36:36.690+0000] {processor.py:161} INFO - Started process (PID=19767) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:36:36.691+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:36:36.691+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:36:36.691+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:36:36.702+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:36:36.712+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:37:07.558+0000] {processor.py:161} INFO - Started process (PID=20214) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:37:07.559+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:37:07.560+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:37:07.559+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:37:07.568+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:37:07.577+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:37:38.419+0000] {processor.py:161} INFO - Started process (PID=20668) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:37:38.420+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T03:37:38.420+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:37:38.420+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:37:38.430+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T03:37:38.439+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.023 seconds
+[2024-08-17T09:22:55.126+0000] {processor.py:161} INFO - Started process (PID=432) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T09:22:55.127+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T09:22:55.128+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:22:55.128+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T09:22:55.135+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T09:22:55.144+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.020 seconds
+[2024-08-17T09:23:29.177+0000] {processor.py:161} INFO - Started process (PID=888) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T09:23:29.178+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T09:23:29.179+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:23:29.178+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T09:23:29.191+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T09:23:29.200+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.026 seconds
+[2024-08-17T09:24:00.860+0000] {processor.py:161} INFO - Started process (PID=1342) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T09:24:00.861+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T09:24:00.862+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:24:00.862+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T09:24:00.870+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T09:24:00.878+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.021 seconds
+[2024-08-17T09:24:33.648+0000] {processor.py:161} INFO - Started process (PID=1770) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T09:24:33.649+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T09:24:33.650+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:24:33.650+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T09:24:33.659+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T09:24:33.670+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.025 seconds
+[2024-08-17T09:25:05.899+0000] {processor.py:161} INFO - Started process (PID=2224) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T09:25:05.900+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T09:25:05.901+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:25:05.901+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T09:25:05.914+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T09:25:05.923+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.027 seconds
+[2024-08-17T09:25:37.732+0000] {processor.py:161} INFO - Started process (PID=2678) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T09:25:37.733+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T09:25:37.734+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:25:37.734+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T09:25:37.746+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T09:25:37.754+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.026 seconds
+[2024-08-17T09:26:09.165+0000] {processor.py:161} INFO - Started process (PID=3113) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T09:26:09.166+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T09:26:09.167+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:26:09.167+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T09:26:09.179+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T09:26:09.188+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.028 seconds
+[2024-08-17T09:26:40.717+0000] {processor.py:161} INFO - Started process (PID=3560) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T09:26:40.718+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T09:26:40.719+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:26:40.718+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T09:26:40.760+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T09:26:40.770+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.057 seconds
+[2024-08-17T09:27:12.028+0000] {processor.py:161} INFO - Started process (PID=4014) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T09:27:12.030+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T09:27:12.032+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:27:12.031+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T09:27:12.043+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T09:27:12.051+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.026 seconds
+[2024-08-17T09:27:48.246+0000] {processor.py:161} INFO - Started process (PID=4469) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T09:27:48.247+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T09:27:48.248+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:27:48.248+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T09:27:48.256+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T09:27:48.264+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.023 seconds
+[2024-08-17T09:28:20.127+0000] {processor.py:161} INFO - Started process (PID=4923) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T09:28:20.127+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T09:28:20.128+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:28:20.128+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T09:28:20.138+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T09:28:20.145+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.022 seconds
+[2024-08-17T09:28:51.413+0000] {processor.py:161} INFO - Started process (PID=5351) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T09:28:51.414+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T09:28:51.415+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:28:51.415+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T09:28:51.422+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T09:28:51.430+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.020 seconds
+[2024-08-17T09:29:22.701+0000] {processor.py:161} INFO - Started process (PID=5805) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T09:29:22.702+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T09:29:22.703+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:29:22.702+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T09:29:22.711+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T09:29:22.721+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.023 seconds
+[2024-08-17T09:29:53.711+0000] {processor.py:161} INFO - Started process (PID=6259) to work on /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T09:29:53.712+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Australia/TS_model.pkl for tasks to queue
+[2024-08-17T09:29:53.713+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:29:53.713+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T09:29:53.721+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Australia/TS_model.pkl
+[2024-08-17T09:29:53.729+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Australia/TS_model.pkl took 0.021 seconds

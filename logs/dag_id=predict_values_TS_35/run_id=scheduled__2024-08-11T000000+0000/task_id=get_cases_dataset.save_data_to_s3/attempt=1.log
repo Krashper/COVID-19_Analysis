@@ -1,0 +1,27 @@
+[2024-08-18T07:08:03.084+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-08-18T07:08:03.097+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: predict_values_TS_35.get_cases_dataset.save_data_to_s3 scheduled__2024-08-11T00:00:00+00:00 [queued]>
+[2024-08-18T07:08:03.104+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: predict_values_TS_35.get_cases_dataset.save_data_to_s3 scheduled__2024-08-11T00:00:00+00:00 [queued]>
+[2024-08-18T07:08:03.105+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 2
+[2024-08-18T07:08:03.115+0000] {taskinstance.py:2330} INFO - Executing <Task(PythonOperator): get_cases_dataset.save_data_to_s3> on 2024-08-11 00:00:00+00:00
+[2024-08-18T07:08:03.125+0000] {warnings.py:110} WARNING - /home/airflow/.local/lib/python3.12/site-packages/airflow/task/task_runner/standard_task_runner.py:61: DeprecationWarning: This process (pid=31625) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2024-08-18T07:08:03.126+0000] {standard_task_runner.py:63} INFO - Started process 33234 to run task
+[2024-08-18T07:08:03.126+0000] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'predict_values_TS_35', 'get_cases_dataset.save_data_to_s3', 'scheduled__2024-08-11T00:00:00+00:00', '--job-id', '234', '--raw', '--subdir', 'DAGS_FOLDER/etl.py', '--cfg-path', '/tmp/tmpg1_i7ggw']
+[2024-08-18T07:08:03.128+0000] {standard_task_runner.py:91} INFO - Job 234: Subtask get_cases_dataset.save_data_to_s3
+[2024-08-18T07:08:03.166+0000] {task_command.py:426} INFO - Running <TaskInstance: predict_values_TS_35.get_cases_dataset.save_data_to_s3 scheduled__2024-08-11T00:00:00+00:00 [running]> on host 3b2200e0f4f6
+[2024-08-18T07:08:03.227+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='Ruslan Solarev' AIRFLOW_CTX_DAG_ID='predict_values_TS_35' AIRFLOW_CTX_TASK_ID='get_cases_dataset.save_data_to_s3' AIRFLOW_CTX_EXECUTION_DATE='2024-08-11T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-08-11T00:00:00+00:00'
+[2024-08-18T07:08:03.228+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2024-08-18T07:08:03.245+0000] {base.py:84} INFO - Using connection ID 'minio_conn' for task execution.
+[2024-08-18T07:08:03.246+0000] {connection_wrapper.py:387} INFO - AWS Connection (conn_id='minio_conn', conn_type='aws') credentials retrieved from extra.
+[2024-08-18T07:08:03.246+0000] {warnings.py:110} WARNING - <string>:9: AirflowProviderDeprecationWarning: extra['host'] is deprecated and will be removed in a future release. Please set extra['endpoint_url'] instead
+
+[2024-08-18T07:08:03.645+0000] {python.py:237} INFO - Done. Returned value was: None
+[2024-08-18T07:08:03.646+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2024-08-18T07:08:03.653+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=predict_values_TS_35, task_id=get_cases_dataset.save_data_to_s3, run_id=scheduled__2024-08-11T00:00:00+00:00, execution_date=20240811T000000, start_date=20240818T070803, end_date=20240818T070803
+[2024-08-18T07:08:03.700+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2024-08-18T07:08:03.708+0000] {warnings.py:110} WARNING - /home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py:1296: AirflowProviderDeprecationWarning: Call to deprecated class PostgresOperator. (Please use `airflow.providers.common.sql.operators.sql.SQLExecuteQueryOperator`.Also, you can provide `hook_params={'schema': <database>}`.)
+  result = cls.__new__(cls)
+
+[2024-08-18T07:08:03.722+0000] {taskinstance.py:3498} INFO - 2 downstream tasks scheduled from follow-on schedule check
+[2024-08-18T07:08:03.726+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

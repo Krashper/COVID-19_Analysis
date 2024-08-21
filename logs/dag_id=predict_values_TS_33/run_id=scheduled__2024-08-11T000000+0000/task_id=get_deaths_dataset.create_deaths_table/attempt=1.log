@@ -1,0 +1,38 @@
+[2024-08-18T02:31:21.217+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-08-18T02:31:21.230+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: predict_values_TS_33.get_deaths_dataset.create_deaths_table scheduled__2024-08-11T00:00:00+00:00 [queued]>
+[2024-08-18T02:31:21.238+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: predict_values_TS_33.get_deaths_dataset.create_deaths_table scheduled__2024-08-11T00:00:00+00:00 [queued]>
+[2024-08-18T02:31:21.238+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 2
+[2024-08-18T02:31:21.248+0000] {taskinstance.py:2330} INFO - Executing <Task(PostgresOperator): get_deaths_dataset.create_deaths_table> on 2024-08-11 00:00:00+00:00
+[2024-08-18T02:31:21.260+0000] {warnings.py:110} WARNING - /home/airflow/.local/lib/python3.12/site-packages/airflow/task/task_runner/standard_task_runner.py:61: DeprecationWarning: This process (pid=52615) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2024-08-18T02:31:21.261+0000] {standard_task_runner.py:63} INFO - Started process 60320 to run task
+[2024-08-18T02:31:21.261+0000] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'predict_values_TS_33', 'get_deaths_dataset.create_deaths_table', 'scheduled__2024-08-11T00:00:00+00:00', '--job-id', '217', '--raw', '--subdir', 'DAGS_FOLDER/etl.py', '--cfg-path', '/tmp/tmpngoi5cp6']
+[2024-08-18T02:31:21.263+0000] {standard_task_runner.py:91} INFO - Job 217: Subtask get_deaths_dataset.create_deaths_table
+[2024-08-18T02:31:21.301+0000] {task_command.py:426} INFO - Running <TaskInstance: predict_values_TS_33.get_deaths_dataset.create_deaths_table scheduled__2024-08-11T00:00:00+00:00 [running]> on host c8cfda02699d
+[2024-08-18T02:31:21.375+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='Ruslan Solarev' AIRFLOW_CTX_DAG_ID='predict_values_TS_33' AIRFLOW_CTX_TASK_ID='get_deaths_dataset.create_deaths_table' AIRFLOW_CTX_EXECUTION_DATE='2024-08-11T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-08-11T00:00:00+00:00'
+[2024-08-18T02:31:21.376+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2024-08-18T02:31:21.385+0000] {sql.py:276} INFO - Executing: CREATE TABLE IF NOT EXISTS Deaths (
+            id SERIAL PRIMARY KEY,
+            Date DATE,
+            Country VARCHAR,
+            Total_cases FLOAT,
+            is_Pred BOOLEAN
+        )
+[2024-08-18T02:31:21.393+0000] {base.py:84} INFO - Using connection ID 'postgres' for task execution.
+[2024-08-18T02:31:21.401+0000] {base.py:84} INFO - Using connection ID 'postgres' for task execution.
+[2024-08-18T02:31:21.450+0000] {sql.py:470} INFO - Running statement: CREATE TABLE IF NOT EXISTS Deaths (
+            id SERIAL PRIMARY KEY,
+            Date DATE,
+            Country VARCHAR,
+            Total_cases FLOAT,
+            is_Pred BOOLEAN
+        ), parameters: None
+[2024-08-18T02:31:21.455+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2024-08-18T02:31:21.463+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=predict_values_TS_33, task_id=get_deaths_dataset.create_deaths_table, run_id=scheduled__2024-08-11T00:00:00+00:00, execution_date=20240811T000000, start_date=20240818T023121, end_date=20240818T023121
+[2024-08-18T02:31:21.514+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2024-08-18T02:31:21.522+0000] {warnings.py:110} WARNING - /home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py:1296: AirflowProviderDeprecationWarning: Call to deprecated class PostgresOperator. (Please use `airflow.providers.common.sql.operators.sql.SQLExecuteQueryOperator`.Also, you can provide `hook_params={'schema': <database>}`.)
+  result = cls.__new__(cls)
+
+[2024-08-18T02:31:21.531+0000] {taskinstance.py:3498} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-08-18T02:31:21.534+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

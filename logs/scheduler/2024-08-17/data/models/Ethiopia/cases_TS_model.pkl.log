@@ -1,0 +1,960 @@
+[2024-08-17T09:52:47.130+0000] {processor.py:161} INFO - Started process (PID=17149) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T09:52:47.131+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:52:47.131+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:52:47.131+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T09:52:47.144+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T09:52:47.155+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.028 seconds
+[2024-08-17T09:53:18.439+0000] {processor.py:161} INFO - Started process (PID=17555) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T09:53:18.439+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:53:18.440+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:53:18.440+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T09:53:18.449+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T09:53:18.459+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T09:53:49.223+0000] {processor.py:161} INFO - Started process (PID=17986) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T09:53:49.224+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:53:49.225+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:53:49.224+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T09:53:49.234+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T09:53:49.243+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T09:54:20.518+0000] {processor.py:161} INFO - Started process (PID=18417) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T09:54:20.520+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:54:20.520+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:54:20.520+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T09:54:20.536+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T09:54:20.548+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.034 seconds
+[2024-08-17T09:54:51.360+0000] {processor.py:161} INFO - Started process (PID=18822) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T09:54:51.361+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:54:51.361+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:54:51.361+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T09:54:51.371+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T09:54:51.380+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T09:55:22.219+0000] {processor.py:161} INFO - Started process (PID=19253) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T09:55:22.219+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:55:22.220+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:55:22.220+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T09:55:22.231+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T09:55:22.241+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.026 seconds
+[2024-08-17T09:55:53.238+0000] {processor.py:161} INFO - Started process (PID=19658) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T09:55:53.239+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:55:53.240+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:55:53.239+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T09:55:53.247+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T09:55:53.257+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T09:56:24.185+0000] {processor.py:161} INFO - Started process (PID=20089) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T09:56:24.185+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:56:24.186+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:56:24.185+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T09:56:24.194+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T09:56:24.204+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T09:56:55.040+0000] {processor.py:161} INFO - Started process (PID=20520) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T09:56:55.040+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:56:55.041+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:56:55.041+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T09:56:55.051+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T09:56:55.060+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T09:57:26.092+0000] {processor.py:161} INFO - Started process (PID=20925) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T09:57:26.093+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:57:26.093+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:57:26.093+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T09:57:26.102+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T09:57:26.111+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T09:57:57.263+0000] {processor.py:161} INFO - Started process (PID=21402) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T09:57:57.264+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:57:57.264+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:57:57.264+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T09:57:57.277+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T09:57:57.287+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.028 seconds
+[2024-08-17T09:58:28.488+0000] {processor.py:161} INFO - Started process (PID=21862) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T09:58:28.489+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:58:28.493+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:58:28.492+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T09:58:28.503+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T09:58:28.513+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.028 seconds
+[2024-08-17T09:58:59.932+0000] {processor.py:161} INFO - Started process (PID=22351) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T09:58:59.932+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:58:59.933+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:58:59.933+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T09:58:59.943+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T09:58:59.954+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.026 seconds
+[2024-08-17T09:59:31.194+0000] {processor.py:161} INFO - Started process (PID=22844) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T09:59:31.194+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:59:31.195+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:59:31.195+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T09:59:31.202+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T09:59:31.212+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:00:01.859+0000] {processor.py:161} INFO - Started process (PID=23303) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:00:01.860+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:00:01.860+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:00:01.860+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:00:01.871+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:00:01.881+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.026 seconds
+[2024-08-17T10:00:33.647+0000] {processor.py:161} INFO - Started process (PID=23801) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:00:33.648+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:00:33.648+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:00:33.648+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:00:33.656+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:00:33.666+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T10:01:04.989+0000] {processor.py:161} INFO - Started process (PID=24298) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:01:04.990+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:01:04.991+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:01:04.990+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:01:04.998+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:01:05.008+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T10:01:36.123+0000] {processor.py:161} INFO - Started process (PID=24767) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:01:36.123+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:01:36.124+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:01:36.124+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:01:36.135+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:01:36.145+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.026 seconds
+[2024-08-17T10:02:07.434+0000] {processor.py:161} INFO - Started process (PID=25265) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:02:07.435+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:02:07.435+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:02:07.435+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:02:07.445+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:02:07.455+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:02:38.823+0000] {processor.py:161} INFO - Started process (PID=25762) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:02:38.824+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:02:38.825+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:02:38.824+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:02:38.835+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:02:38.845+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.026 seconds
+[2024-08-17T10:03:10.620+0000] {processor.py:161} INFO - Started process (PID=26299) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:03:10.621+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:03:10.622+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:03:10.621+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:03:10.630+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:03:10.640+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:03:42.891+0000] {processor.py:161} INFO - Started process (PID=26862) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:03:42.891+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:03:42.892+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:03:42.892+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:03:42.903+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:03:42.912+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.026 seconds
+[2024-08-17T10:04:14.927+0000] {processor.py:161} INFO - Started process (PID=27404) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:04:14.927+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:04:14.928+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:04:14.928+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:04:14.939+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:04:14.949+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.026 seconds
+[2024-08-17T10:04:46.349+0000] {processor.py:161} INFO - Started process (PID=27920) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:04:46.349+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:04:46.350+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:04:46.350+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:04:46.360+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:04:46.369+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:05:18.030+0000] {processor.py:161} INFO - Started process (PID=28482) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:05:18.030+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:05:18.031+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:05:18.031+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:05:18.039+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:05:18.049+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:05:50.428+0000] {processor.py:161} INFO - Started process (PID=29043) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:05:50.428+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:05:50.429+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:05:50.429+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:05:50.438+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:05:50.447+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:06:22.140+0000] {processor.py:161} INFO - Started process (PID=29574) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:06:22.141+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:06:22.142+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:06:22.141+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:06:22.150+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:06:22.159+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:06:53.042+0000] {processor.py:161} INFO - Started process (PID=30124) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:06:53.042+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:06:53.043+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:06:53.043+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:06:53.053+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:06:53.064+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.026 seconds
+[2024-08-17T10:07:24.220+0000] {processor.py:161} INFO - Started process (PID=30687) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:07:24.221+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:07:24.222+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:07:24.222+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:07:24.234+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:07:24.245+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.029 seconds
+[2024-08-17T10:07:58.790+0000] {processor.py:161} INFO - Started process (PID=31123) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:07:58.791+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:07:58.791+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:07:58.791+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:07:58.799+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:07:58.808+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T10:08:32.635+0000] {processor.py:161} INFO - Started process (PID=31744) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:08:32.636+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:08:32.636+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:08:32.636+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:08:32.646+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:08:32.656+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:09:04.934+0000] {processor.py:161} INFO - Started process (PID=32373) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:09:04.935+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:09:04.935+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:09:04.935+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:09:04.949+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:09:04.958+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.028 seconds
+[2024-08-17T10:09:38.126+0000] {processor.py:161} INFO - Started process (PID=33002) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:09:38.127+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:09:38.127+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:09:38.127+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:09:38.136+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:09:38.146+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:10:09.889+0000] {processor.py:161} INFO - Started process (PID=33612) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:10:09.890+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:10:09.890+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:10:09.890+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:10:09.899+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:10:09.908+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:10:42.269+0000] {processor.py:161} INFO - Started process (PID=34233) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:10:42.269+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:10:42.270+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:10:42.270+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:10:42.278+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:10:42.287+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T10:11:13.710+0000] {processor.py:161} INFO - Started process (PID=34840) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:11:13.710+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:11:13.711+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:11:13.711+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:11:13.720+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:11:13.730+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:11:45.221+0000] {processor.py:161} INFO - Started process (PID=35449) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:11:45.222+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:11:45.223+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:11:45.222+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:11:45.235+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:11:45.244+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.028 seconds
+[2024-08-17T10:12:16.368+0000] {processor.py:161} INFO - Started process (PID=36070) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:12:16.368+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:12:16.369+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:12:16.369+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:12:16.379+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:12:16.388+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:12:59.683+0000] {processor.py:161} INFO - Started process (PID=36762) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:12:59.684+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:12:59.684+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:12:59.684+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:12:59.693+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:12:59.702+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:13:32.649+0000] {processor.py:161} INFO - Started process (PID=37436) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:13:32.650+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:13:32.650+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:13:32.650+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:13:32.659+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:13:32.669+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:14:05.199+0000] {processor.py:161} INFO - Started process (PID=38122) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:14:05.200+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:14:05.200+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:14:05.200+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:14:05.215+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:14:05.226+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.031 seconds
+[2024-08-17T10:14:36.932+0000] {processor.py:161} INFO - Started process (PID=38815) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:14:36.932+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:14:36.933+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:14:36.933+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:14:36.942+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:14:36.951+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:15:10.398+0000] {processor.py:161} INFO - Started process (PID=39508) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:15:10.398+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:15:10.399+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:15:10.399+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:15:10.408+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:15:10.416+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:15:43.233+0000] {processor.py:161} INFO - Started process (PID=40182) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:15:43.234+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:15:43.235+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:15:43.235+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:15:43.249+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:15:43.259+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.030 seconds
+[2024-08-17T10:16:16.694+0000] {processor.py:161} INFO - Started process (PID=40882) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:16:16.695+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:16:16.695+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:16:16.695+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:16:16.704+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:16:16.713+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:16:48.240+0000] {processor.py:161} INFO - Started process (PID=41573) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:16:48.241+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:16:48.242+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:16:48.241+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:16:48.250+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:16:48.260+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:17:21.180+0000] {processor.py:161} INFO - Started process (PID=42246) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:17:21.181+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:17:21.181+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:17:21.181+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:17:21.193+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:17:21.203+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.027 seconds
+[2024-08-17T10:18:04.258+0000] {processor.py:161} INFO - Started process (PID=42969) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:18:04.260+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:18:04.260+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:18:04.260+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:18:04.268+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:18:04.277+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T10:18:37.883+0000] {processor.py:161} INFO - Started process (PID=43712) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:18:37.883+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:18:37.884+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:18:37.884+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:18:37.902+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:18:37.912+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.034 seconds
+[2024-08-17T10:19:12.070+0000] {processor.py:161} INFO - Started process (PID=44463) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:19:12.071+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:19:12.071+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:19:12.071+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:19:12.080+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:19:12.089+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T10:19:44.469+0000] {processor.py:161} INFO - Started process (PID=45206) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:19:44.470+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:19:44.470+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:19:44.470+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:19:44.479+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:19:44.487+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T10:20:17.095+0000] {processor.py:161} INFO - Started process (PID=45951) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:20:17.096+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:20:17.097+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:20:17.096+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:20:17.103+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:20:17.112+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.020 seconds
+[2024-08-17T10:20:48.960+0000] {processor.py:161} INFO - Started process (PID=46668) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:20:48.960+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:20:48.961+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:20:48.960+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:20:48.968+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:20:48.976+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.020 seconds
+[2024-08-17T10:21:20.972+0000] {processor.py:161} INFO - Started process (PID=47411) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:21:20.972+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:21:20.973+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:21:20.973+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:21:20.981+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T10:21:20.990+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T11:12:58.142+0000] {processor.py:161} INFO - Started process (PID=73660) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:12:58.143+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:12:58.144+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:12:58.144+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:12:58.166+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:12:58.184+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T11:13:31.166+0000] {processor.py:161} INFO - Started process (PID=74099) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:13:31.168+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:13:31.169+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:13:31.169+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:13:31.187+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:13:31.206+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:14:03.304+0000] {processor.py:161} INFO - Started process (PID=74506) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:14:03.305+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:14:03.306+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:14:03.306+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:14:03.331+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:14:03.349+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.053 seconds
+[2024-08-17T11:14:13.231+0000] {processor.py:161} INFO - Started process (PID=74627) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:14:13.232+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:14:13.233+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:14:13.233+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:14:13.255+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:14:13.273+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.052 seconds
+[2024-08-17T11:14:44.563+0000] {processor.py:161} INFO - Started process (PID=75023) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:14:44.564+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:14:44.565+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:14:44.565+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:14:44.583+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:14:44.601+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:15:17.919+0000] {processor.py:161} INFO - Started process (PID=75434) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:15:17.921+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:15:17.922+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:15:17.922+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:15:17.942+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:15:17.960+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:15:35.437+0000] {processor.py:161} INFO - Started process (PID=75657) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:15:35.438+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:15:35.439+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:15:35.439+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:15:35.460+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:15:35.482+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.053 seconds
+[2024-08-17T11:16:07.569+0000] {processor.py:161} INFO - Started process (PID=76055) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:16:07.571+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:16:07.572+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:16:07.572+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:16:07.605+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:16:07.626+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.064 seconds
+[2024-08-17T11:16:38.946+0000] {processor.py:161} INFO - Started process (PID=76452) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:16:38.947+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:16:38.949+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:16:38.949+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:16:38.976+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:16:38.996+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.058 seconds
+[2024-08-17T11:17:14.367+0000] {processor.py:161} INFO - Started process (PID=76892) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:17:14.368+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:17:14.371+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:17:14.370+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:17:14.379+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:17:14.391+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.029 seconds
+[2024-08-17T11:18:02.949+0000] {processor.py:161} INFO - Started process (PID=77368) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:18:02.950+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:18:02.951+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:18:02.951+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:18:02.987+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:18:03.014+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.075 seconds
+[2024-08-17T11:18:36.134+0000] {processor.py:161} INFO - Started process (PID=77823) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:18:36.136+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:18:36.137+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:18:36.137+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:18:36.158+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:18:36.176+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.050 seconds
+[2024-08-17T11:19:08.368+0000] {processor.py:161} INFO - Started process (PID=78251) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:19:08.369+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:19:08.371+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:19:08.370+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:19:08.387+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:19:08.403+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.043 seconds
+[2024-08-17T11:19:41.778+0000] {processor.py:161} INFO - Started process (PID=78709) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:19:41.779+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:19:41.781+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:19:41.780+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:19:41.802+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:19:41.822+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T11:20:02.340+0000] {processor.py:161} INFO - Started process (PID=78962) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:20:02.341+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:20:02.343+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:20:02.342+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:20:02.377+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:20:02.393+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.060 seconds
+[2024-08-17T11:20:35.762+0000] {processor.py:161} INFO - Started process (PID=79377) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:20:35.763+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:20:35.765+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:20:35.764+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:20:35.791+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:20:35.813+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.061 seconds
+[2024-08-17T11:21:11.855+0000] {processor.py:161} INFO - Started process (PID=79809) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:21:11.857+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:21:11.858+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:21:11.858+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:21:11.879+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:21:11.897+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.050 seconds
+[2024-08-17T11:21:44.155+0000] {processor.py:161} INFO - Started process (PID=80232) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:21:44.158+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:21:44.159+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:21:44.159+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:21:44.179+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:21:44.194+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.044 seconds
+[2024-08-17T11:22:17.712+0000] {processor.py:161} INFO - Started process (PID=80640) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:22:17.714+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:22:17.715+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:22:17.715+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:22:17.745+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:22:17.770+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.067 seconds
+[2024-08-17T11:22:36.376+0000] {processor.py:161} INFO - Started process (PID=80896) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:22:36.378+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:22:36.380+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:22:36.379+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:22:36.404+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:22:36.421+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.053 seconds
+[2024-08-17T11:23:18.344+0000] {processor.py:161} INFO - Started process (PID=81335) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:23:18.346+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:23:18.347+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:23:18.347+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:23:18.369+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:23:18.392+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.057 seconds
+[2024-08-17T11:23:52.883+0000] {processor.py:161} INFO - Started process (PID=81768) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:23:52.884+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:23:52.886+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:23:52.885+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:23:52.903+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:23:52.917+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.042 seconds
+[2024-08-17T11:24:25.078+0000] {processor.py:161} INFO - Started process (PID=82212) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:24:25.080+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:24:25.081+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:24:25.081+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:24:25.103+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:24:25.123+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.053 seconds
+[2024-08-17T11:24:58.059+0000] {processor.py:161} INFO - Started process (PID=82656) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:24:58.061+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:24:58.062+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:24:58.062+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:24:58.079+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:24:58.098+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:25:31.098+0000] {processor.py:161} INFO - Started process (PID=83089) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:25:31.099+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:25:31.100+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:25:31.100+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:25:31.124+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:25:31.143+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T11:26:04.153+0000] {processor.py:161} INFO - Started process (PID=83542) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:26:04.155+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:26:04.156+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:26:04.156+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:26:04.177+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:26:04.195+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.050 seconds
+[2024-08-17T11:26:36.618+0000] {processor.py:161} INFO - Started process (PID=83978) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:26:36.620+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:26:36.621+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:26:36.620+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:26:36.637+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:26:36.654+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.041 seconds
+[2024-08-17T11:27:08.454+0000] {processor.py:161} INFO - Started process (PID=84441) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:27:08.455+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:27:08.456+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:27:08.456+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:27:08.479+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:27:08.494+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:27:40.239+0000] {processor.py:161} INFO - Started process (PID=84866) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:27:40.240+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:27:40.241+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:27:40.241+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:27:40.263+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:27:40.278+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:28:20.191+0000] {processor.py:161} INFO - Started process (PID=85291) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:28:20.193+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:28:20.194+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:28:20.194+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:28:20.211+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:28:20.228+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.042 seconds
+[2024-08-17T11:28:53.871+0000] {processor.py:161} INFO - Started process (PID=85768) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:28:53.872+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:28:53.873+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:28:53.872+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:28:53.893+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:28:53.911+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:29:28.657+0000] {processor.py:161} INFO - Started process (PID=86251) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:29:28.659+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:29:28.660+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:29:28.659+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:29:28.687+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:29:28.708+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.056 seconds
+[2024-08-17T11:29:29.591+0000] {processor.py:161} INFO - Started process (PID=86254) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:29:29.593+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:29:29.594+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:29:29.594+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:29:29.615+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:29:29.630+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:30:01.912+0000] {processor.py:161} INFO - Started process (PID=86724) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:30:01.914+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:30:01.916+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:30:01.915+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:30:01.944+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:30:01.963+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.058 seconds
+[2024-08-17T11:30:35.684+0000] {processor.py:161} INFO - Started process (PID=87159) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:30:35.686+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:30:35.688+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:30:35.687+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:30:35.714+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:30:35.731+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.053 seconds
+[2024-08-17T11:31:08.830+0000] {processor.py:161} INFO - Started process (PID=87628) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:31:08.832+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:31:08.834+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:31:08.833+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:31:08.856+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:31:08.874+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.052 seconds
+[2024-08-17T11:31:41.617+0000] {processor.py:161} INFO - Started process (PID=88087) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:31:41.618+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:31:41.619+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:31:41.619+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:31:41.633+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:31:41.648+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.039 seconds
+[2024-08-17T11:32:13.931+0000] {processor.py:161} INFO - Started process (PID=88556) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:32:13.932+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:32:13.933+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:32:13.933+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:32:13.952+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:32:13.973+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:33:08.372+0000] {processor.py:161} INFO - Started process (PID=89145) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:33:08.374+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:33:08.375+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:33:08.375+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:33:08.397+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:33:08.419+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.055 seconds
+[2024-08-17T11:33:41.441+0000] {processor.py:161} INFO - Started process (PID=89627) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:33:41.442+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:33:41.443+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:33:41.443+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:33:41.463+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:33:41.481+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:34:16.064+0000] {processor.py:161} INFO - Started process (PID=90146) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:34:16.065+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:34:16.066+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:34:16.066+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:34:16.088+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:34:16.106+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:34:50.996+0000] {processor.py:161} INFO - Started process (PID=90669) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:34:50.998+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:34:50.999+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:34:50.998+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:34:51.014+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:34:51.030+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.039 seconds
+[2024-08-17T11:35:26.085+0000] {processor.py:161} INFO - Started process (PID=91131) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:35:26.087+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:35:26.088+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:35:26.088+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:35:26.114+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:35:26.137+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.058 seconds
+[2024-08-17T11:35:59.825+0000] {processor.py:161} INFO - Started process (PID=91637) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:35:59.826+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:35:59.827+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:35:59.827+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:35:59.846+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:35:59.864+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:36:33.013+0000] {processor.py:161} INFO - Started process (PID=92095) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:36:33.015+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:36:33.017+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:36:33.016+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:36:33.030+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:36:33.049+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.043 seconds
+[2024-08-17T11:37:09.081+0000] {processor.py:161} INFO - Started process (PID=92629) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:37:09.082+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:37:09.083+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:37:09.083+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:37:09.099+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:37:09.116+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.041 seconds
+[2024-08-17T11:37:44.799+0000] {processor.py:161} INFO - Started process (PID=93134) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:37:44.800+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:37:44.801+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:37:44.801+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:37:44.817+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:37:44.834+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.043 seconds
+[2024-08-17T11:38:23.464+0000] {processor.py:161} INFO - Started process (PID=93617) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:38:23.466+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:38:23.467+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:38:23.467+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:38:23.481+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:38:23.496+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.039 seconds
+[2024-08-17T11:38:58.130+0000] {processor.py:161} INFO - Started process (PID=94076) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:38:58.131+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:38:58.132+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:38:58.132+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:38:58.148+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:38:58.168+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.045 seconds
+[2024-08-17T11:39:37.482+0000] {processor.py:161} INFO - Started process (PID=94641) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:39:37.483+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:39:37.484+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:39:37.484+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:39:37.504+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:39:37.521+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:40:11.242+0000] {processor.py:161} INFO - Started process (PID=95180) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:40:11.243+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:40:11.245+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:40:11.244+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:40:11.262+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:40:11.283+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:40:46.659+0000] {processor.py:161} INFO - Started process (PID=95669) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:40:46.660+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:40:46.661+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:40:46.661+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:40:46.684+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:40:46.704+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.052 seconds
+[2024-08-17T11:41:22.734+0000] {processor.py:161} INFO - Started process (PID=96201) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:41:22.735+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:41:22.737+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:41:22.736+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:41:22.755+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:41:22.774+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:42:01.095+0000] {processor.py:161} INFO - Started process (PID=96769) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:42:01.097+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:42:01.098+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:42:01.097+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:42:01.114+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:42:01.132+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.044 seconds
+[2024-08-17T11:42:37.114+0000] {processor.py:161} INFO - Started process (PID=97315) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:42:37.116+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:42:37.117+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:42:37.116+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:42:37.139+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:42:37.159+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.052 seconds
+[2024-08-17T11:43:32.805+0000] {processor.py:161} INFO - Started process (PID=97924) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:43:32.807+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:43:32.808+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:43:32.808+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:43:32.828+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:43:32.843+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.045 seconds
+[2024-08-17T11:44:11.378+0000] {processor.py:161} INFO - Started process (PID=98497) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:44:11.379+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:44:11.380+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:44:11.380+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:44:11.400+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:44:11.417+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:44:43.965+0000] {processor.py:161} INFO - Started process (PID=98978) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:44:43.967+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:44:43.969+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:44:43.968+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:44:43.987+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:44:44.007+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:45:21.365+0000] {processor.py:161} INFO - Started process (PID=99553) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:45:21.366+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:45:21.368+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:45:21.367+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:45:21.384+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:45:21.401+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.043 seconds
+[2024-08-17T11:45:55.203+0000] {processor.py:161} INFO - Started process (PID=374) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:45:55.204+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:45:55.206+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:45:55.205+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:45:55.223+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:45:55.243+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:46:33.779+0000] {processor.py:161} INFO - Started process (PID=949) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:46:33.781+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:46:33.782+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:46:33.782+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:46:33.796+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:46:33.812+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.040 seconds
+[2024-08-17T11:47:11.021+0000] {processor.py:161} INFO - Started process (PID=1500) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:47:11.022+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:47:11.023+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:47:11.023+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:47:11.042+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:47:11.062+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:48:05.181+0000] {processor.py:161} INFO - Started process (PID=2092) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:48:05.182+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:48:05.183+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:48:05.183+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:48:05.199+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:48:05.217+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.042 seconds
+[2024-08-17T11:48:41.154+0000] {processor.py:161} INFO - Started process (PID=2633) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:48:41.156+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:48:41.157+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:48:41.157+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:48:41.172+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:48:41.191+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.044 seconds
+[2024-08-17T11:49:17.128+0000] {processor.py:161} INFO - Started process (PID=3103) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:49:17.130+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:49:17.131+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:49:17.131+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:49:17.155+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:49:17.177+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.056 seconds
+[2024-08-17T11:49:54.548+0000] {processor.py:161} INFO - Started process (PID=3646) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:49:54.550+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:49:54.552+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:49:54.551+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:49:54.574+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:49:54.598+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.059 seconds
+[2024-08-17T11:50:37.589+0000] {processor.py:161} INFO - Started process (PID=4262) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:50:37.591+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:50:37.593+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:50:37.592+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:50:37.610+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:50:37.628+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:51:16.006+0000] {processor.py:161} INFO - Started process (PID=4825) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:51:16.007+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:51:16.009+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:51:16.008+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:51:16.028+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:51:16.048+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T11:51:56.061+0000] {processor.py:161} INFO - Started process (PID=5380) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:51:56.063+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:51:56.064+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:51:56.063+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:51:56.085+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:51:56.104+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.050 seconds
+[2024-08-17T11:52:36.286+0000] {processor.py:161} INFO - Started process (PID=5977) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:52:36.288+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:52:36.290+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:52:36.289+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:52:36.316+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:52:36.338+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.060 seconds
+[2024-08-17T11:53:19.416+0000] {processor.py:161} INFO - Started process (PID=6384) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:53:19.417+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:53:19.419+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:53:19.418+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:53:19.439+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:53:19.457+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:54:03.454+0000] {processor.py:161} INFO - Started process (PID=7015) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:54:03.455+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:54:03.456+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:54:03.456+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:54:03.477+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:54:03.494+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:54:44.256+0000] {processor.py:161} INFO - Started process (PID=7631) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:54:44.257+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:54:44.258+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:54:44.258+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:54:44.286+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:54:44.308+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.059 seconds
+[2024-08-17T11:55:21.522+0000] {processor.py:161} INFO - Started process (PID=8189) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:55:21.523+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:55:21.525+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:55:21.524+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:55:21.545+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:55:21.564+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.052 seconds
+[2024-08-17T11:56:01.375+0000] {processor.py:161} INFO - Started process (PID=8813) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:56:01.376+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:56:01.377+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:56:01.377+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:56:01.396+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:56:01.409+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.042 seconds
+[2024-08-17T11:56:38.535+0000] {processor.py:161} INFO - Started process (PID=9381) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:56:38.536+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:56:38.538+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:56:38.538+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:56:38.555+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:56:38.573+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:57:22.486+0000] {processor.py:161} INFO - Started process (PID=10048) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:57:22.487+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:57:22.489+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:57:22.488+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:57:22.512+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:57:22.529+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T11:58:22.817+0000] {processor.py:161} INFO - Started process (PID=10710) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:58:22.818+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:58:22.820+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:58:22.819+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:58:22.838+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:58:22.854+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.042 seconds
+[2024-08-17T11:59:04.459+0000] {processor.py:161} INFO - Started process (PID=11348) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:59:04.460+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:59:04.461+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:59:04.461+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:59:04.481+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:59:04.500+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:59:45.040+0000] {processor.py:161} INFO - Started process (PID=11972) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:59:45.041+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:59:45.042+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:59:45.042+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:59:45.065+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T11:59:45.084+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.052 seconds
+[2024-08-17T12:00:25.583+0000] {processor.py:161} INFO - Started process (PID=12623) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:00:25.584+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:00:25.585+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:00:25.584+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:00:25.598+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:00:25.617+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.043 seconds
+[2024-08-17T12:01:07.410+0000] {processor.py:161} INFO - Started process (PID=13249) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:01:07.411+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:01:07.413+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:01:07.412+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:01:07.433+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:01:07.450+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T12:01:45.245+0000] {processor.py:161} INFO - Started process (PID=13848) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:01:45.247+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:01:45.249+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:01:45.248+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:01:45.279+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:01:45.302+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.064 seconds
+[2024-08-17T12:02:28.521+0000] {processor.py:161} INFO - Started process (PID=14504) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:02:28.522+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:02:28.524+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:02:28.523+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:02:28.542+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:02:28.555+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.042 seconds
+[2024-08-17T12:03:21.554+0000] {processor.py:161} INFO - Started process (PID=15056) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:03:21.556+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:03:21.557+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:03:21.556+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:03:21.577+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:03:21.593+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T12:04:06.531+0000] {processor.py:161} INFO - Started process (PID=15717) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:04:06.532+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:04:06.533+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:04:06.533+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:04:06.573+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:04:06.597+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.074 seconds
+[2024-08-17T12:04:49.985+0000] {processor.py:161} INFO - Started process (PID=16380) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:04:49.986+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:04:49.988+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:04:49.987+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:04:50.005+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:04:50.026+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T12:05:33.265+0000] {processor.py:161} INFO - Started process (PID=17007) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:05:33.266+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:05:33.268+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:05:33.268+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:05:33.285+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:05:33.303+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.044 seconds
+[2024-08-17T12:06:12.394+0000] {processor.py:161} INFO - Started process (PID=17594) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:06:12.395+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:06:12.397+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:06:12.396+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:06:12.426+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:06:12.444+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.058 seconds
+[2024-08-17T12:06:50.808+0000] {processor.py:161} INFO - Started process (PID=18223) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:06:50.809+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:06:50.810+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:06:50.810+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:06:50.832+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:06:50.851+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T12:07:40.880+0000] {processor.py:161} INFO - Started process (PID=18948) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:07:40.882+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:07:40.883+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:07:40.883+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:07:40.904+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:07:40.922+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T12:08:46.655+0000] {processor.py:161} INFO - Started process (PID=19574) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:08:46.657+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:08:46.658+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:08:46.657+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:08:46.675+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:08:46.691+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.044 seconds
+[2024-08-17T12:09:32.946+0000] {processor.py:161} INFO - Started process (PID=20274) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:09:32.949+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:09:32.950+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:09:32.950+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:09:32.966+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:09:32.984+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T12:10:22.537+0000] {processor.py:161} INFO - Started process (PID=20971) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:10:22.538+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:10:22.540+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:10:22.539+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:10:22.556+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:10:22.574+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.044 seconds
+[2024-08-17T12:11:02.018+0000] {processor.py:161} INFO - Started process (PID=21614) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:11:02.020+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:11:02.022+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:11:02.021+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:11:02.057+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:11:02.076+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.065 seconds
+[2024-08-17T12:11:54.136+0000] {processor.py:161} INFO - Started process (PID=22359) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:11:54.137+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:11:54.138+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:11:54.138+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:11:54.157+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:11:54.176+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T12:13:11.844+0000] {processor.py:161} INFO - Started process (PID=23193) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:13:11.845+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:13:11.847+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:13:11.846+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:13:11.868+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:13:11.887+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T12:14:00.189+0000] {processor.py:161} INFO - Started process (PID=23972) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:14:00.191+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:14:00.192+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:14:00.192+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:14:00.210+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:14:00.230+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T12:15:03.449+0000] {processor.py:161} INFO - Started process (PID=24834) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:15:03.451+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:15:03.452+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:15:03.451+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:15:03.471+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:15:03.491+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T12:16:02.428+0000] {processor.py:161} INFO - Started process (PID=25711) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:16:02.430+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:16:02.432+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:16:02.431+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:16:02.448+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:16:02.468+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T12:17:01.001+0000] {processor.py:161} INFO - Started process (PID=26515) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:17:01.003+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:17:01.004+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:17:01.004+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:17:01.020+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:17:01.038+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T12:18:26.592+0000] {processor.py:161} INFO - Started process (PID=27381) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:18:26.762+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:18:26.764+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:18:26.764+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:18:26.804+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:18:26.825+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.242 seconds
+[2024-08-17T12:19:22.140+0000] {processor.py:161} INFO - Started process (PID=28149) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:19:22.142+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:19:22.143+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:19:22.143+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:19:22.160+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:19:22.181+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T12:20:03.843+0000] {processor.py:161} INFO - Started process (PID=28733) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:20:03.845+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:20:03.846+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:20:03.846+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:20:03.863+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:20:03.884+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T12:21:00.504+0000] {processor.py:161} INFO - Started process (PID=29413) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:21:00.505+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:21:00.508+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:21:00.507+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:21:00.524+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:21:00.543+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T12:21:44.414+0000] {processor.py:161} INFO - Started process (PID=30126) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:21:44.415+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:21:44.417+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:21:44.416+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:21:44.437+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:21:44.457+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.050 seconds
+[2024-08-17T12:22:39.153+0000] {processor.py:161} INFO - Started process (PID=30938) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:22:39.156+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:22:39.158+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:22:39.158+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:22:39.177+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:22:39.203+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.057 seconds
+[2024-08-17T12:23:39.141+0000] {processor.py:161} INFO - Started process (PID=31499) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:23:39.142+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:23:39.143+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:23:39.143+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:23:39.160+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:23:39.175+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.040 seconds
+[2024-08-17T12:24:24.872+0000] {processor.py:161} INFO - Started process (PID=32255) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:24:24.873+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:24:24.874+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:24:24.874+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:24:24.893+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:24:24.912+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T12:25:09.431+0000] {processor.py:161} INFO - Started process (PID=33008) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:25:09.433+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:25:09.433+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:25:09.433+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:25:09.451+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:25:09.467+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.039 seconds
+[2024-08-17T12:25:51.482+0000] {processor.py:161} INFO - Started process (PID=33758) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:25:51.483+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:25:51.483+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:25:51.483+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:25:51.498+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:25:51.513+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.037 seconds
+[2024-08-17T12:26:33.812+0000] {processor.py:161} INFO - Started process (PID=34566) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:26:33.813+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:26:33.814+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:26:33.813+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:26:33.829+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:26:33.844+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.038 seconds
+[2024-08-17T12:27:11.907+0000] {processor.py:161} INFO - Started process (PID=35289) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:27:11.908+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:27:11.909+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:27:11.909+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:27:11.924+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:27:11.938+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.035 seconds
+[2024-08-17T12:28:06.583+0000] {processor.py:161} INFO - Started process (PID=36052) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:28:06.584+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:28:06.585+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:28:06.584+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:28:06.598+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:28:06.609+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.031 seconds
+[2024-08-17T12:28:40.917+0000] {processor.py:161} INFO - Started process (PID=36800) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:28:40.917+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:28:40.918+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:28:40.918+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:28:40.926+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:28:40.936+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T12:29:16.471+0000] {processor.py:161} INFO - Started process (PID=37540) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:29:16.471+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:29:16.472+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:29:16.472+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:29:16.480+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:29:16.490+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T12:29:49.996+0000] {processor.py:161} INFO - Started process (PID=38288) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:29:49.997+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:29:49.997+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:29:49.997+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:29:50.007+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:29:50.019+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.027 seconds
+[2024-08-17T12:30:23.159+0000] {processor.py:161} INFO - Started process (PID=39009) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:30:23.160+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:30:23.160+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:30:23.160+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:30:23.168+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:30:23.178+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T12:30:55.554+0000] {processor.py:161} INFO - Started process (PID=39735) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:30:55.554+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:30:55.555+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:30:55.555+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:30:55.564+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:30:55.574+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T12:31:27.749+0000] {processor.py:161} INFO - Started process (PID=40459) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:31:27.750+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:31:27.751+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:31:27.751+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:31:27.781+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:31:27.798+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.054 seconds
+[2024-08-17T12:32:00.046+0000] {processor.py:161} INFO - Started process (PID=41187) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:32:00.046+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:32:00.047+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:32:00.046+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:32:00.053+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:32:00.063+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T12:32:34.095+0000] {processor.py:161} INFO - Started process (PID=41914) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:32:34.096+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:32:34.096+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:32:34.096+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:32:34.104+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:32:34.116+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T12:33:15.684+0000] {processor.py:161} INFO - Started process (PID=42692) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:33:15.685+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:33:15.685+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:33:15.685+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:33:15.693+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:33:15.703+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T12:33:52.757+0000] {processor.py:161} INFO - Started process (PID=43464) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:33:52.757+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:33:52.758+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:33:52.758+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:33:52.765+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:33:52.774+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T12:34:25.645+0000] {processor.py:161} INFO - Started process (PID=44188) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:34:25.646+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:34:25.646+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:34:25.646+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:34:25.654+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:34:25.664+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T12:34:57.672+0000] {processor.py:161} INFO - Started process (PID=44897) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:34:57.673+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:34:57.673+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:34:57.673+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:34:57.680+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:34:57.690+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T12:35:31.913+0000] {processor.py:161} INFO - Started process (PID=45643) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:35:31.914+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:35:31.915+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:35:31.914+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:35:31.922+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:35:31.932+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T12:36:05.287+0000] {processor.py:161} INFO - Started process (PID=46387) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:36:05.288+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:36:05.289+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:36:05.288+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:36:05.298+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:36:05.309+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T12:36:37.600+0000] {processor.py:161} INFO - Started process (PID=47132) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:36:37.601+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:36:37.601+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:36:37.601+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:36:37.611+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:36:37.621+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T12:37:10.075+0000] {processor.py:161} INFO - Started process (PID=47874) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:37:10.076+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:37:10.077+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:37:10.077+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:37:10.095+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:37:10.104+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.032 seconds
+[2024-08-17T12:37:42.223+0000] {processor.py:161} INFO - Started process (PID=48584) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:37:42.224+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:37:42.225+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:37:42.225+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:37:42.238+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:37:42.248+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.029 seconds
+[2024-08-17T12:38:19.057+0000] {processor.py:161} INFO - Started process (PID=49350) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:38:19.057+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:38:19.058+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:38:19.058+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:38:19.068+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:38:19.077+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T12:38:53.883+0000] {processor.py:161} INFO - Started process (PID=50053) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:38:53.883+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:38:53.884+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:38:53.884+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:38:53.891+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:38:53.909+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.030 seconds
+[2024-08-17T12:39:28.340+0000] {processor.py:161} INFO - Started process (PID=50796) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:39:28.340+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:39:28.341+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:39:28.341+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:39:28.349+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:39:28.359+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T12:40:00.610+0000] {processor.py:161} INFO - Started process (PID=51515) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:40:00.611+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:40:00.611+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:40:00.611+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:40:00.619+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:40:00.629+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T12:40:33.538+0000] {processor.py:161} INFO - Started process (PID=52258) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:40:33.539+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:40:33.540+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:40:33.539+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:40:33.572+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:40:33.581+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T12:41:05.019+0000] {processor.py:161} INFO - Started process (PID=52981) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:41:05.020+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:41:05.020+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:41:05.020+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:41:05.030+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:41:05.039+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T12:41:37.111+0000] {processor.py:161} INFO - Started process (PID=53697) to work on /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:41:37.112+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:41:37.112+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:41:37.112+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:41:37.119+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl
+[2024-08-17T12:41:37.129+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Ethiopia/cases_TS_model.pkl took 0.021 seconds

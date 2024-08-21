@@ -1,0 +1,835 @@
+[2024-08-17T09:57:50.358+0000] {processor.py:161} INFO - Started process (PID=21240) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T09:57:50.358+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:57:50.359+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:57:50.359+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T09:57:50.366+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T09:57:50.375+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T09:58:21.833+0000] {processor.py:161} INFO - Started process (PID=21732) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T09:58:21.833+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:58:21.834+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:58:21.834+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T09:58:21.858+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T09:58:21.870+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.043 seconds
+[2024-08-17T09:58:53.113+0000] {processor.py:161} INFO - Started process (PID=22229) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T09:58:53.114+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:58:53.114+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:58:53.114+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T09:58:53.122+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T09:58:53.132+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T09:59:24.248+0000] {processor.py:161} INFO - Started process (PID=22699) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T09:59:24.250+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:59:24.251+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:59:24.251+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T09:59:24.269+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T09:59:24.281+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.037 seconds
+[2024-08-17T09:59:55.523+0000] {processor.py:161} INFO - Started process (PID=23197) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T09:59:55.524+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:59:55.525+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:59:55.524+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T09:59:55.535+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T09:59:55.545+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:00:26.646+0000] {processor.py:161} INFO - Started process (PID=23676) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:00:26.647+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:00:26.648+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:00:26.648+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:00:26.658+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:00:26.668+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.026 seconds
+[2024-08-17T10:00:58.111+0000] {processor.py:161} INFO - Started process (PID=24167) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:00:58.112+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:00:58.113+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:00:58.113+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:00:58.126+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:00:58.137+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.030 seconds
+[2024-08-17T10:01:28.937+0000] {processor.py:161} INFO - Started process (PID=24665) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:01:28.938+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:01:28.938+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:01:28.938+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:01:28.949+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:01:28.958+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:01:59.916+0000] {processor.py:161} INFO - Started process (PID=25137) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:01:59.920+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:01:59.921+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:01:59.921+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:01:59.932+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:01:59.940+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.028 seconds
+[2024-08-17T10:02:32.030+0000] {processor.py:161} INFO - Started process (PID=25635) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:02:32.031+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:02:32.032+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:02:32.032+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:02:32.048+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:02:32.059+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.033 seconds
+[2024-08-17T10:03:03.414+0000] {processor.py:161} INFO - Started process (PID=26177) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:03:03.415+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:03:03.416+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:03:03.416+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:03:03.429+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:03:03.439+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.030 seconds
+[2024-08-17T10:03:35.909+0000] {processor.py:161} INFO - Started process (PID=26693) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:03:35.910+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:03:35.911+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:03:35.910+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:03:35.917+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:03:35.927+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T10:04:07.486+0000] {processor.py:161} INFO - Started process (PID=27212) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:04:07.487+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:04:07.487+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:04:07.487+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:04:07.497+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:04:07.506+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:04:39.685+0000] {processor.py:161} INFO - Started process (PID=27775) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:04:39.685+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:04:39.686+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:04:39.686+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:04:39.695+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:04:39.704+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:05:11.296+0000] {processor.py:161} INFO - Started process (PID=28312) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:05:11.297+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:05:11.297+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:05:11.297+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:05:11.307+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:05:11.319+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.027 seconds
+[2024-08-17T10:05:42.711+0000] {processor.py:161} INFO - Started process (PID=28865) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:05:42.712+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:05:42.713+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:05:42.712+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:05:42.725+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:05:42.735+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.028 seconds
+[2024-08-17T10:06:14.315+0000] {processor.py:161} INFO - Started process (PID=29428) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:06:14.316+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:06:14.316+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:06:14.316+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:06:14.327+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:06:14.338+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.027 seconds
+[2024-08-17T10:06:45.778+0000] {processor.py:161} INFO - Started process (PID=29965) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:06:45.778+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:06:45.779+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:06:45.779+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:06:45.789+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:06:45.798+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:07:17.314+0000] {processor.py:161} INFO - Started process (PID=30527) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:07:17.315+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:07:17.315+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:07:17.315+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:07:17.326+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:07:17.335+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:07:56.985+0000] {processor.py:161} INFO - Started process (PID=31070) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:07:56.986+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:07:56.986+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:07:56.986+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:07:57.018+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:07:57.027+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T10:08:30.060+0000] {processor.py:161} INFO - Started process (PID=31698) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:08:30.061+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:08:30.061+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:08:30.061+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:08:30.071+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:08:30.080+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:09:02.700+0000] {processor.py:161} INFO - Started process (PID=32327) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:09:02.701+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:09:02.702+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:09:02.701+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:09:02.710+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:09:02.720+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:09:35.437+0000] {processor.py:161} INFO - Started process (PID=32956) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:09:35.437+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:09:35.438+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:09:35.438+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:09:35.450+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:09:35.461+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.028 seconds
+[2024-08-17T10:10:07.626+0000] {processor.py:161} INFO - Started process (PID=33559) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:10:07.627+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:10:07.627+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:10:07.627+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:10:07.635+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:10:07.645+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T10:10:38.918+0000] {processor.py:161} INFO - Started process (PID=34166) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:10:38.919+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:10:38.920+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:10:38.920+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:10:38.929+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:10:38.938+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:11:09.716+0000] {processor.py:161} INFO - Started process (PID=34765) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:11:09.717+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:11:09.718+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:11:09.717+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:11:09.731+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:11:09.740+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.028 seconds
+[2024-08-17T10:11:40.912+0000] {processor.py:161} INFO - Started process (PID=35385) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:11:40.913+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:11:40.913+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:11:40.913+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:11:40.922+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:11:40.932+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:12:12.388+0000] {processor.py:161} INFO - Started process (PID=36008) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:12:12.389+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:12:12.389+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:12:12.389+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:12:12.398+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:12:12.409+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:12:57.922+0000] {processor.py:161} INFO - Started process (PID=36716) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:12:57.923+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:12:57.924+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:12:57.924+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:12:57.936+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:12:57.946+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.028 seconds
+[2024-08-17T10:13:30.652+0000] {processor.py:161} INFO - Started process (PID=37383) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:13:30.659+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:13:30.659+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:13:30.659+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:13:30.677+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:13:30.688+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.039 seconds
+[2024-08-17T10:14:02.865+0000] {processor.py:161} INFO - Started process (PID=38076) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:14:02.865+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:14:02.866+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:14:02.866+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:14:02.875+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:14:02.885+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:14:35.030+0000] {processor.py:161} INFO - Started process (PID=38769) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:14:35.031+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:14:35.032+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:14:35.032+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:14:35.044+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:14:35.053+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.026 seconds
+[2024-08-17T10:15:07.766+0000] {processor.py:161} INFO - Started process (PID=39443) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:15:07.766+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:15:07.767+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:15:07.767+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:15:07.783+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:15:07.793+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.032 seconds
+[2024-08-17T10:15:40.534+0000] {processor.py:161} INFO - Started process (PID=40129) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:15:40.535+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:15:40.536+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:15:40.536+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:15:40.550+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:15:40.561+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.032 seconds
+[2024-08-17T10:16:12.855+0000] {processor.py:161} INFO - Started process (PID=40801) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:16:12.856+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:16:12.857+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:16:12.857+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:16:12.866+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:16:12.875+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:16:45.868+0000] {processor.py:161} INFO - Started process (PID=41494) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:16:45.869+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:16:45.869+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:16:45.869+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:16:45.878+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:16:45.887+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T10:17:17.705+0000] {processor.py:161} INFO - Started process (PID=42140) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:17:17.705+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:17:17.706+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:17:17.706+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:17:17.714+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:17:17.723+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T10:18:02.567+0000] {processor.py:161} INFO - Started process (PID=42923) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:18:02.568+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:18:02.568+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:18:02.568+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:18:02.575+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:18:02.583+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.020 seconds
+[2024-08-17T10:18:36.009+0000] {processor.py:161} INFO - Started process (PID=43666) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:18:36.010+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:18:36.010+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:18:36.010+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:18:36.022+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:18:36.031+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:19:09.672+0000] {processor.py:161} INFO - Started process (PID=44409) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:19:09.673+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:19:09.673+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:19:09.673+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:19:09.684+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:19:09.693+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:19:42.067+0000] {processor.py:161} INFO - Started process (PID=45152) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:19:42.068+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:19:42.068+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:19:42.068+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:19:42.079+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:19:42.088+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:20:14.973+0000] {processor.py:161} INFO - Started process (PID=45877) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:20:14.973+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:20:14.974+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:20:14.974+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:20:14.982+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:20:14.990+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T10:20:46.093+0000] {processor.py:161} INFO - Started process (PID=46620) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:20:46.093+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:20:46.094+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:20:46.094+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:20:46.103+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:20:46.112+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:21:18.256+0000] {processor.py:161} INFO - Started process (PID=47363) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:21:18.257+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:21:18.257+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:21:18.257+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:21:18.265+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T10:21:18.273+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T11:23:00.288+0000] {processor.py:161} INFO - Started process (PID=81050) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:23:00.289+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:23:00.291+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:23:00.290+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:23:00.314+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:23:00.335+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.053 seconds
+[2024-08-17T11:23:33.682+0000] {processor.py:161} INFO - Started process (PID=81510) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:23:33.683+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:23:33.684+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:23:33.684+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:23:33.704+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:23:33.720+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:24:05.613+0000] {processor.py:161} INFO - Started process (PID=81962) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:24:05.614+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:24:05.617+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:24:05.617+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:24:05.638+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:24:05.653+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:24:39.098+0000] {processor.py:161} INFO - Started process (PID=82413) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:24:39.100+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:24:39.101+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:24:39.101+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:24:39.119+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:24:39.138+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:24:44.136+0000] {processor.py:161} INFO - Started process (PID=82474) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:24:44.138+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:24:44.139+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:24:44.139+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:24:44.160+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:24:44.179+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.050 seconds
+[2024-08-17T11:24:46.920+0000] {processor.py:161} INFO - Started process (PID=82489) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:24:46.922+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:24:46.924+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:24:46.923+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:24:46.941+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:24:46.959+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:25:19.704+0000] {processor.py:161} INFO - Started process (PID=82963) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:25:19.705+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:25:19.707+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:25:19.707+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:25:19.729+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:25:19.750+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.054 seconds
+[2024-08-17T11:25:52.018+0000] {processor.py:161} INFO - Started process (PID=83384) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:25:52.019+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:25:52.020+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:25:52.019+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:25:52.039+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:25:52.058+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:26:25.149+0000] {processor.py:161} INFO - Started process (PID=83857) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:26:25.150+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:26:25.151+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:26:25.151+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:26:25.175+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:26:25.191+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:26:57.738+0000] {processor.py:161} INFO - Started process (PID=84286) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:26:57.739+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:26:57.741+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:26:57.740+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:26:57.761+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:26:57.779+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:27:31.115+0000] {processor.py:161} INFO - Started process (PID=84760) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:27:31.117+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:27:31.118+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:27:31.118+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:27:31.138+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:27:31.156+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:28:19.951+0000] {processor.py:161} INFO - Started process (PID=85286) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:28:19.952+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:28:19.953+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:28:19.953+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:28:19.966+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:28:19.984+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.040 seconds
+[2024-08-17T11:28:28.741+0000] {processor.py:161} INFO - Started process (PID=85448) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:28:28.742+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:28:28.743+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:28:28.742+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:28:28.761+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:28:28.778+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.043 seconds
+[2024-08-17T11:29:03.941+0000] {processor.py:161} INFO - Started process (PID=85910) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:29:03.943+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:29:03.944+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:29:03.944+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:29:03.963+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:29:03.983+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:29:38.870+0000] {processor.py:161} INFO - Started process (PID=86389) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:29:38.871+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:29:38.872+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:29:38.872+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:29:38.900+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:29:38.922+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.058 seconds
+[2024-08-17T11:30:13.471+0000] {processor.py:161} INFO - Started process (PID=86872) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:30:13.472+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:30:13.473+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:30:13.473+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:30:13.498+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:30:13.515+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.050 seconds
+[2024-08-17T11:30:35.334+0000] {processor.py:161} INFO - Started process (PID=87154) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:30:35.336+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:30:35.337+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:30:35.337+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:30:35.364+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:30:35.385+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.058 seconds
+[2024-08-17T11:31:08.512+0000] {processor.py:161} INFO - Started process (PID=87624) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:31:08.513+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:31:08.514+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:31:08.514+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:31:08.538+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:31:08.553+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:31:41.122+0000] {processor.py:161} INFO - Started process (PID=88083) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:31:41.123+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:31:41.125+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:31:41.124+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:31:41.150+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:31:41.167+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T11:32:13.718+0000] {processor.py:161} INFO - Started process (PID=88553) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:32:13.719+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:32:13.720+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:32:13.720+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:32:13.738+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:32:13.757+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:33:06.916+0000] {processor.py:161} INFO - Started process (PID=89128) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:33:06.918+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:33:06.919+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:33:06.918+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:33:06.948+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:33:06.967+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.059 seconds
+[2024-08-17T11:33:38.862+0000] {processor.py:161} INFO - Started process (PID=89601) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:33:38.863+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:33:38.865+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:33:38.864+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:33:38.882+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:33:38.899+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.044 seconds
+[2024-08-17T11:34:13.010+0000] {processor.py:161} INFO - Started process (PID=90116) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:34:13.013+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:34:13.015+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:34:13.014+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:34:13.039+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:34:13.058+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.055 seconds
+[2024-08-17T11:34:47.064+0000] {processor.py:161} INFO - Started process (PID=90585) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:34:47.065+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:34:47.066+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:34:47.066+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:34:47.090+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:34:47.108+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T11:35:21.323+0000] {processor.py:161} INFO - Started process (PID=91079) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:35:21.325+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:35:21.326+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:35:21.325+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:35:21.342+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:35:21.356+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.039 seconds
+[2024-08-17T11:35:55.002+0000] {processor.py:161} INFO - Started process (PID=91552) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:35:55.005+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:35:55.006+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:35:55.006+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:35:55.017+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:35:55.034+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.040 seconds
+[2024-08-17T11:36:27.936+0000] {processor.py:161} INFO - Started process (PID=92017) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:36:27.937+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:36:27.939+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:36:27.938+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:36:27.959+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:36:27.976+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:37:01.535+0000] {processor.py:161} INFO - Started process (PID=92513) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:37:01.537+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:37:01.538+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:37:01.538+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:37:01.559+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:37:01.582+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.055 seconds
+[2024-08-17T11:37:35.986+0000] {processor.py:161} INFO - Started process (PID=93014) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:37:35.987+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:37:35.988+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:37:35.988+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:37:36.009+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:37:36.028+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:38:23.000+0000] {processor.py:161} INFO - Started process (PID=93608) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:38:23.001+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:38:23.003+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:38:23.002+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:38:23.024+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:38:23.042+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:38:57.682+0000] {processor.py:161} INFO - Started process (PID=94067) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:38:57.684+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:38:57.685+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:38:57.685+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:38:57.700+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:38:57.718+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.043 seconds
+[2024-08-17T11:39:31.167+0000] {processor.py:161} INFO - Started process (PID=94570) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:39:31.168+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:39:31.170+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:39:31.169+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:39:31.191+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:39:31.210+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.050 seconds
+[2024-08-17T11:40:07.261+0000] {processor.py:161} INFO - Started process (PID=95120) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:40:07.263+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:40:07.267+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:40:07.267+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:40:07.277+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:40:07.291+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.034 seconds
+[2024-08-17T11:40:10.487+0000] {processor.py:161} INFO - Started process (PID=95165) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:40:10.489+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:40:10.491+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:40:10.491+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:40:10.521+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:40:10.540+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.060 seconds
+[2024-08-17T11:40:43.903+0000] {processor.py:161} INFO - Started process (PID=95627) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:40:43.907+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:40:43.910+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:40:43.909+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:40:43.935+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:40:43.954+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.060 seconds
+[2024-08-17T11:41:20.029+0000] {processor.py:161} INFO - Started process (PID=96169) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:41:20.031+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:41:20.032+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:41:20.032+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:41:20.052+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:41:20.070+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:41:54.648+0000] {processor.py:161} INFO - Started process (PID=96656) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:41:54.649+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:41:54.650+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:41:54.650+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:41:54.671+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:41:54.691+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:42:28.103+0000] {processor.py:161} INFO - Started process (PID=97177) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:42:28.104+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:42:28.105+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:42:28.104+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:42:28.125+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:42:28.143+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:43:08.719+0000] {processor.py:161} INFO - Started process (PID=97548) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:43:08.721+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:43:08.722+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:43:08.722+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:43:08.739+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:43:08.758+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.045 seconds
+[2024-08-17T11:43:46.912+0000] {processor.py:161} INFO - Started process (PID=98117) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:43:46.913+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:43:46.915+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:43:46.914+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:43:46.932+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:43:46.957+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.052 seconds
+[2024-08-17T11:44:23.416+0000] {processor.py:161} INFO - Started process (PID=98667) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:44:23.418+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:44:23.419+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:44:23.419+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:44:23.440+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:44:23.459+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:44:59.399+0000] {processor.py:161} INFO - Started process (PID=99211) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:44:59.401+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:44:59.402+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:44:59.402+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:44:59.420+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:44:59.439+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:45:33.942+0000] {processor.py:161} INFO - Started process (PID=99767) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:45:33.944+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:45:33.945+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:45:33.945+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:45:33.970+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:45:33.988+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.054 seconds
+[2024-08-17T11:46:11.395+0000] {processor.py:161} INFO - Started process (PID=648) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:46:11.397+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:46:11.398+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:46:11.397+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:46:11.410+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:46:11.426+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.036 seconds
+[2024-08-17T11:46:47.909+0000] {processor.py:161} INFO - Started process (PID=1176) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:46:47.910+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:46:47.912+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:46:47.911+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:46:47.934+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:46:47.952+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.050 seconds
+[2024-08-17T11:47:23.476+0000] {processor.py:161} INFO - Started process (PID=1697) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:47:23.477+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:47:23.478+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:47:23.477+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:47:23.503+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:47:23.522+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.053 seconds
+[2024-08-17T11:48:16.323+0000] {processor.py:161} INFO - Started process (PID=2266) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:48:16.325+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:48:16.326+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:48:16.326+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:48:16.341+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:48:16.359+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.043 seconds
+[2024-08-17T11:48:59.453+0000] {processor.py:161} INFO - Started process (PID=2860) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:48:59.455+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:48:59.456+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:48:59.455+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:48:59.476+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:48:59.495+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T11:49:41.157+0000] {processor.py:161} INFO - Started process (PID=3445) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:49:41.158+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:49:41.160+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:49:41.159+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:49:41.180+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:49:41.202+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.053 seconds
+[2024-08-17T11:50:24.179+0000] {processor.py:161} INFO - Started process (PID=4048) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:50:24.179+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:50:24.180+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:50:24.180+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:50:24.202+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:50:24.218+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.045 seconds
+[2024-08-17T11:51:03.797+0000] {processor.py:161} INFO - Started process (PID=4646) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:51:03.798+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:51:03.799+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:51:03.799+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:51:03.824+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:51:03.847+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.057 seconds
+[2024-08-17T11:51:40.123+0000] {processor.py:161} INFO - Started process (PID=5163) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:51:40.125+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:51:40.126+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:51:40.126+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:51:40.147+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:51:40.163+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:52:15.036+0000] {processor.py:161} INFO - Started process (PID=5669) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:52:15.037+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:52:15.038+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:52:15.038+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:52:15.059+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:52:15.078+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:53:16.437+0000] {processor.py:161} INFO - Started process (PID=6328) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:53:16.438+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:53:16.440+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:53:16.439+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:53:16.463+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:53:16.483+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.054 seconds
+[2024-08-17T11:54:00.222+0000] {processor.py:161} INFO - Started process (PID=6947) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:54:00.224+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:54:00.225+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:54:00.225+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:54:00.247+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:54:00.269+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.056 seconds
+[2024-08-17T11:54:36.459+0000] {processor.py:161} INFO - Started process (PID=7497) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:54:36.461+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:54:36.464+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:54:36.463+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:54:36.483+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:54:36.502+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.050 seconds
+[2024-08-17T11:55:17.983+0000] {processor.py:161} INFO - Started process (PID=8114) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:55:17.984+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:55:17.985+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:55:17.985+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:55:18.009+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:55:18.029+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.053 seconds
+[2024-08-17T11:55:58.427+0000] {processor.py:161} INFO - Started process (PID=8738) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:55:58.429+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:55:58.430+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:55:58.430+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:55:58.448+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:55:58.468+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:56:35.654+0000] {processor.py:161} INFO - Started process (PID=9332) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:56:35.655+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:56:35.656+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:56:35.656+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:56:35.676+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:56:35.695+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.050 seconds
+[2024-08-17T11:57:10.694+0000] {processor.py:161} INFO - Started process (PID=9882) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:57:10.696+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:57:10.697+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:57:10.696+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:57:10.716+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:57:10.733+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:58:06.970+0000] {processor.py:161} INFO - Started process (PID=10470) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:58:06.971+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:58:06.973+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:58:06.972+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:58:06.993+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:58:07.010+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:58:48.636+0000] {processor.py:161} INFO - Started process (PID=11104) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:58:48.638+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:58:48.639+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:58:48.639+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:58:48.659+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:58:48.678+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:59:28.690+0000] {processor.py:161} INFO - Started process (PID=11719) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:59:28.691+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:59:28.692+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:59:28.692+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:59:28.707+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T11:59:28.724+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.040 seconds
+[2024-08-17T12:00:05.350+0000] {processor.py:161} INFO - Started process (PID=12269) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:00:05.352+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:00:05.353+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:00:05.353+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:00:05.374+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:00:05.392+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.050 seconds
+[2024-08-17T12:00:42.620+0000] {processor.py:161} INFO - Started process (PID=12903) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:00:42.621+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:00:42.623+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:00:42.622+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:00:42.647+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:00:42.667+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.054 seconds
+[2024-08-17T12:01:17.180+0000] {processor.py:161} INFO - Started process (PID=13416) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:01:17.182+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:01:17.183+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:01:17.183+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:01:17.197+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:01:17.216+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.044 seconds
+[2024-08-17T12:01:53.712+0000] {processor.py:161} INFO - Started process (PID=13972) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:01:53.713+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:01:53.716+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:01:53.715+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:01:53.741+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:01:53.762+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.063 seconds
+[2024-08-17T12:02:38.201+0000] {processor.py:161} INFO - Started process (PID=14619) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:02:38.202+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:02:38.204+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:02:38.203+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:02:38.223+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:02:38.243+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T12:03:42.734+0000] {processor.py:161} INFO - Started process (PID=15349) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:03:42.736+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:03:42.737+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:03:42.736+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:03:42.756+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:03:42.772+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.044 seconds
+[2024-08-17T12:04:22.182+0000] {processor.py:161} INFO - Started process (PID=15934) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:04:22.183+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:04:22.185+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:04:22.184+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:04:22.209+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:04:22.229+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.055 seconds
+[2024-08-17T12:05:02.063+0000] {processor.py:161} INFO - Started process (PID=16562) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:05:02.064+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:05:02.067+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:05:02.066+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:05:02.083+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:05:02.105+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.050 seconds
+[2024-08-17T12:05:45.217+0000] {processor.py:161} INFO - Started process (PID=17198) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:05:45.218+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:05:45.219+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:05:45.219+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:05:45.240+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:05:45.259+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T12:06:23.897+0000] {processor.py:161} INFO - Started process (PID=17757) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:06:23.898+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:06:23.899+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:06:23.899+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:06:23.918+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:06:23.940+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T12:07:05.415+0000] {processor.py:161} INFO - Started process (PID=18422) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:07:05.417+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:07:05.418+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:07:05.417+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:07:05.436+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:07:05.452+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.044 seconds
+[2024-08-17T12:08:12.071+0000] {processor.py:161} INFO - Started process (PID=19097) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:08:12.072+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:08:12.073+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:08:12.072+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:08:12.093+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:08:12.111+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T12:09:01.400+0000] {processor.py:161} INFO - Started process (PID=19811) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:09:01.401+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:09:01.403+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:09:01.402+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:09:01.417+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:09:01.440+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T12:09:47.814+0000] {processor.py:161} INFO - Started process (PID=20499) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:09:47.816+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:09:47.817+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:09:47.817+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:09:47.830+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:09:47.848+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.042 seconds
+[2024-08-17T12:10:37.895+0000] {processor.py:161} INFO - Started process (PID=21257) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:10:37.898+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:10:37.900+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:10:37.899+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:10:37.920+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:10:37.941+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.054 seconds
+[2024-08-17T12:11:15.678+0000] {processor.py:161} INFO - Started process (PID=21787) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:11:15.680+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:11:15.681+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:11:15.681+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:11:15.714+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:11:15.736+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.066 seconds
+[2024-08-17T12:12:06.897+0000] {processor.py:161} INFO - Started process (PID=22511) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:12:06.898+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:12:06.900+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:12:06.899+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:12:06.923+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:12:06.941+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T12:12:43.834+0000] {processor.py:161} INFO - Started process (PID=23070) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:12:43.839+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:12:43.841+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:12:43.840+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:12:43.869+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:12:43.892+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.066 seconds
+[2024-08-17T12:13:33.976+0000] {processor.py:161} INFO - Started process (PID=23536) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:13:33.978+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:13:33.979+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:13:33.979+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:13:34.013+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:13:34.033+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.064 seconds
+[2024-08-17T12:14:21.737+0000] {processor.py:161} INFO - Started process (PID=24247) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:14:21.738+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:14:21.739+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:14:21.739+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:14:21.755+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:14:21.775+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T12:15:18.191+0000] {processor.py:161} INFO - Started process (PID=25010) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:15:18.193+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:15:18.196+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:15:18.195+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:15:18.232+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:15:18.252+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.068 seconds
+[2024-08-17T12:15:59.302+0000] {processor.py:161} INFO - Started process (PID=25640) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:15:59.303+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:15:59.304+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:15:59.304+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:15:59.320+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:15:59.340+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T12:16:57.286+0000] {processor.py:161} INFO - Started process (PID=26466) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:16:57.290+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:16:57.292+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:16:57.291+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:16:57.311+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:16:57.331+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.052 seconds
+[2024-08-17T12:18:21.726+0000] {processor.py:161} INFO - Started process (PID=27332) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:18:21.727+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:18:21.728+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:18:21.728+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:18:21.753+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:18:21.776+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.058 seconds
+[2024-08-17T12:19:18.464+0000] {processor.py:161} INFO - Started process (PID=28100) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:19:18.465+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:19:18.466+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:19:18.466+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:19:18.487+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:19:18.507+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.052 seconds
+[2024-08-17T12:20:00.190+0000] {processor.py:161} INFO - Started process (PID=28684) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:20:00.192+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:20:00.194+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:20:00.193+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:20:00.213+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:20:00.234+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.053 seconds
+[2024-08-17T12:20:57.765+0000] {processor.py:161} INFO - Started process (PID=29364) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:20:57.766+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:20:57.767+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:20:57.767+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:20:57.789+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:20:57.807+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T12:21:40.679+0000] {processor.py:161} INFO - Started process (PID=30051) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:21:40.681+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:21:40.682+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:21:40.681+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:21:40.698+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:21:40.715+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.043 seconds
+[2024-08-17T12:22:35.625+0000] {processor.py:161} INFO - Started process (PID=30862) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:22:35.626+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:22:35.628+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:22:35.627+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:22:35.644+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:22:35.663+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.043 seconds
+[2024-08-17T12:23:35.480+0000] {processor.py:161} INFO - Started process (PID=31450) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:23:35.482+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:23:35.483+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:23:35.483+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:23:35.507+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:23:35.526+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T12:24:21.468+0000] {processor.py:161} INFO - Started process (PID=32199) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:24:21.469+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:24:21.471+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:24:21.470+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:24:21.490+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:24:21.507+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.045 seconds
+[2024-08-17T12:25:04.083+0000] {processor.py:161} INFO - Started process (PID=32947) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:25:04.085+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:25:04.087+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:25:04.085+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:25:04.109+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:25:04.129+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.052 seconds
+[2024-08-17T12:25:49.434+0000] {processor.py:161} INFO - Started process (PID=33709) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:25:49.435+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:25:49.436+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:25:49.435+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:25:49.454+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:25:49.472+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.042 seconds
+[2024-08-17T12:26:25.628+0000] {processor.py:161} INFO - Started process (PID=34412) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:26:25.629+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:26:25.630+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:26:25.629+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:26:25.647+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:26:25.661+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.037 seconds
+[2024-08-17T12:27:06.079+0000] {processor.py:161} INFO - Started process (PID=35160) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:27:06.080+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:27:06.081+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:27:06.081+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:27:06.096+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:27:06.109+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.036 seconds
+[2024-08-17T12:27:43.491+0000] {processor.py:161} INFO - Started process (PID=35909) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:27:43.492+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:27:43.493+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:27:43.492+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:27:43.509+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:27:43.520+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.034 seconds
+[2024-08-17T12:28:35.587+0000] {processor.py:161} INFO - Started process (PID=36695) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:28:35.588+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:28:35.589+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:28:35.589+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:28:35.603+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:28:35.615+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.032 seconds
+[2024-08-17T12:29:08.572+0000] {processor.py:161} INFO - Started process (PID=37349) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:29:08.573+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:29:08.573+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:29:08.573+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:29:08.583+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:29:08.594+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.026 seconds
+[2024-08-17T12:29:41.673+0000] {processor.py:161} INFO - Started process (PID=38097) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:29:41.674+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:29:41.674+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:29:41.674+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:29:41.683+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:29:41.693+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T12:30:15.048+0000] {processor.py:161} INFO - Started process (PID=38844) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:30:15.049+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:30:15.050+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:30:15.049+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:30:15.061+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:30:15.071+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.026 seconds
+[2024-08-17T12:30:47.316+0000] {processor.py:161} INFO - Started process (PID=39565) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:30:47.317+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:30:47.318+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:30:47.317+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:30:47.328+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:30:47.338+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.026 seconds
+[2024-08-17T12:31:19.089+0000] {processor.py:161} INFO - Started process (PID=40290) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:31:19.090+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:31:19.091+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:31:19.091+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:31:19.098+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:31:19.107+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T12:31:51.859+0000] {processor.py:161} INFO - Started process (PID=41001) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:31:51.860+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:31:51.860+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:31:51.860+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:31:51.867+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:31:51.876+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T12:32:26.868+0000] {processor.py:161} INFO - Started process (PID=41743) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:32:26.869+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:32:26.870+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:32:26.869+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:32:26.883+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:32:26.893+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.031 seconds
+[2024-08-17T12:33:06.347+0000] {processor.py:161} INFO - Started process (PID=42403) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:33:06.347+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:33:06.348+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:33:06.348+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:33:06.355+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:33:06.365+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T12:33:39.902+0000] {processor.py:161} INFO - Started process (PID=43148) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:33:39.903+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:33:39.903+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:33:39.903+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:33:39.912+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:33:39.921+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T12:34:13.061+0000] {processor.py:161} INFO - Started process (PID=43893) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:34:13.061+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:34:13.062+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:34:13.062+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:34:13.068+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:34:13.077+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.020 seconds
+[2024-08-17T12:34:45.943+0000] {processor.py:161} INFO - Started process (PID=44617) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:34:45.943+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:34:45.944+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:34:45.944+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:34:45.951+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:34:45.961+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T12:35:18.072+0000] {processor.py:161} INFO - Started process (PID=45353) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:35:18.073+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:35:18.074+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:35:18.074+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:35:18.084+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:35:18.094+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.026 seconds
+[2024-08-17T12:35:50.823+0000] {processor.py:161} INFO - Started process (PID=46098) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:35:50.823+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:35:50.824+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:35:50.824+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:35:50.831+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:35:50.841+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T12:36:23.839+0000] {processor.py:161} INFO - Started process (PID=46825) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:36:23.840+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:36:23.840+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:36:23.840+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:36:23.848+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:36:23.857+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T12:36:56.005+0000] {processor.py:161} INFO - Started process (PID=47548) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:36:56.006+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:36:56.007+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:36:56.006+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:36:56.014+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:36:56.023+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T12:37:27.987+0000] {processor.py:161} INFO - Started process (PID=48284) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:37:27.987+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:37:27.988+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:37:27.988+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:37:27.994+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:37:28.003+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.020 seconds
+[2024-08-17T12:38:06.747+0000] {processor.py:161} INFO - Started process (PID=48988) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:38:06.748+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:38:06.748+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:38:06.748+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:38:06.759+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:38:06.770+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.027 seconds
+[2024-08-17T12:38:40.903+0000] {processor.py:161} INFO - Started process (PID=49705) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:38:40.903+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:38:40.904+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:38:40.903+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:38:40.916+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:38:40.925+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.026 seconds
+[2024-08-17T12:39:13.772+0000] {processor.py:161} INFO - Started process (PID=50448) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:39:13.774+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:39:13.775+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:39:13.774+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:39:13.785+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:39:13.797+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.028 seconds
+[2024-08-17T12:39:45.728+0000] {processor.py:161} INFO - Started process (PID=51191) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:39:45.729+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:39:45.729+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:39:45.729+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:39:45.737+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:39:45.748+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T12:40:17.759+0000] {processor.py:161} INFO - Started process (PID=51935) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:40:17.760+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:40:17.760+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:40:17.760+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:40:17.767+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:40:17.776+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.020 seconds
+[2024-08-17T12:40:51.039+0000] {processor.py:161} INFO - Started process (PID=52668) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:40:51.040+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:40:51.041+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:40:51.040+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:40:51.049+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:40:51.058+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T12:41:25.050+0000] {processor.py:161} INFO - Started process (PID=53421) to work on /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:41:25.052+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:41:25.053+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:41:25.053+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:41:25.064+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl
+[2024-08-17T12:41:25.073+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Guinea/cases_TS_model.pkl took 0.026 seconds

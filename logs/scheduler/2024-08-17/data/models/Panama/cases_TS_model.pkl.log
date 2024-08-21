@@ -1,0 +1,505 @@
+[2024-08-17T10:07:53.282+0000] {processor.py:161} INFO - Started process (PID=30977) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:07:53.282+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:07:53.283+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:07:53.283+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:07:53.294+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:07:53.303+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:08:25.201+0000] {processor.py:161} INFO - Started process (PID=31597) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:08:25.201+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:08:25.202+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:08:25.202+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:08:25.209+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:08:25.220+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:08:56.540+0000] {processor.py:161} INFO - Started process (PID=32178) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:08:56.540+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:08:56.541+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:08:56.541+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:08:56.554+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:08:56.563+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.027 seconds
+[2024-08-17T10:09:27.954+0000] {processor.py:161} INFO - Started process (PID=32808) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:09:27.954+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:09:27.955+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:09:27.955+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:09:27.971+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:09:27.981+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.031 seconds
+[2024-08-17T10:09:59.152+0000] {processor.py:161} INFO - Started process (PID=33437) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:09:59.153+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:09:59.154+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:09:59.153+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:09:59.164+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:09:59.175+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.026 seconds
+[2024-08-17T10:10:30.642+0000] {processor.py:161} INFO - Started process (PID=34039) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:10:30.643+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:10:30.644+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:10:30.644+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:10:30.656+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:10:30.667+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.028 seconds
+[2024-08-17T10:11:01.876+0000] {processor.py:161} INFO - Started process (PID=34646) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:11:01.877+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:11:01.878+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:11:01.877+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:11:01.884+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:11:01.894+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T10:11:33.743+0000] {processor.py:161} INFO - Started process (PID=35255) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:11:33.743+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:11:33.744+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:11:33.744+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:11:33.753+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:11:33.762+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:12:04.882+0000] {processor.py:161} INFO - Started process (PID=35876) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:12:04.882+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:12:04.883+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:12:04.883+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:12:04.893+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:12:04.902+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:12:37.467+0000] {processor.py:161} INFO - Started process (PID=36483) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:12:37.468+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:12:37.469+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:12:37.468+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:12:37.476+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:12:37.485+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T10:13:14.817+0000] {processor.py:161} INFO - Started process (PID=37146) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:13:14.818+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:13:14.819+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:13:14.819+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:13:14.829+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:13:14.838+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:13:46.818+0000] {processor.py:161} INFO - Started process (PID=37757) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:13:46.819+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:13:46.820+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:13:46.820+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:13:46.837+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:13:46.847+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.033 seconds
+[2024-08-17T10:14:20.096+0000] {processor.py:161} INFO - Started process (PID=38430) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:14:20.097+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:14:20.097+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:14:20.097+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:14:20.109+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:14:20.119+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.027 seconds
+[2024-08-17T10:14:53.683+0000] {processor.py:161} INFO - Started process (PID=39116) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:14:53.684+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:14:53.684+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:14:53.684+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:14:53.691+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:14:53.700+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T10:15:25.645+0000] {processor.py:161} INFO - Started process (PID=39788) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:15:25.646+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:15:25.647+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:15:25.646+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:15:25.661+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:15:25.670+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.028 seconds
+[2024-08-17T10:15:58.805+0000] {processor.py:161} INFO - Started process (PID=40480) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:15:58.808+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:15:58.809+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:15:58.809+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:15:58.828+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:15:58.838+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.037 seconds
+[2024-08-17T10:16:30.996+0000] {processor.py:161} INFO - Started process (PID=41154) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:16:30.996+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:16:30.997+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:16:30.997+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:16:31.012+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:16:31.022+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.030 seconds
+[2024-08-17T10:17:02.791+0000] {processor.py:161} INFO - Started process (PID=41840) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:17:02.792+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:17:02.793+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:17:02.793+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:17:02.802+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:17:02.811+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:17:34.285+0000] {processor.py:161} INFO - Started process (PID=42532) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:17:34.286+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:17:34.286+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:17:34.286+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:17:34.294+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:17:34.303+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T10:18:10.504+0000] {processor.py:161} INFO - Started process (PID=43170) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:18:10.504+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:18:10.505+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:18:10.505+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:18:10.515+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:18:10.524+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:18:44.625+0000] {processor.py:161} INFO - Started process (PID=43913) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:18:44.625+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:18:44.626+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:18:44.626+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:18:44.633+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:18:44.642+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.020 seconds
+[2024-08-17T10:19:18.425+0000] {processor.py:161} INFO - Started process (PID=44656) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:19:18.425+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:19:18.426+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:19:18.426+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:19:18.433+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:19:18.442+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T10:19:50.701+0000] {processor.py:161} INFO - Started process (PID=45352) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:19:50.701+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:19:50.702+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:19:50.701+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:19:50.709+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:19:50.717+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.020 seconds
+[2024-08-17T10:20:23.149+0000] {processor.py:161} INFO - Started process (PID=46074) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:20:23.150+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:20:23.150+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:20:23.150+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:20:23.158+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:20:23.166+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.020 seconds
+[2024-08-17T10:20:55.027+0000] {processor.py:161} INFO - Started process (PID=46806) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:20:55.027+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:20:55.028+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:20:55.028+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:20:55.036+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:20:55.045+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T10:21:27.204+0000] {processor.py:161} INFO - Started process (PID=47532) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:21:27.204+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:21:27.205+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:21:27.205+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:21:27.212+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T10:21:27.221+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T11:53:05.760+0000] {processor.py:161} INFO - Started process (PID=6178) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T11:53:05.762+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:53:05.764+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:53:05.764+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T11:53:05.786+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T11:53:05.806+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.053 seconds
+[2024-08-17T11:53:45.992+0000] {processor.py:161} INFO - Started process (PID=6749) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T11:53:45.994+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:53:45.995+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:53:45.995+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T11:53:46.022+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T11:53:46.039+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.054 seconds
+[2024-08-17T11:54:22.645+0000] {processor.py:161} INFO - Started process (PID=7271) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T11:54:22.646+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:54:22.647+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:54:22.647+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T11:54:22.664+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T11:54:22.683+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.045 seconds
+[2024-08-17T11:54:51.135+0000] {processor.py:161} INFO - Started process (PID=7707) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T11:54:51.136+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:54:51.138+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:54:51.137+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T11:54:51.156+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T11:54:51.173+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.044 seconds
+[2024-08-17T11:55:25.913+0000] {processor.py:161} INFO - Started process (PID=8256) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T11:55:25.914+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:55:25.915+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:55:25.915+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T11:55:25.931+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T11:55:25.948+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.041 seconds
+[2024-08-17T11:55:57.722+0000] {processor.py:161} INFO - Started process (PID=8728) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T11:55:57.724+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:55:57.725+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:55:57.724+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T11:55:57.744+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T11:55:57.758+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.042 seconds
+[2024-08-17T11:56:05.589+0000] {processor.py:161} INFO - Started process (PID=8875) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T11:56:05.591+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:56:05.592+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:56:05.592+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T11:56:05.620+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T11:56:05.639+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.058 seconds
+[2024-08-17T11:56:42.153+0000] {processor.py:161} INFO - Started process (PID=9468) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T11:56:42.154+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:56:42.155+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:56:42.155+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T11:56:42.178+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T11:56:42.197+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.052 seconds
+[2024-08-17T11:57:20.150+0000] {processor.py:161} INFO - Started process (PID=9996) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T11:57:20.152+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:57:20.153+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:57:20.153+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T11:57:20.174+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T11:57:20.191+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:57:31.283+0000] {processor.py:161} INFO - Started process (PID=10176) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T11:57:31.284+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:57:31.285+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:57:31.285+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T11:57:31.305+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T11:57:31.321+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.045 seconds
+[2024-08-17T11:58:14.333+0000] {processor.py:161} INFO - Started process (PID=10591) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T11:58:14.335+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:58:14.337+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:58:14.336+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T11:58:14.353+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T11:58:14.373+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:58:54.379+0000] {processor.py:161} INFO - Started process (PID=11221) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T11:58:54.381+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:58:54.382+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:58:54.382+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T11:58:54.401+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T11:58:54.421+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:59:37.692+0000] {processor.py:161} INFO - Started process (PID=11862) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T11:59:37.693+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:59:37.694+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:59:37.694+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T11:59:37.714+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T11:59:37.730+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T12:00:13.916+0000] {processor.py:161} INFO - Started process (PID=12373) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:00:13.919+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:00:13.920+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:00:13.920+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:00:13.943+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:00:13.963+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.054 seconds
+[2024-08-17T12:00:52.473+0000] {processor.py:161} INFO - Started process (PID=13013) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:00:52.474+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:00:52.475+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:00:52.475+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:00:52.500+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:00:52.516+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T12:01:24.490+0000] {processor.py:161} INFO - Started process (PID=13554) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:01:24.491+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:01:24.492+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:01:24.491+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:01:24.511+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:01:24.529+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.044 seconds
+[2024-08-17T12:02:01.506+0000] {processor.py:161} INFO - Started process (PID=14114) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:02:01.508+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:02:01.509+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:02:01.508+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:02:01.526+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:02:01.544+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.045 seconds
+[2024-08-17T12:02:35.587+0000] {processor.py:161} INFO - Started process (PID=14584) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:02:35.589+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:02:35.591+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:02:35.591+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:02:35.612+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:02:35.633+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.054 seconds
+[2024-08-17T12:03:12.607+0000] {processor.py:161} INFO - Started process (PID=14894) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:03:12.608+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:03:12.608+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:03:12.608+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:03:12.624+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:03:12.637+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.038 seconds
+[2024-08-17T12:03:53.671+0000] {processor.py:161} INFO - Started process (PID=15555) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:03:53.672+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:03:53.674+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:03:53.673+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:03:53.694+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:03:53.714+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.050 seconds
+[2024-08-17T12:04:37.834+0000] {processor.py:161} INFO - Started process (PID=16170) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:04:37.836+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:04:37.837+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:04:37.837+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:04:37.858+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:04:37.876+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.050 seconds
+[2024-08-17T12:05:16.592+0000] {processor.py:161} INFO - Started process (PID=16757) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:05:16.594+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:05:16.595+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:05:16.595+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:05:16.616+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:05:16.631+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T12:05:59.176+0000] {processor.py:161} INFO - Started process (PID=17397) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:05:59.177+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:05:59.179+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:05:59.179+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:05:59.196+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:05:59.214+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.045 seconds
+[2024-08-17T12:06:35.944+0000] {processor.py:161} INFO - Started process (PID=17983) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:06:35.945+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:06:35.947+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:06:35.946+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:06:35.963+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:06:35.979+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.042 seconds
+[2024-08-17T12:07:21.357+0000] {processor.py:161} INFO - Started process (PID=18666) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:07:21.358+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:07:21.360+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:07:21.359+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:07:21.394+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:07:21.412+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.061 seconds
+[2024-08-17T12:08:34.948+0000] {processor.py:161} INFO - Started process (PID=19417) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:08:34.949+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:08:34.951+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:08:34.951+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:08:34.972+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:08:34.991+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T12:09:21.593+0000] {processor.py:161} INFO - Started process (PID=20082) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:09:21.595+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:09:21.597+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:09:21.596+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:09:21.620+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:09:21.639+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.053 seconds
+[2024-08-17T12:10:04.363+0000] {processor.py:161} INFO - Started process (PID=20732) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:10:04.365+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:10:04.369+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:10:04.368+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:10:04.388+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:10:04.410+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.056 seconds
+[2024-08-17T12:10:48.741+0000] {processor.py:161} INFO - Started process (PID=21439) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:10:48.742+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:10:48.744+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:10:48.744+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:10:48.765+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:10:48.785+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.050 seconds
+[2024-08-17T12:11:33.830+0000] {processor.py:161} INFO - Started process (PID=22063) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:11:33.831+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:11:33.833+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:11:33.832+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:11:33.854+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:11:33.875+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.054 seconds
+[2024-08-17T12:12:27.131+0000] {processor.py:161} INFO - Started process (PID=22824) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:12:27.132+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:12:27.133+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:12:27.133+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:12:27.150+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:12:27.168+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.045 seconds
+[2024-08-17T12:13:28.531+0000] {processor.py:161} INFO - Started process (PID=23425) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:13:28.532+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:13:28.534+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:13:28.533+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:13:28.548+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:13:28.566+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.044 seconds
+[2024-08-17T12:14:15.217+0000] {processor.py:161} INFO - Started process (PID=24157) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:14:15.219+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:14:15.220+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:14:15.219+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:14:15.237+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:14:15.258+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T12:14:59.369+0000] {processor.py:161} INFO - Started process (PID=24785) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:14:59.370+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:14:59.372+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:14:59.371+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:14:59.392+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:14:59.410+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T12:15:43.020+0000] {processor.py:161} INFO - Started process (PID=25378) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:15:43.021+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:15:43.023+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:15:43.022+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:15:43.055+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:15:43.081+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.068 seconds
+[2024-08-17T12:16:29.651+0000] {processor.py:161} INFO - Started process (PID=26058) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:16:29.653+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:16:29.655+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:16:29.654+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:16:29.673+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:16:29.695+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T12:17:12.476+0000] {processor.py:161} INFO - Started process (PID=26662) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:17:12.478+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:17:12.480+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:17:12.480+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:17:12.503+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:17:12.524+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.055 seconds
+[2024-08-17T12:18:18.079+0000] {processor.py:161} INFO - Started process (PID=27274) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:18:18.080+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:18:18.081+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:18:18.080+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:18:18.115+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:18:18.133+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.061 seconds
+[2024-08-17T12:19:15.475+0000] {processor.py:161} INFO - Started process (PID=28064) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:19:15.477+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:19:15.478+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:19:15.478+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:19:15.506+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:19:15.523+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.055 seconds
+[2024-08-17T12:19:58.098+0000] {processor.py:161} INFO - Started process (PID=28651) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:19:58.099+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:19:58.100+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:19:58.100+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:19:58.120+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:19:58.136+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T12:20:53.840+0000] {processor.py:161} INFO - Started process (PID=29315) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:20:53.841+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:20:53.843+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:20:53.842+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:20:53.858+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:20:53.876+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.043 seconds
+[2024-08-17T12:21:38.203+0000] {processor.py:161} INFO - Started process (PID=30003) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:21:38.204+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:21:38.205+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:21:38.205+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:21:38.220+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:21:38.234+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.036 seconds
+[2024-08-17T12:22:15.533+0000] {processor.py:161} INFO - Started process (PID=30576) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:22:15.534+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:22:15.536+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:22:15.536+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:22:15.568+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:22:15.591+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.065 seconds
+[2024-08-17T12:23:22.065+0000] {processor.py:161} INFO - Started process (PID=31245) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:23:22.066+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:23:22.068+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:23:22.067+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:23:22.087+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:23:22.104+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T12:24:03.701+0000] {processor.py:161} INFO - Started process (PID=31922) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:24:03.702+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:24:03.703+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:24:03.703+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:24:03.719+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:24:03.735+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.042 seconds
+[2024-08-17T12:24:49.577+0000] {processor.py:161} INFO - Started process (PID=32672) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:24:49.578+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:24:49.579+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:24:49.579+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:24:49.597+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:24:49.614+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.043 seconds
+[2024-08-17T12:25:27.336+0000] {processor.py:161} INFO - Started process (PID=33309) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:25:27.337+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:25:27.338+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:25:27.337+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:25:27.358+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:25:27.377+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T12:26:08.911+0000] {processor.py:161} INFO - Started process (PID=34094) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:26:08.912+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:26:08.914+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:26:08.913+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:26:08.929+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:26:08.944+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.039 seconds
+[2024-08-17T12:26:44.662+0000] {processor.py:161} INFO - Started process (PID=34750) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:26:44.663+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:26:44.664+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:26:44.664+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:26:44.677+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:26:44.693+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.036 seconds
+[2024-08-17T12:27:21.503+0000] {processor.py:161} INFO - Started process (PID=35464) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:27:21.503+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:27:21.504+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:27:21.504+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:27:21.520+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:27:21.532+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.034 seconds
+[2024-08-17T12:28:17.360+0000] {processor.py:161} INFO - Started process (PID=36268) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:28:17.361+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:28:17.362+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:28:17.361+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:28:17.376+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:28:17.387+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.032 seconds
+[2024-08-17T12:28:52.197+0000] {processor.py:161} INFO - Started process (PID=37015) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:28:52.198+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:28:52.199+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:28:52.199+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:28:52.217+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:28:52.229+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.036 seconds
+[2024-08-17T12:29:26.237+0000] {processor.py:161} INFO - Started process (PID=37762) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:29:26.238+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:29:26.239+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:29:26.238+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:29:26.249+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:29:26.259+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T12:29:59.379+0000] {processor.py:161} INFO - Started process (PID=38484) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:29:59.380+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:29:59.381+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:29:59.381+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:29:59.389+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:29:59.399+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T12:30:32.414+0000] {processor.py:161} INFO - Started process (PID=39227) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:30:32.415+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:30:32.415+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:30:32.415+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:30:32.423+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:30:32.432+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T12:31:03.820+0000] {processor.py:161} INFO - Started process (PID=39946) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:31:03.820+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:31:03.822+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:31:03.822+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:31:03.839+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:31:03.858+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.043 seconds
+[2024-08-17T12:31:37.047+0000] {processor.py:161} INFO - Started process (PID=40690) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:31:37.048+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:31:37.049+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:31:37.048+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:31:37.059+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:31:37.069+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.026 seconds
+[2024-08-17T12:32:15.001+0000] {processor.py:161} INFO - Started process (PID=41443) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:32:15.002+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:32:15.003+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:32:15.002+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:32:15.010+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:32:15.020+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T12:32:46.751+0000] {processor.py:161} INFO - Started process (PID=42167) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:32:46.752+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:32:46.752+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:32:46.752+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:32:46.760+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:32:46.770+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T12:33:21.217+0000] {processor.py:161} INFO - Started process (PID=42838) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:33:21.220+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:33:21.220+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:33:21.220+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:33:21.232+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:33:21.242+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.030 seconds
+[2024-08-17T12:33:57.149+0000] {processor.py:161} INFO - Started process (PID=43582) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:33:57.150+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:33:57.150+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:33:57.150+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:33:57.160+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:33:57.170+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T12:34:28.006+0000] {processor.py:161} INFO - Started process (PID=44243) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:34:28.006+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:34:28.007+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:34:28.007+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:34:28.016+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:34:28.026+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T12:34:59.406+0000] {processor.py:161} INFO - Started process (PID=44943) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:34:59.407+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:34:59.408+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:34:59.408+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:34:59.417+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:34:59.427+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T12:35:31.708+0000] {processor.py:161} INFO - Started process (PID=45638) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:35:31.708+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:35:31.715+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:35:31.715+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:35:31.738+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:35:31.749+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.045 seconds
+[2024-08-17T12:36:05.024+0000] {processor.py:161} INFO - Started process (PID=46381) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:36:05.024+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:36:05.025+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:36:05.025+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:36:05.043+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:36:05.053+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.033 seconds
+[2024-08-17T12:36:37.371+0000] {processor.py:161} INFO - Started process (PID=47126) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:36:37.372+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:36:37.372+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:36:37.372+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:36:37.381+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:36:37.392+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T12:37:09.088+0000] {processor.py:161} INFO - Started process (PID=47847) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:37:09.089+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:37:09.089+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:37:09.089+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:37:09.097+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:37:09.106+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T12:37:41.143+0000] {processor.py:161} INFO - Started process (PID=48550) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:37:41.144+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:37:41.144+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:37:41.144+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:37:41.152+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:37:41.161+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T12:38:16.660+0000] {processor.py:161} INFO - Started process (PID=49257) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:38:16.661+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:38:16.666+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:38:16.666+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:38:16.674+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:38:16.683+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.027 seconds
+[2024-08-17T12:38:48.382+0000] {processor.py:161} INFO - Started process (PID=49916) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:38:48.383+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:38:48.384+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:38:48.383+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:38:48.395+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:38:48.405+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.026 seconds
+[2024-08-17T12:39:20.642+0000] {processor.py:161} INFO - Started process (PID=50617) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:39:20.643+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:39:20.644+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:39:20.644+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:39:20.656+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:39:20.666+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.028 seconds
+[2024-08-17T12:39:53.259+0000] {processor.py:161} INFO - Started process (PID=51361) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:39:53.260+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:39:53.261+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:39:53.260+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:39:53.268+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:39:53.278+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T12:40:25.233+0000] {processor.py:161} INFO - Started process (PID=52070) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:40:25.234+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:40:25.235+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:40:25.234+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:40:25.241+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:40:25.250+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.020 seconds
+[2024-08-17T12:40:57.393+0000] {processor.py:161} INFO - Started process (PID=52812) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:40:57.393+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:40:57.394+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:40:57.394+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:40:57.401+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:40:57.409+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.020 seconds
+[2024-08-17T12:41:30.822+0000] {processor.py:161} INFO - Started process (PID=53554) to work on /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:41:30.823+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:41:30.824+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:41:30.823+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:41:30.835+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl
+[2024-08-17T12:41:30.845+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Panama/cases_TS_model.pkl took 0.027 seconds

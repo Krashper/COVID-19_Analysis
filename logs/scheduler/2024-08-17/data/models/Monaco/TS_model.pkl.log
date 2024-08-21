@@ -1,0 +1,500 @@
+[2024-08-17T02:53:53.607+0000] {processor.py:161} INFO - Started process (PID=85292) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T02:53:53.608+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T02:53:53.609+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:53:53.608+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T02:53:53.620+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T02:53:53.630+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.027 seconds
+[2024-08-17T02:54:24.336+0000] {processor.py:161} INFO - Started process (PID=85628) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T02:54:24.336+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T02:54:24.337+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:54:24.337+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T02:54:24.350+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T02:54:24.360+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.029 seconds
+[2024-08-17T02:54:47.861+0000] {processor.py:161} INFO - Started process (PID=85945) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T02:54:47.862+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T02:54:47.863+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:54:47.862+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T02:54:47.876+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T02:54:47.886+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.029 seconds
+[2024-08-17T02:55:18.786+0000] {processor.py:161} INFO - Started process (PID=86286) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T02:55:18.787+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T02:55:18.787+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:55:18.787+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T02:55:18.806+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T02:55:18.817+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.035 seconds
+[2024-08-17T02:55:49.227+0000] {processor.py:161} INFO - Started process (PID=86612) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T02:55:49.228+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T02:55:49.228+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:55:49.228+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T02:55:49.235+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T02:55:49.245+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.022 seconds
+[2024-08-17T02:56:20.284+0000] {processor.py:161} INFO - Started process (PID=86949) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T02:56:20.285+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T02:56:20.286+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:56:20.285+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T02:56:20.296+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T02:56:20.306+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.026 seconds
+[2024-08-17T02:56:51.247+0000] {processor.py:161} INFO - Started process (PID=87289) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T02:56:51.247+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T02:56:51.248+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:56:51.248+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T02:56:51.257+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T02:56:51.266+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.023 seconds
+[2024-08-17T02:57:21.668+0000] {processor.py:161} INFO - Started process (PID=87619) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T02:57:21.669+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T02:57:21.670+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:57:21.670+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T02:57:21.685+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T02:57:21.695+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.031 seconds
+[2024-08-17T02:57:52.942+0000] {processor.py:161} INFO - Started process (PID=87958) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T02:57:52.942+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T02:57:52.943+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:57:52.943+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T02:57:52.956+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T02:57:52.966+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.028 seconds
+[2024-08-17T02:58:23.636+0000] {processor.py:161} INFO - Started process (PID=88288) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T02:58:23.637+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T02:58:23.638+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:58:23.637+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T02:58:23.648+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T02:58:23.658+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.026 seconds
+[2024-08-17T02:58:57.644+0000] {processor.py:161} INFO - Started process (PID=88663) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T02:58:57.644+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T02:58:57.645+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:58:57.645+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T02:58:57.672+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T02:58:57.685+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.045 seconds
+[2024-08-17T02:59:28.844+0000] {processor.py:161} INFO - Started process (PID=89049) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T02:59:28.845+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T02:59:28.845+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:59:28.845+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T02:59:28.857+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T02:59:28.868+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:00:00.055+0000] {processor.py:161} INFO - Started process (PID=89409) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:00:00.055+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:00:00.056+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:00:00.056+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:00:00.070+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:00:00.081+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.030 seconds
+[2024-08-17T03:00:31.221+0000] {processor.py:161} INFO - Started process (PID=89795) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:00:31.221+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:00:31.222+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:00:31.222+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:00:31.236+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:00:31.248+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.031 seconds
+[2024-08-17T03:01:01.567+0000] {processor.py:161} INFO - Started process (PID=90162) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:01:01.568+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:01:01.569+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:01:01.569+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:01:01.581+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:01:01.591+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.028 seconds
+[2024-08-17T03:01:32.406+0000] {processor.py:161} INFO - Started process (PID=90541) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:01:32.407+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:01:32.408+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:01:32.408+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:01:32.420+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:01:32.430+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.029 seconds
+[2024-08-17T03:02:03.219+0000] {processor.py:161} INFO - Started process (PID=90927) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:02:03.221+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:02:03.222+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:02:03.221+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:02:03.233+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:02:03.244+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.029 seconds
+[2024-08-17T03:02:34.105+0000] {processor.py:161} INFO - Started process (PID=91268) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:02:34.106+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:02:34.106+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:02:34.106+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:02:34.116+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:02:34.126+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:03:04.856+0000] {processor.py:161} INFO - Started process (PID=91653) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:03:04.856+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:03:04.857+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:03:04.857+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:03:04.871+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:03:04.881+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.030 seconds
+[2024-08-17T03:03:35.828+0000] {processor.py:161} INFO - Started process (PID=92013) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:03:35.828+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:03:35.829+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:03:35.829+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:03:35.843+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:03:35.853+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.030 seconds
+[2024-08-17T03:04:06.823+0000] {processor.py:161} INFO - Started process (PID=92428) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:04:06.824+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:04:06.824+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:04:06.824+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:04:06.837+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:04:06.847+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.028 seconds
+[2024-08-17T03:04:38.197+0000] {processor.py:161} INFO - Started process (PID=92832) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:04:38.198+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:04:38.199+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:04:38.199+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:04:38.232+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:04:38.247+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.055 seconds
+[2024-08-17T03:05:09.034+0000] {processor.py:161} INFO - Started process (PID=93210) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:05:09.035+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:05:09.036+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:05:09.036+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:05:09.047+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:05:09.057+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:05:39.698+0000] {processor.py:161} INFO - Started process (PID=93625) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:05:39.699+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:05:39.700+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:05:39.699+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:05:39.709+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:05:39.719+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:06:10.719+0000] {processor.py:161} INFO - Started process (PID=94015) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:06:10.719+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:06:10.720+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:06:10.720+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:06:10.745+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:06:10.755+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.041 seconds
+[2024-08-17T03:06:41.547+0000] {processor.py:161} INFO - Started process (PID=94429) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:06:41.548+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:06:41.548+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:06:41.548+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:06:41.559+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:06:41.569+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:07:12.744+0000] {processor.py:161} INFO - Started process (PID=94825) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:07:12.744+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:07:12.745+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:07:12.745+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:07:12.757+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:07:12.766+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:07:43.573+0000] {processor.py:161} INFO - Started process (PID=95232) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:07:43.573+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:07:43.574+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:07:43.574+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:07:43.584+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:07:43.594+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:08:16.042+0000] {processor.py:161} INFO - Started process (PID=95646) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:08:16.042+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:08:16.043+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:08:16.043+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:08:16.053+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:08:16.062+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:08:59.331+0000] {processor.py:161} INFO - Started process (PID=96092) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:08:59.331+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:08:59.332+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:08:59.332+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:08:59.344+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:08:59.355+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.029 seconds
+[2024-08-17T03:09:30.659+0000] {processor.py:161} INFO - Started process (PID=96535) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:09:30.660+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:09:30.661+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:09:30.660+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:09:30.672+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:09:30.683+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.028 seconds
+[2024-08-17T03:10:01.655+0000] {processor.py:161} INFO - Started process (PID=96977) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:10:01.656+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:10:01.657+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:10:01.657+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:10:01.665+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:10:01.676+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:10:32.759+0000] {processor.py:161} INFO - Started process (PID=97394) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:10:32.760+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:10:32.760+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:10:32.760+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:10:32.771+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:10:32.782+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:11:03.627+0000] {processor.py:161} INFO - Started process (PID=97837) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:11:03.628+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:11:03.629+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:11:03.628+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:11:03.642+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:11:03.653+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.030 seconds
+[2024-08-17T03:11:34.269+0000] {processor.py:161} INFO - Started process (PID=98233) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:11:34.270+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:11:34.271+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:11:34.271+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:11:34.282+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:11:34.292+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.028 seconds
+[2024-08-17T03:12:05.026+0000] {processor.py:161} INFO - Started process (PID=98676) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:12:05.026+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:12:05.027+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:12:05.027+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:12:05.035+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:12:05.045+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:12:35.887+0000] {processor.py:161} INFO - Started process (PID=99100) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:12:35.887+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:12:35.888+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:12:35.888+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:12:35.901+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:12:35.912+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.029 seconds
+[2024-08-17T03:13:06.296+0000] {processor.py:161} INFO - Started process (PID=99536) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:13:06.297+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:13:06.298+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:13:06.298+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:13:06.306+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:13:06.317+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:13:37.307+0000] {processor.py:161} INFO - Started process (PID=99981) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:13:37.308+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:13:37.308+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:13:37.308+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:13:37.320+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:13:37.331+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.028 seconds
+[2024-08-17T03:14:08.064+0000] {processor.py:161} INFO - Started process (PID=692) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:14:08.065+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:14:08.065+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:14:08.065+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:14:08.073+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:14:08.082+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:14:38.644+0000] {processor.py:161} INFO - Started process (PID=1144) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:14:38.645+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:14:38.646+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:14:38.646+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:14:38.655+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:14:38.667+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:15:09.756+0000] {processor.py:161} INFO - Started process (PID=1572) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:15:09.757+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:15:09.757+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:15:09.757+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:15:09.766+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:15:09.775+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:15:41.248+0000] {processor.py:161} INFO - Started process (PID=2007) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:15:41.249+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:15:41.249+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:15:41.249+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:15:41.260+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:15:41.269+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:16:12.206+0000] {processor.py:161} INFO - Started process (PID=2440) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:16:12.207+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:16:12.207+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:16:12.207+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:16:12.215+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:16:12.224+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:16:43.591+0000] {processor.py:161} INFO - Started process (PID=2867) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:16:43.592+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:16:43.593+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:16:43.592+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:16:43.601+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:16:43.610+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:17:14.517+0000] {processor.py:161} INFO - Started process (PID=3321) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:17:14.518+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:17:14.518+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:17:14.518+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:17:14.527+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:17:14.537+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:17:45.129+0000] {processor.py:161} INFO - Started process (PID=3735) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:17:45.130+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:17:45.131+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:17:45.131+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:17:45.139+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:17:45.149+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:18:16.034+0000] {processor.py:161} INFO - Started process (PID=4184) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:18:16.035+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:18:16.035+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:18:16.035+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:18:16.043+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:18:16.052+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.021 seconds
+[2024-08-17T03:18:46.622+0000] {processor.py:161} INFO - Started process (PID=4637) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:18:46.623+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:18:46.623+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:18:46.623+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:18:46.631+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:18:46.640+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:19:17.496+0000] {processor.py:161} INFO - Started process (PID=5066) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:19:17.497+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:19:17.498+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:19:17.497+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:19:17.509+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:19:17.518+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:19:48.165+0000] {processor.py:161} INFO - Started process (PID=5520) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:19:48.165+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:19:48.166+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:19:48.166+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:19:48.176+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:19:48.186+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:20:19.242+0000] {processor.py:161} INFO - Started process (PID=5955) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:20:19.242+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:20:19.243+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:20:19.243+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:20:19.251+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:20:19.261+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:20:50.737+0000] {processor.py:161} INFO - Started process (PID=6391) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:20:50.738+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:20:50.739+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:20:50.739+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:20:50.747+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:20:50.757+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:21:21.716+0000] {processor.py:161} INFO - Started process (PID=6824) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:21:21.717+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:21:21.718+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:21:21.717+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:21:21.725+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:21:21.733+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.021 seconds
+[2024-08-17T03:21:52.806+0000] {processor.py:161} INFO - Started process (PID=7252) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:21:52.807+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:21:52.808+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:21:52.808+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:21:52.834+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:21:52.844+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.042 seconds
+[2024-08-17T03:22:23.903+0000] {processor.py:161} INFO - Started process (PID=7706) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:22:23.904+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:22:23.904+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:22:23.904+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:22:23.916+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:22:23.924+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:22:55.995+0000] {processor.py:161} INFO - Started process (PID=8145) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:22:55.996+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:22:55.996+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:22:55.996+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:22:56.004+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:22:56.013+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:23:26.683+0000] {processor.py:161} INFO - Started process (PID=8571) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:23:26.684+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:23:26.684+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:23:26.684+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:23:26.696+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:23:26.705+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:23:59.448+0000] {processor.py:161} INFO - Started process (PID=9026) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:23:59.449+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:23:59.449+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:23:59.449+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:23:59.456+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:23:59.465+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.021 seconds
+[2024-08-17T03:24:31.003+0000] {processor.py:161} INFO - Started process (PID=9480) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:24:31.005+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:24:31.006+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:24:31.006+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:24:31.015+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:24:31.026+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:25:02.204+0000] {processor.py:161} INFO - Started process (PID=9915) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:25:02.205+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:25:02.205+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:25:02.205+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:25:02.213+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:25:02.224+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:25:32.748+0000] {processor.py:161} INFO - Started process (PID=10351) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:25:32.749+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:25:32.750+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:25:32.749+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:25:32.760+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:25:32.770+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:26:03.797+0000] {processor.py:161} INFO - Started process (PID=10805) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:26:03.798+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:26:03.799+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:26:03.799+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:26:03.808+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:26:03.817+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:26:34.329+0000] {processor.py:161} INFO - Started process (PID=11226) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:26:34.331+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:26:34.333+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:26:34.332+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:26:34.341+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:26:34.350+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:27:05.157+0000] {processor.py:161} INFO - Started process (PID=11680) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:27:05.157+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:27:05.158+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:27:05.158+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:27:05.167+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:27:05.178+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:27:35.881+0000] {processor.py:161} INFO - Started process (PID=12114) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:27:35.881+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:27:35.882+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:27:35.882+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:27:35.894+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:27:35.903+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:28:06.916+0000] {processor.py:161} INFO - Started process (PID=12558) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:28:06.917+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:28:06.917+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:28:06.917+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:28:06.930+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:28:06.939+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:28:38.159+0000] {processor.py:161} INFO - Started process (PID=13010) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:28:38.159+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:28:38.160+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:28:38.160+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:28:38.171+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:28:38.187+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.033 seconds
+[2024-08-17T03:29:10.121+0000] {processor.py:161} INFO - Started process (PID=13443) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:29:10.121+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:29:10.122+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:29:10.122+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:29:10.131+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:29:10.141+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:29:40.911+0000] {processor.py:161} INFO - Started process (PID=13869) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:29:40.912+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:29:40.912+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:29:40.912+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:29:40.921+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:29:40.930+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:30:11.753+0000] {processor.py:161} INFO - Started process (PID=14323) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:30:11.754+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:30:11.755+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:30:11.754+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:30:11.763+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:30:11.773+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:30:42.464+0000] {processor.py:161} INFO - Started process (PID=14730) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:30:42.465+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:30:42.466+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:30:42.466+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:30:42.474+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:30:42.484+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:31:13.420+0000] {processor.py:161} INFO - Started process (PID=15184) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:31:13.420+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:31:13.421+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:31:13.421+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:31:13.433+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:31:13.442+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:31:44.343+0000] {processor.py:161} INFO - Started process (PID=15638) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:31:44.343+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:31:44.344+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:31:44.344+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:31:44.357+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:31:44.366+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:32:15.082+0000] {processor.py:161} INFO - Started process (PID=16065) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:32:15.082+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:32:15.083+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:32:15.083+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:32:15.090+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:32:15.100+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:32:45.891+0000] {processor.py:161} INFO - Started process (PID=16519) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:32:45.892+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:32:45.893+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:32:45.892+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:32:45.905+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:32:45.915+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:33:16.532+0000] {processor.py:161} INFO - Started process (PID=16954) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:33:16.532+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:33:16.533+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:33:16.533+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:33:16.543+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:33:16.552+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:33:47.382+0000] {processor.py:161} INFO - Started process (PID=17401) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:33:47.383+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:33:47.383+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:33:47.383+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:33:47.393+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:33:47.402+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:34:18.227+0000] {processor.py:161} INFO - Started process (PID=17855) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:34:18.228+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:34:18.229+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:34:18.228+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:34:18.237+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:34:18.246+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:34:48.795+0000] {processor.py:161} INFO - Started process (PID=18282) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:34:48.796+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:34:48.796+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:34:48.796+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:34:48.806+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:34:48.816+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:35:19.528+0000] {processor.py:161} INFO - Started process (PID=18735) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:35:19.529+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:35:19.530+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:35:19.530+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:35:19.548+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:35:19.558+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.033 seconds
+[2024-08-17T03:35:50.926+0000] {processor.py:161} INFO - Started process (PID=19166) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:35:50.927+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:35:50.927+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:35:50.927+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:35:50.937+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:35:50.949+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:36:21.757+0000] {processor.py:161} INFO - Started process (PID=19592) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:36:21.757+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:36:21.758+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:36:21.758+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:36:21.771+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:36:21.782+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.030 seconds
+[2024-08-17T03:36:52.352+0000] {processor.py:161} INFO - Started process (PID=20006) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:36:52.353+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:36:52.354+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:36:52.353+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:36:52.362+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:36:52.371+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:37:22.871+0000] {processor.py:161} INFO - Started process (PID=20428) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:37:22.872+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T03:37:22.872+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:37:22.872+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:37:22.880+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T03:37:22.889+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.022 seconds
+[2024-08-17T09:22:49.894+0000] {processor.py:161} INFO - Started process (PID=234) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T09:22:49.895+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T09:22:49.896+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:22:49.896+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T09:22:49.922+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T09:22:49.931+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.041 seconds
+[2024-08-17T09:23:22.431+0000] {processor.py:161} INFO - Started process (PID=683) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T09:23:22.431+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T09:23:22.432+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:23:22.432+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T09:23:22.439+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T09:23:22.447+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.020 seconds
+[2024-08-17T09:23:54.355+0000] {processor.py:161} INFO - Started process (PID=1137) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T09:23:54.355+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T09:23:54.357+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:23:54.356+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T09:23:54.367+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T09:23:54.376+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.025 seconds
+[2024-08-17T09:24:26.997+0000] {processor.py:161} INFO - Started process (PID=1591) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T09:24:26.997+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T09:24:26.998+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:24:26.998+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T09:24:27.007+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T09:24:27.016+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.023 seconds
+[2024-08-17T09:24:58.037+0000] {processor.py:161} INFO - Started process (PID=2026) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T09:24:58.038+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T09:24:58.039+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:24:58.039+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T09:24:58.064+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T09:24:58.074+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.041 seconds
+[2024-08-17T09:25:29.043+0000] {processor.py:161} INFO - Started process (PID=2473) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T09:25:29.043+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T09:25:29.045+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:25:29.044+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T09:25:29.054+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T09:25:29.063+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.023 seconds
+[2024-08-17T09:26:00.232+0000] {processor.py:161} INFO - Started process (PID=2927) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T09:26:00.233+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T09:26:00.234+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:26:00.234+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T09:26:00.244+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T09:26:00.255+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.027 seconds
+[2024-08-17T09:26:30.956+0000] {processor.py:161} INFO - Started process (PID=3355) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T09:26:30.956+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T09:26:30.957+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:26:30.957+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T09:26:30.965+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T09:26:30.975+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.022 seconds
+[2024-08-17T09:27:01.679+0000] {processor.py:161} INFO - Started process (PID=3809) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T09:27:01.679+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T09:27:01.681+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:27:01.681+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T09:27:01.688+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T09:27:01.696+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.020 seconds
+[2024-08-17T09:27:32.533+0000] {processor.py:161} INFO - Started process (PID=4264) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T09:27:32.534+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T09:27:32.535+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:27:32.535+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T09:27:32.552+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T09:27:32.560+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.030 seconds
+[2024-08-17T09:28:03.410+0000] {processor.py:161} INFO - Started process (PID=4692) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T09:28:03.411+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T09:28:03.412+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:28:03.412+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T09:28:03.420+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T09:28:03.431+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.025 seconds
+[2024-08-17T09:28:34.467+0000] {processor.py:161} INFO - Started process (PID=5146) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T09:28:34.468+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T09:28:34.470+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:28:34.469+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T09:28:34.480+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T09:28:34.489+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.026 seconds
+[2024-08-17T09:29:06.180+0000] {processor.py:161} INFO - Started process (PID=5600) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T09:29:06.181+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T09:29:06.182+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:29:06.182+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T09:29:06.189+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T09:29:06.197+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.020 seconds
+[2024-08-17T09:29:38.205+0000] {processor.py:161} INFO - Started process (PID=6028) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T09:29:38.205+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T09:29:38.206+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:29:38.206+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T09:29:38.215+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T09:29:38.224+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.022 seconds
+[2024-08-17T09:30:09.732+0000] {processor.py:161} INFO - Started process (PID=6463) to work on /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T09:30:09.733+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Monaco/TS_model.pkl for tasks to queue
+[2024-08-17T09:30:09.734+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:30:09.734+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T09:30:09.741+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Monaco/TS_model.pkl
+[2024-08-17T09:30:09.751+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Monaco/TS_model.pkl took 0.022 seconds

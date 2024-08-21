@@ -1,0 +1,45 @@
+[2024-08-15T23:55:40.957+0000] {processor.py:161} INFO - Started process (PID=150) to work on /opt/airflow/dags/tasks/preprocess_data.py
+[2024-08-15T23:55:40.958+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/tasks/preprocess_data.py for tasks to queue
+[2024-08-15T23:55:40.959+0000] {logging_mixin.py:188} INFO - [2024-08-15T23:55:40.959+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/tasks/preprocess_data.py
+[2024-08-15T23:55:41.576+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/tasks/preprocess_data.py
+[2024-08-15T23:55:41.583+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/tasks/preprocess_data.py took 0.630 seconds
+[2024-08-15T23:56:11.835+0000] {processor.py:161} INFO - Started process (PID=250) to work on /opt/airflow/dags/tasks/preprocess_data.py
+[2024-08-15T23:56:11.835+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/tasks/preprocess_data.py for tasks to queue
+[2024-08-15T23:56:11.836+0000] {logging_mixin.py:188} INFO - [2024-08-15T23:56:11.836+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/tasks/preprocess_data.py
+[2024-08-15T23:56:12.413+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/tasks/preprocess_data.py
+[2024-08-15T23:56:12.421+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/tasks/preprocess_data.py took 0.590 seconds
+[2024-08-15T23:56:42.751+0000] {processor.py:161} INFO - Started process (PID=375) to work on /opt/airflow/dags/tasks/preprocess_data.py
+[2024-08-15T23:56:42.752+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/tasks/preprocess_data.py for tasks to queue
+[2024-08-15T23:56:42.753+0000] {logging_mixin.py:188} INFO - [2024-08-15T23:56:42.753+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/tasks/preprocess_data.py
+[2024-08-15T23:56:43.364+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/tasks/preprocess_data.py
+[2024-08-15T23:56:43.371+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/tasks/preprocess_data.py took 0.623 seconds
+[2024-08-15T23:57:13.709+0000] {processor.py:161} INFO - Started process (PID=498) to work on /opt/airflow/dags/tasks/preprocess_data.py
+[2024-08-15T23:57:13.710+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/tasks/preprocess_data.py for tasks to queue
+[2024-08-15T23:57:13.711+0000] {logging_mixin.py:188} INFO - [2024-08-15T23:57:13.711+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/tasks/preprocess_data.py
+[2024-08-15T23:57:14.320+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/tasks/preprocess_data.py
+[2024-08-15T23:57:14.327+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/tasks/preprocess_data.py took 0.621 seconds
+[2024-08-15T23:57:44.577+0000] {processor.py:161} INFO - Started process (PID=596) to work on /opt/airflow/dags/tasks/preprocess_data.py
+[2024-08-15T23:57:44.577+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/tasks/preprocess_data.py for tasks to queue
+[2024-08-15T23:57:44.578+0000] {logging_mixin.py:188} INFO - [2024-08-15T23:57:44.578+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/tasks/preprocess_data.py
+[2024-08-15T23:57:45.173+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/tasks/preprocess_data.py
+[2024-08-15T23:57:45.182+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/tasks/preprocess_data.py took 0.609 seconds
+[2024-08-15T23:58:15.516+0000] {processor.py:161} INFO - Started process (PID=720) to work on /opt/airflow/dags/tasks/preprocess_data.py
+[2024-08-15T23:58:15.516+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/tasks/preprocess_data.py for tasks to queue
+[2024-08-15T23:58:15.517+0000] {logging_mixin.py:188} INFO - [2024-08-15T23:58:15.517+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/tasks/preprocess_data.py
+[2024-08-15T23:58:16.102+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/tasks/preprocess_data.py
+[2024-08-15T23:58:16.110+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/tasks/preprocess_data.py took 0.597 seconds
+[2024-08-15T23:58:46.359+0000] {processor.py:161} INFO - Started process (PID=844) to work on /opt/airflow/dags/tasks/preprocess_data.py
+[2024-08-15T23:58:46.360+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/tasks/preprocess_data.py for tasks to queue
+[2024-08-15T23:58:46.361+0000] {logging_mixin.py:188} INFO - [2024-08-15T23:58:46.361+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/tasks/preprocess_data.py
+[2024-08-15T23:58:46.977+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/tasks/preprocess_data.py
+[2024-08-15T23:58:46.985+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/tasks/preprocess_data.py took 0.629 seconds
+[2024-08-15T23:59:17.191+0000] {processor.py:161} INFO - Started process (PID=949) to work on /opt/airflow/dags/tasks/preprocess_data.py
+[2024-08-15T23:59:17.192+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/tasks/preprocess_data.py for tasks to queue
+[2024-08-15T23:59:17.193+0000] {logging_mixin.py:188} INFO - [2024-08-15T23:59:17.193+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/tasks/preprocess_data.py
+[2024-08-15T23:59:17.820+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/tasks/preprocess_data.py
+[2024-08-15T23:59:17.827+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/tasks/preprocess_data.py took 0.641 seconds
+[2024-08-15T23:59:48.008+0000] {processor.py:161} INFO - Started process (PID=1066) to work on /opt/airflow/dags/tasks/preprocess_data.py
+[2024-08-15T23:59:48.009+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/tasks/preprocess_data.py for tasks to queue
+[2024-08-15T23:59:48.010+0000] {logging_mixin.py:188} INFO - [2024-08-15T23:59:48.010+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/tasks/preprocess_data.py
+[2024-08-15T23:59:48.571+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/tasks/preprocess_data.py
+[2024-08-15T23:59:48.579+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/tasks/preprocess_data.py took 0.574 seconds

@@ -1,0 +1,455 @@
+[2024-08-17T02:58:56.901+0000] {processor.py:161} INFO - Started process (PID=88646) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T02:58:56.902+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T02:58:56.903+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:58:56.903+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T02:58:56.914+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T02:58:56.925+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.029 seconds
+[2024-08-17T02:59:27.857+0000] {processor.py:161} INFO - Started process (PID=89034) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T02:59:27.857+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T02:59:27.858+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:59:27.858+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T02:59:27.870+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T02:59:27.880+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.027 seconds
+[2024-08-17T02:59:53.759+0000] {processor.py:161} INFO - Started process (PID=89384) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T02:59:53.760+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T02:59:53.761+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:59:53.761+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T02:59:53.773+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T02:59:53.783+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.028 seconds
+[2024-08-17T03:00:24.540+0000] {processor.py:161} INFO - Started process (PID=89745) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:00:24.541+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:00:24.541+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:00:24.541+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:00:24.553+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:00:24.563+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.028 seconds
+[2024-08-17T03:00:55.553+0000] {processor.py:161} INFO - Started process (PID=90133) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:00:55.553+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:00:55.554+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:00:55.554+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:00:55.566+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:00:55.577+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.028 seconds
+[2024-08-17T03:01:26.669+0000] {processor.py:161} INFO - Started process (PID=90501) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:01:26.670+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:01:26.670+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:01:26.670+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:01:26.682+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:01:26.694+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.029 seconds
+[2024-08-17T03:01:57.167+0000] {processor.py:161} INFO - Started process (PID=90859) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:01:57.168+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:01:57.168+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:01:57.168+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:01:57.180+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:01:57.193+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.031 seconds
+[2024-08-17T03:02:27.999+0000] {processor.py:161} INFO - Started process (PID=91245) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:02:28.000+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:02:28.000+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:02:28.000+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:02:28.009+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:02:28.019+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:02:59.104+0000] {processor.py:161} INFO - Started process (PID=91606) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:02:59.105+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:02:59.106+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:02:59.105+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:02:59.115+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:02:59.126+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:03:29.984+0000] {processor.py:161} INFO - Started process (PID=91992) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:03:29.985+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:03:29.986+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:03:29.985+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:03:29.993+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:03:30.004+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:04:02.635+0000] {processor.py:161} INFO - Started process (PID=92386) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:04:02.636+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:04:02.636+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:04:02.636+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:04:02.649+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:04:02.660+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.029 seconds
+[2024-08-17T03:04:34.242+0000] {processor.py:161} INFO - Started process (PID=92773) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:04:34.243+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:04:34.244+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:04:34.243+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:04:34.267+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:04:34.282+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.044 seconds
+[2024-08-17T03:05:06.070+0000] {processor.py:161} INFO - Started process (PID=93187) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:05:06.070+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:05:06.071+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:05:06.071+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:05:06.093+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:05:06.102+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.037 seconds
+[2024-08-17T03:05:36.964+0000] {processor.py:161} INFO - Started process (PID=93571) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:05:36.965+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:05:36.966+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:05:36.966+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:05:36.982+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:05:36.996+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.035 seconds
+[2024-08-17T03:06:07.797+0000] {processor.py:161} INFO - Started process (PID=93974) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:06:07.798+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:06:07.799+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:06:07.798+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:06:07.811+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:06:07.821+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.028 seconds
+[2024-08-17T03:06:38.929+0000] {processor.py:161} INFO - Started process (PID=94388) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:06:38.930+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:06:38.931+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:06:38.930+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:06:38.940+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:06:38.950+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:07:09.875+0000] {processor.py:161} INFO - Started process (PID=94776) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:07:09.876+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:07:09.876+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:07:09.876+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:07:09.889+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:07:09.899+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.028 seconds
+[2024-08-17T03:07:41.391+0000] {processor.py:161} INFO - Started process (PID=95188) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:07:41.391+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:07:41.392+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:07:41.392+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:07:41.403+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:07:41.413+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:08:13.976+0000] {processor.py:161} INFO - Started process (PID=95602) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:08:13.977+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:08:13.977+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:08:13.977+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:08:13.989+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:08:14.000+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.028 seconds
+[2024-08-17T03:08:46.106+0000] {processor.py:161} INFO - Started process (PID=95971) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:08:46.107+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:08:46.108+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:08:46.108+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:08:46.118+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:08:46.128+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:09:16.669+0000] {processor.py:161} INFO - Started process (PID=96413) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:09:16.670+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:09:16.671+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:09:16.670+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:09:16.682+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:09:16.691+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:09:48.000+0000] {processor.py:161} INFO - Started process (PID=96831) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:09:48.001+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:09:48.001+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:09:48.001+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:09:48.012+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:09:48.023+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:10:19.214+0000] {processor.py:161} INFO - Started process (PID=97275) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:10:19.214+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:10:19.215+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:10:19.215+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:10:19.226+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:10:19.240+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.031 seconds
+[2024-08-17T03:10:49.876+0000] {processor.py:161} INFO - Started process (PID=97714) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:10:49.877+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:10:49.877+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:10:49.877+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:10:49.892+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:10:49.902+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.031 seconds
+[2024-08-17T03:11:20.988+0000] {processor.py:161} INFO - Started process (PID=98100) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:11:20.988+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:11:20.989+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:11:20.989+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:11:20.999+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:11:21.009+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:11:52.042+0000] {processor.py:161} INFO - Started process (PID=98543) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:11:52.042+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:11:52.043+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:11:52.043+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:11:52.053+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:11:52.063+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:12:22.902+0000] {processor.py:161} INFO - Started process (PID=98961) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:12:22.903+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:12:22.903+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:12:22.903+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:12:22.915+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:12:22.927+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.030 seconds
+[2024-08-17T03:12:53.778+0000] {processor.py:161} INFO - Started process (PID=99404) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:12:53.779+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:12:53.780+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:12:53.779+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:12:53.791+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:12:53.801+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:13:25.302+0000] {processor.py:161} INFO - Started process (PID=99849) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:13:25.302+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:13:25.303+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:13:25.303+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:13:25.318+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:13:25.328+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.031 seconds
+[2024-08-17T03:13:58.367+0000] {processor.py:161} INFO - Started process (PID=472) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:13:58.367+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:13:58.368+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:13:58.368+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:13:58.380+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:13:58.389+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:14:29.286+0000] {processor.py:161} INFO - Started process (PID=924) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:14:29.287+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:14:29.287+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:14:29.287+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:14:29.301+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:14:29.312+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.032 seconds
+[2024-08-17T03:15:00.383+0000] {processor.py:161} INFO - Started process (PID=1378) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:15:00.384+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:15:00.384+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:15:00.384+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:15:00.393+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:15:00.402+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:15:31.184+0000] {processor.py:161} INFO - Started process (PID=1806) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:15:31.185+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:15:31.185+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:15:31.185+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:15:31.196+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:15:31.207+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:16:01.886+0000] {processor.py:161} INFO - Started process (PID=2260) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:16:01.887+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:16:01.887+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:16:01.887+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:16:01.895+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:16:01.904+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:16:32.645+0000] {processor.py:161} INFO - Started process (PID=2687) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:16:32.645+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:16:32.646+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:16:32.646+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:16:32.654+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:16:32.664+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:17:03.379+0000] {processor.py:161} INFO - Started process (PID=3140) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:17:03.380+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:17:03.380+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:17:03.380+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:17:03.389+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:17:03.398+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:17:34.296+0000] {processor.py:161} INFO - Started process (PID=3593) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:17:34.297+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:17:34.298+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:17:34.298+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:17:34.307+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:17:34.317+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:18:04.968+0000] {processor.py:161} INFO - Started process (PID=4021) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:18:04.968+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:18:04.969+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:18:04.969+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:18:04.977+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:18:04.987+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:18:35.780+0000] {processor.py:161} INFO - Started process (PID=4456) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:18:35.781+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:18:35.781+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:18:35.781+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:18:35.789+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:18:35.799+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:19:06.371+0000] {processor.py:161} INFO - Started process (PID=4881) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:19:06.372+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:19:06.372+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:19:06.372+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:19:06.384+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:19:06.394+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:19:37.005+0000] {processor.py:161} INFO - Started process (PID=5334) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:19:37.006+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:19:37.007+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:19:37.006+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:19:37.015+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:19:37.025+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:20:08.751+0000] {processor.py:161} INFO - Started process (PID=5769) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:20:08.751+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:20:08.752+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:20:08.752+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:20:08.760+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:20:08.769+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:20:39.295+0000] {processor.py:161} INFO - Started process (PID=6195) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:20:39.296+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:20:39.297+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:20:39.297+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:20:39.309+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:20:39.318+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:21:10.100+0000] {processor.py:161} INFO - Started process (PID=6649) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:21:10.102+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:21:10.104+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:21:10.104+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:21:10.112+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:21:10.121+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:21:40.913+0000] {processor.py:161} INFO - Started process (PID=7077) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:21:40.914+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:21:40.916+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:21:40.915+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:21:40.924+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:21:40.933+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:22:12.043+0000] {processor.py:161} INFO - Started process (PID=7531) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:22:12.046+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:22:12.047+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:22:12.047+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:22:12.058+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:22:12.068+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.029 seconds
+[2024-08-17T03:22:43.191+0000] {processor.py:161} INFO - Started process (PID=7986) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:22:43.191+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:22:43.192+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:22:43.192+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:22:43.201+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:22:43.211+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:23:14.179+0000] {processor.py:161} INFO - Started process (PID=8414) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:23:14.179+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:23:14.180+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:23:14.180+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:23:14.196+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:23:14.205+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.030 seconds
+[2024-08-17T03:23:45.287+0000] {processor.py:161} INFO - Started process (PID=8868) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:23:45.288+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:23:45.289+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:23:45.289+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:23:45.298+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:23:45.307+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:24:16.486+0000] {processor.py:161} INFO - Started process (PID=9322) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:24:16.486+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:24:16.488+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:24:16.488+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:24:16.498+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:24:16.507+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:24:47.612+0000] {processor.py:161} INFO - Started process (PID=9750) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:24:47.612+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:24:47.614+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:24:47.613+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:24:47.632+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:24:47.643+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.035 seconds
+[2024-08-17T03:25:18.437+0000] {processor.py:161} INFO - Started process (PID=10204) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:25:18.438+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:25:18.439+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:25:18.438+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:25:18.447+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:25:18.456+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:25:49.014+0000] {processor.py:161} INFO - Started process (PID=10599) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:25:49.014+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:25:49.015+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:25:49.015+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:25:49.023+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:25:49.032+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.021 seconds
+[2024-08-17T03:26:19.674+0000] {processor.py:161} INFO - Started process (PID=11044) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:26:19.675+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:26:19.676+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:26:19.676+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:26:19.686+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:26:19.695+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:26:50.703+0000] {processor.py:161} INFO - Started process (PID=11498) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:26:50.704+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:26:50.705+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:26:50.704+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:26:50.713+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:26:50.725+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:27:21.268+0000] {processor.py:161} INFO - Started process (PID=11905) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:27:21.269+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:27:21.269+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:27:21.269+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:27:21.278+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:27:21.288+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:27:52.235+0000] {processor.py:161} INFO - Started process (PID=12359) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:27:52.235+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:27:52.236+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:27:52.236+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:27:52.246+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:27:52.255+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:28:22.784+0000] {processor.py:161} INFO - Started process (PID=12794) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:28:22.785+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:28:22.785+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:28:22.785+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:28:22.803+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:28:22.813+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.033 seconds
+[2024-08-17T03:28:56.591+0000] {processor.py:161} INFO - Started process (PID=13201) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:28:56.592+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:28:56.592+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:28:56.592+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:28:56.600+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:28:56.610+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:29:27.581+0000] {processor.py:161} INFO - Started process (PID=13654) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:29:27.581+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:29:27.582+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:29:27.582+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:29:27.591+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:29:27.600+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:29:58.439+0000] {processor.py:161} INFO - Started process (PID=14108) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:29:58.440+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:29:58.441+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:29:58.440+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:29:58.454+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:29:58.464+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.028 seconds
+[2024-08-17T03:30:29.061+0000] {processor.py:161} INFO - Started process (PID=14536) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:30:29.061+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:30:29.062+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:30:29.062+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:30:29.069+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:30:29.079+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.021 seconds
+[2024-08-17T03:30:59.856+0000] {processor.py:161} INFO - Started process (PID=14990) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:30:59.857+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:30:59.857+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:30:59.857+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:30:59.867+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:30:59.876+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:31:30.827+0000] {processor.py:161} INFO - Started process (PID=15426) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:31:30.827+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:31:30.828+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:31:30.827+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:31:30.838+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:31:30.847+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:32:01.560+0000] {processor.py:161} INFO - Started process (PID=15873) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:32:01.562+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:32:01.563+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:32:01.563+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:32:01.573+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:32:01.582+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:32:32.168+0000] {processor.py:161} INFO - Started process (PID=16326) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:32:32.169+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:32:32.169+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:32:32.169+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:32:32.179+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:32:32.188+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:33:03.817+0000] {processor.py:161} INFO - Started process (PID=16754) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:33:03.818+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:33:03.818+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:33:03.818+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:33:03.831+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:33:03.840+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:33:34.645+0000] {processor.py:161} INFO - Started process (PID=17187) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:33:34.645+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:33:34.646+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:33:34.646+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:33:34.654+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:33:34.664+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:34:06.145+0000] {processor.py:161} INFO - Started process (PID=17641) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:34:06.145+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:34:06.146+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:34:06.146+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:34:06.156+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:34:06.166+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:34:36.744+0000] {processor.py:161} INFO - Started process (PID=18027) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:34:36.745+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:34:36.746+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:34:36.746+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:34:36.788+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:34:36.797+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.056 seconds
+[2024-08-17T03:35:07.687+0000] {processor.py:161} INFO - Started process (PID=18481) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:35:07.688+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:35:07.690+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:35:07.690+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:35:07.701+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:35:07.710+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.028 seconds
+[2024-08-17T03:35:38.995+0000] {processor.py:161} INFO - Started process (PID=18935) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:35:38.996+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:35:38.997+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:35:38.996+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:35:39.006+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:35:39.016+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:36:09.897+0000] {processor.py:161} INFO - Started process (PID=19363) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:36:09.898+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:36:09.899+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:36:09.898+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:36:09.906+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:36:09.916+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:36:40.908+0000] {processor.py:161} INFO - Started process (PID=19817) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:36:40.908+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:36:40.909+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:36:40.908+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:36:40.930+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:36:40.940+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.036 seconds
+[2024-08-17T03:37:11.862+0000] {processor.py:161} INFO - Started process (PID=20252) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:37:11.862+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:37:11.863+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:37:11.863+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:37:11.872+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:37:11.881+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:37:43.034+0000] {processor.py:161} INFO - Started process (PID=20699) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:37:43.035+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T03:37:43.035+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:37:43.035+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:37:43.044+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T03:37:43.052+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.022 seconds
+[2024-08-17T09:22:48.884+0000] {processor.py:161} INFO - Started process (PID=200) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T09:22:48.886+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T09:22:48.887+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:22:48.887+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T09:22:48.893+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T09:22:48.901+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.020 seconds
+[2024-08-17T09:23:21.409+0000] {processor.py:161} INFO - Started process (PID=656) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T09:23:21.410+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T09:23:21.411+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:23:21.411+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T09:23:21.419+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T09:23:21.428+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.022 seconds
+[2024-08-17T09:23:53.125+0000] {processor.py:161} INFO - Started process (PID=1110) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T09:23:53.126+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T09:23:53.128+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:23:53.127+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T09:23:53.135+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T09:23:53.144+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.022 seconds
+[2024-08-17T09:24:25.647+0000] {processor.py:161} INFO - Started process (PID=1564) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T09:24:25.648+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T09:24:25.649+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:24:25.649+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T09:24:25.657+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T09:24:25.666+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.023 seconds
+[2024-08-17T09:24:56.806+0000] {processor.py:161} INFO - Started process (PID=1992) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T09:24:56.807+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T09:24:56.808+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:24:56.808+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T09:24:56.817+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T09:24:56.825+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.023 seconds
+[2024-08-17T09:25:27.847+0000] {processor.py:161} INFO - Started process (PID=2446) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T09:25:27.848+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T09:25:27.849+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:25:27.849+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T09:25:27.859+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T09:25:27.867+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.024 seconds
+[2024-08-17T09:25:58.618+0000] {processor.py:161} INFO - Started process (PID=2900) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T09:25:58.619+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T09:25:58.620+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:25:58.620+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T09:25:58.628+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T09:25:58.636+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.022 seconds
+[2024-08-17T09:26:29.227+0000] {processor.py:161} INFO - Started process (PID=3328) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T09:26:29.227+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T09:26:29.229+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:26:29.228+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T09:26:29.241+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T09:26:29.250+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.027 seconds
+[2024-08-17T09:27:00.303+0000] {processor.py:161} INFO - Started process (PID=3782) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T09:27:00.304+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T09:27:00.305+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:27:00.305+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T09:27:00.313+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T09:27:00.321+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.022 seconds
+[2024-08-17T09:27:30.955+0000] {processor.py:161} INFO - Started process (PID=4218) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T09:27:30.956+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T09:27:30.957+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:27:30.957+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T09:27:30.988+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T09:27:30.998+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.046 seconds
+[2024-08-17T09:28:01.796+0000] {processor.py:161} INFO - Started process (PID=4665) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T09:28:01.797+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T09:28:01.799+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:28:01.799+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T09:28:01.815+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T09:28:01.824+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.031 seconds
+[2024-08-17T09:28:32.618+0000] {processor.py:161} INFO - Started process (PID=5119) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T09:28:32.621+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T09:28:32.624+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:28:32.624+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T09:28:32.637+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T09:28:32.647+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.033 seconds
+[2024-08-17T09:29:04.979+0000] {processor.py:161} INFO - Started process (PID=5554) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T09:29:04.979+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T09:29:04.981+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:29:04.980+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T09:29:04.995+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T09:29:05.005+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.030 seconds
+[2024-08-17T09:29:36.669+0000] {processor.py:161} INFO - Started process (PID=5982) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T09:29:36.672+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T09:29:36.674+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:29:36.673+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T09:29:36.702+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T09:29:36.712+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.046 seconds
+[2024-08-17T09:30:07.601+0000] {processor.py:161} INFO - Started process (PID=6434) to work on /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T09:30:07.602+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Peru/TS_model.pkl for tasks to queue
+[2024-08-17T09:30:07.604+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:30:07.603+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T09:30:07.611+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Peru/TS_model.pkl
+[2024-08-17T09:30:07.620+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Peru/TS_model.pkl took 0.022 seconds

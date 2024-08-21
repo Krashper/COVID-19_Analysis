@@ -1,0 +1,35 @@
+[2024-08-18T00:50:57.978+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-08-18T00:50:57.995+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: predict_values_TS_27.get_deaths_dataset.create_deaths_table scheduled__2024-08-11T00:00:00+00:00 [queued]>
+[2024-08-18T00:50:58.003+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: predict_values_TS_27.get_deaths_dataset.create_deaths_table scheduled__2024-08-11T00:00:00+00:00 [queued]>
+[2024-08-18T00:50:58.004+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 2
+[2024-08-18T00:50:58.017+0000] {taskinstance.py:2330} INFO - Executing <Task(PostgresOperator): get_deaths_dataset.create_deaths_table> on 2024-08-11 00:00:00+00:00
+[2024-08-18T00:50:58.028+0000] {warnings.py:110} WARNING - /home/airflow/.local/lib/python3.12/site-packages/airflow/task/task_runner/standard_task_runner.py:61: DeprecationWarning: This process (pid=362) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2024-08-18T00:50:58.029+0000] {standard_task_runner.py:63} INFO - Started process 623 to run task
+[2024-08-18T00:50:58.030+0000] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'predict_values_TS_27', 'get_deaths_dataset.create_deaths_table', 'scheduled__2024-08-11T00:00:00+00:00', '--job-id', '192', '--raw', '--subdir', 'DAGS_FOLDER/etl.py', '--cfg-path', '/tmp/tmps9l1s5qz']
+[2024-08-18T00:50:58.032+0000] {standard_task_runner.py:91} INFO - Job 192: Subtask get_deaths_dataset.create_deaths_table
+[2024-08-18T00:50:58.073+0000] {task_command.py:426} INFO - Running <TaskInstance: predict_values_TS_27.get_deaths_dataset.create_deaths_table scheduled__2024-08-11T00:00:00+00:00 [running]> on host c8cfda02699d
+[2024-08-18T00:50:58.147+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='Ruslan Solarev' AIRFLOW_CTX_DAG_ID='predict_values_TS_27' AIRFLOW_CTX_TASK_ID='get_deaths_dataset.create_deaths_table' AIRFLOW_CTX_EXECUTION_DATE='2024-08-11T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-08-11T00:00:00+00:00'
+[2024-08-18T00:50:58.148+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2024-08-18T00:50:58.158+0000] {sql.py:276} INFO - Executing: CREATE TABLE IF NOT EXISTS Deaths (
+            id SERIAL PRIMARY KEY,
+            Date DATE,
+            Country VARCHAR,
+            Total_cases FLOAT,
+            is_Pred BOOLEAN
+        )
+[2024-08-18T00:50:58.167+0000] {base.py:84} INFO - Using connection ID 'postgres' for task execution.
+[2024-08-18T00:50:58.175+0000] {base.py:84} INFO - Using connection ID 'postgres' for task execution.
+[2024-08-18T00:50:58.221+0000] {sql.py:470} INFO - Running statement: CREATE TABLE IF NOT EXISTS Deaths (
+            id SERIAL PRIMARY KEY,
+            Date DATE,
+            Country VARCHAR,
+            Total_cases FLOAT,
+            is_Pred BOOLEAN
+        ), parameters: None
+[2024-08-18T00:50:58.227+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2024-08-18T00:50:58.236+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=predict_values_TS_27, task_id=get_deaths_dataset.create_deaths_table, run_id=scheduled__2024-08-11T00:00:00+00:00, execution_date=20240811T000000, start_date=20240818T005057, end_date=20240818T005058
+[2024-08-18T00:50:58.283+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2024-08-18T00:50:58.296+0000] {taskinstance.py:3498} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-08-18T00:50:58.298+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

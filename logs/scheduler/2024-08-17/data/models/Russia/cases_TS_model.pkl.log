@@ -1,0 +1,455 @@
+[2024-08-17T10:07:52.499+0000] {processor.py:161} INFO - Started process (PID=30959) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:07:52.500+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:07:52.501+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:07:52.501+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:07:52.522+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:07:52.536+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.041 seconds
+[2024-08-17T10:08:24.615+0000] {processor.py:161} INFO - Started process (PID=31584) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:08:24.616+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:08:24.616+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:08:24.616+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:08:24.696+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:08:24.707+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.095 seconds
+[2024-08-17T10:08:55.373+0000] {processor.py:161} INFO - Started process (PID=32165) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:08:55.374+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:08:55.375+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:08:55.374+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:08:55.384+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:08:55.394+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:09:26.906+0000] {processor.py:161} INFO - Started process (PID=32795) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:09:26.907+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:09:26.907+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:09:26.907+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:09:26.917+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:09:26.927+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:09:57.826+0000] {processor.py:161} INFO - Started process (PID=33404) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:09:57.827+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:09:57.828+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:09:57.827+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:09:57.840+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:09:57.849+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.027 seconds
+[2024-08-17T10:10:29.115+0000] {processor.py:161} INFO - Started process (PID=34006) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:10:29.116+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:10:29.116+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:10:29.116+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:10:29.126+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:10:29.136+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:11:00.216+0000] {processor.py:161} INFO - Started process (PID=34628) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:11:00.216+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:11:00.217+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:11:00.217+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:11:00.226+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:11:00.235+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:11:32.554+0000] {processor.py:161} INFO - Started process (PID=35230) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:11:32.554+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:11:32.555+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:11:32.555+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:11:32.565+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:11:32.575+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:12:03.570+0000] {processor.py:161} INFO - Started process (PID=35837) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:12:03.571+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:12:03.571+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:12:03.571+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:12:03.585+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:12:03.594+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.028 seconds
+[2024-08-17T10:12:35.147+0000] {processor.py:161} INFO - Started process (PID=36435) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:12:35.148+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:12:35.148+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:12:35.148+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:12:35.165+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:12:35.174+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.031 seconds
+[2024-08-17T10:13:14.164+0000] {processor.py:161} INFO - Started process (PID=37128) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:13:14.165+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:13:14.166+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:13:14.165+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:13:14.177+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:13:14.187+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.026 seconds
+[2024-08-17T10:13:45.989+0000] {processor.py:161} INFO - Started process (PID=37739) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:13:45.990+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:13:45.992+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:13:45.992+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:13:46.006+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:13:46.016+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.031 seconds
+[2024-08-17T10:14:19.250+0000] {processor.py:161} INFO - Started process (PID=38405) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:14:19.250+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:14:19.251+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:14:19.251+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:14:19.263+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:14:19.273+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.028 seconds
+[2024-08-17T10:14:50.252+0000] {processor.py:161} INFO - Started process (PID=39055) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:14:50.252+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:14:50.254+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:14:50.254+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:14:50.264+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:14:50.273+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:15:21.405+0000] {processor.py:161} INFO - Started process (PID=39725) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:15:21.406+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:15:21.406+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:15:21.406+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:15:21.416+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:15:21.426+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:15:52.805+0000] {processor.py:161} INFO - Started process (PID=40373) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:15:52.806+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:15:52.806+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:15:52.806+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:15:52.816+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:15:52.826+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:16:25.090+0000] {processor.py:161} INFO - Started process (PID=41052) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:16:25.090+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:16:25.091+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:16:25.091+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:16:25.166+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:16:25.176+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.090 seconds
+[2024-08-17T10:16:56.732+0000] {processor.py:161} INFO - Started process (PID=41745) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:16:56.732+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:16:56.733+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:16:56.733+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:16:56.747+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:16:56.757+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.029 seconds
+[2024-08-17T10:17:28.486+0000] {processor.py:161} INFO - Started process (PID=42411) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:17:28.487+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:17:28.487+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:17:28.487+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:17:28.494+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:17:28.502+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.020 seconds
+[2024-08-17T10:18:09.872+0000] {processor.py:161} INFO - Started process (PID=43152) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:18:09.873+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:18:09.874+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:18:09.874+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:18:09.884+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:18:09.893+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:18:44.049+0000] {processor.py:161} INFO - Started process (PID=43895) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:18:44.049+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:18:44.052+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:18:44.052+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:18:44.068+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:18:44.078+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.032 seconds
+[2024-08-17T10:19:17.685+0000] {processor.py:161} INFO - Started process (PID=44619) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:19:17.685+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:19:17.686+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:19:17.685+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:19:17.693+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:19:17.702+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T10:19:49.972+0000] {processor.py:161} INFO - Started process (PID=45334) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:19:49.972+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:19:49.973+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:19:49.972+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:19:49.982+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:19:49.991+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:20:22.532+0000] {processor.py:161} INFO - Started process (PID=46056) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:20:22.533+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:20:22.534+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:20:22.533+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:20:22.548+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:20:22.557+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.028 seconds
+[2024-08-17T10:20:54.495+0000] {processor.py:161} INFO - Started process (PID=46788) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:20:54.496+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:20:54.497+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:20:54.497+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:20:54.508+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:20:54.517+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:21:25.541+0000] {processor.py:161} INFO - Started process (PID=47495) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:21:25.542+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:21:25.543+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:21:25.542+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:21:25.557+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T10:21:25.566+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.029 seconds
+[2024-08-17T11:58:05.914+0000] {processor.py:161} INFO - Started process (PID=10457) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T11:58:05.915+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:58:05.917+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:58:05.916+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T11:58:05.935+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T11:58:05.952+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.045 seconds
+[2024-08-17T11:58:44.027+0000] {processor.py:161} INFO - Started process (PID=11043) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T11:58:44.028+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:58:44.029+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:58:44.029+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T11:58:44.067+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T11:58:44.085+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.065 seconds
+[2024-08-17T11:59:13.860+0000] {processor.py:161} INFO - Started process (PID=11508) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T11:59:13.861+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:59:13.863+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:59:13.862+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T11:59:13.884+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T11:59:13.902+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T11:59:47.901+0000] {processor.py:161} INFO - Started process (PID=12021) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T11:59:47.902+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:59:47.904+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:59:47.903+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T11:59:47.941+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T11:59:47.957+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.065 seconds
+[2024-08-17T12:00:23.289+0000] {processor.py:161} INFO - Started process (PID=12573) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:00:23.291+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:00:23.291+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:00:23.291+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:00:23.306+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:00:23.322+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.038 seconds
+[2024-08-17T12:01:04.139+0000] {processor.py:161} INFO - Started process (PID=13180) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:01:04.140+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:01:04.141+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:01:04.141+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:01:04.157+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:01:04.176+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.045 seconds
+[2024-08-17T12:01:42.017+0000] {processor.py:161} INFO - Started process (PID=13805) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:01:42.018+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:01:42.020+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:01:42.019+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:01:42.048+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:01:42.067+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.060 seconds
+[2024-08-17T12:02:22.410+0000] {processor.py:161} INFO - Started process (PID=14397) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:02:22.412+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:02:22.413+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:02:22.412+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:02:22.433+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:02:22.450+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T12:03:09.148+0000] {processor.py:161} INFO - Started process (PID=14846) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:03:09.150+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:03:09.152+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:03:09.152+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:03:09.174+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:03:09.191+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T12:03:39.455+0000] {processor.py:161} INFO - Started process (PID=15306) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:03:39.456+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:03:39.457+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:03:39.457+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:03:39.476+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:03:39.494+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T12:04:19.836+0000] {processor.py:161} INFO - Started process (PID=15895) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:04:19.837+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:04:19.839+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:04:19.838+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:04:19.855+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:04:19.873+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T12:04:59.483+0000] {processor.py:161} INFO - Started process (PID=16526) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:04:59.484+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:04:59.486+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:04:59.485+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:04:59.504+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:04:59.526+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.050 seconds
+[2024-08-17T12:05:42.575+0000] {processor.py:161} INFO - Started process (PID=17164) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:05:42.576+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:05:42.578+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:05:42.577+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:05:42.604+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:05:42.622+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.055 seconds
+[2024-08-17T12:06:21.439+0000] {processor.py:161} INFO - Started process (PID=17724) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:06:21.440+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:06:21.441+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:06:21.441+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:06:21.464+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:06:21.479+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T12:06:55.924+0000] {processor.py:161} INFO - Started process (PID=18310) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:06:55.925+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:06:55.927+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:06:55.927+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:06:55.946+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:06:55.965+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T12:07:34.096+0000] {processor.py:161} INFO - Started process (PID=18845) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:07:34.097+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:07:34.099+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:07:34.098+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:07:34.114+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:07:34.134+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.045 seconds
+[2024-08-17T12:08:32.777+0000] {processor.py:161} INFO - Started process (PID=19391) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:08:32.779+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:08:32.781+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:08:32.780+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:08:32.819+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:08:32.840+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.072 seconds
+[2024-08-17T12:09:20.110+0000] {processor.py:161} INFO - Started process (PID=20058) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:09:20.112+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:09:20.113+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:09:20.113+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:09:20.127+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:09:20.145+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.041 seconds
+[2024-08-17T12:10:02.586+0000] {processor.py:161} INFO - Started process (PID=20701) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:10:02.587+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:10:02.589+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:10:02.588+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:10:02.608+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:10:02.625+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T12:10:46.737+0000] {processor.py:161} INFO - Started process (PID=21396) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:10:46.739+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:10:46.740+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:10:46.739+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:10:46.765+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:10:46.787+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.058 seconds
+[2024-08-17T12:11:31.969+0000] {processor.py:161} INFO - Started process (PID=22039) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:11:31.971+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:11:31.972+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:11:31.971+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:11:31.991+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:11:32.010+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T12:12:25.199+0000] {processor.py:161} INFO - Started process (PID=22800) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:12:25.200+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:12:25.202+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:12:25.202+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:12:25.224+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:12:25.242+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T12:13:26.870+0000] {processor.py:161} INFO - Started process (PID=23393) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:13:26.872+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:13:26.874+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:13:26.873+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:13:26.897+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:13:26.917+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.054 seconds
+[2024-08-17T12:14:13.645+0000] {processor.py:161} INFO - Started process (PID=24133) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:14:13.647+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:14:13.648+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:14:13.647+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:14:13.664+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:14:13.683+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T12:14:57.449+0000] {processor.py:161} INFO - Started process (PID=24761) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:14:57.453+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:14:57.455+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:14:57.454+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:14:57.481+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:14:57.502+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.061 seconds
+[2024-08-17T12:15:41.736+0000] {processor.py:161} INFO - Started process (PID=25354) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:15:41.741+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:15:41.743+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:15:41.743+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:15:41.765+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:15:41.786+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.059 seconds
+[2024-08-17T12:16:35.100+0000] {processor.py:161} INFO - Started process (PID=26121) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:16:35.101+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:16:35.103+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:16:35.103+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:16:35.128+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:16:35.149+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.057 seconds
+[2024-08-17T12:17:17.017+0000] {processor.py:161} INFO - Started process (PID=26722) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:17:17.019+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:17:17.020+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:17:17.020+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:17:17.038+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:17:17.056+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T12:18:47.669+0000] {processor.py:161} INFO - Started process (PID=27628) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:18:47.670+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:18:47.671+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:18:47.671+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:18:47.698+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:18:47.718+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.057 seconds
+[2024-08-17T12:19:39.289+0000] {processor.py:161} INFO - Started process (PID=28373) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:19:39.291+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:19:39.292+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:19:39.292+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:19:39.314+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:19:39.333+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T12:20:27.799+0000] {processor.py:161} INFO - Started process (PID=29043) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:20:27.803+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:20:27.808+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:20:27.807+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:20:27.942+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:20:27.968+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.177 seconds
+[2024-08-17T12:21:24.562+0000] {processor.py:161} INFO - Started process (PID=29805) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:21:24.563+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:21:24.564+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:21:24.564+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:21:24.581+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:21:24.599+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.045 seconds
+[2024-08-17T12:22:12.495+0000] {processor.py:161} INFO - Started process (PID=30536) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:22:12.496+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:22:12.498+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:22:12.497+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:22:12.522+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:22:12.542+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.054 seconds
+[2024-08-17T12:23:18.335+0000] {processor.py:161} INFO - Started process (PID=31177) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:23:18.336+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:23:18.337+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:23:18.336+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:23:18.357+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:23:18.371+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.043 seconds
+[2024-08-17T12:24:01.738+0000] {processor.py:161} INFO - Started process (PID=31880) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:24:01.739+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:24:01.741+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:24:01.741+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:24:01.755+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:24:01.770+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.039 seconds
+[2024-08-17T12:24:47.150+0000] {processor.py:161} INFO - Started process (PID=32629) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:24:47.151+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:24:47.152+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:24:47.152+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:24:47.171+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:24:47.184+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.038 seconds
+[2024-08-17T12:25:25.127+0000] {processor.py:161} INFO - Started process (PID=33275) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:25:25.128+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:25:25.129+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:25:25.129+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:25:25.147+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:25:25.161+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.040 seconds
+[2024-08-17T12:26:00.488+0000] {processor.py:161} INFO - Started process (PID=33948) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:26:00.489+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:26:00.489+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:26:00.489+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:26:00.507+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:26:00.521+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.037 seconds
+[2024-08-17T12:26:43.475+0000] {processor.py:161} INFO - Started process (PID=34713) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:26:43.476+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:26:43.477+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:26:43.477+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:26:43.492+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:26:43.505+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.035 seconds
+[2024-08-17T12:27:19.900+0000] {processor.py:161} INFO - Started process (PID=35434) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:27:19.901+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:27:19.902+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:27:19.902+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:27:19.918+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:27:19.931+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.035 seconds
+[2024-08-17T12:28:15.986+0000] {processor.py:161} INFO - Started process (PID=36238) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:28:15.987+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:28:15.988+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:28:15.988+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:28:16.000+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:28:16.012+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.031 seconds
+[2024-08-17T12:28:49.809+0000] {processor.py:161} INFO - Started process (PID=36984) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:28:49.810+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:28:49.810+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:28:49.810+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:28:49.825+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:28:49.836+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.031 seconds
+[2024-08-17T12:29:24.654+0000] {processor.py:161} INFO - Started process (PID=37713) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:29:24.655+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:29:24.656+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:29:24.656+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:29:24.672+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:29:24.684+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.033 seconds
+[2024-08-17T12:29:57.341+0000] {processor.py:161} INFO - Started process (PID=38440) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:29:57.345+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:29:57.346+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:29:57.346+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:29:57.373+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:29:57.383+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.045 seconds
+[2024-08-17T12:30:29.910+0000] {processor.py:161} INFO - Started process (PID=39170) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:30:29.911+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:30:29.912+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:30:29.912+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:30:29.921+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:30:29.931+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T12:31:02.019+0000] {processor.py:161} INFO - Started process (PID=39908) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:31:02.020+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:31:02.021+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:31:02.020+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:31:02.028+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:31:02.038+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T12:31:35.040+0000] {processor.py:161} INFO - Started process (PID=40638) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:31:35.041+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:31:35.042+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:31:35.042+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:31:35.051+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:31:35.062+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.027 seconds
+[2024-08-17T12:32:10.220+0000] {processor.py:161} INFO - Started process (PID=41342) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:32:10.221+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:32:10.222+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:32:10.222+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:32:10.232+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:32:10.242+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.026 seconds
+[2024-08-17T12:32:41.709+0000] {processor.py:161} INFO - Started process (PID=42065) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:32:41.710+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:32:41.711+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:32:41.710+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:32:41.718+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:32:41.727+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T12:33:20.485+0000] {processor.py:161} INFO - Started process (PID=42819) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:33:20.486+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:33:20.486+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:33:20.486+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:33:20.495+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:33:20.504+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T12:33:52.230+0000] {processor.py:161} INFO - Started process (PID=43451) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:33:52.231+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:33:52.231+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:33:52.231+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:33:52.241+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:33:52.251+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T12:34:25.150+0000] {processor.py:161} INFO - Started process (PID=44175) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:34:25.151+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:34:25.153+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:34:25.152+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:34:25.161+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:34:25.170+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T12:34:57.081+0000] {processor.py:161} INFO - Started process (PID=44878) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:34:57.082+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:34:57.083+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:34:57.082+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:34:57.093+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:34:57.104+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.026 seconds
+[2024-08-17T12:35:28.982+0000] {processor.py:161} INFO - Started process (PID=45584) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:35:28.983+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:35:28.984+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:35:28.983+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:35:28.993+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:35:29.003+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T12:36:01.990+0000] {processor.py:161} INFO - Started process (PID=46327) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:36:01.991+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:36:01.992+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:36:01.991+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:36:02.002+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:36:02.011+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T12:36:33.973+0000] {processor.py:161} INFO - Started process (PID=47071) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:36:33.974+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:36:33.974+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:36:33.974+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:36:33.982+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:36:33.991+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T12:37:06.884+0000] {processor.py:161} INFO - Started process (PID=47778) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:37:06.885+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:37:06.885+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:37:06.885+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:37:06.893+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:37:06.902+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T12:37:39.219+0000] {processor.py:161} INFO - Started process (PID=48511) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:37:39.219+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:37:39.220+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:37:39.220+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:37:39.229+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:37:39.238+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T12:38:12.910+0000] {processor.py:161} INFO - Started process (PID=49154) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:38:12.911+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:38:12.912+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:38:12.911+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:38:12.919+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:38:12.927+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T12:38:45.881+0000] {processor.py:161} INFO - Started process (PID=49847) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:38:45.882+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:38:45.883+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:38:45.882+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:38:45.890+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:38:45.899+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T12:39:18.979+0000] {processor.py:161} INFO - Started process (PID=50590) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:39:18.980+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:39:18.980+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:39:18.980+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:39:18.987+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:39:18.997+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T12:39:51.720+0000] {processor.py:161} INFO - Started process (PID=51315) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:39:51.720+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:39:51.721+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:39:51.721+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:39:51.727+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:39:51.736+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.020 seconds
+[2024-08-17T12:40:24.664+0000] {processor.py:161} INFO - Started process (PID=52051) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:40:24.665+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:40:24.665+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:40:24.665+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:40:24.679+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:40:24.688+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.029 seconds
+[2024-08-17T12:40:56.642+0000] {processor.py:161} INFO - Started process (PID=52793) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:40:56.642+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:40:56.643+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:40:56.643+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:40:56.650+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:40:56.659+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T12:41:30.125+0000] {processor.py:161} INFO - Started process (PID=53535) to work on /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:41:30.127+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:41:30.128+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:41:30.128+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:41:30.145+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl
+[2024-08-17T12:41:30.155+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Russia/cases_TS_model.pkl took 0.035 seconds

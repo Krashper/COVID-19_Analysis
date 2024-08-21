@@ -1,0 +1,875 @@
+[2024-08-17T09:57:50.939+0000] {processor.py:161} INFO - Started process (PID=21254) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T09:57:50.940+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:57:50.941+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:57:50.940+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T09:57:50.949+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T09:57:50.958+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T09:58:22.606+0000] {processor.py:161} INFO - Started process (PID=21749) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T09:58:22.606+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:58:22.607+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:58:22.607+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T09:58:22.618+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T09:58:22.628+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.026 seconds
+[2024-08-17T09:58:54.061+0000] {processor.py:161} INFO - Started process (PID=22247) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T09:58:54.062+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:58:54.062+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:58:54.062+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T09:58:54.070+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T09:58:54.079+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T09:59:25.491+0000] {processor.py:161} INFO - Started process (PID=22719) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T09:59:25.492+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:59:25.492+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:59:25.492+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T09:59:25.503+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T09:59:25.513+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T09:59:56.714+0000] {processor.py:161} INFO - Started process (PID=23217) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T09:59:56.714+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:59:56.715+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:59:56.715+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T09:59:56.723+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T09:59:56.733+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:00:27.927+0000] {processor.py:161} INFO - Started process (PID=23715) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:00:27.928+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:00:27.928+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:00:27.928+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:00:27.936+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:00:27.946+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:00:59.489+0000] {processor.py:161} INFO - Started process (PID=24187) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:00:59.490+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:00:59.490+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:00:59.490+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:00:59.501+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:00:59.511+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.026 seconds
+[2024-08-17T10:01:30.477+0000] {processor.py:161} INFO - Started process (PID=24685) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:01:30.478+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:01:30.479+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:01:30.478+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:01:30.488+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:01:30.498+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:02:01.605+0000] {processor.py:161} INFO - Started process (PID=25164) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:02:01.605+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:02:01.606+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:02:01.606+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:02:01.623+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:02:01.633+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.032 seconds
+[2024-08-17T10:02:33.288+0000] {processor.py:161} INFO - Started process (PID=25655) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:02:33.289+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:02:33.290+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:02:33.289+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:02:33.302+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:02:33.311+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.027 seconds
+[2024-08-17T10:03:04.814+0000] {processor.py:161} INFO - Started process (PID=26200) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:03:04.815+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:03:04.815+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:03:04.815+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:03:04.823+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:03:04.832+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T10:03:37.171+0000] {processor.py:161} INFO - Started process (PID=26723) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:03:37.171+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:03:37.172+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:03:37.172+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:03:37.185+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:03:37.195+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.029 seconds
+[2024-08-17T10:04:09.594+0000] {processor.py:161} INFO - Started process (PID=27276) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:04:09.595+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:04:09.595+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:04:09.595+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:04:09.607+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:04:09.618+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.028 seconds
+[2024-08-17T10:04:40.982+0000] {processor.py:161} INFO - Started process (PID=27795) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:04:40.983+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:04:40.984+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:04:40.984+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:04:40.997+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:04:41.006+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.028 seconds
+[2024-08-17T10:05:12.405+0000] {processor.py:161} INFO - Started process (PID=28339) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:05:12.406+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:05:12.406+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:05:12.406+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:05:12.414+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:05:12.423+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T10:05:44.746+0000] {processor.py:161} INFO - Started process (PID=28895) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:05:44.747+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:05:44.747+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:05:44.747+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:05:44.762+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:05:44.773+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.032 seconds
+[2024-08-17T10:06:15.741+0000] {processor.py:161} INFO - Started process (PID=29455) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:06:15.742+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:06:15.743+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:06:15.743+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:06:15.751+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:06:15.760+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T10:06:47.279+0000] {processor.py:161} INFO - Started process (PID=29998) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:06:47.279+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:06:47.280+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:06:47.280+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:06:47.290+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:06:47.300+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:07:18.647+0000] {processor.py:161} INFO - Started process (PID=30554) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:07:18.648+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:07:18.648+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:07:18.648+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:07:18.658+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:07:18.667+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:07:57.869+0000] {processor.py:161} INFO - Started process (PID=31090) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:07:57.870+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:07:57.871+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:07:57.870+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:07:57.878+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:07:57.888+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T10:08:30.816+0000] {processor.py:161} INFO - Started process (PID=31718) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:08:30.817+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:08:30.818+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:08:30.817+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:08:30.826+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:08:30.836+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:09:03.284+0000] {processor.py:161} INFO - Started process (PID=32347) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:09:03.285+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:09:03.285+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:09:03.285+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:09:03.293+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:09:03.303+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:09:36.474+0000] {processor.py:161} INFO - Started process (PID=32976) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:09:36.475+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:09:36.475+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:09:36.475+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:09:36.485+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:09:36.496+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:10:08.484+0000] {processor.py:161} INFO - Started process (PID=33579) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:10:08.485+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:10:08.485+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:10:08.485+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:10:08.510+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:10:08.520+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.039 seconds
+[2024-08-17T10:10:40.372+0000] {processor.py:161} INFO - Started process (PID=34188) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:10:40.373+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:10:40.374+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:10:40.373+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:10:40.383+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:10:40.392+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:11:12.229+0000] {processor.py:161} INFO - Started process (PID=34814) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:11:12.230+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:11:12.231+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:11:12.231+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:11:12.243+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:11:12.253+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.027 seconds
+[2024-08-17T10:11:43.107+0000] {processor.py:161} INFO - Started process (PID=35416) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:11:43.109+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:11:43.110+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:11:43.109+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:11:43.122+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:11:43.131+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.029 seconds
+[2024-08-17T10:12:14.612+0000] {processor.py:161} INFO - Started process (PID=36043) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:12:14.612+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:12:14.613+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:12:14.613+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:12:14.622+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:12:14.631+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:12:58.667+0000] {processor.py:161} INFO - Started process (PID=36736) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:12:58.668+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:12:58.669+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:12:58.668+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:12:58.676+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:12:58.686+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T10:13:31.549+0000] {processor.py:161} INFO - Started process (PID=37403) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:13:31.550+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:13:31.550+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:13:31.550+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:13:31.564+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:13:31.574+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.029 seconds
+[2024-08-17T10:14:03.608+0000] {processor.py:161} INFO - Started process (PID=38096) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:14:03.609+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:14:03.610+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:14:03.609+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:14:03.618+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:14:03.628+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:14:35.555+0000] {processor.py:161} INFO - Started process (PID=38789) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:14:35.556+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:14:35.556+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:14:35.556+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:14:35.564+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:14:35.573+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T10:15:08.628+0000] {processor.py:161} INFO - Started process (PID=39482) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:15:08.629+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:15:08.629+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:15:08.629+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:15:08.640+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:15:08.651+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.026 seconds
+[2024-08-17T10:15:42.065+0000] {processor.py:161} INFO - Started process (PID=40149) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:15:42.066+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:15:42.066+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:15:42.066+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:15:42.079+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:15:42.089+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.028 seconds
+[2024-08-17T10:16:14.299+0000] {processor.py:161} INFO - Started process (PID=40842) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:16:14.300+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:16:14.301+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:16:14.300+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:16:14.313+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:16:14.323+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.028 seconds
+[2024-08-17T10:16:46.529+0000] {processor.py:161} INFO - Started process (PID=41514) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:16:46.530+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:16:46.530+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:16:46.530+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:16:46.540+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:16:46.551+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:17:18.419+0000] {processor.py:161} INFO - Started process (PID=42167) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:17:18.420+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:17:18.421+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:17:18.420+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:17:18.438+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:17:18.448+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.032 seconds
+[2024-08-17T10:18:03.354+0000] {processor.py:161} INFO - Started process (PID=42943) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:18:03.355+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:18:03.356+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:18:03.355+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:18:03.367+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:18:03.376+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:18:37.166+0000] {processor.py:161} INFO - Started process (PID=43686) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:18:37.167+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:18:37.168+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:18:37.168+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:18:37.174+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:18:37.184+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T10:19:10.334+0000] {processor.py:161} INFO - Started process (PID=44429) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:19:10.337+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:19:10.338+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:19:10.338+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:19:10.349+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:19:10.359+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.028 seconds
+[2024-08-17T10:19:43.620+0000] {processor.py:161} INFO - Started process (PID=45180) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:19:43.621+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:19:43.621+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:19:43.621+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:19:43.629+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:19:43.638+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T10:20:15.656+0000] {processor.py:161} INFO - Started process (PID=45904) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:20:15.657+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:20:15.657+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:20:15.657+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:20:15.665+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:20:15.674+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T10:20:47.390+0000] {processor.py:161} INFO - Started process (PID=46640) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:20:47.391+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:20:47.391+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:20:47.391+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:20:47.399+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:20:47.408+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T10:21:19.467+0000] {processor.py:161} INFO - Started process (PID=47385) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:21:19.467+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:21:19.468+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:21:19.467+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:21:19.476+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T10:21:19.485+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T11:17:58.847+0000] {processor.py:161} INFO - Started process (PID=77310) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:17:58.848+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:17:58.850+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:17:58.849+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:17:58.866+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:17:58.886+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:18:31.091+0000] {processor.py:161} INFO - Started process (PID=77746) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:18:31.093+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:18:31.094+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:18:31.094+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:18:31.122+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:18:31.145+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.063 seconds
+[2024-08-17T11:19:03.469+0000] {processor.py:161} INFO - Started process (PID=78200) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:19:03.471+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:19:03.472+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:19:03.472+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:19:03.493+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:19:03.510+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:19:36.744+0000] {processor.py:161} INFO - Started process (PID=78616) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:19:36.745+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:19:36.746+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:19:36.746+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:19:36.767+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:19:36.786+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:20:02.468+0000] {processor.py:161} INFO - Started process (PID=78963) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:20:02.470+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:20:02.471+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:20:02.470+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:20:02.492+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:20:02.509+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:20:35.789+0000] {processor.py:161} INFO - Started process (PID=79378) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:20:35.790+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:20:35.792+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:20:35.791+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:20:35.816+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:20:35.837+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.058 seconds
+[2024-08-17T11:20:40.955+0000] {processor.py:161} INFO - Started process (PID=79457) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:20:40.956+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:20:40.957+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:20:40.957+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:20:40.979+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:20:40.999+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.052 seconds
+[2024-08-17T11:21:16.979+0000] {processor.py:161} INFO - Started process (PID=79914) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:21:16.980+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:21:16.982+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:21:16.981+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:21:17.003+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:21:17.025+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.055 seconds
+[2024-08-17T11:21:48.649+0000] {processor.py:161} INFO - Started process (PID=80282) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:21:48.650+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:21:48.652+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:21:48.651+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:21:48.673+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:21:48.693+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.050 seconds
+[2024-08-17T11:22:23.081+0000] {processor.py:161} INFO - Started process (PID=80704) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:22:23.083+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:22:23.084+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:22:23.084+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:22:23.105+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:22:23.124+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.050 seconds
+[2024-08-17T11:23:03.794+0000] {processor.py:161} INFO - Started process (PID=81093) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:23:03.796+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:23:03.797+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:23:03.796+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:23:03.819+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:23:03.839+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.052 seconds
+[2024-08-17T11:23:37.150+0000] {processor.py:161} INFO - Started process (PID=81561) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:23:37.151+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:23:37.153+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:23:37.152+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:23:37.175+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:23:37.193+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T11:24:10.841+0000] {processor.py:161} INFO - Started process (PID=82039) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:24:10.842+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:24:10.844+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:24:10.843+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:24:10.859+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:24:10.876+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.041 seconds
+[2024-08-17T11:24:42.975+0000] {processor.py:161} INFO - Started process (PID=82468) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:24:42.976+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:24:42.977+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:24:42.977+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:24:42.995+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:24:43.014+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:24:57.423+0000] {processor.py:161} INFO - Started process (PID=82647) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:24:57.425+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:24:57.426+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:24:57.426+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:24:57.446+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:24:57.468+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.053 seconds
+[2024-08-17T11:25:30.179+0000] {processor.py:161} INFO - Started process (PID=83058) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:25:30.181+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:25:30.182+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:25:30.182+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:25:30.201+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:25:30.220+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:26:02.059+0000] {processor.py:161} INFO - Started process (PID=83509) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:26:02.060+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:26:02.061+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:26:02.060+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:26:02.075+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:26:02.093+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.041 seconds
+[2024-08-17T11:26:33.471+0000] {processor.py:161} INFO - Started process (PID=83948) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:26:33.473+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:26:33.475+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:26:33.474+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:26:33.498+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:26:33.521+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.058 seconds
+[2024-08-17T11:27:05.387+0000] {processor.py:161} INFO - Started process (PID=84397) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:27:05.388+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:27:05.390+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:27:05.389+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:27:05.405+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:27:05.421+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.041 seconds
+[2024-08-17T11:27:07.671+0000] {processor.py:161} INFO - Started process (PID=84431) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:27:07.674+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:27:07.675+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:27:07.675+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:27:07.697+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:27:07.715+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T11:27:39.452+0000] {processor.py:161} INFO - Started process (PID=84856) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:27:39.454+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:27:39.456+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:27:39.455+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:27:39.476+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:27:39.494+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:28:02.273+0000] {processor.py:161} INFO - Started process (PID=85016) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:28:02.274+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:28:02.275+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:28:02.275+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:28:02.298+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:28:02.320+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.055 seconds
+[2024-08-17T11:28:35.055+0000] {processor.py:161} INFO - Started process (PID=85500) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:28:35.056+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:28:35.057+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:28:35.057+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:28:35.078+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:28:35.096+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:29:07.499+0000] {processor.py:161} INFO - Started process (PID=85953) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:29:07.500+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:29:07.500+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:29:07.500+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:29:07.520+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:29:07.536+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.043 seconds
+[2024-08-17T11:29:39.371+0000] {processor.py:161} INFO - Started process (PID=86395) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:29:39.373+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:29:39.374+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:29:39.374+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:29:39.399+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:29:39.417+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.054 seconds
+[2024-08-17T11:30:14.167+0000] {processor.py:161} INFO - Started process (PID=86878) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:30:14.168+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:30:14.170+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:30:14.169+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:30:14.195+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:30:14.214+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.054 seconds
+[2024-08-17T11:30:46.459+0000] {processor.py:161} INFO - Started process (PID=87327) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:30:46.460+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:30:46.461+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:30:46.461+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:30:46.485+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:30:46.506+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.055 seconds
+[2024-08-17T11:31:21.937+0000] {processor.py:161} INFO - Started process (PID=87837) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:31:21.938+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:31:21.939+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:31:21.939+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:31:21.956+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:31:21.970+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.039 seconds
+[2024-08-17T11:31:55.639+0000] {processor.py:161} INFO - Started process (PID=88294) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:31:55.640+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:31:55.642+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:31:55.641+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:31:55.661+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:31:55.681+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:32:28.486+0000] {processor.py:161} INFO - Started process (PID=88749) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:32:28.487+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:32:28.489+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:32:28.488+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:32:28.513+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:32:28.531+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.052 seconds
+[2024-08-17T11:33:09.463+0000] {processor.py:161} INFO - Started process (PID=89159) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:33:09.464+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:33:09.466+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:33:09.465+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:33:09.487+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:33:09.505+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:33:44.078+0000] {processor.py:161} INFO - Started process (PID=89679) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:33:44.079+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:33:44.080+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:33:44.080+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:33:44.099+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:33:44.117+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:34:18.252+0000] {processor.py:161} INFO - Started process (PID=90163) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:34:18.254+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:34:18.255+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:34:18.255+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:34:18.275+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:34:18.289+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.043 seconds
+[2024-08-17T11:34:51.576+0000] {processor.py:161} INFO - Started process (PID=90681) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:34:51.579+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:34:51.581+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:34:51.580+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:34:51.599+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:34:51.621+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.053 seconds
+[2024-08-17T11:35:24.718+0000] {processor.py:161} INFO - Started process (PID=91112) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:35:24.719+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:35:24.720+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:35:24.720+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:35:24.742+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:35:24.767+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.057 seconds
+[2024-08-17T11:35:57.766+0000] {processor.py:161} INFO - Started process (PID=91599) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:35:57.767+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:35:57.768+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:35:57.768+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:35:57.787+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:35:57.804+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.045 seconds
+[2024-08-17T11:36:32.063+0000] {processor.py:161} INFO - Started process (PID=92080) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:36:32.064+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:36:32.065+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:36:32.065+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:36:32.080+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:36:32.098+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.042 seconds
+[2024-08-17T11:37:03.946+0000] {processor.py:161} INFO - Started process (PID=92547) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:37:03.948+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:37:03.950+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:37:03.949+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:37:03.970+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:37:03.988+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.050 seconds
+[2024-08-17T11:37:35.537+0000] {processor.py:161} INFO - Started process (PID=93008) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:37:35.538+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:37:35.540+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:37:35.539+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:37:35.561+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:37:35.580+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:38:22.447+0000] {processor.py:161} INFO - Started process (PID=93597) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:38:22.448+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:38:22.450+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:38:22.449+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:38:22.464+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:38:22.478+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.039 seconds
+[2024-08-17T11:38:57.092+0000] {processor.py:161} INFO - Started process (PID=94056) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:38:57.093+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:38:57.095+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:38:57.094+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:38:57.114+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:38:57.133+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T11:39:30.384+0000] {processor.py:161} INFO - Started process (PID=94559) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:39:30.385+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:39:30.387+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:39:30.386+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:39:30.408+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:39:30.427+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:40:06.607+0000] {processor.py:161} INFO - Started process (PID=95091) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:40:06.609+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:40:06.610+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:40:06.610+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:40:06.633+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:40:06.651+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.052 seconds
+[2024-08-17T11:40:45.428+0000] {processor.py:161} INFO - Started process (PID=95653) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:40:45.430+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:40:45.432+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:40:45.431+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:40:45.459+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:40:45.477+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.058 seconds
+[2024-08-17T11:41:21.592+0000] {processor.py:161} INFO - Started process (PID=96187) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:41:21.593+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:41:21.595+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:41:21.594+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:41:21.620+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:41:21.641+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.057 seconds
+[2024-08-17T11:41:56.683+0000] {processor.py:161} INFO - Started process (PID=96712) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:41:56.684+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:41:56.686+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:41:56.685+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:41:56.703+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:41:56.720+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.044 seconds
+[2024-08-17T11:42:31.390+0000] {processor.py:161} INFO - Started process (PID=97220) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:42:31.392+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:42:31.393+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:42:31.392+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:42:31.408+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:42:31.426+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.042 seconds
+[2024-08-17T11:43:09.940+0000] {processor.py:161} INFO - Started process (PID=97571) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:43:09.941+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:43:09.942+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:43:09.942+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:43:09.957+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:43:09.975+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.041 seconds
+[2024-08-17T11:43:48.114+0000] {processor.py:161} INFO - Started process (PID=98139) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:43:48.115+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:43:48.116+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:43:48.116+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:43:48.136+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:43:48.154+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:44:25.930+0000] {processor.py:161} INFO - Started process (PID=98707) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:44:25.931+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:44:25.932+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:44:25.932+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:44:25.950+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:44:25.967+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.043 seconds
+[2024-08-17T11:45:00.406+0000] {processor.py:161} INFO - Started process (PID=99231) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:45:00.407+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:45:00.409+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:45:00.408+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:45:00.428+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:45:00.445+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.045 seconds
+[2024-08-17T11:45:38.054+0000] {processor.py:161} INFO - Started process (PID=99809) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:45:38.056+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:45:38.057+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:45:38.057+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:45:38.071+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:45:38.091+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.044 seconds
+[2024-08-17T11:46:12.638+0000] {processor.py:161} INFO - Started process (PID=665) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:46:12.639+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:46:12.641+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:46:12.640+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:46:12.660+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:46:12.676+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.045 seconds
+[2024-08-17T11:46:49.034+0000] {processor.py:161} INFO - Started process (PID=1192) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:46:49.035+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:46:49.036+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:46:49.036+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:46:49.058+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:46:49.080+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.054 seconds
+[2024-08-17T11:47:24.688+0000] {processor.py:161} INFO - Started process (PID=1713) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:47:24.689+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:47:24.691+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:47:24.690+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:47:24.713+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:47:24.730+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T11:48:17.372+0000] {processor.py:161} INFO - Started process (PID=2284) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:48:17.374+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:48:17.375+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:48:17.375+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:48:17.394+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:48:17.411+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:49:01.011+0000] {processor.py:161} INFO - Started process (PID=2878) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:49:01.012+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:49:01.013+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:49:01.013+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:49:01.041+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:49:01.060+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.057 seconds
+[2024-08-17T11:49:42.272+0000] {processor.py:161} INFO - Started process (PID=3462) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:49:42.274+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:49:42.276+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:49:42.275+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:49:42.293+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:49:42.312+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:50:25.427+0000] {processor.py:161} INFO - Started process (PID=4071) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:50:25.428+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:50:25.430+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:50:25.429+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:50:25.452+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:50:25.471+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.052 seconds
+[2024-08-17T11:51:04.554+0000] {processor.py:161} INFO - Started process (PID=4667) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:51:04.556+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:51:04.557+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:51:04.556+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:51:04.575+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:51:04.593+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.044 seconds
+[2024-08-17T11:51:41.179+0000] {processor.py:161} INFO - Started process (PID=5177) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:51:41.180+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:51:41.182+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:51:41.181+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:51:41.201+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:51:41.220+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:52:16.060+0000] {processor.py:161} INFO - Started process (PID=5683) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:52:16.061+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:52:16.062+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:52:16.062+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:52:16.084+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:52:16.105+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.053 seconds
+[2024-08-17T11:53:17.762+0000] {processor.py:161} INFO - Started process (PID=6349) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:53:17.763+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:53:17.765+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:53:17.764+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:53:17.778+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:53:17.795+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.037 seconds
+[2024-08-17T11:54:01.533+0000] {processor.py:161} INFO - Started process (PID=6987) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:54:01.534+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:54:01.535+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:54:01.535+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:54:01.552+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:54:01.571+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:54:42.005+0000] {processor.py:161} INFO - Started process (PID=7603) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:54:42.007+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:54:42.009+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:54:42.009+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:54:42.029+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:54:42.049+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.052 seconds
+[2024-08-17T11:55:19.528+0000] {processor.py:161} INFO - Started process (PID=8142) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:55:19.530+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:55:19.531+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:55:19.530+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:55:19.550+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:55:19.568+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:55:59.967+0000] {processor.py:161} INFO - Started process (PID=8766) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:55:59.968+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:55:59.970+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:55:59.969+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:55:59.988+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:56:00.008+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:56:37.059+0000] {processor.py:161} INFO - Started process (PID=9353) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:56:37.060+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:56:37.061+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:56:37.061+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:56:37.077+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:56:37.096+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.043 seconds
+[2024-08-17T11:57:12.181+0000] {processor.py:161} INFO - Started process (PID=9903) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:57:12.182+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:57:12.183+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:57:12.182+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:57:12.205+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:57:12.220+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.045 seconds
+[2024-08-17T11:58:20.778+0000] {processor.py:161} INFO - Started process (PID=10682) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:58:20.779+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:58:20.781+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:58:20.780+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:58:20.802+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:58:20.821+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.050 seconds
+[2024-08-17T11:59:00.270+0000] {processor.py:161} INFO - Started process (PID=11307) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:59:00.272+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:59:00.273+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:59:00.272+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:59:00.294+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:59:00.313+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:59:43.129+0000] {processor.py:161} INFO - Started process (PID=11944) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:59:43.131+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:59:43.132+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:59:43.132+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:59:43.145+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T11:59:43.163+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.042 seconds
+[2024-08-17T12:00:24.066+0000] {processor.py:161} INFO - Started process (PID=12588) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:00:24.067+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:00:24.069+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:00:24.068+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:00:24.085+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:00:24.103+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T12:01:05.190+0000] {processor.py:161} INFO - Started process (PID=13195) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:01:05.191+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:01:05.193+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:01:05.192+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:01:05.217+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:01:05.237+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.055 seconds
+[2024-08-17T12:01:43.191+0000] {processor.py:161} INFO - Started process (PID=13820) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:01:43.192+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:01:43.193+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:01:43.193+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:01:43.211+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:01:43.230+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T12:02:26.327+0000] {processor.py:161} INFO - Started process (PID=14457) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:02:26.328+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:02:26.331+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:02:26.330+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:02:26.351+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:02:26.367+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T12:03:19.481+0000] {processor.py:161} INFO - Started process (PID=15009) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:03:19.482+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:03:19.483+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:03:19.483+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:03:19.498+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:03:19.515+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.042 seconds
+[2024-08-17T12:04:04.335+0000] {processor.py:161} INFO - Started process (PID=15689) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:04:04.339+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:04:04.341+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:04:04.340+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:04:04.376+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:04:04.399+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.074 seconds
+[2024-08-17T12:04:47.887+0000] {processor.py:161} INFO - Started process (PID=16352) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:04:47.888+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:04:47.889+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:04:47.889+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:04:47.907+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:04:47.926+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T12:05:31.019+0000] {processor.py:161} INFO - Started process (PID=16972) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:05:31.020+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:05:31.022+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:05:31.021+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:05:31.043+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:05:31.060+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T12:06:10.223+0000] {processor.py:161} INFO - Started process (PID=17566) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:06:10.225+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:06:10.227+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:06:10.226+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:06:10.242+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:06:10.260+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T12:06:48.859+0000] {processor.py:161} INFO - Started process (PID=18195) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:06:48.860+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:06:48.863+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:06:48.862+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:06:48.883+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:06:48.897+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.045 seconds
+[2024-08-17T12:07:38.611+0000] {processor.py:161} INFO - Started process (PID=18920) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:07:38.613+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:07:38.614+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:07:38.614+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:07:38.637+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:07:38.654+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T12:08:44.514+0000] {processor.py:161} INFO - Started process (PID=19546) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:08:44.516+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:08:44.517+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:08:44.517+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:08:44.554+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:08:44.580+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.075 seconds
+[2024-08-17T12:09:28.129+0000] {processor.py:161} INFO - Started process (PID=20209) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:09:28.131+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:09:28.133+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:09:28.132+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:09:28.150+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:09:28.170+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T12:10:20.526+0000] {processor.py:161} INFO - Started process (PID=20943) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:10:20.528+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:10:20.529+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:10:20.529+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:10:20.548+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:10:20.568+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T12:10:59.527+0000] {processor.py:161} INFO - Started process (PID=21567) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:10:59.529+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:10:59.530+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:10:59.529+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:10:59.550+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:10:59.568+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T12:11:51.878+0000] {processor.py:161} INFO - Started process (PID=22324) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:11:51.879+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:11:51.881+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:11:51.880+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:11:51.903+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:11:51.920+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.050 seconds
+[2024-08-17T12:12:44.858+0000] {processor.py:161} INFO - Started process (PID=23088) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:12:44.859+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:12:44.861+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:12:44.861+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:12:44.882+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:12:44.903+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.054 seconds
+[2024-08-17T12:13:35.304+0000] {processor.py:161} INFO - Started process (PID=23557) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:13:35.305+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:13:35.307+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:13:35.306+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:13:35.333+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:13:35.353+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.056 seconds
+[2024-08-17T12:14:23.495+0000] {processor.py:161} INFO - Started process (PID=24275) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:14:23.497+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:14:23.499+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:14:23.498+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:14:23.519+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:14:23.541+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.054 seconds
+[2024-08-17T12:15:19.965+0000] {processor.py:161} INFO - Started process (PID=25038) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:15:19.967+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:15:19.968+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:15:19.968+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:15:19.994+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:15:20.014+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.057 seconds
+[2024-08-17T12:16:00.549+0000] {processor.py:161} INFO - Started process (PID=25668) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:16:00.551+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:16:00.552+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:16:00.552+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:16:00.570+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:16:00.592+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.050 seconds
+[2024-08-17T12:16:58.846+0000] {processor.py:161} INFO - Started process (PID=26487) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:16:58.847+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:16:58.849+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:16:58.848+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:16:58.867+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:16:58.887+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T12:18:23.814+0000] {processor.py:161} INFO - Started process (PID=27353) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:18:23.815+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:18:23.818+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:18:23.817+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:18:23.852+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:18:23.874+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.068 seconds
+[2024-08-17T12:19:20.113+0000] {processor.py:161} INFO - Started process (PID=28121) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:19:20.115+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:19:20.116+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:19:20.116+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:19:20.138+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:19:20.160+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.054 seconds
+[2024-08-17T12:20:01.646+0000] {processor.py:161} INFO - Started process (PID=28705) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:20:01.648+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:20:01.649+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:20:01.649+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:20:01.670+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:20:01.690+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T12:20:58.887+0000] {processor.py:161} INFO - Started process (PID=29385) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:20:58.889+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:20:58.890+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:20:58.889+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:20:58.905+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:20:58.924+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.042 seconds
+[2024-08-17T12:21:41.941+0000] {processor.py:161} INFO - Started process (PID=30072) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:21:41.942+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:21:41.943+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:21:41.943+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:21:41.960+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:21:41.983+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.050 seconds
+[2024-08-17T12:22:36.791+0000] {processor.py:161} INFO - Started process (PID=30891) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:22:36.795+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:22:36.796+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:22:36.796+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:22:36.845+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:22:36.872+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.089 seconds
+[2024-08-17T12:23:37.086+0000] {processor.py:161} INFO - Started process (PID=31471) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:23:37.088+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:23:37.089+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:23:37.089+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:23:37.114+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:23:37.129+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T12:24:22.858+0000] {processor.py:161} INFO - Started process (PID=32220) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:24:22.859+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:24:22.861+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:24:22.860+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:24:22.879+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:24:22.895+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.042 seconds
+[2024-08-17T12:25:05.513+0000] {processor.py:161} INFO - Started process (PID=32968) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:25:05.514+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:25:05.515+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:25:05.515+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:25:05.530+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:25:05.544+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.036 seconds
+[2024-08-17T12:25:50.364+0000] {processor.py:161} INFO - Started process (PID=33730) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:25:50.364+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:25:50.365+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:25:50.365+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:25:50.379+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:25:50.394+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.035 seconds
+[2024-08-17T12:26:26.893+0000] {processor.py:161} INFO - Started process (PID=34433) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:26:26.894+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:26:26.895+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:26:26.894+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:26:26.909+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:26:26.920+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.033 seconds
+[2024-08-17T12:27:07.164+0000] {processor.py:161} INFO - Started process (PID=35181) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:27:07.164+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:27:07.165+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:27:07.165+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:27:07.179+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:27:07.191+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.032 seconds
+[2024-08-17T12:27:44.606+0000] {processor.py:161} INFO - Started process (PID=35930) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:27:44.606+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:27:44.607+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:27:44.607+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:27:44.622+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:27:44.634+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.033 seconds
+[2024-08-17T12:28:36.732+0000] {processor.py:161} INFO - Started process (PID=36735) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:28:36.733+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:28:36.734+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:28:36.734+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:28:36.749+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:28:36.760+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.033 seconds
+[2024-08-17T12:29:15.291+0000] {processor.py:161} INFO - Started process (PID=37512) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:29:15.292+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:29:15.292+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:29:15.292+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:29:15.306+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:29:15.318+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.030 seconds
+[2024-08-17T12:29:47.441+0000] {processor.py:161} INFO - Started process (PID=38190) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:29:47.442+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:29:47.443+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:29:47.442+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:29:47.451+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:29:47.460+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T12:30:20.531+0000] {processor.py:161} INFO - Started process (PID=38937) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:30:20.532+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:30:20.533+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:30:20.532+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:30:20.554+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:30:20.566+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.040 seconds
+[2024-08-17T12:30:52.077+0000] {processor.py:161} INFO - Started process (PID=39663) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:30:52.077+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:30:52.078+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:30:52.078+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:30:52.086+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:30:52.096+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T12:31:23.989+0000] {processor.py:161} INFO - Started process (PID=40368) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:31:23.990+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:31:23.991+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:31:23.991+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:31:23.998+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:31:24.007+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T12:31:57.069+0000] {processor.py:161} INFO - Started process (PID=41107) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:31:57.069+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:31:57.070+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:31:57.070+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:31:57.078+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:31:57.087+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T12:32:31.613+0000] {processor.py:161} INFO - Started process (PID=41849) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:32:31.614+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:32:31.614+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:32:31.614+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:32:31.622+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:32:31.631+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T12:33:14.539+0000] {processor.py:161} INFO - Started process (PID=42664) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:33:14.540+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:33:14.540+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:33:14.540+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:33:14.554+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:33:14.563+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.027 seconds
+[2024-08-17T12:33:48.561+0000] {processor.py:161} INFO - Started process (PID=43374) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:33:48.562+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:33:48.562+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:33:48.562+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:33:48.570+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:33:48.579+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T12:34:22.342+0000] {processor.py:161} INFO - Started process (PID=44097) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:34:22.343+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:34:22.344+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:34:22.343+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:34:22.356+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:34:22.365+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.027 seconds
+[2024-08-17T12:34:55.315+0000] {processor.py:161} INFO - Started process (PID=44833) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:34:55.315+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:34:55.316+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:34:55.316+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:34:55.325+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:34:55.335+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T12:35:29.761+0000] {processor.py:161} INFO - Started process (PID=45605) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:35:29.761+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:35:29.762+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:35:29.762+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:35:29.771+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:35:29.781+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T12:36:02.785+0000] {processor.py:161} INFO - Started process (PID=46348) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:36:02.786+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:36:02.786+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:36:02.786+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:36:02.803+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:36:02.812+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.032 seconds
+[2024-08-17T12:36:34.803+0000] {processor.py:161} INFO - Started process (PID=47092) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:36:34.804+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:36:34.804+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:36:34.804+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:36:34.812+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:36:34.821+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T12:37:07.738+0000] {processor.py:161} INFO - Started process (PID=47809) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:37:07.738+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:37:07.740+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:37:07.740+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:37:07.749+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:37:07.758+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T12:37:40.081+0000] {processor.py:161} INFO - Started process (PID=48535) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:37:40.082+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:37:40.083+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:37:40.083+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:37:40.094+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:37:40.102+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T12:38:17.754+0000] {processor.py:161} INFO - Started process (PID=49303) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:38:17.755+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:38:17.756+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:38:17.755+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:38:17.768+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:38:17.778+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.027 seconds
+[2024-08-17T12:38:52.757+0000] {processor.py:161} INFO - Started process (PID=50018) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:38:52.757+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:38:52.758+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:38:52.758+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:38:52.786+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:38:52.796+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.042 seconds
+[2024-08-17T12:39:27.185+0000] {processor.py:161} INFO - Started process (PID=50761) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:39:27.186+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:39:27.187+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:39:27.186+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:39:27.195+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:39:27.203+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T12:39:59.430+0000] {processor.py:161} INFO - Started process (PID=51487) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:39:59.431+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:39:59.431+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:39:59.431+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:39:59.466+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:39:59.475+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T12:40:31.324+0000] {processor.py:161} INFO - Started process (PID=52211) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:40:31.324+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:40:31.325+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:40:31.325+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:40:31.333+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:40:31.341+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T12:41:03.346+0000] {processor.py:161} INFO - Started process (PID=52934) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:41:03.347+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:41:03.348+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:41:03.347+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:41:03.368+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:41:03.379+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.036 seconds
+[2024-08-17T12:41:34.875+0000] {processor.py:161} INFO - Started process (PID=53649) to work on /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:41:34.876+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:41:34.876+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:41:34.876+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:41:34.887+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl
+[2024-08-17T12:41:34.918+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/France.10/cases_TS_model.pkl took 0.047 seconds

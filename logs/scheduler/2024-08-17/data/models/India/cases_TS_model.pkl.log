@@ -1,0 +1,790 @@
+[2024-08-17T09:57:49.841+0000] {processor.py:161} INFO - Started process (PID=21224) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T09:57:49.842+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:57:49.843+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:57:49.843+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T09:57:49.854+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T09:57:49.867+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.031 seconds
+[2024-08-17T09:58:20.837+0000] {processor.py:161} INFO - Started process (PID=21714) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T09:58:20.838+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:58:20.839+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:58:20.838+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T09:58:20.846+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T09:58:20.856+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T09:58:52.105+0000] {processor.py:161} INFO - Started process (PID=22193) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T09:58:52.106+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:58:52.106+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:58:52.106+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T09:58:52.113+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T09:58:52.123+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T09:59:23.124+0000] {processor.py:161} INFO - Started process (PID=22684) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T09:59:23.125+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:59:23.126+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:59:23.125+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T09:59:23.148+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T09:59:23.159+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.039 seconds
+[2024-08-17T09:59:54.570+0000] {processor.py:161} INFO - Started process (PID=23182) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T09:59:54.571+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:59:54.571+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:59:54.571+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T09:59:54.584+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T09:59:54.594+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.028 seconds
+[2024-08-17T10:00:25.662+0000] {processor.py:161} INFO - Started process (PID=23654) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:00:25.662+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:00:25.663+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:00:25.663+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:00:25.674+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:00:25.684+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.026 seconds
+[2024-08-17T10:00:56.360+0000] {processor.py:161} INFO - Started process (PID=24152) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:00:56.361+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:00:56.361+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:00:56.361+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:00:56.372+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:00:56.383+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.027 seconds
+[2024-08-17T10:01:27.301+0000] {processor.py:161} INFO - Started process (PID=24649) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:01:27.302+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:01:27.302+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:01:27.302+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:01:27.318+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:01:27.329+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.032 seconds
+[2024-08-17T10:01:58.566+0000] {processor.py:161} INFO - Started process (PID=25121) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:01:58.567+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:01:58.567+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:01:58.567+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:01:58.576+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:01:58.586+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:02:30.706+0000] {processor.py:161} INFO - Started process (PID=25600) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:02:30.707+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:02:30.708+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:02:30.708+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:02:30.717+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:02:30.726+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:03:02.250+0000] {processor.py:161} INFO - Started process (PID=26161) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:03:02.251+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:03:02.252+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:03:02.251+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:03:02.319+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:03:02.335+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.091 seconds
+[2024-08-17T10:03:35.486+0000] {processor.py:161} INFO - Started process (PID=26678) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:03:35.487+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:03:35.488+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:03:35.488+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:03:35.496+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:03:35.505+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:04:06.944+0000] {processor.py:161} INFO - Started process (PID=27197) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:04:06.944+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:04:06.945+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:04:06.945+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:04:06.954+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:04:06.963+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:04:39.079+0000] {processor.py:161} INFO - Started process (PID=27760) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:04:39.080+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:04:39.081+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:04:39.080+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:04:39.090+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:04:39.102+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.028 seconds
+[2024-08-17T10:05:09.884+0000] {processor.py:161} INFO - Started process (PID=28285) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:05:09.885+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:05:09.885+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:05:09.885+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:05:09.896+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:05:09.906+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:05:40.855+0000] {processor.py:161} INFO - Started process (PID=28834) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:05:40.856+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:05:40.857+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:05:40.857+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:05:40.869+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:05:40.879+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.027 seconds
+[2024-08-17T10:06:11.806+0000] {processor.py:161} INFO - Started process (PID=29367) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:06:11.807+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:06:11.808+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:06:11.808+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:06:11.815+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:06:11.825+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:06:43.182+0000] {processor.py:161} INFO - Started process (PID=29921) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:06:43.183+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:06:43.183+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:06:43.183+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:06:43.201+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:06:43.211+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.033 seconds
+[2024-08-17T10:07:14.911+0000] {processor.py:161} INFO - Started process (PID=30484) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:07:14.912+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:07:14.912+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:07:14.912+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:07:14.921+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:07:14.931+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:07:56.594+0000] {processor.py:161} INFO - Started process (PID=31055) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:07:56.594+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:07:56.595+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:07:56.595+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:07:56.608+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:07:56.618+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.028 seconds
+[2024-08-17T10:08:29.406+0000] {processor.py:161} INFO - Started process (PID=31683) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:08:29.407+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:08:29.407+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:08:29.407+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:08:29.417+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:08:29.426+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:09:02.189+0000] {processor.py:161} INFO - Started process (PID=32312) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:09:02.189+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:09:02.190+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:09:02.190+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:09:02.200+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:09:02.209+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:09:33.593+0000] {processor.py:161} INFO - Started process (PID=32899) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:09:33.594+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:09:33.594+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:09:33.594+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:09:33.605+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:09:33.615+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:10:04.585+0000] {processor.py:161} INFO - Started process (PID=33507) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:10:04.585+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:10:04.586+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:10:04.586+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:10:04.595+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:10:04.604+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:10:36.652+0000] {processor.py:161} INFO - Started process (PID=34135) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:10:36.652+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:10:36.653+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:10:36.653+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:10:36.667+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:10:36.677+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.029 seconds
+[2024-08-17T10:11:07.465+0000] {processor.py:161} INFO - Started process (PID=34730) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:11:07.465+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:11:07.466+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:11:07.466+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:11:07.478+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:11:07.488+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.026 seconds
+[2024-08-17T10:11:38.721+0000] {processor.py:161} INFO - Started process (PID=35358) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:11:38.722+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:11:38.723+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:11:38.722+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:11:38.745+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:11:38.756+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.039 seconds
+[2024-08-17T10:12:10.653+0000] {processor.py:161} INFO - Started process (PID=35967) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:12:10.653+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:12:10.654+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:12:10.654+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:12:10.663+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:12:10.671+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:12:57.176+0000] {processor.py:161} INFO - Started process (PID=36682) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:12:57.177+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:12:57.178+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:12:57.177+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:12:57.195+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:12:57.205+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.033 seconds
+[2024-08-17T10:13:29.442+0000] {processor.py:161} INFO - Started process (PID=37368) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:13:29.443+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:13:29.443+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:13:29.443+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:13:29.451+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:13:29.461+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:14:01.673+0000] {processor.py:161} INFO - Started process (PID=38061) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:14:01.673+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:14:01.674+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:14:01.674+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:14:01.682+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:14:01.691+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:14:33.891+0000] {processor.py:161} INFO - Started process (PID=38754) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:14:33.891+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:14:33.892+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:14:33.891+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:14:33.900+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:14:33.909+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T10:15:06.323+0000] {processor.py:161} INFO - Started process (PID=39421) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:15:06.323+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:15:06.324+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:15:06.324+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:15:06.339+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:15:06.348+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.029 seconds
+[2024-08-17T10:15:39.956+0000] {processor.py:161} INFO - Started process (PID=40114) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:15:39.957+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:15:39.958+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:15:39.958+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:15:39.969+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:15:39.979+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.027 seconds
+[2024-08-17T10:16:12.329+0000] {processor.py:161} INFO - Started process (PID=40786) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:16:12.330+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:16:12.331+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:16:12.330+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:16:12.339+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:16:12.349+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:16:44.500+0000] {processor.py:161} INFO - Started process (PID=41455) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:16:44.501+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:16:44.501+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:16:44.501+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:16:44.512+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:16:44.521+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:17:16.435+0000] {processor.py:161} INFO - Started process (PID=42122) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:17:16.436+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:17:16.436+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:17:16.436+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:17:16.444+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:17:16.453+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T10:18:02.115+0000] {processor.py:161} INFO - Started process (PID=42908) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:18:02.115+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:18:02.116+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:18:02.116+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:18:02.134+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:18:02.143+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.032 seconds
+[2024-08-17T10:18:35.471+0000] {processor.py:161} INFO - Started process (PID=43651) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:18:35.472+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:18:35.472+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:18:35.472+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:18:35.480+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:18:35.488+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T10:19:09.153+0000] {processor.py:161} INFO - Started process (PID=44394) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:19:09.154+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:19:09.154+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:19:09.154+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:19:09.180+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:19:09.189+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.040 seconds
+[2024-08-17T10:19:41.546+0000] {processor.py:161} INFO - Started process (PID=45137) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:19:41.547+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:19:41.548+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:19:41.548+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:19:41.561+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:19:41.571+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.030 seconds
+[2024-08-17T10:20:13.238+0000] {processor.py:161} INFO - Started process (PID=45835) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:20:13.238+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:20:13.239+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:20:13.239+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:20:13.246+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:20:13.255+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.020 seconds
+[2024-08-17T10:20:44.726+0000] {processor.py:161} INFO - Started process (PID=46597) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:20:44.726+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:20:44.727+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:20:44.727+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:20:44.734+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:20:44.743+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T10:21:16.826+0000] {processor.py:161} INFO - Started process (PID=47340) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:21:16.827+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:21:16.827+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:21:16.827+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:21:16.836+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T10:21:16.845+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T11:28:00.322+0000] {processor.py:161} INFO - Started process (PID=84994) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:28:00.323+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:28:00.325+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:28:00.324+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:28:00.339+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:28:00.355+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.043 seconds
+[2024-08-17T11:28:17.252+0000] {processor.py:161} INFO - Started process (PID=85238) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:28:17.253+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:28:17.255+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:28:17.254+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:28:17.278+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:28:17.298+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.052 seconds
+[2024-08-17T11:28:48.180+0000] {processor.py:161} INFO - Started process (PID=85669) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:28:48.181+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:28:48.183+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:28:48.182+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:28:48.200+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:28:48.220+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:29:23.004+0000] {processor.py:161} INFO - Started process (PID=86162) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:29:23.005+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:29:23.006+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:29:23.006+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:29:23.028+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:29:23.047+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.050 seconds
+[2024-08-17T11:29:57.948+0000] {processor.py:161} INFO - Started process (PID=86664) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:29:57.950+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:29:57.952+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:29:57.951+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:29:57.978+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:29:57.998+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.057 seconds
+[2024-08-17T11:30:30.460+0000] {processor.py:161} INFO - Started process (PID=87095) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:30:30.462+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:30:30.463+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:30:30.463+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:30:30.492+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:30:30.511+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.058 seconds
+[2024-08-17T11:31:04.723+0000] {processor.py:161} INFO - Started process (PID=87576) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:31:04.725+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:31:04.726+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:31:04.725+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:31:04.750+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:31:04.769+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.053 seconds
+[2024-08-17T11:31:24.826+0000] {processor.py:161} INFO - Started process (PID=87864) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:31:24.827+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:31:24.828+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:31:24.828+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:31:24.846+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:31:24.865+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:31:59.766+0000] {processor.py:161} INFO - Started process (PID=88367) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:31:59.767+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:31:59.769+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:31:59.768+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:31:59.792+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:31:59.811+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.053 seconds
+[2024-08-17T11:32:31.793+0000] {processor.py:161} INFO - Started process (PID=88813) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:32:31.795+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:32:31.796+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:32:31.796+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:32:31.817+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:32:31.836+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:33:07.156+0000] {processor.py:161} INFO - Started process (PID=89130) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:33:07.157+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:33:07.159+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:33:07.158+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:33:07.180+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:33:07.196+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:33:22.044+0000] {processor.py:161} INFO - Started process (PID=89377) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:33:22.045+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:33:22.046+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:33:22.046+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:33:22.071+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:33:22.089+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.052 seconds
+[2024-08-17T11:33:54.785+0000] {processor.py:161} INFO - Started process (PID=89805) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:33:54.787+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:33:54.789+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:33:54.789+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:33:54.806+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:33:54.824+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:34:28.861+0000] {processor.py:161} INFO - Started process (PID=90308) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:34:28.863+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:34:28.864+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:34:28.864+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:34:28.884+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:34:28.902+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:34:45.195+0000] {processor.py:161} INFO - Started process (PID=90551) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:34:45.196+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:34:45.198+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:34:45.197+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:34:45.222+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:34:45.243+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.055 seconds
+[2024-08-17T11:35:18.876+0000] {processor.py:161} INFO - Started process (PID=91037) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:35:18.888+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:35:18.890+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:35:18.889+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:35:18.919+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:35:18.939+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.070 seconds
+[2024-08-17T11:35:53.639+0000] {processor.py:161} INFO - Started process (PID=91533) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:35:53.640+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:35:53.642+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:35:53.641+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:35:53.665+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:35:53.682+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:36:26.727+0000] {processor.py:161} INFO - Started process (PID=92000) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:36:26.729+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:36:26.731+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:36:26.730+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:36:26.747+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:36:26.766+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:36:59.578+0000] {processor.py:161} INFO - Started process (PID=92470) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:36:59.580+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:36:59.581+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:36:59.581+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:36:59.602+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:36:59.619+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:37:32.246+0000] {processor.py:161} INFO - Started process (PID=92975) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:37:32.248+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:37:32.249+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:37:32.248+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:37:32.270+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:37:32.286+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.045 seconds
+[2024-08-17T11:38:07.844+0000] {processor.py:161} INFO - Started process (PID=93300) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:38:07.849+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:38:07.850+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:38:07.850+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:38:07.878+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:38:07.893+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.055 seconds
+[2024-08-17T11:38:41.050+0000] {processor.py:161} INFO - Started process (PID=93821) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:38:41.051+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:38:41.052+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:38:41.052+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:38:41.067+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:38:41.082+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.037 seconds
+[2024-08-17T11:39:15.247+0000] {processor.py:161} INFO - Started process (PID=94351) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:39:15.248+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:39:15.249+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:39:15.249+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:39:15.267+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:39:15.286+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:39:52.155+0000] {processor.py:161} INFO - Started process (PID=94881) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:39:52.156+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:39:52.157+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:39:52.157+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:39:52.177+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:39:52.196+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:40:26.600+0000] {processor.py:161} INFO - Started process (PID=95402) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:40:26.601+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:40:26.602+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:40:26.602+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:40:26.621+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:40:26.641+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:40:59.492+0000] {processor.py:161} INFO - Started process (PID=95879) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:40:59.494+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:40:59.495+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:40:59.494+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:40:59.516+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:40:59.534+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:41:33.007+0000] {processor.py:161} INFO - Started process (PID=96359) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:41:33.010+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:41:33.015+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:41:33.014+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:41:33.040+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:41:33.059+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.060 seconds
+[2024-08-17T11:42:06.153+0000] {processor.py:161} INFO - Started process (PID=96838) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:42:06.154+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:42:06.155+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:42:06.155+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:42:06.173+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:42:06.192+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:42:43.719+0000] {processor.py:161} INFO - Started process (PID=97387) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:42:43.721+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:42:43.722+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:42:43.721+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:42:43.743+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:42:43.764+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.052 seconds
+[2024-08-17T11:43:32.007+0000] {processor.py:161} INFO - Started process (PID=97914) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:43:32.008+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:43:32.009+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:43:32.009+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:43:32.024+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:43:32.043+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.042 seconds
+[2024-08-17T11:44:10.614+0000] {processor.py:161} INFO - Started process (PID=98487) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:44:10.615+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:44:10.617+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:44:10.616+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:44:10.640+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:44:10.659+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.052 seconds
+[2024-08-17T11:44:30.259+0000] {processor.py:161} INFO - Started process (PID=98760) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:44:30.260+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:44:30.262+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:44:30.261+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:44:30.284+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:44:30.305+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.050 seconds
+[2024-08-17T11:45:03.364+0000] {processor.py:161} INFO - Started process (PID=99297) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:45:03.365+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:45:03.367+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:45:03.366+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:45:03.384+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:45:03.406+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T11:45:37.066+0000] {processor.py:161} INFO - Started process (PID=99795) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:45:37.067+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:45:37.068+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:45:37.068+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:45:37.091+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:45:37.108+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.050 seconds
+[2024-08-17T11:46:10.964+0000] {processor.py:161} INFO - Started process (PID=641) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:46:10.965+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:46:10.966+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:46:10.966+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:46:10.986+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:46:11.001+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.044 seconds
+[2024-08-17T11:46:47.477+0000] {processor.py:161} INFO - Started process (PID=1163) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:46:47.478+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:46:47.480+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:46:47.479+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:46:47.499+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:46:47.519+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.050 seconds
+[2024-08-17T11:47:23.088+0000] {processor.py:161} INFO - Started process (PID=1692) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:47:23.089+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:47:23.090+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:47:23.090+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:47:23.108+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:47:23.126+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.044 seconds
+[2024-08-17T11:48:14.352+0000] {processor.py:161} INFO - Started process (PID=2233) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:48:14.353+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:48:14.354+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:48:14.354+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:48:14.371+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:48:14.389+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.045 seconds
+[2024-08-17T11:48:51.098+0000] {processor.py:161} INFO - Started process (PID=2772) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:48:51.099+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:48:51.100+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:48:51.100+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:48:51.122+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:48:51.138+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:49:30.204+0000] {processor.py:161} INFO - Started process (PID=3295) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:49:30.205+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:49:30.207+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:49:30.206+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:49:30.222+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:49:30.240+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.045 seconds
+[2024-08-17T11:50:13.187+0000] {processor.py:161} INFO - Started process (PID=3917) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:50:13.189+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:50:13.190+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:50:13.190+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:50:13.208+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:50:13.227+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:50:54.487+0000] {processor.py:161} INFO - Started process (PID=4512) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:50:54.489+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:50:54.490+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:50:54.489+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:50:54.511+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:50:54.528+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:51:28.691+0000] {processor.py:161} INFO - Started process (PID=4995) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:51:28.692+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:51:28.693+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:51:28.693+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:51:28.714+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:51:28.732+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:52:07.944+0000] {processor.py:161} INFO - Started process (PID=5557) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:52:07.946+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:52:07.947+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:52:07.947+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:52:07.972+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:52:07.991+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.054 seconds
+[2024-08-17T11:52:45.067+0000] {processor.py:161} INFO - Started process (PID=6124) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:52:45.068+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:52:45.068+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:52:45.068+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:52:45.087+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:52:45.104+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.044 seconds
+[2024-08-17T11:53:49.954+0000] {processor.py:161} INFO - Started process (PID=6820) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:53:49.955+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:53:49.957+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:53:49.956+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:53:49.987+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:53:50.006+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.060 seconds
+[2024-08-17T11:54:25.096+0000] {processor.py:161} INFO - Started process (PID=7318) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:54:25.097+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:54:25.098+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:54:25.097+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:54:25.110+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:54:25.126+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.041 seconds
+[2024-08-17T11:55:04.670+0000] {processor.py:161} INFO - Started process (PID=7929) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:55:04.672+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:55:04.673+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:55:04.673+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:55:04.687+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:55:04.702+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.038 seconds
+[2024-08-17T11:55:46.947+0000] {processor.py:161} INFO - Started process (PID=8586) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:55:46.948+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:55:46.950+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:55:46.949+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:55:46.968+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:55:46.987+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:56:25.964+0000] {processor.py:161} INFO - Started process (PID=9212) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:56:25.965+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:56:25.966+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:56:25.965+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:56:25.982+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:56:25.999+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.043 seconds
+[2024-08-17T11:57:01.515+0000] {processor.py:161} INFO - Started process (PID=9745) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:57:01.517+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:57:01.518+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:57:01.518+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:57:01.539+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:57:01.558+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T11:57:44.754+0000] {processor.py:161} INFO - Started process (PID=10377) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:57:44.755+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:57:44.756+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:57:44.756+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:57:44.776+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:57:44.793+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:58:47.251+0000] {processor.py:161} INFO - Started process (PID=11086) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:58:47.252+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:58:47.253+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:58:47.253+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:58:47.269+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:58:47.287+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.043 seconds
+[2024-08-17T11:59:27.421+0000] {processor.py:161} INFO - Started process (PID=11701) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:59:27.422+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:59:27.423+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:59:27.423+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:59:27.444+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T11:59:27.460+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T12:00:04.035+0000] {processor.py:161} INFO - Started process (PID=12251) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:00:04.036+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:00:04.037+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:00:04.037+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:00:04.055+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:00:04.076+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T12:00:41.173+0000] {processor.py:161} INFO - Started process (PID=12885) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:00:41.175+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:00:41.176+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:00:41.176+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:00:41.197+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:00:41.214+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T12:01:16.275+0000] {processor.py:161} INFO - Started process (PID=13398) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:01:16.276+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:01:16.278+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:01:16.277+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:01:16.291+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:01:16.310+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.044 seconds
+[2024-08-17T12:01:52.362+0000] {processor.py:161} INFO - Started process (PID=13954) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:01:52.363+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:01:52.364+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:01:52.364+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:01:52.383+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:01:52.403+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T12:02:36.848+0000] {processor.py:161} INFO - Started process (PID=14601) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:02:36.849+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:02:36.850+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:02:36.850+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:02:36.871+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:02:36.890+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T12:03:41.301+0000] {processor.py:161} INFO - Started process (PID=15331) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:03:41.302+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:03:41.303+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:03:41.303+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:03:41.335+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:03:41.353+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.061 seconds
+[2024-08-17T12:04:20.924+0000] {processor.py:161} INFO - Started process (PID=15916) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:04:20.925+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:04:20.927+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:04:20.926+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:04:20.945+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:04:20.965+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T12:05:00.732+0000] {processor.py:161} INFO - Started process (PID=16544) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:05:00.733+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:05:00.736+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:05:00.736+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:05:00.765+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:05:00.786+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.062 seconds
+[2024-08-17T12:05:43.762+0000] {processor.py:161} INFO - Started process (PID=17180) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:05:43.763+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:05:43.764+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:05:43.764+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:05:43.787+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:05:43.807+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.052 seconds
+[2024-08-17T12:06:22.542+0000] {processor.py:161} INFO - Started process (PID=17739) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:06:22.543+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:06:22.544+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:06:22.544+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:06:22.573+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:06:22.598+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.065 seconds
+[2024-08-17T12:06:57.041+0000] {processor.py:161} INFO - Started process (PID=18325) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:06:57.043+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:06:57.044+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:06:57.044+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:06:57.063+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:06:57.082+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T12:07:37.337+0000] {processor.py:161} INFO - Started process (PID=18901) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:07:37.338+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:07:37.339+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:07:37.339+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:07:37.362+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:07:37.381+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.053 seconds
+[2024-08-17T12:08:42.374+0000] {processor.py:161} INFO - Started process (PID=19508) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:08:42.376+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:08:42.377+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:08:42.377+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:08:42.399+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:08:42.418+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.054 seconds
+[2024-08-17T12:09:27.046+0000] {processor.py:161} INFO - Started process (PID=20190) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:09:27.047+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:09:27.049+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:09:27.048+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:09:27.067+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:09:27.087+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T12:10:19.103+0000] {processor.py:161} INFO - Started process (PID=20905) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:10:19.105+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:10:19.106+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:10:19.106+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:10:19.128+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:10:19.146+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T12:10:58.041+0000] {processor.py:161} INFO - Started process (PID=21541) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:10:58.042+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:10:58.044+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:10:58.043+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:10:58.067+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:10:58.086+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.053 seconds
+[2024-08-17T12:11:50.292+0000] {processor.py:161} INFO - Started process (PID=22305) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:11:50.293+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:11:50.294+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:11:50.294+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:11:50.320+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:11:50.339+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.055 seconds
+[2024-08-17T12:12:42.258+0000] {processor.py:161} INFO - Started process (PID=23052) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:12:42.259+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:12:42.261+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:12:42.261+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:12:42.283+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:12:42.304+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.054 seconds
+[2024-08-17T12:13:32.892+0000] {processor.py:161} INFO - Started process (PID=23518) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:13:32.893+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:13:32.895+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:13:32.894+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:13:32.914+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:13:32.935+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.050 seconds
+[2024-08-17T12:14:20.321+0000] {processor.py:161} INFO - Started process (PID=24229) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:14:20.323+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:14:20.324+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:14:20.324+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:14:20.342+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:14:20.360+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.045 seconds
+[2024-08-17T12:15:16.686+0000] {processor.py:161} INFO - Started process (PID=24992) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:15:16.687+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:15:16.688+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:15:16.688+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:15:16.704+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:15:16.720+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.042 seconds
+[2024-08-17T12:15:58.336+0000] {processor.py:161} INFO - Started process (PID=25622) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:15:58.338+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:15:58.340+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:15:58.339+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:15:58.363+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:15:58.384+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.055 seconds
+[2024-08-17T12:16:56.190+0000] {processor.py:161} INFO - Started process (PID=26429) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:16:56.191+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:16:56.193+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:16:56.192+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:16:56.211+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:16:56.229+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T12:17:37.153+0000] {processor.py:161} INFO - Started process (PID=27022) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:17:37.155+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:17:37.156+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:17:37.156+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:17:37.184+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:17:37.206+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.064 seconds
+[2024-08-17T12:18:54.213+0000] {processor.py:161} INFO - Started process (PID=27716) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:18:54.215+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:18:54.216+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:18:54.216+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:18:54.237+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:18:54.257+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T12:19:45.856+0000] {processor.py:161} INFO - Started process (PID=28478) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:19:45.860+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:19:45.862+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:19:45.861+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:19:45.890+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:19:45.913+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.065 seconds
+[2024-08-17T12:20:56.277+0000] {processor.py:161} INFO - Started process (PID=29346) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:20:56.279+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:20:56.280+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:20:56.280+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:20:56.335+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:20:56.359+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.090 seconds
+[2024-08-17T12:21:39.789+0000] {processor.py:161} INFO - Started process (PID=30033) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:21:39.791+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:21:39.793+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:21:39.792+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:21:39.814+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:21:39.832+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.050 seconds
+[2024-08-17T12:22:27.330+0000] {processor.py:161} INFO - Started process (PID=30749) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:22:27.331+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:22:27.332+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:22:27.332+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:22:27.351+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:22:27.370+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T12:23:34.070+0000] {processor.py:161} INFO - Started process (PID=31432) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:23:34.071+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:23:34.072+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:23:34.072+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:23:34.092+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:23:34.112+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T12:24:20.259+0000] {processor.py:161} INFO - Started process (PID=32181) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:24:20.261+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:24:20.262+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:24:20.261+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:24:20.281+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:24:20.297+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.044 seconds
+[2024-08-17T12:25:02.825+0000] {processor.py:161} INFO - Started process (PID=32910) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:25:02.826+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:25:02.828+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:25:02.827+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:25:02.846+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:25:02.862+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.041 seconds
+[2024-08-17T12:25:43.973+0000] {processor.py:161} INFO - Started process (PID=33630) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:25:43.975+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:25:43.976+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:25:43.976+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:25:43.992+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:25:44.004+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.037 seconds
+[2024-08-17T12:26:24.545+0000] {processor.py:161} INFO - Started process (PID=34394) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:26:24.546+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:26:24.547+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:26:24.546+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:26:24.564+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:26:24.578+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.038 seconds
+[2024-08-17T12:27:04.948+0000] {processor.py:161} INFO - Started process (PID=35142) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:27:04.949+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:27:04.950+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:27:04.949+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:27:04.968+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:27:04.985+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.043 seconds
+[2024-08-17T12:27:42.617+0000] {processor.py:161} INFO - Started process (PID=35891) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:27:42.618+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:27:42.619+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:27:42.619+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:27:42.634+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:27:42.647+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.034 seconds
+[2024-08-17T12:28:34.681+0000] {processor.py:161} INFO - Started process (PID=36670) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:28:34.682+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:28:34.682+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:28:34.682+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:28:34.696+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:28:34.708+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.031 seconds
+[2024-08-17T12:29:07.932+0000] {processor.py:161} INFO - Started process (PID=37331) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:29:07.932+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:29:07.933+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:29:07.933+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:29:07.943+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:29:07.953+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.026 seconds
+[2024-08-17T12:29:41.012+0000] {processor.py:161} INFO - Started process (PID=38079) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:29:41.013+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:29:41.014+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:29:41.013+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:29:41.023+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:29:41.033+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T12:30:14.325+0000] {processor.py:161} INFO - Started process (PID=38826) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:30:14.326+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:30:14.326+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:30:14.326+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:30:14.337+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:30:14.348+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.027 seconds
+[2024-08-17T12:30:45.535+0000] {processor.py:161} INFO - Started process (PID=39527) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:30:45.536+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:30:45.537+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:30:45.536+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:30:45.547+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:30:45.557+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.027 seconds
+[2024-08-17T12:31:18.628+0000] {processor.py:161} INFO - Started process (PID=40272) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:31:18.629+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:31:18.630+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:31:18.629+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:31:18.641+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:31:18.651+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.026 seconds
+[2024-08-17T12:31:51.088+0000] {processor.py:161} INFO - Started process (PID=40983) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:31:51.089+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:31:51.089+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:31:51.089+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:31:51.097+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:31:51.107+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T12:32:26.181+0000] {processor.py:161} INFO - Started process (PID=41725) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:32:26.181+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:32:26.182+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:32:26.182+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:32:26.190+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:32:26.200+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T12:33:05.773+0000] {processor.py:161} INFO - Started process (PID=42385) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:33:05.773+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:33:05.774+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:33:05.774+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:33:05.782+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:33:05.793+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T12:33:39.078+0000] {processor.py:161} INFO - Started process (PID=43130) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:33:39.079+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:33:39.079+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:33:39.079+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:33:39.095+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:33:39.105+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.031 seconds
+[2024-08-17T12:34:11.737+0000] {processor.py:161} INFO - Started process (PID=43874) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:34:11.738+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:34:11.739+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:34:11.739+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:34:11.750+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:34:11.759+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.026 seconds
+[2024-08-17T12:34:44.451+0000] {processor.py:161} INFO - Started process (PID=44591) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:34:44.452+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:34:44.453+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:34:44.453+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:34:44.465+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:34:44.476+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.029 seconds
+[2024-08-17T12:35:17.580+0000] {processor.py:161} INFO - Started process (PID=45335) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:35:17.580+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:35:17.581+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:35:17.581+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:35:17.588+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:35:17.597+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T12:35:50.356+0000] {processor.py:161} INFO - Started process (PID=46080) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:35:50.356+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:35:50.357+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:35:50.357+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:35:50.363+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:35:50.372+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.020 seconds
+[2024-08-17T12:36:22.445+0000] {processor.py:161} INFO - Started process (PID=46805) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:36:22.446+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:36:22.447+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:36:22.446+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:36:22.462+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:36:22.472+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.030 seconds
+[2024-08-17T12:36:55.385+0000] {processor.py:161} INFO - Started process (PID=47530) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:36:55.388+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:36:55.389+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:36:55.388+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:36:55.399+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:36:55.409+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.028 seconds
+[2024-08-17T12:37:27.483+0000] {processor.py:161} INFO - Started process (PID=48266) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:37:27.484+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:37:27.484+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:37:27.484+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:37:27.497+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:37:27.506+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.027 seconds
+[2024-08-17T12:38:06.269+0000] {processor.py:161} INFO - Started process (PID=48951) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:38:06.270+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:38:06.270+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:38:06.270+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:38:06.277+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:38:06.286+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T12:38:40.264+0000] {processor.py:161} INFO - Started process (PID=49687) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:38:40.265+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:38:40.265+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:38:40.265+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:38:40.273+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:38:40.281+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.020 seconds
+[2024-08-17T12:39:13.082+0000] {processor.py:161} INFO - Started process (PID=50430) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:39:13.083+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:39:13.084+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:39:13.083+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:39:13.092+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:39:13.103+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T12:39:45.229+0000] {processor.py:161} INFO - Started process (PID=51173) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:39:45.229+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:39:45.230+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:39:45.230+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:39:45.240+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:39:45.249+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T12:40:17.196+0000] {processor.py:161} INFO - Started process (PID=51917) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:40:17.197+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:40:17.198+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:40:17.197+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:40:17.205+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:40:17.214+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T12:40:50.397+0000] {processor.py:161} INFO - Started process (PID=52643) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:40:50.397+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:40:50.398+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:40:50.398+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:40:50.414+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:40:50.423+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.030 seconds
+[2024-08-17T12:41:23.012+0000] {processor.py:161} INFO - Started process (PID=53387) to work on /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:41:23.013+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/India/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:41:23.013+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:41:23.013+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:41:23.022+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/India/cases_TS_model.pkl
+[2024-08-17T12:41:23.031+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/India/cases_TS_model.pkl took 0.023 seconds

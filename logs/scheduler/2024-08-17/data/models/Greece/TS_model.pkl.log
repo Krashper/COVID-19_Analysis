@@ -1,0 +1,550 @@
+[2024-08-17T02:48:54.092+0000] {processor.py:161} INFO - Started process (PID=82268) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:48:54.093+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T02:48:54.093+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:48:54.093+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:48:54.107+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:48:54.119+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.031 seconds
+[2024-08-17T02:49:24.906+0000] {processor.py:161} INFO - Started process (PID=82571) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:49:24.907+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T02:49:24.908+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:49:24.907+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:49:24.920+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:49:24.929+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.027 seconds
+[2024-08-17T02:49:55.617+0000] {processor.py:161} INFO - Started process (PID=82900) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:49:55.617+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T02:49:55.618+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:49:55.618+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:49:55.648+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:49:55.658+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.047 seconds
+[2024-08-17T02:50:26.365+0000] {processor.py:161} INFO - Started process (PID=83203) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:50:26.366+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T02:50:26.366+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:50:26.366+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:50:26.376+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:50:26.386+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.025 seconds
+[2024-08-17T02:50:57.355+0000] {processor.py:161} INFO - Started process (PID=83532) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:50:57.355+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T02:50:57.356+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:50:57.356+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:50:57.370+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:50:57.382+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.031 seconds
+[2024-08-17T02:51:28.145+0000] {processor.py:161} INFO - Started process (PID=83841) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:51:28.147+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T02:51:28.147+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:51:28.147+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:51:28.161+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:51:28.171+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.031 seconds
+[2024-08-17T02:51:59.483+0000] {processor.py:161} INFO - Started process (PID=84163) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:51:59.484+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T02:51:59.485+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:51:59.485+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:51:59.498+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:51:59.508+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.029 seconds
+[2024-08-17T02:52:30.211+0000] {processor.py:161} INFO - Started process (PID=84471) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:52:30.212+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T02:52:30.213+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:52:30.212+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:52:30.224+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:52:30.234+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.027 seconds
+[2024-08-17T02:53:00.858+0000] {processor.py:161} INFO - Started process (PID=84774) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:53:00.859+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T02:53:00.860+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:53:00.859+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:53:00.869+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:53:00.878+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.024 seconds
+[2024-08-17T02:53:31.522+0000] {processor.py:161} INFO - Started process (PID=85103) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:53:31.523+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T02:53:31.523+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:53:31.523+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:53:31.533+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:53:31.544+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.026 seconds
+[2024-08-17T02:54:02.405+0000] {processor.py:161} INFO - Started process (PID=85436) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:54:02.406+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T02:54:02.406+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:54:02.406+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:54:02.415+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:54:02.425+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.025 seconds
+[2024-08-17T02:54:32.929+0000] {processor.py:161} INFO - Started process (PID=85774) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:54:32.930+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T02:54:32.932+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:54:32.931+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:54:32.940+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:54:32.951+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.027 seconds
+[2024-08-17T02:55:03.712+0000] {processor.py:161} INFO - Started process (PID=86114) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:55:03.713+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T02:55:03.714+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:55:03.714+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:55:03.725+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:55:03.736+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.029 seconds
+[2024-08-17T02:55:34.525+0000] {processor.py:161} INFO - Started process (PID=86466) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:55:34.526+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T02:55:34.528+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:55:34.527+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:55:34.539+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:55:34.549+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.029 seconds
+[2024-08-17T02:56:05.519+0000] {processor.py:161} INFO - Started process (PID=86824) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:56:05.520+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T02:56:05.520+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:56:05.520+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:56:05.532+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:56:05.543+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.028 seconds
+[2024-08-17T02:56:36.413+0000] {processor.py:161} INFO - Started process (PID=87156) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:56:36.414+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T02:56:36.415+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:56:36.414+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:56:36.427+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:56:36.437+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.027 seconds
+[2024-08-17T02:57:07.329+0000] {processor.py:161} INFO - Started process (PID=87515) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:57:07.330+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T02:57:07.331+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:57:07.330+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:57:07.345+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:57:07.362+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.038 seconds
+[2024-08-17T02:57:38.500+0000] {processor.py:161} INFO - Started process (PID=87854) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:57:38.500+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T02:57:38.501+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:57:38.501+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:57:38.515+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:57:38.527+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.031 seconds
+[2024-08-17T02:58:09.520+0000] {processor.py:161} INFO - Started process (PID=88200) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:58:09.521+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T02:58:09.522+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:58:09.521+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:58:09.533+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:58:09.544+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.028 seconds
+[2024-08-17T02:58:41.337+0000] {processor.py:161} INFO - Started process (PID=88558) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:58:41.338+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T02:58:41.339+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:58:41.338+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:58:41.351+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:58:41.362+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.029 seconds
+[2024-08-17T02:59:13.469+0000] {processor.py:161} INFO - Started process (PID=88900) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:59:13.469+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T02:59:13.470+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:59:13.470+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:59:13.486+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:59:13.497+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.034 seconds
+[2024-08-17T02:59:44.451+0000] {processor.py:161} INFO - Started process (PID=89286) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:59:44.452+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T02:59:44.452+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:59:44.452+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:59:44.466+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T02:59:44.477+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.031 seconds
+[2024-08-17T03:00:15.338+0000] {processor.py:161} INFO - Started process (PID=89672) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:00:15.339+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:00:15.340+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:00:15.339+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:00:15.353+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:00:15.363+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.029 seconds
+[2024-08-17T03:00:46.295+0000] {processor.py:161} INFO - Started process (PID=90033) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:00:46.295+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:00:46.296+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:00:46.296+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:00:46.311+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:00:46.322+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.031 seconds
+[2024-08-17T03:01:17.316+0000] {processor.py:161} INFO - Started process (PID=90418) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:01:17.316+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:01:17.317+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:01:17.317+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:01:17.330+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:01:17.340+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.029 seconds
+[2024-08-17T03:01:48.511+0000] {processor.py:161} INFO - Started process (PID=90758) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:01:48.512+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:01:48.513+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:01:48.513+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:01:48.527+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:01:48.541+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.034 seconds
+[2024-08-17T03:02:19.268+0000] {processor.py:161} INFO - Started process (PID=91142) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:02:19.269+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:02:19.270+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:02:19.270+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:02:19.281+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:02:19.291+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:02:50.565+0000] {processor.py:161} INFO - Started process (PID=91531) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:02:50.567+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:02:50.568+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:02:50.568+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:02:50.578+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:02:50.589+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:03:21.373+0000] {processor.py:161} INFO - Started process (PID=91890) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:03:21.373+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:03:21.374+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:03:21.374+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:03:21.388+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:03:21.400+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.032 seconds
+[2024-08-17T03:03:59.072+0000] {processor.py:161} INFO - Started process (PID=92292) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:03:59.073+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:03:59.074+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:03:59.073+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:03:59.088+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:03:59.097+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.030 seconds
+[2024-08-17T03:04:30.445+0000] {processor.py:161} INFO - Started process (PID=92705) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:04:30.446+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:04:30.447+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:04:30.447+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:04:30.458+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:04:30.468+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:05:01.932+0000] {processor.py:161} INFO - Started process (PID=93100) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:05:01.933+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:05:01.933+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:05:01.933+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:05:01.946+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:05:01.957+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.029 seconds
+[2024-08-17T03:05:33.004+0000] {processor.py:161} INFO - Started process (PID=93507) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:05:33.005+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:05:33.005+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:05:33.005+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:05:33.018+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:05:33.029+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.029 seconds
+[2024-08-17T03:06:03.952+0000] {processor.py:161} INFO - Started process (PID=93922) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:06:03.952+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:06:03.953+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:06:03.953+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:06:03.967+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:06:03.980+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.033 seconds
+[2024-08-17T03:06:35.008+0000] {processor.py:161} INFO - Started process (PID=94311) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:06:35.009+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:06:35.010+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:06:35.010+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:06:35.024+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:06:35.034+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.030 seconds
+[2024-08-17T03:07:06.559+0000] {processor.py:161} INFO - Started process (PID=94726) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:07:06.560+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:07:06.561+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:07:06.560+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:07:06.573+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:07:06.584+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.029 seconds
+[2024-08-17T03:07:38.487+0000] {processor.py:161} INFO - Started process (PID=95136) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:07:38.488+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:07:38.489+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:07:38.488+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:07:38.513+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:07:38.524+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.041 seconds
+[2024-08-17T03:08:09.662+0000] {processor.py:161} INFO - Started process (PID=95503) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:08:09.663+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:08:09.664+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:08:09.663+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:08:09.677+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:08:09.688+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.030 seconds
+[2024-08-17T03:08:40.511+0000] {processor.py:161} INFO - Started process (PID=95917) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:08:40.512+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:08:40.513+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:08:40.513+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:08:40.524+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:08:40.534+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:09:11.548+0000] {processor.py:161} INFO - Started process (PID=96335) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:09:11.548+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:09:11.549+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:09:11.549+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:09:11.557+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:09:11.567+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:09:42.368+0000] {processor.py:161} INFO - Started process (PID=96778) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:09:42.369+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:09:42.369+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:09:42.369+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:09:42.380+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:09:42.390+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:10:14.047+0000] {processor.py:161} INFO - Started process (PID=97194) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:10:14.047+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:10:14.048+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:10:14.048+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:10:14.061+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:10:14.071+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.028 seconds
+[2024-08-17T03:10:44.890+0000] {processor.py:161} INFO - Started process (PID=97591) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:10:44.891+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:10:44.891+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:10:44.891+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:10:44.900+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:10:44.911+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:11:15.854+0000] {processor.py:161} INFO - Started process (PID=98035) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:11:15.855+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:11:15.856+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:11:15.855+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:11:15.867+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:11:15.878+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.028 seconds
+[2024-08-17T03:11:47.047+0000] {processor.py:161} INFO - Started process (PID=98455) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:11:47.047+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:11:47.048+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:11:47.048+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:11:47.059+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:11:47.070+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:12:18.091+0000] {processor.py:161} INFO - Started process (PID=98899) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:12:18.092+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:12:18.092+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:12:18.092+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:12:18.106+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:12:18.117+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.030 seconds
+[2024-08-17T03:12:49.231+0000] {processor.py:161} INFO - Started process (PID=99321) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:12:49.232+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:12:49.233+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:12:49.233+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:12:49.244+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:12:49.256+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.028 seconds
+[2024-08-17T03:13:19.829+0000] {processor.py:161} INFO - Started process (PID=99738) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:13:19.830+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:13:19.830+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:13:19.830+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:13:19.839+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:13:19.849+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:14:00.040+0000] {processor.py:161} INFO - Started process (PID=522) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:14:00.041+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:14:00.042+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:14:00.041+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:14:00.054+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:14:00.065+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.029 seconds
+[2024-08-17T03:14:30.983+0000] {processor.py:161} INFO - Started process (PID=948) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:14:30.984+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:14:30.985+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:14:30.985+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:14:30.994+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:14:31.003+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:15:01.783+0000] {processor.py:161} INFO - Started process (PID=1402) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:15:01.784+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:15:01.784+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:15:01.784+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:15:01.795+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:15:01.804+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:15:32.632+0000] {processor.py:161} INFO - Started process (PID=1830) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:15:32.632+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:15:32.634+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:15:32.633+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:15:32.642+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:15:32.651+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:16:03.554+0000] {processor.py:161} INFO - Started process (PID=2284) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:16:03.554+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:16:03.555+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:16:03.555+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:16:03.562+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:16:03.572+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:16:34.554+0000] {processor.py:161} INFO - Started process (PID=2719) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:16:34.589+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:16:34.597+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:16:34.597+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:16:34.609+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:16:34.620+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.071 seconds
+[2024-08-17T03:17:05.209+0000] {processor.py:161} INFO - Started process (PID=3166) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:17:05.209+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:17:05.210+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:17:05.210+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:17:05.218+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:17:05.228+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:17:36.011+0000] {processor.py:161} INFO - Started process (PID=3620) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:17:36.011+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:17:36.012+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:17:36.012+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:17:36.026+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:17:36.037+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.030 seconds
+[2024-08-17T03:18:06.857+0000] {processor.py:161} INFO - Started process (PID=4048) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:18:06.858+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:18:06.859+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:18:06.859+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:18:06.875+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:18:06.886+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.033 seconds
+[2024-08-17T03:18:37.629+0000] {processor.py:161} INFO - Started process (PID=4502) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:18:37.630+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:18:37.631+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:18:37.630+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:18:37.640+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:18:37.649+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:19:08.939+0000] {processor.py:161} INFO - Started process (PID=4936) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:19:08.940+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:19:08.942+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:19:08.942+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:19:08.960+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:19:08.971+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.040 seconds
+[2024-08-17T03:19:39.532+0000] {processor.py:161} INFO - Started process (PID=5362) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:19:39.533+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:19:39.535+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:19:39.535+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:19:39.545+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:19:39.554+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:20:10.378+0000] {processor.py:161} INFO - Started process (PID=5815) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:20:10.384+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:20:10.387+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:20:10.387+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:20:10.427+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:20:10.435+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.061 seconds
+[2024-08-17T03:20:41.044+0000] {processor.py:161} INFO - Started process (PID=6222) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:20:41.045+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:20:41.045+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:20:41.045+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:20:41.055+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:20:41.064+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:21:11.707+0000] {processor.py:161} INFO - Started process (PID=6676) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:21:11.707+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:21:11.708+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:21:11.708+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:21:11.715+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:21:11.724+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.021 seconds
+[2024-08-17T03:21:42.725+0000] {processor.py:161} INFO - Started process (PID=7130) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:21:42.726+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:21:42.727+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:21:42.726+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:21:42.735+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:21:42.745+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:22:13.547+0000] {processor.py:161} INFO - Started process (PID=7558) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:22:13.548+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:22:13.548+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:22:13.548+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:22:13.561+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:22:13.573+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.030 seconds
+[2024-08-17T03:22:44.652+0000] {processor.py:161} INFO - Started process (PID=8013) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:22:44.652+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:22:44.653+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:22:44.653+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:22:44.663+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:22:44.673+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:23:15.728+0000] {processor.py:161} INFO - Started process (PID=8440) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:23:15.728+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:23:15.729+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:23:15.729+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:23:15.738+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:23:15.748+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:23:46.345+0000] {processor.py:161} INFO - Started process (PID=8892) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:23:46.346+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:23:46.347+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:23:46.346+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:23:46.356+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:23:46.366+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:24:17.790+0000] {processor.py:161} INFO - Started process (PID=9346) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:24:17.790+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:24:17.791+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:24:17.791+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:24:17.802+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:24:17.812+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:24:48.760+0000] {processor.py:161} INFO - Started process (PID=9774) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:24:48.761+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:24:48.762+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:24:48.761+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:24:48.772+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:24:48.781+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:25:19.649+0000] {processor.py:161} INFO - Started process (PID=10228) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:25:19.649+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:25:19.650+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:25:19.650+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:25:19.659+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:25:19.669+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:25:51.265+0000] {processor.py:161} INFO - Started process (PID=10682) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:25:51.266+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:25:51.266+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:25:51.266+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:25:51.274+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:25:51.284+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:26:22.748+0000] {processor.py:161} INFO - Started process (PID=11092) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:26:22.749+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:26:22.749+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:26:22.749+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:26:22.757+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:26:22.766+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:26:53.713+0000] {processor.py:161} INFO - Started process (PID=11546) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:26:53.713+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:26:53.714+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:26:53.714+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:26:53.722+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:26:53.731+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:27:25.056+0000] {processor.py:161} INFO - Started process (PID=12000) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:27:25.057+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:27:25.057+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:27:25.057+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:27:25.067+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:27:25.075+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:27:55.947+0000] {processor.py:161} INFO - Started process (PID=12386) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:27:55.948+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:27:55.948+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:27:55.948+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:27:55.957+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:27:55.967+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:28:27.033+0000] {processor.py:161} INFO - Started process (PID=12840) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:28:27.034+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:28:27.035+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:28:27.034+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:28:27.043+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:28:27.053+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:28:59.380+0000] {processor.py:161} INFO - Started process (PID=13293) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:28:59.381+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:28:59.382+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:28:59.381+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:28:59.390+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:28:59.398+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:29:30.310+0000] {processor.py:161} INFO - Started process (PID=13709) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:29:30.311+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:29:30.311+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:29:30.311+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:29:30.318+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:29:30.327+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.021 seconds
+[2024-08-17T03:30:01.455+0000] {processor.py:161} INFO - Started process (PID=14161) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:30:01.455+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:30:01.456+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:30:01.456+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:30:01.464+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:30:01.474+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:30:32.588+0000] {processor.py:161} INFO - Started process (PID=14615) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:30:32.588+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:30:32.589+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:30:32.589+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:30:32.597+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:30:32.607+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:31:03.287+0000] {processor.py:161} INFO - Started process (PID=15042) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:31:03.288+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:31:03.288+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:31:03.288+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:31:03.302+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:31:03.312+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.030 seconds
+[2024-08-17T03:31:34.343+0000] {processor.py:161} INFO - Started process (PID=15497) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:31:34.343+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:31:34.345+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:31:34.345+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:31:34.354+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:31:34.363+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:32:05.379+0000] {processor.py:161} INFO - Started process (PID=15931) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:32:05.380+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:32:05.381+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:32:05.380+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:32:05.389+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:32:05.399+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:32:36.236+0000] {processor.py:161} INFO - Started process (PID=16378) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:32:36.237+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:32:36.238+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:32:36.237+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:32:36.251+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:32:36.261+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.029 seconds
+[2024-08-17T03:33:06.902+0000] {processor.py:161} INFO - Started process (PID=16828) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:33:06.903+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:33:06.903+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:33:06.903+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:33:06.912+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:33:06.921+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:33:38.235+0000] {processor.py:161} INFO - Started process (PID=17256) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:33:38.235+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:33:38.236+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:33:38.236+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:33:38.245+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:33:38.253+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:34:10.425+0000] {processor.py:161} INFO - Started process (PID=17712) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:34:10.426+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:34:10.427+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:34:10.426+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:34:10.439+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:34:10.448+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:34:41.104+0000] {processor.py:161} INFO - Started process (PID=18145) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:34:41.104+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:34:41.105+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:34:41.105+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:34:41.113+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:34:41.123+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:35:12.048+0000] {processor.py:161} INFO - Started process (PID=18554) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:35:12.049+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:35:12.050+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:35:12.050+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:35:12.058+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:35:12.067+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:35:42.826+0000] {processor.py:161} INFO - Started process (PID=19006) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:35:42.826+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:35:42.827+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:35:42.827+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:35:42.835+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:35:42.845+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:36:14.319+0000] {processor.py:161} INFO - Started process (PID=19463) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:36:14.320+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:36:14.320+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:36:14.320+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:36:14.329+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:36:14.340+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:36:45.550+0000] {processor.py:161} INFO - Started process (PID=19891) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:36:45.557+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:36:45.558+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:36:45.558+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:36:45.568+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:36:45.577+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.031 seconds
+[2024-08-17T03:37:16.863+0000] {processor.py:161} INFO - Started process (PID=20338) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:37:16.863+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:37:16.864+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:37:16.864+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:37:16.872+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:37:16.882+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:37:48.673+0000] {processor.py:161} INFO - Started process (PID=20797) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:37:48.674+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T03:37:48.674+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:37:48.674+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:37:48.682+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T03:37:48.692+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.023 seconds
+[2024-08-17T09:22:51.968+0000] {processor.py:161} INFO - Started process (PID=304) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T09:22:51.968+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T09:22:51.970+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:22:51.969+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T09:22:51.979+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T09:22:51.988+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.024 seconds
+[2024-08-17T09:23:24.362+0000] {processor.py:161} INFO - Started process (PID=734) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T09:23:24.362+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T09:23:24.363+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:23:24.363+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T09:23:24.371+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T09:23:24.380+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.022 seconds
+[2024-08-17T09:23:55.779+0000] {processor.py:161} INFO - Started process (PID=1188) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T09:23:55.779+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T09:23:55.781+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:23:55.780+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T09:23:55.788+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T09:23:55.796+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.021 seconds
+[2024-08-17T09:24:28.745+0000] {processor.py:161} INFO - Started process (PID=1642) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T09:24:28.746+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T09:24:28.748+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:24:28.748+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T09:24:28.756+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T09:24:28.765+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.023 seconds
+[2024-08-17T09:25:00.535+0000] {processor.py:161} INFO - Started process (PID=2096) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T09:25:00.535+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T09:25:00.537+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:25:00.537+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T09:25:00.545+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T09:25:00.554+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.024 seconds
+[2024-08-17T09:25:31.880+0000] {processor.py:161} INFO - Started process (PID=2524) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T09:25:31.880+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T09:25:31.882+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:25:31.882+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T09:25:31.890+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T09:25:31.899+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.022 seconds
+[2024-08-17T09:26:03.068+0000] {processor.py:161} INFO - Started process (PID=2978) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T09:26:03.070+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T09:26:03.071+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:26:03.071+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T09:26:03.089+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T09:26:03.097+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.033 seconds
+[2024-08-17T09:26:34.022+0000] {processor.py:161} INFO - Started process (PID=3432) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T09:26:34.023+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T09:26:34.024+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:26:34.024+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T09:26:34.034+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T09:26:34.043+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.024 seconds
+[2024-08-17T09:27:04.860+0000] {processor.py:161} INFO - Started process (PID=3860) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T09:27:04.860+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T09:27:04.861+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:27:04.861+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T09:27:04.869+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T09:27:04.877+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.021 seconds
+[2024-08-17T09:27:36.002+0000] {processor.py:161} INFO - Started process (PID=4315) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T09:27:36.002+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T09:27:36.003+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:27:36.003+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T09:27:36.010+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T09:27:36.019+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.021 seconds
+[2024-08-17T09:28:06.915+0000] {processor.py:161} INFO - Started process (PID=4769) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T09:28:06.916+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T09:28:06.917+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:28:06.916+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T09:28:06.924+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T09:28:06.934+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.022 seconds
+[2024-08-17T09:28:37.602+0000] {processor.py:161} INFO - Started process (PID=5197) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T09:28:37.603+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T09:28:37.604+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:28:37.604+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T09:28:37.611+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T09:28:37.619+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.020 seconds
+[2024-08-17T09:29:09.001+0000] {processor.py:161} INFO - Started process (PID=5651) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T09:29:09.002+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T09:29:09.003+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:29:09.003+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T09:29:09.016+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T09:29:09.025+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.027 seconds
+[2024-08-17T09:29:40.803+0000] {processor.py:161} INFO - Started process (PID=6105) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T09:29:40.804+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T09:29:40.805+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:29:40.805+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T09:29:40.813+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T09:29:40.822+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.023 seconds
+[2024-08-17T09:30:12.195+0000] {processor.py:161} INFO - Started process (PID=6533) to work on /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T09:30:12.196+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Greece/TS_model.pkl for tasks to queue
+[2024-08-17T09:30:12.197+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:30:12.197+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T09:30:12.207+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Greece/TS_model.pkl
+[2024-08-17T09:30:12.216+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Greece/TS_model.pkl took 0.025 seconds

@@ -1,0 +1,385 @@
+[2024-08-17T10:12:53.728+0000] {processor.py:161} INFO - Started process (PID=36608) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:12:53.729+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:12:53.730+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:12:53.729+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:12:53.739+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:12:53.748+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:13:25.656+0000] {processor.py:161} INFO - Started process (PID=37303) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:13:25.657+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:13:25.657+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:13:25.657+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:13:25.673+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:13:25.682+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.031 seconds
+[2024-08-17T10:13:58.059+0000] {processor.py:161} INFO - Started process (PID=38002) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:13:58.060+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:13:58.061+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:13:58.060+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:13:58.073+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:13:58.082+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.026 seconds
+[2024-08-17T10:14:29.904+0000] {processor.py:161} INFO - Started process (PID=38669) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:14:29.904+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:14:29.905+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:14:29.905+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:14:29.914+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:14:29.924+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:15:03.308+0000] {processor.py:161} INFO - Started process (PID=39362) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:15:03.309+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:15:03.311+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:15:03.311+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:15:03.320+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:15:03.330+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:15:35.942+0000] {processor.py:161} INFO - Started process (PID=40004) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:15:35.942+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:15:35.943+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:15:35.943+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:15:35.953+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:15:35.963+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:16:07.736+0000] {processor.py:161} INFO - Started process (PID=40679) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:16:07.737+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:16:07.738+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:16:07.738+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:16:07.804+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:16:07.816+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.085 seconds
+[2024-08-17T10:16:39.573+0000] {processor.py:161} INFO - Started process (PID=41338) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:16:39.573+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:16:39.574+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:16:39.574+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:16:39.586+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:16:39.597+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.028 seconds
+[2024-08-17T10:17:11.572+0000] {processor.py:161} INFO - Started process (PID=42030) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:17:11.572+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:17:11.573+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:17:11.573+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:17:11.585+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:17:11.594+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.026 seconds
+[2024-08-17T10:17:58.513+0000] {processor.py:161} INFO - Started process (PID=42800) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:17:58.513+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:17:58.514+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:17:58.514+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:17:58.522+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:17:58.530+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.020 seconds
+[2024-08-17T10:18:30.119+0000] {processor.py:161} INFO - Started process (PID=43521) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:18:30.120+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:18:30.121+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:18:30.121+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:18:30.132+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:18:30.142+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.027 seconds
+[2024-08-17T10:19:02.102+0000] {processor.py:161} INFO - Started process (PID=44257) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:19:02.102+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:19:02.103+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:19:02.103+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:19:02.111+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:19:02.120+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.022 seconds
+[2024-08-17T10:19:34.240+0000] {processor.py:161} INFO - Started process (PID=44999) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:19:34.240+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:19:34.241+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:19:34.241+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:19:34.250+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:19:34.258+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.022 seconds
+[2024-08-17T10:20:06.247+0000] {processor.py:161} INFO - Started process (PID=45742) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:20:06.247+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:20:06.248+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:20:06.247+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:20:06.255+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:20:06.264+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.021 seconds
+[2024-08-17T10:20:39.519+0000] {processor.py:161} INFO - Started process (PID=46468) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:20:39.520+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:20:39.520+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:20:39.520+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:20:39.528+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:20:39.536+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.021 seconds
+[2024-08-17T10:21:10.883+0000] {processor.py:161} INFO - Started process (PID=47187) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:21:10.883+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:21:10.884+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:21:10.884+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:21:10.891+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T10:21:10.900+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.021 seconds
+[2024-08-17T12:03:11.394+0000] {processor.py:161} INFO - Started process (PID=14878) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:03:11.395+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:03:11.396+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:03:11.396+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:03:11.414+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:03:11.431+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.043 seconds
+[2024-08-17T12:03:52.638+0000] {processor.py:161} INFO - Started process (PID=15543) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:03:52.639+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:03:52.641+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:03:52.641+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:03:52.668+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:03:52.689+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.058 seconds
+[2024-08-17T12:04:33.890+0000] {processor.py:161} INFO - Started process (PID=16119) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:04:33.891+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:04:33.892+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:04:33.892+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:04:33.914+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:04:33.931+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.048 seconds
+[2024-08-17T12:05:13.479+0000] {processor.py:161} INFO - Started process (PID=16716) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:05:13.480+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:05:13.482+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:05:13.481+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:05:13.506+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:05:13.528+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.057 seconds
+[2024-08-17T12:05:57.047+0000] {processor.py:161} INFO - Started process (PID=17363) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:05:57.049+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:05:57.050+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:05:57.050+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:05:57.073+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:05:57.091+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.050 seconds
+[2024-08-17T12:06:34.052+0000] {processor.py:161} INFO - Started process (PID=17953) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:06:34.053+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:06:34.054+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:06:34.054+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:06:34.074+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:06:34.091+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.046 seconds
+[2024-08-17T12:06:44.127+0000] {processor.py:161} INFO - Started process (PID=18132) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:06:44.129+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:06:44.130+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:06:44.130+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:06:44.161+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:06:44.181+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.062 seconds
+[2024-08-17T12:07:17.719+0000] {processor.py:161} INFO - Started process (PID=18611) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:07:17.721+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:07:17.722+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:07:17.721+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:07:17.742+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:07:17.759+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.046 seconds
+[2024-08-17T12:08:28.778+0000] {processor.py:161} INFO - Started process (PID=19326) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:08:28.780+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:08:28.781+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:08:28.781+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:08:28.803+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:08:28.822+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.051 seconds
+[2024-08-17T12:09:17.782+0000] {processor.py:161} INFO - Started process (PID=20016) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:09:17.783+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:09:17.786+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:09:17.786+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:09:17.804+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:09:17.826+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.051 seconds
+[2024-08-17T12:09:59.736+0000] {processor.py:161} INFO - Started process (PID=20665) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:09:59.737+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:09:59.739+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:09:59.738+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:09:59.769+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:09:59.791+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.066 seconds
+[2024-08-17T12:10:35.242+0000] {processor.py:161} INFO - Started process (PID=21212) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:10:35.243+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:10:35.246+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:10:35.245+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:10:35.268+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:10:35.285+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.049 seconds
+[2024-08-17T12:10:45.688+0000] {processor.py:161} INFO - Started process (PID=21382) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:10:45.689+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:10:45.690+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:10:45.690+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:10:45.711+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:10:45.727+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.045 seconds
+[2024-08-17T12:11:29.767+0000] {processor.py:161} INFO - Started process (PID=22010) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:11:29.769+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:11:29.771+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:11:29.770+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:11:29.804+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:11:29.824+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.063 seconds
+[2024-08-17T12:12:03.777+0000] {processor.py:161} INFO - Started process (PID=22465) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:12:03.779+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:12:03.780+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:12:03.779+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:12:03.803+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:12:03.825+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.057 seconds
+[2024-08-17T12:12:38.667+0000] {processor.py:161} INFO - Started process (PID=23008) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:12:38.668+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:12:38.669+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:12:38.669+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:12:38.696+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:12:38.715+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.055 seconds
+[2024-08-17T12:13:21.176+0000] {processor.py:161} INFO - Started process (PID=23308) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:13:21.177+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:13:21.180+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:13:21.179+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:13:21.197+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:13:21.216+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.050 seconds
+[2024-08-17T12:13:56.903+0000] {processor.py:161} INFO - Started process (PID=23912) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:13:56.904+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:13:56.905+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:13:56.905+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:13:56.930+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:13:56.948+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.055 seconds
+[2024-08-17T12:14:51.520+0000] {processor.py:161} INFO - Started process (PID=24664) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:14:51.522+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:14:51.523+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:14:51.523+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:14:51.543+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:14:51.564+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.051 seconds
+[2024-08-17T12:15:36.398+0000] {processor.py:161} INFO - Started process (PID=25285) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:15:36.400+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:15:36.402+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:15:36.401+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:15:36.417+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:15:36.437+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.045 seconds
+[2024-08-17T12:16:13.209+0000] {processor.py:161} INFO - Started process (PID=25819) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:16:13.211+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:16:13.213+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:16:13.213+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:16:13.235+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:16:13.255+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.054 seconds
+[2024-08-17T12:16:53.333+0000] {processor.py:161} INFO - Started process (PID=26381) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:16:53.334+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:16:53.336+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:16:53.335+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:16:53.361+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:16:53.380+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.055 seconds
+[2024-08-17T12:17:31.824+0000] {processor.py:161} INFO - Started process (PID=26951) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:17:31.825+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:17:31.826+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:17:31.826+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:17:31.849+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:17:31.869+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.051 seconds
+[2024-08-17T12:18:43.727+0000] {processor.py:161} INFO - Started process (PID=27560) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:18:43.729+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:18:43.730+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:18:43.730+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:18:43.762+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:18:43.783+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.065 seconds
+[2024-08-17T12:19:32.979+0000] {processor.py:161} INFO - Started process (PID=28289) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:19:32.980+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:19:32.981+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:19:32.981+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:19:33.010+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:19:33.030+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.060 seconds
+[2024-08-17T12:20:18.462+0000] {processor.py:161} INFO - Started process (PID=28944) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:20:18.463+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:20:18.465+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:20:18.464+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:20:18.486+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:20:18.504+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.050 seconds
+[2024-08-17T12:21:17.880+0000] {processor.py:161} INFO - Started process (PID=29737) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:21:17.882+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:21:17.883+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:21:17.883+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:21:17.902+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:21:17.922+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.055 seconds
+[2024-08-17T12:21:55.456+0000] {processor.py:161} INFO - Started process (PID=30242) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:21:55.457+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:21:55.459+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:21:55.458+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:21:55.475+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:21:55.493+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.044 seconds
+[2024-08-17T12:22:33.013+0000] {processor.py:161} INFO - Started process (PID=30823) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:22:33.014+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:22:33.016+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:22:33.015+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:22:33.032+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:22:33.050+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.044 seconds
+[2024-08-17T12:23:20.274+0000] {processor.py:161} INFO - Started process (PID=31221) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:23:20.276+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:23:20.277+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:23:20.277+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:23:20.297+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:23:20.316+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.049 seconds
+[2024-08-17T12:24:02.630+0000] {processor.py:161} INFO - Started process (PID=31900) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:24:02.631+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:24:02.633+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:24:02.632+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:24:02.646+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:24:02.661+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.037 seconds
+[2024-08-17T12:24:48.286+0000] {processor.py:161} INFO - Started process (PID=32645) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:24:48.287+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:24:48.288+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:24:48.287+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:24:48.305+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:24:48.319+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.038 seconds
+[2024-08-17T12:25:26.147+0000] {processor.py:161} INFO - Started process (PID=33291) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:25:26.148+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:25:26.149+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:25:26.148+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:25:26.166+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:25:26.180+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.038 seconds
+[2024-08-17T12:26:08.072+0000] {processor.py:161} INFO - Started process (PID=34076) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:26:08.074+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:26:08.075+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:26:08.075+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:26:08.089+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:26:08.102+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.035 seconds
+[2024-08-17T12:26:43.942+0000] {processor.py:161} INFO - Started process (PID=34725) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:26:43.943+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:26:43.944+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:26:43.944+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:26:43.959+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:26:43.972+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.035 seconds
+[2024-08-17T12:27:20.562+0000] {processor.py:161} INFO - Started process (PID=35446) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:27:20.563+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:27:20.564+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:27:20.563+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:27:20.579+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:27:20.592+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.035 seconds
+[2024-08-17T12:28:16.528+0000] {processor.py:161} INFO - Started process (PID=36250) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:28:16.528+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:28:16.529+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:28:16.529+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:28:16.541+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:28:16.552+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.028 seconds
+[2024-08-17T12:28:51.276+0000] {processor.py:161} INFO - Started process (PID=36997) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:28:51.276+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:28:51.277+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:28:51.277+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:28:51.286+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:28:51.297+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.025 seconds
+[2024-08-17T12:29:25.415+0000] {processor.py:161} INFO - Started process (PID=37744) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:29:25.416+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:29:25.416+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:29:25.416+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:29:25.434+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:29:25.447+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.036 seconds
+[2024-08-17T12:29:57.915+0000] {processor.py:161} INFO - Started process (PID=38452) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:29:57.916+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:29:57.916+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:29:57.916+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:29:57.926+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:29:57.935+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.024 seconds
+[2024-08-17T12:30:30.258+0000] {processor.py:161} INFO - Started process (PID=39182) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:30:30.259+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:30:30.259+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:30:30.259+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:30:30.266+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:30:30.276+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.022 seconds
+[2024-08-17T12:31:02.303+0000] {processor.py:161} INFO - Started process (PID=39920) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:31:02.304+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:31:02.305+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:31:02.304+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:31:02.311+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:31:02.320+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.021 seconds
+[2024-08-17T12:31:35.342+0000] {processor.py:161} INFO - Started process (PID=40648) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:31:35.342+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:31:35.343+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:31:35.343+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:31:35.356+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:31:35.367+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.029 seconds
+[2024-08-17T12:32:10.694+0000] {processor.py:161} INFO - Started process (PID=41357) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:32:10.695+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:32:10.695+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:32:10.695+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:32:10.705+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:32:10.714+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.024 seconds
+[2024-08-17T12:32:42.738+0000] {processor.py:161} INFO - Started process (PID=42075) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:32:42.739+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:32:42.739+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:32:42.739+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:32:42.748+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:32:42.758+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.024 seconds
+[2024-08-17T12:33:20.775+0000] {processor.py:161} INFO - Started process (PID=42827) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:33:20.776+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:33:20.776+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:33:20.776+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:33:20.787+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:33:20.797+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.026 seconds
+[2024-08-17T12:33:52.553+0000] {processor.py:161} INFO - Started process (PID=43459) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:33:52.554+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:33:52.556+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:33:52.555+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:33:52.564+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:33:52.574+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.024 seconds
+[2024-08-17T12:34:25.485+0000] {processor.py:161} INFO - Started process (PID=44183) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:34:25.489+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:34:25.489+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:34:25.489+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:34:25.500+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:34:25.510+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.028 seconds
+[2024-08-17T12:34:57.376+0000] {processor.py:161} INFO - Started process (PID=44886) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:34:57.377+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:34:57.377+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:34:57.377+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:34:57.386+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:34:57.396+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.024 seconds
+[2024-08-17T12:35:29.255+0000] {processor.py:161} INFO - Started process (PID=45592) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:35:29.256+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:35:29.256+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:35:29.256+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:35:29.264+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:35:29.274+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.022 seconds
+[2024-08-17T12:36:02.315+0000] {processor.py:161} INFO - Started process (PID=46335) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:36:02.316+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:36:02.316+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:36:02.316+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:36:02.326+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:36:02.337+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.025 seconds
+[2024-08-17T12:36:34.253+0000] {processor.py:161} INFO - Started process (PID=47079) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:36:34.254+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:36:34.254+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:36:34.254+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:36:34.263+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:36:34.271+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.021 seconds
+[2024-08-17T12:37:07.205+0000] {processor.py:161} INFO - Started process (PID=47793) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:37:07.206+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:37:07.206+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:37:07.206+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:37:07.215+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:37:07.225+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.024 seconds
+[2024-08-17T12:37:39.526+0000] {processor.py:161} INFO - Started process (PID=48519) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:37:39.527+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:37:39.527+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:37:39.527+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:37:39.543+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:37:39.552+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.030 seconds
+[2024-08-17T12:38:13.135+0000] {processor.py:161} INFO - Started process (PID=49162) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:38:13.135+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:38:13.136+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:38:13.136+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:38:13.147+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:38:13.156+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.025 seconds
+[2024-08-17T12:38:47.611+0000] {processor.py:161} INFO - Started process (PID=49886) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:38:47.612+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:38:47.612+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:38:47.612+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:38:47.621+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:38:47.630+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.023 seconds
+[2024-08-17T12:39:20.243+0000] {processor.py:161} INFO - Started process (PID=50606) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:39:20.244+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:39:20.244+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:39:20.244+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:39:20.252+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:39:20.262+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.023 seconds
+[2024-08-17T12:39:52.944+0000] {processor.py:161} INFO - Started process (PID=51350) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:39:52.945+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:39:52.945+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:39:52.945+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:39:52.954+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:39:52.964+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.024 seconds
+[2024-08-17T12:40:24.965+0000] {processor.py:161} INFO - Started process (PID=52059) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:40:24.965+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:40:24.966+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:40:24.966+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:40:24.973+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:40:24.981+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.020 seconds
+[2024-08-17T12:40:56.978+0000] {processor.py:161} INFO - Started process (PID=52801) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:40:56.980+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:40:56.981+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:40:56.981+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:40:56.990+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:40:56.999+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.024 seconds
+[2024-08-17T12:41:30.420+0000] {processor.py:161} INFO - Started process (PID=53543) to work on /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:41:30.421+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:41:30.421+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:41:30.421+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:41:30.429+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl
+[2024-08-17T12:41:30.438+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Switzerland/deaths_TS_model.pkl took 0.022 seconds

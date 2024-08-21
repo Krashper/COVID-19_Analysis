@@ -1,0 +1,455 @@
+[2024-08-17T02:58:56.828+0000] {processor.py:161} INFO - Started process (PID=88645) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T02:58:56.829+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T02:58:56.829+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:58:56.829+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T02:58:56.842+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T02:58:56.854+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.030 seconds
+[2024-08-17T02:59:27.806+0000] {processor.py:161} INFO - Started process (PID=89033) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T02:59:27.806+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T02:59:27.807+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:59:27.807+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T02:59:27.817+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T02:59:27.827+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.025 seconds
+[2024-08-17T02:59:58.673+0000] {processor.py:161} INFO - Started process (PID=89396) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T02:59:58.674+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T02:59:58.675+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:59:58.675+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T02:59:58.690+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T02:59:58.701+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.033 seconds
+[2024-08-17T03:00:29.704+0000] {processor.py:161} INFO - Started process (PID=89782) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:00:29.705+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:00:29.706+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:00:29.705+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:00:29.719+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:00:29.731+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.031 seconds
+[2024-08-17T03:01:00.261+0000] {processor.py:161} INFO - Started process (PID=90142) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:01:00.262+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:01:00.263+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:01:00.262+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:01:00.271+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:01:00.283+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:01:31.116+0000] {processor.py:161} INFO - Started process (PID=90528) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:01:31.116+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:01:31.118+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:01:31.118+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:01:31.163+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:01:31.175+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.063 seconds
+[2024-08-17T03:02:01.870+0000] {processor.py:161} INFO - Started process (PID=90895) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:02:01.871+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:02:01.872+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:02:01.871+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:02:01.882+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:02:01.893+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:02:32.533+0000] {processor.py:161} INFO - Started process (PID=91253) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:02:32.534+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:02:32.535+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:02:32.534+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:02:32.544+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:02:32.555+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:03:03.287+0000] {processor.py:161} INFO - Started process (PID=91640) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:03:03.289+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:03:03.290+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:03:03.289+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:03:03.303+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:03:03.313+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.030 seconds
+[2024-08-17T03:03:34.121+0000] {processor.py:161} INFO - Started process (PID=92000) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:03:34.121+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:03:34.122+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:03:34.122+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:03:34.130+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:03:34.141+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:04:05.135+0000] {processor.py:161} INFO - Started process (PID=92415) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:04:05.136+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:04:05.137+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:04:05.136+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:04:05.147+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:04:05.157+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:04:35.837+0000] {processor.py:161} INFO - Started process (PID=92782) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:04:35.837+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:04:35.838+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:04:35.838+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:04:35.848+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:04:35.858+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:05:06.856+0000] {processor.py:161} INFO - Started process (PID=93196) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:05:06.857+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:05:06.858+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:05:06.857+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:05:06.869+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:05:06.880+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.028 seconds
+[2024-08-17T03:05:38.247+0000] {processor.py:161} INFO - Started process (PID=93610) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:05:38.248+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:05:38.249+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:05:38.249+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:05:38.268+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:05:38.278+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.036 seconds
+[2024-08-17T03:06:08.847+0000] {processor.py:161} INFO - Started process (PID=93990) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:06:08.848+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:06:08.849+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:06:08.849+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:06:08.867+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:06:08.880+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.036 seconds
+[2024-08-17T03:06:39.959+0000] {processor.py:161} INFO - Started process (PID=94405) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:06:39.959+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:06:39.960+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:06:39.960+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:06:39.973+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:06:39.983+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.028 seconds
+[2024-08-17T03:07:11.012+0000] {processor.py:161} INFO - Started process (PID=94792) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:07:11.013+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:07:11.014+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:07:11.013+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:07:11.026+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:07:11.037+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.029 seconds
+[2024-08-17T03:07:42.398+0000] {processor.py:161} INFO - Started process (PID=95207) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:07:42.398+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:07:42.399+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:07:42.399+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:07:42.408+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:07:42.421+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:08:14.241+0000] {processor.py:161} INFO - Started process (PID=95609) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:08:14.242+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:08:14.242+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:08:14.242+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:08:14.262+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:08:14.273+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.036 seconds
+[2024-08-17T03:08:46.584+0000] {processor.py:161} INFO - Started process (PID=95997) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:08:46.585+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:08:46.586+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:08:46.586+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:08:46.614+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:08:46.631+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.053 seconds
+[2024-08-17T03:09:17.311+0000] {processor.py:161} INFO - Started process (PID=96420) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:09:17.312+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:09:17.313+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:09:17.312+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:09:17.323+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:09:17.334+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:09:48.285+0000] {processor.py:161} INFO - Started process (PID=96838) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:09:48.286+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:09:48.286+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:09:48.286+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:09:48.299+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:09:48.308+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:10:19.532+0000] {processor.py:161} INFO - Started process (PID=97282) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:10:19.532+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:10:19.533+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:10:19.533+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:10:19.545+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:10:19.555+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:10:50.645+0000] {processor.py:161} INFO - Started process (PID=97728) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:10:50.646+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:10:50.647+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:10:50.646+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:10:50.656+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:10:50.666+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:11:22.600+0000] {processor.py:161} INFO - Started process (PID=98146) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:11:22.601+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:11:22.601+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:11:22.601+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:11:22.616+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:11:22.627+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.030 seconds
+[2024-08-17T03:11:53.752+0000] {processor.py:161} INFO - Started process (PID=98571) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:11:53.753+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:11:53.753+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:11:53.753+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:11:53.762+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:11:53.772+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:12:24.756+0000] {processor.py:161} INFO - Started process (PID=98990) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:12:24.757+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:12:24.757+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:12:24.757+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:12:24.768+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:12:24.778+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:12:55.553+0000] {processor.py:161} INFO - Started process (PID=99426) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:12:55.554+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:12:55.555+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:12:55.554+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:12:55.567+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:12:55.577+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.028 seconds
+[2024-08-17T03:13:26.278+0000] {processor.py:161} INFO - Started process (PID=99865) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:13:26.280+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:13:26.281+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:13:26.281+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:13:26.291+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:13:26.302+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:13:58.824+0000] {processor.py:161} INFO - Started process (PID=479) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:13:58.825+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:13:58.826+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:13:58.826+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:13:58.839+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:13:58.850+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.029 seconds
+[2024-08-17T03:14:30.002+0000] {processor.py:161} INFO - Started process (PID=931) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:14:30.003+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:14:30.003+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:14:30.003+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:14:30.012+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:14:30.020+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:15:00.902+0000] {processor.py:161} INFO - Started process (PID=1385) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:15:00.903+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:15:00.903+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:15:00.903+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:15:00.913+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:15:00.922+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:15:31.756+0000] {processor.py:161} INFO - Started process (PID=1813) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:15:31.757+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:15:31.757+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:15:31.757+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:15:31.765+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:15:31.774+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:16:02.417+0000] {processor.py:161} INFO - Started process (PID=2267) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:16:02.418+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:16:02.418+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:16:02.418+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:16:02.427+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:16:02.436+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:16:33.306+0000] {processor.py:161} INFO - Started process (PID=2695) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:16:33.307+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:16:33.307+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:16:33.307+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:16:33.314+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:16:33.324+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.021 seconds
+[2024-08-17T03:17:03.972+0000] {processor.py:161} INFO - Started process (PID=3149) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:17:03.973+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:17:03.974+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:17:03.973+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:17:03.985+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:17:03.995+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:17:34.917+0000] {processor.py:161} INFO - Started process (PID=3603) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:17:34.918+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:17:34.918+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:17:34.918+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:17:34.927+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:17:34.938+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:18:05.666+0000] {processor.py:161} INFO - Started process (PID=4030) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:18:05.666+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:18:05.667+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:18:05.667+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:18:05.678+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:18:05.688+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:18:36.619+0000] {processor.py:161} INFO - Started process (PID=4484) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:18:36.620+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:18:36.620+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:18:36.620+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:18:36.629+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:18:36.638+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:19:07.237+0000] {processor.py:161} INFO - Started process (PID=4897) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:19:07.237+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:19:07.238+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:19:07.238+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:19:07.250+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:19:07.262+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.029 seconds
+[2024-08-17T03:19:38.031+0000] {processor.py:161} INFO - Started process (PID=5344) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:19:38.031+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:19:38.032+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:19:38.032+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:19:38.041+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:19:38.053+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:20:09.133+0000] {processor.py:161} INFO - Started process (PID=5776) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:20:09.134+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:20:09.135+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:20:09.134+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:20:09.143+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:20:09.152+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:20:39.866+0000] {processor.py:161} INFO - Started process (PID=6202) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:20:39.867+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:20:39.867+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:20:39.867+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:20:39.875+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:20:39.885+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:21:10.577+0000] {processor.py:161} INFO - Started process (PID=6656) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:21:10.577+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:21:10.578+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:21:10.578+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:21:10.587+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:21:10.596+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:21:41.069+0000] {processor.py:161} INFO - Started process (PID=7084) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:21:41.070+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:21:41.070+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:21:41.070+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:21:41.078+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:21:41.086+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.021 seconds
+[2024-08-17T03:22:12.252+0000] {processor.py:161} INFO - Started process (PID=7538) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:22:12.253+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:22:12.254+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:22:12.253+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:22:12.266+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:22:12.275+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:22:43.426+0000] {processor.py:161} INFO - Started process (PID=7993) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:22:43.427+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:22:43.428+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:22:43.428+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:22:43.438+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:22:43.447+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:23:14.407+0000] {processor.py:161} INFO - Started process (PID=8421) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:23:14.408+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:23:14.408+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:23:14.408+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:23:14.418+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:23:14.428+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:23:45.493+0000] {processor.py:161} INFO - Started process (PID=8875) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:23:45.493+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:23:45.494+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:23:45.494+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:23:45.502+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:23:45.511+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:24:16.708+0000] {processor.py:161} INFO - Started process (PID=9329) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:24:16.708+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:24:16.709+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:24:16.709+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:24:16.717+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:24:16.726+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:24:47.838+0000] {processor.py:161} INFO - Started process (PID=9757) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:24:47.839+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:24:47.840+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:24:47.839+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:24:47.848+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:24:47.857+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:25:18.732+0000] {processor.py:161} INFO - Started process (PID=10211) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:25:18.733+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:25:18.733+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:25:18.733+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:25:18.744+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:25:18.754+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:25:50.511+0000] {processor.py:161} INFO - Started process (PID=10665) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:25:50.512+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:25:50.512+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:25:50.512+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:25:50.521+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:25:50.531+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:26:21.126+0000] {processor.py:161} INFO - Started process (PID=11051) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:26:21.126+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:26:21.127+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:26:21.127+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:26:21.139+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:26:21.149+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:26:51.739+0000] {processor.py:161} INFO - Started process (PID=11505) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:26:51.739+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:26:51.740+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:26:51.740+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:26:51.749+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:26:51.758+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:27:23.088+0000] {processor.py:161} INFO - Started process (PID=11921) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:27:23.088+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:27:23.089+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:27:23.089+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:27:23.098+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:27:23.107+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:27:53.677+0000] {processor.py:161} INFO - Started process (PID=12366) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:27:53.677+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:27:53.678+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:27:53.678+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:27:53.688+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:27:53.697+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:28:24.352+0000] {processor.py:161} INFO - Started process (PID=12820) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:28:24.353+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:28:24.354+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:28:24.353+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:28:24.382+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:28:24.393+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.045 seconds
+[2024-08-17T03:28:56.890+0000] {processor.py:161} INFO - Started process (PID=13209) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:28:56.890+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:28:56.891+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:28:56.891+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:28:56.900+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:28:56.909+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:29:27.914+0000] {processor.py:161} INFO - Started process (PID=13662) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:29:27.914+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:29:27.915+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:29:27.915+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:29:27.924+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:29:27.933+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:29:59.032+0000] {processor.py:161} INFO - Started process (PID=14116) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:29:59.032+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:29:59.033+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:29:59.033+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:29:59.042+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:29:59.053+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:30:29.638+0000] {processor.py:161} INFO - Started process (PID=14544) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:30:29.639+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:30:29.640+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:30:29.640+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:30:29.648+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:30:29.659+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:31:00.543+0000] {processor.py:161} INFO - Started process (PID=14998) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:31:00.544+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:31:00.545+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:31:00.545+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:31:00.555+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:31:00.564+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:31:31.493+0000] {processor.py:161} INFO - Started process (PID=15453) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:31:31.493+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:31:31.494+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:31:31.494+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:31:31.503+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:31:31.512+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:32:02.125+0000] {processor.py:161} INFO - Started process (PID=15881) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:32:02.126+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:32:02.127+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:32:02.127+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:32:02.135+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:32:02.145+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:32:32.773+0000] {processor.py:161} INFO - Started process (PID=16334) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:32:32.773+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:32:32.774+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:32:32.774+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:32:32.787+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:32:32.797+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.028 seconds
+[2024-08-17T03:33:04.199+0000] {processor.py:161} INFO - Started process (PID=16762) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:33:04.200+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:33:04.200+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:33:04.200+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:33:04.229+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:33:04.238+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.042 seconds
+[2024-08-17T03:33:35.278+0000] {processor.py:161} INFO - Started process (PID=17195) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:33:35.279+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:33:35.279+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:33:35.279+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:33:35.291+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:33:35.300+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:34:06.431+0000] {processor.py:161} INFO - Started process (PID=17649) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:34:06.431+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:34:06.433+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:34:06.432+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:34:06.446+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:34:06.456+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.029 seconds
+[2024-08-17T03:34:38.183+0000] {processor.py:161} INFO - Started process (PID=18058) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:34:38.184+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:34:38.185+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:34:38.185+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:34:38.193+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:34:38.202+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:35:09.288+0000] {processor.py:161} INFO - Started process (PID=18510) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:35:09.289+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:35:09.289+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:35:09.289+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:35:09.298+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:35:09.307+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:35:40.472+0000] {processor.py:161} INFO - Started process (PID=18964) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:35:40.473+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:35:40.474+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:35:40.473+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:35:40.485+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:35:40.494+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:36:11.440+0000] {processor.py:161} INFO - Started process (PID=19371) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:36:11.442+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:36:11.443+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:36:11.443+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:36:11.460+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:36:11.471+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.035 seconds
+[2024-08-17T03:36:42.426+0000] {processor.py:161} INFO - Started process (PID=19825) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:36:42.427+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:36:42.428+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:36:42.428+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:36:42.437+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:36:42.447+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:37:13.385+0000] {processor.py:161} INFO - Started process (PID=20279) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:37:13.386+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:37:13.386+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:37:13.386+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:37:13.395+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:37:13.404+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:37:44.555+0000] {processor.py:161} INFO - Started process (PID=20707) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:37:44.555+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T03:37:44.556+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:37:44.555+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:37:44.564+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T03:37:44.573+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.022 seconds
+[2024-08-17T09:22:49.304+0000] {processor.py:161} INFO - Started process (PID=218) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T09:22:49.305+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T09:22:49.306+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:22:49.306+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T09:22:49.314+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T09:22:49.323+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.022 seconds
+[2024-08-17T09:23:21.723+0000] {processor.py:161} INFO - Started process (PID=667) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T09:23:21.723+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T09:23:21.725+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:23:21.725+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T09:23:21.732+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T09:23:21.740+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.021 seconds
+[2024-08-17T09:23:53.545+0000] {processor.py:161} INFO - Started process (PID=1121) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T09:23:53.545+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T09:23:53.547+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:23:53.546+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T09:23:53.561+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T09:23:53.570+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.029 seconds
+[2024-08-17T09:24:26.408+0000] {processor.py:161} INFO - Started process (PID=1575) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T09:24:26.409+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T09:24:26.411+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:24:26.411+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T09:24:26.421+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T09:24:26.430+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.026 seconds
+[2024-08-17T09:24:57.471+0000] {processor.py:161} INFO - Started process (PID=2003) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T09:24:57.472+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T09:24:57.473+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:24:57.473+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T09:24:57.482+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T09:24:57.491+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.023 seconds
+[2024-08-17T09:25:28.476+0000] {processor.py:161} INFO - Started process (PID=2457) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T09:25:28.477+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T09:25:28.478+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:25:28.478+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T09:25:28.486+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T09:25:28.494+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.022 seconds
+[2024-08-17T09:25:59.355+0000] {processor.py:161} INFO - Started process (PID=2911) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T09:25:59.356+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T09:25:59.357+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:25:59.357+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T09:25:59.370+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T09:25:59.379+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.027 seconds
+[2024-08-17T09:26:30.187+0000] {processor.py:161} INFO - Started process (PID=3339) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T09:26:30.187+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T09:26:30.188+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:26:30.188+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T09:26:30.195+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T09:26:30.204+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.020 seconds
+[2024-08-17T09:27:00.942+0000] {processor.py:161} INFO - Started process (PID=3793) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T09:27:00.942+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T09:27:00.944+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:27:00.943+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T09:27:00.951+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T09:27:00.959+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.021 seconds
+[2024-08-17T09:27:31.727+0000] {processor.py:161} INFO - Started process (PID=4248) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T09:27:31.728+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T09:27:31.729+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:27:31.729+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T09:27:31.741+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T09:27:31.750+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.027 seconds
+[2024-08-17T09:28:02.444+0000] {processor.py:161} INFO - Started process (PID=4676) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T09:28:02.445+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T09:28:02.446+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:28:02.446+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T09:28:02.453+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T09:28:02.461+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.020 seconds
+[2024-08-17T09:28:33.464+0000] {processor.py:161} INFO - Started process (PID=5130) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T09:28:33.465+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T09:28:33.466+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:28:33.466+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T09:28:33.478+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T09:28:33.487+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.027 seconds
+[2024-08-17T09:29:05.295+0000] {processor.py:161} INFO - Started process (PID=5569) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T09:29:05.296+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T09:29:05.298+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:29:05.297+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T09:29:05.320+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T09:29:05.331+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.041 seconds
+[2024-08-17T09:29:37.607+0000] {processor.py:161} INFO - Started process (PID=6012) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T09:29:37.607+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T09:29:37.608+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:29:37.608+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T09:29:37.616+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T09:29:37.624+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.020 seconds
+[2024-08-17T09:30:08.314+0000] {processor.py:161} INFO - Started process (PID=6447) to work on /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T09:30:08.319+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl for tasks to queue
+[2024-08-17T09:30:08.320+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:30:08.320+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T09:30:08.330+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl
+[2024-08-17T09:30:08.339+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Nicaragua/TS_model.pkl took 0.029 seconds

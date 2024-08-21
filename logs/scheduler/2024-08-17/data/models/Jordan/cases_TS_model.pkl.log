@@ -1,0 +1,795 @@
+[2024-08-17T09:57:49.249+0000] {processor.py:161} INFO - Started process (PID=21206) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T09:57:49.249+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:57:49.250+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:57:49.250+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T09:57:49.259+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T09:57:49.269+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T09:58:20.492+0000] {processor.py:161} INFO - Started process (PID=21702) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T09:58:20.493+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:58:20.493+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:58:20.493+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T09:58:20.502+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T09:58:20.518+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.030 seconds
+[2024-08-17T09:58:51.265+0000] {processor.py:161} INFO - Started process (PID=22169) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T09:58:51.265+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:58:51.266+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:58:51.266+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T09:58:51.274+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T09:58:51.283+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T09:59:22.139+0000] {processor.py:161} INFO - Started process (PID=22667) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T09:59:22.139+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:59:22.140+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:59:22.140+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T09:59:22.150+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T09:59:22.160+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T09:59:53.154+0000] {processor.py:161} INFO - Started process (PID=23164) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T09:59:53.154+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:59:53.155+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:59:53.155+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T09:59:53.166+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T09:59:53.175+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:00:23.851+0000] {processor.py:161} INFO - Started process (PID=23636) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:00:23.852+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:00:23.852+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:00:23.852+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:00:23.861+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:00:23.870+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:00:54.665+0000] {processor.py:161} INFO - Started process (PID=24134) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:00:54.666+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:00:54.666+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:00:54.666+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:00:54.676+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:00:54.686+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:01:25.224+0000] {processor.py:161} INFO - Started process (PID=24605) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:01:25.224+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:01:25.225+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:01:25.225+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:01:25.234+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:01:25.243+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:01:56.102+0000] {processor.py:161} INFO - Started process (PID=25084) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:01:56.102+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:01:56.103+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:01:56.103+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:01:56.112+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:01:56.121+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T10:02:26.823+0000] {processor.py:161} INFO - Started process (PID=25580) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:02:26.824+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:02:26.825+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:02:26.824+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:02:26.836+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:02:26.846+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.027 seconds
+[2024-08-17T10:02:59.264+0000] {processor.py:161} INFO - Started process (PID=26051) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:02:59.265+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:02:59.266+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:02:59.265+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:02:59.275+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:02:59.285+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:03:32.561+0000] {processor.py:161} INFO - Started process (PID=26596) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:03:32.562+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:03:32.562+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:03:32.562+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:03:32.574+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:03:32.586+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.029 seconds
+[2024-08-17T10:04:03.610+0000] {processor.py:161} INFO - Started process (PID=27141) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:04:03.610+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:04:03.611+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:04:03.611+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:04:03.621+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:04:03.631+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:04:35.727+0000] {processor.py:161} INFO - Started process (PID=27677) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:04:35.728+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:04:35.728+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:04:35.728+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:04:35.739+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:04:35.749+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:05:07.128+0000] {processor.py:161} INFO - Started process (PID=28240) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:05:07.128+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:05:07.129+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:05:07.129+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:05:07.142+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:05:07.151+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.027 seconds
+[2024-08-17T10:05:39.288+0000] {processor.py:161} INFO - Started process (PID=28803) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:05:39.289+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:05:39.289+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:05:39.289+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:05:39.323+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:05:39.333+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T10:06:10.525+0000] {processor.py:161} INFO - Started process (PID=29340) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:06:10.525+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:06:10.526+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:06:10.526+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:06:10.537+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:06:10.546+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.026 seconds
+[2024-08-17T10:06:41.484+0000] {processor.py:161} INFO - Started process (PID=29894) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:06:41.484+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:06:41.485+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:06:41.484+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:06:41.493+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:06:41.503+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:07:12.402+0000] {processor.py:161} INFO - Started process (PID=30438) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:07:12.403+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:07:12.404+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:07:12.403+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:07:12.411+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:07:12.420+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T10:07:56.043+0000] {processor.py:161} INFO - Started process (PID=31037) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:07:56.044+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:07:56.045+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:07:56.045+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:07:56.056+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:07:56.074+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.034 seconds
+[2024-08-17T10:08:28.566+0000] {processor.py:161} INFO - Started process (PID=31665) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:08:28.567+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:08:28.568+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:08:28.568+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:08:28.581+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:08:28.592+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.031 seconds
+[2024-08-17T10:08:59.995+0000] {processor.py:161} INFO - Started process (PID=32271) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:08:59.996+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:08:59.997+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:08:59.997+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:09:00.016+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:09:00.025+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.034 seconds
+[2024-08-17T10:09:31.736+0000] {processor.py:161} INFO - Started process (PID=32855) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:09:31.737+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:09:31.738+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:09:31.737+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:09:31.753+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:09:31.762+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.029 seconds
+[2024-08-17T10:10:03.210+0000] {processor.py:161} INFO - Started process (PID=33482) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:10:03.211+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:10:03.212+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:10:03.212+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:10:03.225+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:10:03.236+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.030 seconds
+[2024-08-17T10:10:34.443+0000] {processor.py:161} INFO - Started process (PID=34091) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:10:34.444+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:10:34.445+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:10:34.445+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:10:34.457+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:10:34.467+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.027 seconds
+[2024-08-17T10:11:05.646+0000] {processor.py:161} INFO - Started process (PID=34712) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:11:05.647+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:11:05.647+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:11:05.647+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:11:05.674+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:11:05.683+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.041 seconds
+[2024-08-17T10:11:37.551+0000] {processor.py:161} INFO - Started process (PID=35340) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:11:37.552+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:11:37.553+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:11:37.552+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:11:37.562+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:11:37.571+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:12:09.209+0000] {processor.py:161} INFO - Started process (PID=35928) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:12:09.210+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:12:09.210+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:12:09.210+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:12:09.222+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:12:09.232+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.028 seconds
+[2024-08-17T10:12:40.973+0000] {processor.py:161} INFO - Started process (PID=36549) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:12:40.974+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:12:40.975+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:12:40.975+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:12:40.987+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:12:40.997+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.028 seconds
+[2024-08-17T10:13:23.928+0000] {processor.py:161} INFO - Started process (PID=37277) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:13:23.929+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:13:23.929+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:13:23.929+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:13:23.939+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:13:23.948+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:13:55.556+0000] {processor.py:161} INFO - Started process (PID=37944) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:13:55.556+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:13:55.557+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:13:55.557+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:13:55.568+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:13:55.578+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.027 seconds
+[2024-08-17T10:14:26.606+0000] {processor.py:161} INFO - Started process (PID=38595) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:14:26.606+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:14:26.607+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:14:26.607+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:14:26.616+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:14:26.625+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:15:01.293+0000] {processor.py:161} INFO - Started process (PID=39302) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:15:01.295+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:15:01.295+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:15:01.295+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:15:01.319+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:15:01.329+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.040 seconds
+[2024-08-17T10:15:37.268+0000] {processor.py:161} INFO - Started process (PID=40038) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:15:37.268+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:15:37.269+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:15:37.269+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:15:37.278+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:15:37.287+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:16:10.048+0000] {processor.py:161} INFO - Started process (PID=40731) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:16:10.048+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:16:10.049+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:16:10.049+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:16:10.056+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:16:10.065+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T10:16:41.959+0000] {processor.py:161} INFO - Started process (PID=41384) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:16:41.960+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:16:41.961+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:16:41.960+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:16:41.974+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:16:41.985+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.030 seconds
+[2024-08-17T10:17:13.821+0000] {processor.py:161} INFO - Started process (PID=42076) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:17:13.821+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:17:13.822+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:17:13.822+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:17:13.829+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:17:13.838+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.020 seconds
+[2024-08-17T10:18:01.476+0000] {processor.py:161} INFO - Started process (PID=42890) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:18:01.476+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:18:01.477+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:18:01.477+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:18:01.484+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:18:01.492+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.020 seconds
+[2024-08-17T10:18:34.859+0000] {processor.py:161} INFO - Started process (PID=43633) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:18:34.860+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:18:34.860+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:18:34.860+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:18:34.868+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:18:34.877+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T10:19:08.214+0000] {processor.py:161} INFO - Started process (PID=44376) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:19:08.214+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:19:08.215+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:19:08.215+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:19:08.225+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:19:08.234+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:19:39.923+0000] {processor.py:161} INFO - Started process (PID=45074) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:19:39.924+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:19:39.925+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:19:39.924+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:19:39.932+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:19:39.940+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.020 seconds
+[2024-08-17T10:20:11.026+0000] {processor.py:161} INFO - Started process (PID=45815) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:20:11.028+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:20:11.028+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:20:11.028+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:20:11.036+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:20:11.046+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:20:43.499+0000] {processor.py:161} INFO - Started process (PID=46579) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:20:43.500+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:20:43.500+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:20:43.500+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:20:43.508+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:20:43.518+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:21:16.201+0000] {processor.py:161} INFO - Started process (PID=47322) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:21:16.202+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:21:16.202+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:21:16.202+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:21:16.213+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T10:21:16.222+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T11:27:59.873+0000] {processor.py:161} INFO - Started process (PID=84985) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:27:59.875+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:27:59.876+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:27:59.876+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:27:59.898+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:27:59.915+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:28:32.267+0000] {processor.py:161} INFO - Started process (PID=85464) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:28:32.269+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:28:32.271+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:28:32.270+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:28:32.302+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:28:32.324+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.064 seconds
+[2024-08-17T11:29:04.182+0000] {processor.py:161} INFO - Started process (PID=85913) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:29:04.184+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:29:04.186+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:29:04.185+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:29:04.203+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:29:04.222+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:29:39.276+0000] {processor.py:161} INFO - Started process (PID=86394) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:29:39.277+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:29:39.278+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:29:39.278+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:29:39.307+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:29:39.325+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.056 seconds
+[2024-08-17T11:30:14.050+0000] {processor.py:161} INFO - Started process (PID=86877) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:30:14.052+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:30:14.053+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:30:14.052+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:30:14.074+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:30:14.095+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.052 seconds
+[2024-08-17T11:30:46.370+0000] {processor.py:161} INFO - Started process (PID=87326) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:30:46.371+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:30:46.372+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:30:46.372+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:30:46.394+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:30:46.412+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:31:12.452+0000] {processor.py:161} INFO - Started process (PID=87676) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:31:12.453+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:31:12.454+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:31:12.454+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:31:12.477+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:31:12.497+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.052 seconds
+[2024-08-17T11:31:45.302+0000] {processor.py:161} INFO - Started process (PID=88149) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:31:45.303+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:31:45.305+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:31:45.304+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:31:45.327+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:31:45.346+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.054 seconds
+[2024-08-17T11:32:06.003+0000] {processor.py:161} INFO - Started process (PID=88450) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:32:06.005+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:32:06.006+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:32:06.006+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:32:06.027+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:32:06.045+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:32:37.547+0000] {processor.py:161} INFO - Started process (PID=88908) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:32:37.548+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:32:37.549+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:32:37.549+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:32:37.568+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:32:37.587+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:33:23.413+0000] {processor.py:161} INFO - Started process (PID=89407) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:33:23.415+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:33:23.416+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:33:23.416+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:33:23.440+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:33:23.457+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T11:33:55.486+0000] {processor.py:161} INFO - Started process (PID=89834) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:33:55.489+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:33:55.492+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:33:55.491+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:33:55.510+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:33:55.528+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T11:34:29.322+0000] {processor.py:161} INFO - Started process (PID=90314) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:34:29.323+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:34:29.324+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:34:29.324+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:34:29.344+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:34:29.362+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:34:39.647+0000] {processor.py:161} INFO - Started process (PID=90459) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:34:39.648+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:34:39.650+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:34:39.649+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:34:39.668+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:34:39.683+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.042 seconds
+[2024-08-17T11:35:11.554+0000] {processor.py:161} INFO - Started process (PID=90916) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:35:11.555+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:35:11.556+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:35:11.556+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:35:11.579+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:35:11.596+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:35:43.560+0000] {processor.py:161} INFO - Started process (PID=91395) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:35:43.562+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:35:43.563+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:35:43.563+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:35:43.578+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:35:43.592+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.038 seconds
+[2024-08-17T11:36:17.393+0000] {processor.py:161} INFO - Started process (PID=91869) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:36:17.394+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:36:17.396+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:36:17.395+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:36:17.419+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:36:17.437+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T11:36:20.696+0000] {processor.py:161} INFO - Started process (PID=91912) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:36:20.698+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:36:20.699+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:36:20.699+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:36:20.718+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:36:20.737+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:36:55.667+0000] {processor.py:161} INFO - Started process (PID=92429) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:36:55.668+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:36:55.670+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:36:55.669+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:36:55.697+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:36:55.717+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.057 seconds
+[2024-08-17T11:37:28.466+0000] {processor.py:161} INFO - Started process (PID=92918) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:37:28.467+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:37:28.469+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:37:28.468+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:37:28.485+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:37:28.502+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.043 seconds
+[2024-08-17T11:38:07.242+0000] {processor.py:161} INFO - Started process (PID=93274) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:38:07.246+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:38:07.248+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:38:07.247+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:38:07.268+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:38:07.284+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:38:20.672+0000] {processor.py:161} INFO - Started process (PID=93540) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:38:20.673+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:38:20.675+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:38:20.674+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:38:20.698+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:38:20.716+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T11:38:55.983+0000] {processor.py:161} INFO - Started process (PID=94042) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:38:55.985+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:38:55.986+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:38:55.985+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:38:56.008+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:38:56.028+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T11:39:29.488+0000] {processor.py:161} INFO - Started process (PID=94546) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:39:29.489+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:39:29.490+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:39:29.490+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:39:29.518+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:39:29.534+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.052 seconds
+[2024-08-17T11:40:01.157+0000] {processor.py:161} INFO - Started process (PID=95019) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:40:01.158+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:40:01.159+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:40:01.159+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:40:01.182+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:40:01.196+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:40:36.681+0000] {processor.py:161} INFO - Started process (PID=95554) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:40:36.682+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:40:36.684+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:40:36.683+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:40:36.708+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:40:36.725+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T11:41:13.264+0000] {processor.py:161} INFO - Started process (PID=96062) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:41:13.267+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:41:13.268+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:41:13.268+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:41:13.297+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:41:13.315+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.060 seconds
+[2024-08-17T11:41:48.292+0000] {processor.py:161} INFO - Started process (PID=96584) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:41:48.293+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:41:48.294+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:41:48.294+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:41:48.320+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:41:48.339+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.054 seconds
+[2024-08-17T11:42:23.016+0000] {processor.py:161} INFO - Started process (PID=97112) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:42:23.018+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:42:23.020+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:42:23.020+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:42:23.061+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:42:23.081+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.073 seconds
+[2024-08-17T11:43:09.426+0000] {processor.py:161} INFO - Started process (PID=97561) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:43:09.427+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:43:09.428+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:43:09.428+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:43:09.447+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:43:09.464+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:43:47.600+0000] {processor.py:161} INFO - Started process (PID=98130) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:43:47.602+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:43:47.603+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:43:47.602+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:43:47.621+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:43:47.640+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:44:24.912+0000] {processor.py:161} INFO - Started process (PID=98679) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:44:24.913+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:44:24.914+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:44:24.914+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:44:24.932+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:44:24.950+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.044 seconds
+[2024-08-17T11:44:59.958+0000] {processor.py:161} INFO - Started process (PID=99222) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:44:59.960+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:44:59.962+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:44:59.962+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:44:59.980+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:44:59.999+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:45:34.677+0000] {processor.py:161} INFO - Started process (PID=99777) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:45:34.678+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:45:34.681+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:45:34.680+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:45:34.701+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:45:34.719+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T11:46:12.067+0000] {processor.py:161} INFO - Started process (PID=657) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:46:12.069+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:46:12.070+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:46:12.070+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:46:12.094+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:46:12.108+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.052 seconds
+[2024-08-17T11:46:48.515+0000] {processor.py:161} INFO - Started process (PID=1185) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:46:48.516+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:46:48.517+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:46:48.517+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:46:48.535+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:46:48.554+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:47:24.180+0000] {processor.py:161} INFO - Started process (PID=1706) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:47:24.181+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:47:24.183+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:47:24.182+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:47:24.205+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:47:24.224+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.052 seconds
+[2024-08-17T11:48:16.969+0000] {processor.py:161} INFO - Started process (PID=2278) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:48:16.971+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:48:16.972+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:48:16.972+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:48:16.986+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:48:17.003+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.040 seconds
+[2024-08-17T11:49:00.519+0000] {processor.py:161} INFO - Started process (PID=2872) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:49:00.521+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:49:00.523+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:49:00.523+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:49:00.544+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:49:00.566+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.055 seconds
+[2024-08-17T11:49:13.367+0000] {processor.py:161} INFO - Started process (PID=3049) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:49:13.369+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:49:13.377+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:49:13.376+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:49:13.410+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:49:13.442+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.085 seconds
+[2024-08-17T11:49:52.068+0000] {processor.py:161} INFO - Started process (PID=3606) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:49:52.069+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:49:52.071+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:49:52.070+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:49:52.089+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:49:52.109+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.054 seconds
+[2024-08-17T11:50:34.155+0000] {processor.py:161} INFO - Started process (PID=4209) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:50:34.156+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:50:34.158+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:50:34.157+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:50:34.179+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:50:34.196+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:51:12.739+0000] {processor.py:161} INFO - Started process (PID=4784) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:51:12.740+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:51:12.742+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:51:12.741+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:51:12.765+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:51:12.782+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:51:53.255+0000] {processor.py:161} INFO - Started process (PID=5344) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:51:53.257+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:51:53.258+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:51:53.257+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:51:53.280+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:51:53.297+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:52:33.788+0000] {processor.py:161} INFO - Started process (PID=5944) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:52:33.790+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:52:33.793+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:52:33.792+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:52:33.814+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:52:33.831+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.050 seconds
+[2024-08-17T11:53:15.203+0000] {processor.py:161} INFO - Started process (PID=6313) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:53:15.204+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:53:15.205+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:53:15.205+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:53:15.221+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:53:15.241+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.045 seconds
+[2024-08-17T11:53:59.171+0000] {processor.py:161} INFO - Started process (PID=6933) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:53:59.172+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:53:59.174+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:53:59.173+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:53:59.195+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:53:59.215+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.052 seconds
+[2024-08-17T11:54:34.535+0000] {processor.py:161} INFO - Started process (PID=7468) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:54:34.536+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:54:34.537+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:54:34.537+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:54:34.549+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:54:34.566+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.039 seconds
+[2024-08-17T11:55:08.016+0000] {processor.py:161} INFO - Started process (PID=7992) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:55:08.017+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:55:08.019+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:55:08.018+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:55:08.038+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:55:08.056+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:55:44.730+0000] {processor.py:161} INFO - Started process (PID=8551) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:55:44.732+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:55:44.733+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:55:44.733+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:55:44.753+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:55:44.769+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.044 seconds
+[2024-08-17T11:56:18.493+0000] {processor.py:161} INFO - Started process (PID=9092) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:56:18.494+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:56:18.495+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:56:18.495+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:56:18.509+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:56:18.525+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.041 seconds
+[2024-08-17T11:56:53.257+0000] {processor.py:161} INFO - Started process (PID=9613) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:56:53.259+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:56:53.260+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:56:53.260+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:56:53.280+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:56:53.296+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:57:35.029+0000] {processor.py:161} INFO - Started process (PID=10254) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:57:35.030+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:57:35.032+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:57:35.031+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:57:35.048+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:57:35.067+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.044 seconds
+[2024-08-17T11:58:18.903+0000] {processor.py:161} INFO - Started process (PID=10656) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:58:18.905+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:58:18.906+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:58:18.906+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:58:18.926+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:58:18.943+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:58:58.388+0000] {processor.py:161} INFO - Started process (PID=11281) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:58:58.389+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:58:58.391+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:58:58.390+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:58:58.409+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:58:58.426+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.045 seconds
+[2024-08-17T11:59:41.813+0000] {processor.py:161} INFO - Started process (PID=11918) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:59:41.817+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:59:41.818+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:59:41.817+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:59:41.839+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T11:59:41.856+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.050 seconds
+[2024-08-17T12:00:18.015+0000] {processor.py:161} INFO - Started process (PID=12467) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:00:18.017+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:00:18.018+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:00:18.017+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:00:18.034+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:00:18.053+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.045 seconds
+[2024-08-17T12:00:57.617+0000] {processor.py:161} INFO - Started process (PID=13103) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:00:57.618+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:00:57.619+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:00:57.618+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:00:57.634+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:00:57.650+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.041 seconds
+[2024-08-17T12:01:36.787+0000] {processor.py:161} INFO - Started process (PID=13736) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:01:36.788+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:01:36.790+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:01:36.789+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:01:36.811+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:01:36.829+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.050 seconds
+[2024-08-17T12:02:14.110+0000] {processor.py:161} INFO - Started process (PID=14305) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:02:14.112+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:02:14.113+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:02:14.113+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:02:14.132+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:02:14.151+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T12:03:18.018+0000] {processor.py:161} INFO - Started process (PID=14974) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:03:18.019+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:03:18.020+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:03:18.020+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:03:18.034+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:03:18.051+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.040 seconds
+[2024-08-17T12:04:00.429+0000] {processor.py:161} INFO - Started process (PID=15638) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:04:00.430+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:04:00.432+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:04:00.431+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:04:00.450+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:04:00.470+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T12:04:42.753+0000] {processor.py:161} INFO - Started process (PID=16270) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:04:42.754+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:04:42.755+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:04:42.755+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:04:42.776+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:04:42.794+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T12:05:28.848+0000] {processor.py:161} INFO - Started process (PID=16944) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:05:28.849+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:05:28.850+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:05:28.850+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:05:28.870+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:05:28.887+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T12:06:07.860+0000] {processor.py:161} INFO - Started process (PID=17538) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:06:07.863+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:06:07.865+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:06:07.864+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:06:07.885+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:06:07.903+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.050 seconds
+[2024-08-17T12:06:46.712+0000] {processor.py:161} INFO - Started process (PID=18167) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:06:46.714+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:06:46.715+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:06:46.715+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:06:46.729+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:06:46.746+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.039 seconds
+[2024-08-17T12:07:35.633+0000] {processor.py:161} INFO - Started process (PID=18863) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:07:35.634+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:07:35.635+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:07:35.635+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:07:35.660+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:07:35.679+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.053 seconds
+[2024-08-17T12:08:40.547+0000] {processor.py:161} INFO - Started process (PID=19482) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:08:40.549+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:08:40.550+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:08:40.550+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:08:40.578+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:08:40.600+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.061 seconds
+[2024-08-17T12:09:25.950+0000] {processor.py:161} INFO - Started process (PID=20171) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:09:25.951+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:09:25.954+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:09:25.953+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:09:25.969+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:09:25.986+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.044 seconds
+[2024-08-17T12:10:09.195+0000] {processor.py:161} INFO - Started process (PID=20813) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:10:09.196+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:10:09.197+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:10:09.197+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:10:09.217+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:10:09.235+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T12:10:53.716+0000] {processor.py:161} INFO - Started process (PID=21499) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:10:53.719+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:10:53.721+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:10:53.720+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:10:53.739+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:10:53.757+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.050 seconds
+[2024-08-17T12:11:38.591+0000] {processor.py:161} INFO - Started process (PID=22122) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:11:38.592+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:11:38.594+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:11:38.593+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:11:38.615+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:11:38.633+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.052 seconds
+[2024-08-17T12:12:31.631+0000] {processor.py:161} INFO - Started process (PID=22881) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:12:31.632+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:12:31.634+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:12:31.633+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:12:31.659+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:12:31.680+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.056 seconds
+[2024-08-17T12:13:31.891+0000] {processor.py:161} INFO - Started process (PID=23499) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:13:31.893+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:13:31.894+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:13:31.893+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:13:31.913+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:13:31.938+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.053 seconds
+[2024-08-17T12:14:18.867+0000] {processor.py:161} INFO - Started process (PID=24210) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:14:18.868+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:14:18.869+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:14:18.869+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:14:18.890+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:14:18.907+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T12:15:15.086+0000] {processor.py:161} INFO - Started process (PID=24973) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:15:15.087+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:15:15.089+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:15:15.088+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:15:15.114+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:15:15.133+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.056 seconds
+[2024-08-17T12:15:57.167+0000] {processor.py:161} INFO - Started process (PID=25603) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:15:57.168+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:15:57.170+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:15:57.169+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:15:57.186+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:15:57.206+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T12:16:41.984+0000] {processor.py:161} INFO - Started process (PID=26201) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:16:41.985+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:16:41.987+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:16:41.987+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:16:42.009+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:16:42.028+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.052 seconds
+[2024-08-17T12:17:35.382+0000] {processor.py:161} INFO - Started process (PID=26995) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:17:35.383+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:17:35.384+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:17:35.384+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:17:35.405+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:17:35.423+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T12:18:52.894+0000] {processor.py:161} INFO - Started process (PID=27697) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:18:52.896+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:18:52.897+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:18:52.897+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:18:52.915+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:18:52.934+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T12:19:44.574+0000] {processor.py:161} INFO - Started process (PID=28459) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:19:44.575+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:19:44.576+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:19:44.576+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:19:44.599+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:19:44.618+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T12:20:35.941+0000] {processor.py:161} INFO - Started process (PID=29116) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:20:35.943+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:20:35.944+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:20:35.944+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:20:35.962+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:20:35.979+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.045 seconds
+[2024-08-17T12:21:28.743+0000] {processor.py:161} INFO - Started process (PID=29877) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:21:28.744+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:21:28.746+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:21:28.745+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:21:28.777+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:21:28.799+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.065 seconds
+[2024-08-17T12:22:26.290+0000] {processor.py:161} INFO - Started process (PID=30730) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:22:26.292+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:22:26.294+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:22:26.293+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:22:26.314+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:22:26.334+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.052 seconds
+[2024-08-17T12:23:32.666+0000] {processor.py:161} INFO - Started process (PID=31413) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:23:32.667+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:23:32.669+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:23:32.668+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:23:32.689+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:23:32.709+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.050 seconds
+[2024-08-17T12:24:18.917+0000] {processor.py:161} INFO - Started process (PID=32162) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:24:18.918+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:24:18.919+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:24:18.919+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:24:18.935+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:24:18.952+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.041 seconds
+[2024-08-17T12:25:01.627+0000] {processor.py:161} INFO - Started process (PID=32884) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:25:01.628+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:25:01.629+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:25:01.629+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:25:01.648+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:25:01.662+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.040 seconds
+[2024-08-17T12:25:42.730+0000] {processor.py:161} INFO - Started process (PID=33611) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:25:42.731+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:25:42.732+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:25:42.732+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:25:42.748+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:25:42.763+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.040 seconds
+[2024-08-17T12:26:21.255+0000] {processor.py:161} INFO - Started process (PID=34358) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:26:21.255+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:26:21.256+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:26:21.256+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:26:21.270+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:26:21.283+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.034 seconds
+[2024-08-17T12:27:03.825+0000] {processor.py:161} INFO - Started process (PID=35123) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:27:03.826+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:27:03.827+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:27:03.827+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:27:03.846+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:27:03.860+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.040 seconds
+[2024-08-17T12:27:41.589+0000] {processor.py:161} INFO - Started process (PID=35872) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:27:41.590+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:27:41.591+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:27:41.591+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:27:41.608+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:27:41.622+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.038 seconds
+[2024-08-17T12:28:22.971+0000] {processor.py:161} INFO - Started process (PID=36393) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:28:22.971+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:28:22.972+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:28:22.972+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:28:22.985+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:28:22.996+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.030 seconds
+[2024-08-17T12:28:58.791+0000] {processor.py:161} INFO - Started process (PID=37138) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:28:58.792+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:28:58.793+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:28:58.792+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:28:58.805+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:28:58.816+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.029 seconds
+[2024-08-17T12:29:31.745+0000] {processor.py:161} INFO - Started process (PID=37882) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:29:31.746+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:29:31.746+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:29:31.746+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:29:31.760+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:29:31.770+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.029 seconds
+[2024-08-17T12:30:05.213+0000] {processor.py:161} INFO - Started process (PID=38629) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:30:05.214+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:30:05.214+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:30:05.214+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:30:05.225+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:30:05.236+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.028 seconds
+[2024-08-17T12:30:38.002+0000] {processor.py:161} INFO - Started process (PID=39375) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:30:38.004+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:30:38.004+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:30:38.004+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:30:38.015+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:30:38.026+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.027 seconds
+[2024-08-17T12:31:11.022+0000] {processor.py:161} INFO - Started process (PID=40097) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:31:11.023+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:31:11.023+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:31:11.023+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:31:11.034+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:31:11.045+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.026 seconds
+[2024-08-17T12:31:44.913+0000] {processor.py:161} INFO - Started process (PID=40842) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:31:44.913+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:31:44.914+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:31:44.914+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:31:44.926+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:31:44.936+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.027 seconds
+[2024-08-17T12:32:22.022+0000] {processor.py:161} INFO - Started process (PID=41597) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:32:22.022+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:32:22.023+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:32:22.023+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:32:22.033+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:32:22.043+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T12:33:04.980+0000] {processor.py:161} INFO - Started process (PID=42366) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:33:04.982+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:33:04.982+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:33:04.982+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:33:04.990+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:33:05.000+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T12:33:38.234+0000] {processor.py:161} INFO - Started process (PID=43111) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:33:38.236+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:33:38.236+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:33:38.236+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:33:38.250+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:33:38.259+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.029 seconds
+[2024-08-17T12:34:10.981+0000] {processor.py:161} INFO - Started process (PID=43855) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:34:10.982+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:34:10.983+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:34:10.982+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:34:10.991+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:34:11.001+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T12:34:43.748+0000] {processor.py:161} INFO - Started process (PID=44572) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:34:43.748+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:34:43.749+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:34:43.749+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:34:43.759+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:34:43.768+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T12:35:16.217+0000] {processor.py:161} INFO - Started process (PID=45315) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:35:16.217+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:35:16.218+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:35:16.218+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:35:16.225+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:35:16.234+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T12:35:48.766+0000] {processor.py:161} INFO - Started process (PID=46040) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:35:48.767+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:35:48.768+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:35:48.768+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:35:48.777+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:35:48.788+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T12:36:21.753+0000] {processor.py:161} INFO - Started process (PID=46786) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:36:21.754+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:36:21.755+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:36:21.754+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:36:21.762+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:36:21.771+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T12:36:54.225+0000] {processor.py:161} INFO - Started process (PID=47504) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:36:54.226+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:36:54.226+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:36:54.226+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:36:54.234+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:36:54.242+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T12:37:26.917+0000] {processor.py:161} INFO - Started process (PID=48247) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:37:26.917+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:37:26.918+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:37:26.918+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:37:26.927+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:37:26.936+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T12:38:05.438+0000] {processor.py:161} INFO - Started process (PID=48925) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:38:05.439+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:38:05.439+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:38:05.439+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:38:05.449+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:38:05.459+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T12:38:39.580+0000] {processor.py:161} INFO - Started process (PID=49668) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:38:39.580+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:38:39.581+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:38:39.581+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:38:39.601+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:38:39.610+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.034 seconds
+[2024-08-17T12:39:12.173+0000] {processor.py:161} INFO - Started process (PID=50411) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:39:12.174+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:39:12.174+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:39:12.174+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:39:12.182+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:39:12.192+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T12:39:43.846+0000] {processor.py:161} INFO - Started process (PID=51154) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:39:43.847+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:39:43.848+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:39:43.847+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:39:43.863+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:39:43.872+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.029 seconds
+[2024-08-17T12:40:15.751+0000] {processor.py:161} INFO - Started process (PID=51879) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:40:15.759+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:40:15.760+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:40:15.759+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:40:15.786+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:40:15.796+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.050 seconds
+[2024-08-17T12:40:48.763+0000] {processor.py:161} INFO - Started process (PID=52615) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:40:48.763+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:40:48.764+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:40:48.764+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:40:48.781+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:40:48.791+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.032 seconds
+[2024-08-17T12:41:22.308+0000] {processor.py:161} INFO - Started process (PID=53368) to work on /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:41:22.308+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:41:22.309+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:41:22.309+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:41:22.317+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl
+[2024-08-17T12:41:22.327+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Jordan/cases_TS_model.pkl took 0.023 seconds

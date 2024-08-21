@@ -1,0 +1,840 @@
+[2024-08-17T09:57:49.963+0000] {processor.py:161} INFO - Started process (PID=21228) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T09:57:49.963+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:57:49.964+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:57:49.964+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T09:57:49.974+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T09:57:49.984+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T09:58:20.942+0000] {processor.py:161} INFO - Started process (PID=21718) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T09:58:20.943+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:58:20.944+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:58:20.943+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T09:58:20.950+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T09:58:20.960+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T09:58:52.265+0000] {processor.py:161} INFO - Started process (PID=22197) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T09:58:52.266+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:58:52.266+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:58:52.266+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T09:58:52.275+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T09:58:52.284+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T09:59:23.278+0000] {processor.py:161} INFO - Started process (PID=22688) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T09:59:23.278+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:59:23.279+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:59:23.279+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T09:59:23.291+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T09:59:23.302+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.029 seconds
+[2024-08-17T09:59:55.104+0000] {processor.py:161} INFO - Started process (PID=23186) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T09:59:55.104+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:59:55.105+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:59:55.105+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T09:59:55.115+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T09:59:55.124+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:00:25.779+0000] {processor.py:161} INFO - Started process (PID=23658) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:00:25.779+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:00:25.780+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:00:25.780+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:00:25.789+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:00:25.799+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:00:56.531+0000] {processor.py:161} INFO - Started process (PID=24156) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:00:56.531+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:00:56.532+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:00:56.532+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:00:56.541+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:00:56.550+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:01:27.542+0000] {processor.py:161} INFO - Started process (PID=24653) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:01:27.543+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:01:27.544+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:01:27.544+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:01:27.557+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:01:27.567+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.030 seconds
+[2024-08-17T10:01:58.735+0000] {processor.py:161} INFO - Started process (PID=25125) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:01:58.736+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:01:58.737+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:01:58.737+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:01:58.749+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:01:58.759+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.028 seconds
+[2024-08-17T10:02:31.003+0000] {processor.py:161} INFO - Started process (PID=25623) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:02:31.004+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:02:31.005+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:02:31.004+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:02:31.015+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:02:31.024+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:03:02.506+0000] {processor.py:161} INFO - Started process (PID=26166) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:03:02.507+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:03:02.507+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:03:02.507+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:03:02.515+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:03:02.525+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:03:35.600+0000] {processor.py:161} INFO - Started process (PID=26682) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:03:35.601+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:03:35.602+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:03:35.601+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:03:35.611+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:03:35.620+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:04:07.086+0000] {processor.py:161} INFO - Started process (PID=27201) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:04:07.087+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:04:07.087+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:04:07.087+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:04:07.096+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:04:07.105+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T10:04:39.204+0000] {processor.py:161} INFO - Started process (PID=27764) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:04:39.205+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:04:39.205+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:04:39.205+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:04:39.216+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:04:39.226+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:05:10.826+0000] {processor.py:161} INFO - Started process (PID=28301) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:05:10.827+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:05:10.828+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:05:10.827+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:05:10.836+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:05:10.846+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:05:42.173+0000] {processor.py:161} INFO - Started process (PID=28854) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:05:42.174+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:05:42.174+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:05:42.174+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:05:42.189+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:05:42.201+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.032 seconds
+[2024-08-17T10:06:13.905+0000] {processor.py:161} INFO - Started process (PID=29417) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:06:13.906+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:06:13.906+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:06:13.906+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:06:13.915+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:06:13.925+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:06:45.402+0000] {processor.py:161} INFO - Started process (PID=29954) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:06:45.402+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:06:45.403+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:06:45.403+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:06:45.414+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:06:45.423+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:07:16.923+0000] {processor.py:161} INFO - Started process (PID=30516) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:07:16.924+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:07:16.929+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:07:16.929+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:07:16.945+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:07:16.954+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.036 seconds
+[2024-08-17T10:07:56.716+0000] {processor.py:161} INFO - Started process (PID=31059) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:07:56.717+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:07:56.717+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:07:56.717+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:07:56.724+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:07:56.734+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T10:08:29.550+0000] {processor.py:161} INFO - Started process (PID=31687) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:08:29.551+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:08:29.552+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:08:29.551+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:08:29.560+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:08:29.570+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:09:02.338+0000] {processor.py:161} INFO - Started process (PID=32316) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:09:02.339+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:09:02.340+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:09:02.340+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:09:02.348+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:09:02.357+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T10:09:33.761+0000] {processor.py:161} INFO - Started process (PID=32903) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:09:33.762+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:09:33.763+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:09:33.762+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:09:33.775+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:09:33.785+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.028 seconds
+[2024-08-17T10:10:05.325+0000] {processor.py:161} INFO - Started process (PID=33513) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:10:05.325+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:10:05.326+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:10:05.326+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:10:05.337+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:10:05.346+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:10:36.814+0000] {processor.py:161} INFO - Started process (PID=34139) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:10:36.814+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:10:36.815+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:10:36.815+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:10:36.822+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:10:36.831+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T10:11:08.543+0000] {processor.py:161} INFO - Started process (PID=34741) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:11:08.543+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:11:08.544+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:11:08.544+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:11:08.554+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:11:08.565+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.026 seconds
+[2024-08-17T10:11:39.710+0000] {processor.py:161} INFO - Started process (PID=35369) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:11:39.711+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:11:39.712+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:11:39.711+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:11:39.724+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:11:39.734+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.027 seconds
+[2024-08-17T10:12:12.000+0000] {processor.py:161} INFO - Started process (PID=35997) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:12:12.000+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:12:12.001+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:12:12.001+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:12:12.013+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:12:12.024+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.028 seconds
+[2024-08-17T10:12:57.301+0000] {processor.py:161} INFO - Started process (PID=36686) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:12:57.302+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:12:57.303+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:12:57.303+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:12:57.313+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:12:57.323+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.026 seconds
+[2024-08-17T10:13:29.583+0000] {processor.py:161} INFO - Started process (PID=37372) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:13:29.583+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:13:29.584+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:13:29.584+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:13:29.596+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:13:29.606+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.027 seconds
+[2024-08-17T10:14:01.833+0000] {processor.py:161} INFO - Started process (PID=38065) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:14:01.834+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:14:01.834+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:14:01.834+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:14:01.843+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:14:01.852+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:14:34.049+0000] {processor.py:161} INFO - Started process (PID=38758) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:14:34.050+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:14:34.051+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:14:34.051+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:14:34.060+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:14:34.070+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:15:06.478+0000] {processor.py:161} INFO - Started process (PID=39425) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:15:06.478+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:15:06.479+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:15:06.479+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:15:06.488+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:15:06.497+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:15:40.088+0000] {processor.py:161} INFO - Started process (PID=40118) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:15:40.088+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:15:40.089+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:15:40.089+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:15:40.098+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:15:40.108+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:16:12.443+0000] {processor.py:161} INFO - Started process (PID=40790) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:16:12.444+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:16:12.444+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:16:12.444+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:16:12.466+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:16:12.475+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.036 seconds
+[2024-08-17T10:16:44.619+0000] {processor.py:161} INFO - Started process (PID=41459) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:16:44.619+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:16:44.620+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:16:44.620+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:16:44.628+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:16:44.638+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T10:17:16.566+0000] {processor.py:161} INFO - Started process (PID=42126) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:17:16.566+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:17:16.567+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:17:16.567+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:17:16.574+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:17:16.583+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.020 seconds
+[2024-08-17T10:18:02.215+0000] {processor.py:161} INFO - Started process (PID=42912) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:18:02.216+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:18:02.216+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:18:02.216+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:18:02.225+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:18:02.234+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T10:18:35.616+0000] {processor.py:161} INFO - Started process (PID=43655) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:18:35.617+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:18:35.617+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:18:35.617+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:18:35.625+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:18:35.633+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T10:19:09.274+0000] {processor.py:161} INFO - Started process (PID=44398) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:19:09.275+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:19:09.275+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:19:09.275+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:19:09.283+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:19:09.294+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:19:41.773+0000] {processor.py:161} INFO - Started process (PID=45141) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:19:41.774+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:19:41.775+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:19:41.775+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:19:41.788+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:19:41.798+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.029 seconds
+[2024-08-17T10:20:13.421+0000] {processor.py:161} INFO - Started process (PID=45839) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:20:13.421+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:20:13.422+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:20:13.421+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:20:13.429+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:20:13.437+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.020 seconds
+[2024-08-17T10:20:44.868+0000] {processor.py:161} INFO - Started process (PID=46601) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:20:44.870+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:20:44.870+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:20:44.870+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:20:44.880+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:20:44.889+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:21:16.988+0000] {processor.py:161} INFO - Started process (PID=47344) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:21:16.988+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:21:16.989+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:21:16.989+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:21:17.003+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T10:21:17.012+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.028 seconds
+[2024-08-17T11:22:59.893+0000] {processor.py:161} INFO - Started process (PID=81044) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:22:59.894+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:22:59.896+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:22:59.895+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:22:59.918+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:22:59.936+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T11:23:32.936+0000] {processor.py:161} INFO - Started process (PID=81503) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:23:32.937+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:23:32.939+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:23:32.938+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:23:32.960+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:23:32.977+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:24:05.151+0000] {processor.py:161} INFO - Started process (PID=81955) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:24:05.153+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:24:05.154+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:24:05.154+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:24:05.175+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:24:05.194+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T11:24:38.253+0000] {processor.py:161} INFO - Started process (PID=82401) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:24:38.254+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:24:38.255+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:24:38.255+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:24:38.273+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:24:38.289+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.043 seconds
+[2024-08-17T11:25:11.171+0000] {processor.py:161} INFO - Started process (PID=82835) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:25:11.172+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:25:11.174+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:25:11.173+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:25:11.191+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:25:11.211+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:25:46.683+0000] {processor.py:161} INFO - Started process (PID=83322) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:25:46.684+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:25:46.686+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:25:46.685+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:25:46.705+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:25:46.722+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.045 seconds
+[2024-08-17T11:26:20.767+0000] {processor.py:161} INFO - Started process (PID=83773) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:26:20.768+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:26:20.769+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:26:20.769+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:26:20.786+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:26:20.807+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.045 seconds
+[2024-08-17T11:26:54.137+0000] {processor.py:161} INFO - Started process (PID=84252) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:26:54.138+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:26:54.139+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:26:54.139+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:26:54.152+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:26:54.167+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.037 seconds
+[2024-08-17T11:27:00.554+0000] {processor.py:161} INFO - Started process (PID=84322) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:27:00.555+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:27:00.556+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:27:00.556+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:27:00.577+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:27:00.594+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:27:11.925+0000] {processor.py:161} INFO - Started process (PID=84468) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:27:11.926+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:27:11.927+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:27:11.927+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:27:11.955+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:27:11.973+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.056 seconds
+[2024-08-17T11:27:44.168+0000] {processor.py:161} INFO - Started process (PID=84934) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:27:44.169+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:27:44.170+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:27:44.170+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:27:44.191+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:27:44.208+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:28:18.823+0000] {processor.py:161} INFO - Started process (PID=85271) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:28:18.824+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:28:18.825+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:28:18.825+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:28:18.850+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:28:18.868+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.053 seconds
+[2024-08-17T11:28:52.352+0000] {processor.py:161} INFO - Started process (PID=85749) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:28:52.354+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:28:52.355+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:28:52.355+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:28:52.379+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:28:52.396+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T11:29:27.264+0000] {processor.py:161} INFO - Started process (PID=86226) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:29:27.267+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:29:27.268+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:29:27.268+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:29:27.295+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:29:27.315+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.059 seconds
+[2024-08-17T11:30:02.488+0000] {processor.py:161} INFO - Started process (PID=86731) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:30:02.489+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:30:02.490+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:30:02.490+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:30:02.508+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:30:02.522+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.040 seconds
+[2024-08-17T11:30:36.180+0000] {processor.py:161} INFO - Started process (PID=87185) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:30:36.181+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:30:36.183+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:30:36.182+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:30:36.202+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:30:36.220+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.045 seconds
+[2024-08-17T11:30:41.236+0000] {processor.py:161} INFO - Started process (PID=87259) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:30:41.237+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:30:41.238+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:30:41.238+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:30:41.261+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:30:41.280+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T11:31:12.685+0000] {processor.py:161} INFO - Started process (PID=87679) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:31:12.687+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:31:12.688+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:31:12.688+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:31:12.711+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:31:12.732+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.055 seconds
+[2024-08-17T11:31:45.545+0000] {processor.py:161} INFO - Started process (PID=88152) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:31:45.546+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:31:45.547+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:31:45.547+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:31:45.574+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:31:45.597+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.059 seconds
+[2024-08-17T11:32:17.478+0000] {processor.py:161} INFO - Started process (PID=88593) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:32:17.479+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:32:17.481+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:32:17.480+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:32:17.499+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:32:17.518+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:32:37.334+0000] {processor.py:161} INFO - Started process (PID=88905) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:32:37.336+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:32:37.337+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:32:37.336+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:32:37.352+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:32:37.371+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.043 seconds
+[2024-08-17T11:33:23.195+0000] {processor.py:161} INFO - Started process (PID=89405) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:33:23.197+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:33:23.198+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:33:23.197+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:33:23.221+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:33:23.237+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:33:55.360+0000] {processor.py:161} INFO - Started process (PID=89832) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:33:55.361+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:33:55.363+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:33:55.362+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:33:55.386+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:33:55.406+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.053 seconds
+[2024-08-17T11:34:01.721+0000] {processor.py:161} INFO - Started process (PID=89917) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:34:01.722+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:34:01.723+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:34:01.723+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:34:01.742+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:34:01.759+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.043 seconds
+[2024-08-17T11:34:34.450+0000] {processor.py:161} INFO - Started process (PID=90378) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:34:34.451+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:34:34.453+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:34:34.452+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:34:34.477+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:34:34.497+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.055 seconds
+[2024-08-17T11:35:07.304+0000] {processor.py:161} INFO - Started process (PID=90869) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:35:07.305+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:35:07.306+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:35:07.306+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:35:07.326+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:35:07.344+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:35:43.657+0000] {processor.py:161} INFO - Started process (PID=91397) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:35:43.658+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:35:43.659+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:35:43.658+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:35:43.678+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:35:43.697+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:36:17.510+0000] {processor.py:161} INFO - Started process (PID=91871) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:36:17.511+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:36:17.512+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:36:17.512+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:36:17.532+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:36:17.551+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:36:52.171+0000] {processor.py:161} INFO - Started process (PID=92393) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:36:52.173+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:36:52.174+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:36:52.174+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:36:52.198+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:36:52.217+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.053 seconds
+[2024-08-17T11:37:28.838+0000] {processor.py:161} INFO - Started process (PID=92925) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:37:28.839+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:37:28.840+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:37:28.840+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:37:28.858+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:37:28.878+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:38:08.268+0000] {processor.py:161} INFO - Started process (PID=93306) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:38:08.270+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:38:08.272+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:38:08.271+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:38:08.292+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:38:08.313+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.052 seconds
+[2024-08-17T11:38:41.312+0000] {processor.py:161} INFO - Started process (PID=93827) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:38:41.313+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:38:41.314+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:38:41.313+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:38:41.326+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:38:41.340+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.035 seconds
+[2024-08-17T11:39:15.714+0000] {processor.py:161} INFO - Started process (PID=94357) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:39:15.715+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:39:15.716+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:39:15.716+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:39:15.738+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:39:15.752+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.045 seconds
+[2024-08-17T11:39:52.792+0000] {processor.py:161} INFO - Started process (PID=94887) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:39:52.794+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:39:52.795+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:39:52.795+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:39:52.820+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:39:52.842+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.056 seconds
+[2024-08-17T11:40:26.851+0000] {processor.py:161} INFO - Started process (PID=95407) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:40:26.852+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:40:26.853+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:40:26.853+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:40:26.869+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:40:26.886+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.042 seconds
+[2024-08-17T11:40:59.709+0000] {processor.py:161} INFO - Started process (PID=95883) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:40:59.710+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:40:59.711+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:40:59.710+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:40:59.735+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:40:59.753+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.050 seconds
+[2024-08-17T11:41:33.285+0000] {processor.py:161} INFO - Started process (PID=96363) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:41:33.286+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:41:33.287+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:41:33.287+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:41:33.313+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:41:33.338+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.061 seconds
+[2024-08-17T11:42:11.144+0000] {processor.py:161} INFO - Started process (PID=96921) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:42:11.146+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:42:11.148+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:42:11.147+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:42:11.187+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:42:11.206+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.070 seconds
+[2024-08-17T11:42:41.621+0000] {processor.py:161} INFO - Started process (PID=97356) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:42:41.623+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:42:41.624+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:42:41.624+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:42:41.645+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:42:41.664+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:43:29.847+0000] {processor.py:161} INFO - Started process (PID=97885) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:43:29.848+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:43:29.850+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:43:29.849+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:43:29.872+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:43:29.892+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.052 seconds
+[2024-08-17T11:44:03.721+0000] {processor.py:161} INFO - Started process (PID=98354) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:44:03.722+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:44:03.723+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:44:03.723+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:44:03.742+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:44:03.758+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.042 seconds
+[2024-08-17T11:44:38.827+0000] {processor.py:161} INFO - Started process (PID=98898) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:44:38.828+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:44:38.830+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:44:38.829+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:44:38.847+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:44:38.865+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:45:14.881+0000] {processor.py:161} INFO - Started process (PID=99454) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:45:14.882+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:45:14.884+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:45:14.883+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:45:14.903+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:45:14.920+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.045 seconds
+[2024-08-17T11:45:49.222+0000] {processor.py:161} INFO - Started process (PID=99978) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:45:49.223+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:45:49.224+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:45:49.223+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:45:49.243+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:45:49.258+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.041 seconds
+[2024-08-17T11:46:25.069+0000] {processor.py:161} INFO - Started process (PID=850) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:46:25.071+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:46:25.072+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:46:25.071+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:46:25.086+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:46:25.105+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.042 seconds
+[2024-08-17T11:47:05.530+0000] {processor.py:161} INFO - Started process (PID=1436) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:47:05.531+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:47:05.532+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:47:05.532+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:47:05.554+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:47:05.574+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T11:47:38.822+0000] {processor.py:161} INFO - Started process (PID=1923) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:47:38.823+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:47:38.824+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:47:38.823+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:47:38.843+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:47:38.862+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:48:15.096+0000] {processor.py:161} INFO - Started process (PID=2247) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:48:15.097+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:48:15.098+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:48:15.097+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:48:15.117+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:48:15.138+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:48:52.186+0000] {processor.py:161} INFO - Started process (PID=2785) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:48:52.188+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:48:52.189+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:48:52.188+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:48:52.209+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:48:52.226+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:49:30.839+0000] {processor.py:161} INFO - Started process (PID=3306) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:49:30.842+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:49:30.844+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:49:30.843+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:49:30.867+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:49:30.886+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.057 seconds
+[2024-08-17T11:50:13.969+0000] {processor.py:161} INFO - Started process (PID=3927) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:50:13.971+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:50:13.972+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:50:13.972+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:50:13.999+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:50:14.019+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.058 seconds
+[2024-08-17T11:50:55.181+0000] {processor.py:161} INFO - Started process (PID=4522) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:50:55.182+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:50:55.184+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:50:55.183+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:50:55.198+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:50:55.215+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.042 seconds
+[2024-08-17T11:51:29.494+0000] {processor.py:161} INFO - Started process (PID=5005) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:51:29.495+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:51:29.497+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:51:29.496+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:51:29.518+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:51:29.535+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:52:08.455+0000] {processor.py:161} INFO - Started process (PID=5567) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:52:08.457+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:52:08.458+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:52:08.457+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:52:08.473+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:52:08.488+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.039 seconds
+[2024-08-17T11:53:06.497+0000] {processor.py:161} INFO - Started process (PID=6188) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:53:06.498+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:53:06.499+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:53:06.499+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:53:06.525+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:53:06.542+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.054 seconds
+[2024-08-17T11:53:50.782+0000] {processor.py:161} INFO - Started process (PID=6830) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:53:50.784+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:53:50.786+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:53:50.785+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:53:50.807+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:53:50.829+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.055 seconds
+[2024-08-17T11:54:35.651+0000] {processor.py:161} INFO - Started process (PID=7486) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:54:35.652+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:54:35.653+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:54:35.653+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:54:35.668+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:54:35.685+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.042 seconds
+[2024-08-17T11:55:17.162+0000] {processor.py:161} INFO - Started process (PID=8103) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:55:17.163+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:55:17.164+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:55:17.163+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:55:17.181+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:55:17.195+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.038 seconds
+[2024-08-17T11:55:49.776+0000] {processor.py:161} INFO - Started process (PID=8628) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:55:49.778+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:55:49.779+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:55:49.779+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:55:49.799+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:55:49.818+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:56:26.535+0000] {processor.py:161} INFO - Started process (PID=9219) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:56:26.536+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:56:26.537+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:56:26.537+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:56:26.561+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:56:26.581+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.054 seconds
+[2024-08-17T11:57:02.026+0000] {processor.py:161} INFO - Started process (PID=9752) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:57:02.027+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:57:02.029+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:57:02.028+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:57:02.049+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:57:02.067+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:57:45.300+0000] {processor.py:161} INFO - Started process (PID=10384) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:57:45.301+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:57:45.303+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:57:45.302+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:57:45.326+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:57:45.344+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T11:58:47.734+0000] {processor.py:161} INFO - Started process (PID=11093) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:58:47.735+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:58:47.737+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:58:47.736+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:58:47.766+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:58:47.790+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.063 seconds
+[2024-08-17T11:59:27.967+0000] {processor.py:161} INFO - Started process (PID=11708) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:59:27.969+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:59:27.971+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:59:27.971+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:59:27.989+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T11:59:28.007+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T12:00:04.567+0000] {processor.py:161} INFO - Started process (PID=12258) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:00:04.568+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:00:04.569+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:00:04.569+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:00:04.589+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:00:04.608+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T12:00:41.611+0000] {processor.py:161} INFO - Started process (PID=12892) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:00:41.612+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:00:41.613+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:00:41.613+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:00:41.640+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:00:41.656+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.053 seconds
+[2024-08-17T12:01:16.643+0000] {processor.py:161} INFO - Started process (PID=13405) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:01:16.644+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:01:16.645+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:01:16.644+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:01:16.659+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:01:16.678+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.042 seconds
+[2024-08-17T12:01:52.861+0000] {processor.py:161} INFO - Started process (PID=13961) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:01:52.862+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:01:52.863+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:01:52.863+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:01:52.887+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:01:52.905+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.052 seconds
+[2024-08-17T12:02:37.354+0000] {processor.py:161} INFO - Started process (PID=14608) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:02:37.356+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:02:37.357+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:02:37.356+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:02:37.378+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:02:37.396+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.050 seconds
+[2024-08-17T12:03:41.802+0000] {processor.py:161} INFO - Started process (PID=15338) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:03:41.803+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:03:41.804+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:03:41.804+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:03:41.824+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:03:41.841+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T12:04:21.334+0000] {processor.py:161} INFO - Started process (PID=15923) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:04:21.335+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:04:21.337+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:04:21.336+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:04:21.359+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:04:21.379+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.054 seconds
+[2024-08-17T12:05:01.338+0000] {processor.py:161} INFO - Started process (PID=16551) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:05:01.339+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:05:01.341+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:05:01.340+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:05:01.362+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:05:01.381+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T12:05:44.393+0000] {processor.py:161} INFO - Started process (PID=17187) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:05:44.394+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:05:44.395+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:05:44.395+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:05:44.418+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:05:44.437+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T12:06:23.186+0000] {processor.py:161} INFO - Started process (PID=17746) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:06:23.187+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:06:23.189+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:06:23.188+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:06:23.208+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:06:23.224+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T12:07:04.654+0000] {processor.py:161} INFO - Started process (PID=18411) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:07:04.656+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:07:04.657+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:07:04.657+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:07:04.681+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:07:04.702+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.055 seconds
+[2024-08-17T12:08:11.169+0000] {processor.py:161} INFO - Started process (PID=19086) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:08:11.170+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:08:11.171+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:08:11.171+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:08:11.195+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:08:11.212+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.050 seconds
+[2024-08-17T12:09:00.732+0000] {processor.py:161} INFO - Started process (PID=19800) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:09:00.734+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:09:00.735+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:09:00.735+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:09:00.762+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:09:00.783+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.061 seconds
+[2024-08-17T12:09:46.963+0000] {processor.py:161} INFO - Started process (PID=20488) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:09:46.965+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:09:46.966+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:09:46.966+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:09:46.985+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:09:47.006+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T12:10:37.162+0000] {processor.py:161} INFO - Started process (PID=21246) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:10:37.163+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:10:37.166+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:10:37.165+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:10:37.186+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:10:37.207+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.054 seconds
+[2024-08-17T12:11:14.865+0000] {processor.py:161} INFO - Started process (PID=21776) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:11:14.866+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:11:14.868+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:11:14.867+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:11:14.889+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:11:14.907+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T12:12:05.996+0000] {processor.py:161} INFO - Started process (PID=22493) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:12:05.997+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:12:05.999+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:12:05.998+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:12:06.030+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:12:06.052+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.065 seconds
+[2024-08-17T12:12:42.816+0000] {processor.py:161} INFO - Started process (PID=23059) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:12:42.818+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:12:42.821+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:12:42.820+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:12:42.850+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:12:42.871+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.065 seconds
+[2024-08-17T12:13:33.297+0000] {processor.py:161} INFO - Started process (PID=23525) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:13:33.299+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:13:33.300+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:13:33.299+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:13:33.326+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:13:33.345+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.059 seconds
+[2024-08-17T12:14:20.890+0000] {processor.py:161} INFO - Started process (PID=24236) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:14:20.891+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:14:20.892+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:14:20.892+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:14:20.912+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:14:20.932+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T12:15:17.269+0000] {processor.py:161} INFO - Started process (PID=24999) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:15:17.270+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:15:17.272+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:15:17.271+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:15:17.299+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:15:17.319+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.058 seconds
+[2024-08-17T12:15:58.734+0000] {processor.py:161} INFO - Started process (PID=25629) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:15:58.735+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:15:58.737+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:15:58.736+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:15:58.756+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:15:58.777+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T12:16:56.608+0000] {processor.py:161} INFO - Started process (PID=26436) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:16:56.609+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:16:56.611+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:16:56.611+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:16:56.631+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:16:56.650+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.054 seconds
+[2024-08-17T12:17:37.702+0000] {processor.py:161} INFO - Started process (PID=27029) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:17:37.704+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:17:37.705+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:17:37.704+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:17:37.731+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:17:37.751+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.057 seconds
+[2024-08-17T12:18:54.685+0000] {processor.py:161} INFO - Started process (PID=27723) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:18:54.686+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:18:54.687+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:18:54.686+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:18:54.703+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:18:54.726+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T12:19:46.549+0000] {processor.py:161} INFO - Started process (PID=28485) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:19:46.550+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:19:46.552+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:19:46.551+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:19:46.575+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:19:46.598+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.058 seconds
+[2024-08-17T12:20:56.915+0000] {processor.py:161} INFO - Started process (PID=29353) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:20:56.916+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:20:56.917+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:20:56.917+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:20:56.937+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:20:56.956+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T12:21:40.147+0000] {processor.py:161} INFO - Started process (PID=30040) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:21:40.148+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:21:40.150+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:21:40.149+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:21:40.165+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:21:40.183+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.042 seconds
+[2024-08-17T12:22:35.111+0000] {processor.py:161} INFO - Started process (PID=30851) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:22:35.112+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:22:35.113+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:22:35.113+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:22:35.130+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:22:35.147+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.042 seconds
+[2024-08-17T12:23:34.594+0000] {processor.py:161} INFO - Started process (PID=31439) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:23:34.595+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:23:34.597+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:23:34.596+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:23:34.622+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:23:34.642+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.055 seconds
+[2024-08-17T12:24:20.688+0000] {processor.py:161} INFO - Started process (PID=32188) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:24:20.689+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:24:20.690+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:24:20.690+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:24:20.709+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:24:20.725+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.041 seconds
+[2024-08-17T12:25:03.299+0000] {processor.py:161} INFO - Started process (PID=32917) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:25:03.300+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:25:03.301+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:25:03.301+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:25:03.327+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:25:03.347+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.052 seconds
+[2024-08-17T12:25:44.442+0000] {processor.py:161} INFO - Started process (PID=33637) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:25:44.443+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:25:44.445+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:25:44.444+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:25:44.463+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:25:44.480+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.044 seconds
+[2024-08-17T12:26:24.985+0000] {processor.py:161} INFO - Started process (PID=34401) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:26:24.986+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:26:24.987+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:26:24.987+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:26:25.005+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:26:25.024+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.045 seconds
+[2024-08-17T12:27:05.425+0000] {processor.py:161} INFO - Started process (PID=35149) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:27:05.426+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:27:05.427+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:27:05.427+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:27:05.448+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:27:05.463+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.045 seconds
+[2024-08-17T12:27:42.927+0000] {processor.py:161} INFO - Started process (PID=35898) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:27:42.928+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:27:42.929+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:27:42.929+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:27:42.945+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:27:42.957+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.034 seconds
+[2024-08-17T12:28:35.056+0000] {processor.py:161} INFO - Started process (PID=36677) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:28:35.057+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:28:35.058+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:28:35.058+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:28:35.076+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:28:35.090+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.039 seconds
+[2024-08-17T12:29:08.158+0000] {processor.py:161} INFO - Started process (PID=37338) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:29:08.159+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:29:08.160+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:29:08.159+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:29:08.169+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:29:08.179+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T12:29:41.289+0000] {processor.py:161} INFO - Started process (PID=38086) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:29:41.290+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:29:41.290+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:29:41.290+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:29:41.301+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:29:41.311+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.026 seconds
+[2024-08-17T12:30:14.587+0000] {processor.py:161} INFO - Started process (PID=38833) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:30:14.588+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:30:14.588+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:30:14.588+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:30:14.599+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:30:14.608+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T12:30:46.923+0000] {processor.py:161} INFO - Started process (PID=39554) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:30:46.923+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:30:46.924+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:30:46.924+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:30:46.935+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:30:46.944+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T12:31:18.814+0000] {processor.py:161} INFO - Started process (PID=40279) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:31:18.815+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:31:18.816+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:31:18.816+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:31:18.823+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:31:18.833+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T12:31:51.381+0000] {processor.py:161} INFO - Started process (PID=40990) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:31:51.381+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:31:51.382+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:31:51.382+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:31:51.395+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:31:51.405+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.028 seconds
+[2024-08-17T12:32:26.442+0000] {processor.py:161} INFO - Started process (PID=41732) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:32:26.443+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:32:26.444+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:32:26.444+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:32:26.452+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:32:26.462+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T12:33:06.017+0000] {processor.py:161} INFO - Started process (PID=42392) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:33:06.017+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:33:06.018+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:33:06.018+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:33:06.025+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:33:06.035+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T12:33:39.451+0000] {processor.py:161} INFO - Started process (PID=43137) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:33:39.452+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:33:39.452+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:33:39.452+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:33:39.462+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:33:39.471+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T12:34:12.041+0000] {processor.py:161} INFO - Started process (PID=43881) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:34:12.042+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:34:12.042+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:34:12.042+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:34:12.050+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:34:12.060+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T12:34:44.778+0000] {processor.py:161} INFO - Started process (PID=44598) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:34:44.779+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:34:44.780+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:34:44.780+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:34:44.792+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:34:44.802+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.028 seconds
+[2024-08-17T12:35:17.745+0000] {processor.py:161} INFO - Started process (PID=45342) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:35:17.746+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:35:17.746+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:35:17.746+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:35:17.753+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:35:17.763+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T12:35:50.519+0000] {processor.py:161} INFO - Started process (PID=46087) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:35:50.519+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:35:50.520+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:35:50.520+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:35:50.527+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:35:50.537+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T12:36:22.657+0000] {processor.py:161} INFO - Started process (PID=46812) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:36:22.658+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:36:22.658+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:36:22.658+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:36:22.667+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:36:22.677+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T12:36:55.585+0000] {processor.py:161} INFO - Started process (PID=47537) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:36:55.586+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:36:55.587+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:36:55.587+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:36:55.602+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:36:55.613+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.032 seconds
+[2024-08-17T12:37:27.696+0000] {processor.py:161} INFO - Started process (PID=48273) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:37:27.697+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:37:27.697+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:37:27.697+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:37:27.705+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:37:27.714+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T12:38:06.449+0000] {processor.py:161} INFO - Started process (PID=48958) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:38:06.449+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:38:06.450+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:38:06.450+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:38:06.456+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:38:06.466+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T12:38:40.532+0000] {processor.py:161} INFO - Started process (PID=49694) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:38:40.533+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:38:40.533+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:38:40.533+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:38:40.557+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:38:40.566+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.038 seconds
+[2024-08-17T12:39:13.342+0000] {processor.py:161} INFO - Started process (PID=50437) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:39:13.343+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:39:13.344+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:39:13.343+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:39:13.352+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:39:13.361+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T12:39:45.444+0000] {processor.py:161} INFO - Started process (PID=51180) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:39:45.452+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:39:45.453+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:39:45.453+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:39:45.463+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:39:45.471+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.030 seconds
+[2024-08-17T12:40:17.460+0000] {processor.py:161} INFO - Started process (PID=51924) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:40:17.460+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:40:17.461+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:40:17.461+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:40:17.488+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:40:17.500+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.044 seconds
+[2024-08-17T12:40:50.617+0000] {processor.py:161} INFO - Started process (PID=52650) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:40:50.619+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:40:50.619+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:40:50.619+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:40:50.633+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:40:50.641+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.027 seconds
+[2024-08-17T12:41:23.320+0000] {processor.py:161} INFO - Started process (PID=53394) to work on /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:41:23.320+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:41:23.321+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:41:23.321+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:41:23.329+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl
+[2024-08-17T12:41:23.339+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Hungary/cases_TS_model.pkl took 0.024 seconds

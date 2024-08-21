@@ -1,0 +1,875 @@
+[2024-08-17T09:57:50.124+0000] {processor.py:161} INFO - Started process (PID=21233) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T09:57:50.124+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T09:57:50.125+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:57:50.125+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T09:57:50.133+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T09:57:50.143+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.024 seconds
+[2024-08-17T09:58:22.219+0000] {processor.py:161} INFO - Started process (PID=21740) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T09:58:22.220+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T09:58:22.220+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:58:22.220+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T09:58:22.231+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T09:58:22.241+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.026 seconds
+[2024-08-17T09:58:53.446+0000] {processor.py:161} INFO - Started process (PID=22238) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T09:58:53.447+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T09:58:53.447+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:58:53.447+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T09:58:53.455+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T09:58:53.463+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.021 seconds
+[2024-08-17T09:59:25.111+0000] {processor.py:161} INFO - Started process (PID=22710) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T09:59:25.111+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T09:59:25.112+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:59:25.112+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T09:59:25.121+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T09:59:25.130+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.023 seconds
+[2024-08-17T09:59:56.363+0000] {processor.py:161} INFO - Started process (PID=23208) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T09:59:56.364+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T09:59:56.365+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:59:56.365+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T09:59:56.373+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T09:59:56.383+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:00:27.597+0000] {processor.py:161} INFO - Started process (PID=23706) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:00:27.598+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:00:27.598+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:00:27.598+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:00:27.608+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:00:27.618+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.026 seconds
+[2024-08-17T10:00:58.630+0000] {processor.py:161} INFO - Started process (PID=24178) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:00:58.631+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:00:58.631+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:00:58.631+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:00:58.644+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:00:58.654+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.027 seconds
+[2024-08-17T10:01:29.756+0000] {processor.py:161} INFO - Started process (PID=24676) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:01:29.761+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:01:29.762+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:01:29.761+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:01:29.772+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:01:29.781+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.029 seconds
+[2024-08-17T10:02:00.707+0000] {processor.py:161} INFO - Started process (PID=25148) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:02:00.707+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:02:00.708+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:02:00.708+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:02:00.719+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:02:00.737+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.034 seconds
+[2024-08-17T10:02:32.503+0000] {processor.py:161} INFO - Started process (PID=25646) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:02:32.504+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:02:32.505+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:02:32.504+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:02:32.547+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:02:32.556+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.057 seconds
+[2024-08-17T10:03:03.801+0000] {processor.py:161} INFO - Started process (PID=26188) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:03:03.802+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:03:03.802+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:03:03.802+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:03:03.813+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:03:03.823+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.026 seconds
+[2024-08-17T10:03:36.183+0000] {processor.py:161} INFO - Started process (PID=26704) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:03:36.183+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:03:36.184+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:03:36.184+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:03:36.191+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:03:36.200+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.022 seconds
+[2024-08-17T10:04:07.902+0000] {processor.py:161} INFO - Started process (PID=27223) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:04:07.902+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:04:07.903+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:04:07.903+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:04:07.912+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:04:07.922+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:04:40.101+0000] {processor.py:161} INFO - Started process (PID=27786) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:04:40.102+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:04:40.102+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:04:40.102+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:04:40.112+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:04:40.121+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:05:11.676+0000] {processor.py:161} INFO - Started process (PID=28323) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:05:11.677+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:05:11.677+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:05:11.677+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:05:11.686+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:05:11.695+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.022 seconds
+[2024-08-17T10:05:44.260+0000] {processor.py:161} INFO - Started process (PID=28886) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:05:44.261+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:05:44.261+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:05:44.261+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:05:44.275+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:05:44.285+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.030 seconds
+[2024-08-17T10:06:15.412+0000] {processor.py:161} INFO - Started process (PID=29446) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:06:15.413+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:06:15.414+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:06:15.413+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:06:15.424+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:06:15.434+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.026 seconds
+[2024-08-17T10:06:46.921+0000] {processor.py:161} INFO - Started process (PID=29982) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:06:46.922+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:06:46.923+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:06:46.922+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:06:46.933+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:06:46.943+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.026 seconds
+[2024-08-17T10:07:18.273+0000] {processor.py:161} INFO - Started process (PID=30545) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:07:18.273+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:07:18.274+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:07:18.274+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:07:18.282+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:07:18.291+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.021 seconds
+[2024-08-17T10:07:57.515+0000] {processor.py:161} INFO - Started process (PID=31081) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:07:57.516+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:07:57.517+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:07:57.516+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:07:57.527+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:07:57.537+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:08:30.479+0000] {processor.py:161} INFO - Started process (PID=31709) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:08:30.482+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:08:30.483+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:08:30.483+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:08:30.494+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:08:30.503+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.028 seconds
+[2024-08-17T10:09:03.010+0000] {processor.py:161} INFO - Started process (PID=32338) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:09:03.010+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:09:03.012+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:09:03.011+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:09:03.019+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:09:03.029+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.022 seconds
+[2024-08-17T10:09:35.853+0000] {processor.py:161} INFO - Started process (PID=32967) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:09:35.854+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:09:35.855+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:09:35.855+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:09:35.874+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:09:35.884+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.035 seconds
+[2024-08-17T10:10:08.144+0000] {processor.py:161} INFO - Started process (PID=33570) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:10:08.145+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:10:08.145+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:10:08.145+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:10:08.157+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:10:08.167+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.026 seconds
+[2024-08-17T10:10:39.882+0000] {processor.py:161} INFO - Started process (PID=34179) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:10:39.883+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:10:39.883+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:10:39.883+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:10:39.895+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:10:39.904+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:11:11.188+0000] {processor.py:161} INFO - Started process (PID=34805) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:11:11.189+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:11:11.189+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:11:11.189+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:11:11.200+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:11:11.210+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:11:42.151+0000] {processor.py:161} INFO - Started process (PID=35404) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:11:42.151+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:11:42.152+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:11:42.152+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:11:42.159+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:11:42.168+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.021 seconds
+[2024-08-17T10:12:13.586+0000] {processor.py:161} INFO - Started process (PID=36027) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:12:13.587+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:12:13.587+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:12:13.587+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:12:13.595+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:12:13.605+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:12:58.327+0000] {processor.py:161} INFO - Started process (PID=36727) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:12:58.329+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:12:58.330+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:12:58.329+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:12:58.339+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:12:58.349+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.026 seconds
+[2024-08-17T10:13:31.088+0000] {processor.py:161} INFO - Started process (PID=37394) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:13:31.088+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:13:31.089+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:13:31.089+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:13:31.098+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:13:31.108+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:14:03.246+0000] {processor.py:161} INFO - Started process (PID=38087) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:14:03.247+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:14:03.248+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:14:03.248+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:14:03.257+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:14:03.267+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:14:35.346+0000] {processor.py:161} INFO - Started process (PID=38780) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:14:35.347+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:14:35.347+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:14:35.347+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:14:35.354+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:14:35.363+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.021 seconds
+[2024-08-17T10:15:08.286+0000] {processor.py:161} INFO - Started process (PID=39473) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:15:08.287+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:15:08.288+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:15:08.287+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:15:08.298+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:15:08.308+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.026 seconds
+[2024-08-17T10:15:41.001+0000] {processor.py:161} INFO - Started process (PID=40140) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:15:41.001+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:15:41.002+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:15:41.002+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:15:41.016+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:15:41.026+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.030 seconds
+[2024-08-17T10:16:13.969+0000] {processor.py:161} INFO - Started process (PID=40833) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:16:13.970+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:16:13.971+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:16:13.971+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:16:13.982+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:16:13.992+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.026 seconds
+[2024-08-17T10:16:46.230+0000] {processor.py:161} INFO - Started process (PID=41505) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:16:46.231+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:16:46.231+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:16:46.231+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:16:46.240+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:16:46.249+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.022 seconds
+[2024-08-17T10:17:18.104+0000] {processor.py:161} INFO - Started process (PID=42151) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:17:18.104+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:17:18.105+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:17:18.105+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:17:18.118+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:17:18.127+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.028 seconds
+[2024-08-17T10:18:02.995+0000] {processor.py:161} INFO - Started process (PID=42934) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:18:02.995+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:18:02.999+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:18:02.998+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:18:03.007+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:18:03.015+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:18:36.945+0000] {processor.py:161} INFO - Started process (PID=43677) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:18:36.945+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:18:36.946+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:18:36.945+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:18:36.965+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:18:36.974+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.033 seconds
+[2024-08-17T10:19:10.007+0000] {processor.py:161} INFO - Started process (PID=44420) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:19:10.008+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:19:10.008+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:19:10.008+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:19:10.016+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:19:10.024+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.020 seconds
+[2024-08-17T10:19:42.363+0000] {processor.py:161} INFO - Started process (PID=45163) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:19:42.363+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:19:42.364+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:19:42.364+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:19:42.381+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:19:42.394+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.035 seconds
+[2024-08-17T10:20:15.372+0000] {processor.py:161} INFO - Started process (PID=45888) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:20:15.373+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:20:15.374+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:20:15.373+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:20:15.381+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:20:15.390+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.021 seconds
+[2024-08-17T10:20:47.135+0000] {processor.py:161} INFO - Started process (PID=46631) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:20:47.136+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:20:47.136+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:20:47.136+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:20:47.144+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:20:47.152+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.020 seconds
+[2024-08-17T10:21:18.497+0000] {processor.py:161} INFO - Started process (PID=47374) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:21:18.497+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T10:21:18.498+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:21:18.498+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:21:18.504+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T10:21:18.514+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.020 seconds
+[2024-08-17T11:17:57.303+0000] {processor.py:161} INFO - Started process (PID=77289) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:17:57.305+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:17:57.307+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:17:57.306+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:17:57.329+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:17:57.349+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.054 seconds
+[2024-08-17T11:18:28.416+0000] {processor.py:161} INFO - Started process (PID=77722) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:18:28.417+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:18:28.419+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:18:28.418+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:18:28.435+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:18:28.452+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.043 seconds
+[2024-08-17T11:19:00.664+0000] {processor.py:161} INFO - Started process (PID=78181) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:19:00.666+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:19:00.667+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:19:00.667+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:19:00.688+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:19:00.704+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:19:32.706+0000] {processor.py:161} INFO - Started process (PID=78575) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:19:32.707+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:19:32.708+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:19:32.708+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:19:32.729+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:19:32.744+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.045 seconds
+[2024-08-17T11:20:04.851+0000] {processor.py:161} INFO - Started process (PID=79004) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:20:04.853+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:20:04.854+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:20:04.853+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:20:04.872+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:20:04.891+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:20:41.797+0000] {processor.py:161} INFO - Started process (PID=79467) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:20:41.799+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:20:41.800+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:20:41.800+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:20:41.826+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:20:41.845+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.053 seconds
+[2024-08-17T11:20:48.969+0000] {processor.py:161} INFO - Started process (PID=79560) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:20:48.970+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:20:48.972+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:20:48.971+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:20:48.989+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:20:49.010+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:21:20.682+0000] {processor.py:161} INFO - Started process (PID=79948) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:21:20.683+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:21:20.685+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:21:20.685+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:21:20.710+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:21:20.729+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.054 seconds
+[2024-08-17T11:21:52.527+0000] {processor.py:161} INFO - Started process (PID=80352) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:21:52.529+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:21:52.530+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:21:52.530+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:21:52.546+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:21:52.565+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.045 seconds
+[2024-08-17T11:22:27.340+0000] {processor.py:161} INFO - Started process (PID=80786) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:22:27.342+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:22:27.343+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:22:27.342+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:22:27.369+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:22:27.387+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.054 seconds
+[2024-08-17T11:23:03.707+0000] {processor.py:161} INFO - Started process (PID=81092) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:23:03.708+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:23:03.710+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:23:03.709+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:23:03.731+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:23:03.744+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.045 seconds
+[2024-08-17T11:23:37.059+0000] {processor.py:161} INFO - Started process (PID=81560) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:23:37.060+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:23:37.062+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:23:37.061+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:23:37.076+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:23:37.097+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:24:06.506+0000] {processor.py:161} INFO - Started process (PID=81964) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:24:06.508+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:24:06.509+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:24:06.509+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:24:06.531+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:24:06.550+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.050 seconds
+[2024-08-17T11:24:40.699+0000] {processor.py:161} INFO - Started process (PID=82443) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:24:40.700+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:24:40.701+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:24:40.701+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:24:40.719+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:24:40.738+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:25:12.841+0000] {processor.py:161} INFO - Started process (PID=82852) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:25:12.842+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:25:12.844+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:25:12.843+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:25:12.864+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:25:12.880+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:25:45.541+0000] {processor.py:161} INFO - Started process (PID=83306) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:25:45.542+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:25:45.543+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:25:45.543+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:25:45.561+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:25:45.577+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.041 seconds
+[2024-08-17T11:26:19.706+0000] {processor.py:161} INFO - Started process (PID=83758) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:26:19.708+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:26:19.709+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:26:19.709+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:26:19.727+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:26:19.747+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:26:53.426+0000] {processor.py:161} INFO - Started process (PID=84238) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:26:53.427+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:26:53.429+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:26:53.428+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:26:53.448+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:26:53.466+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:27:24.999+0000] {processor.py:161} INFO - Started process (PID=84655) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:27:25.001+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:27:25.002+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:27:25.002+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:27:25.021+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:27:25.042+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.050 seconds
+[2024-08-17T11:28:04.796+0000] {processor.py:161} INFO - Started process (PID=85051) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:28:04.798+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:28:04.799+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:28:04.798+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:28:04.819+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:28:04.833+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.043 seconds
+[2024-08-17T11:28:37.951+0000] {processor.py:161} INFO - Started process (PID=85548) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:28:37.952+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:28:37.953+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:28:37.953+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:28:37.973+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:28:37.992+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.050 seconds
+[2024-08-17T11:29:12.452+0000] {processor.py:161} INFO - Started process (PID=86022) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:29:12.453+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:29:12.454+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:29:12.454+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:29:12.483+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:29:12.502+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.056 seconds
+[2024-08-17T11:29:47.180+0000] {processor.py:161} INFO - Started process (PID=86521) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:29:47.182+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:29:47.183+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:29:47.183+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:29:47.203+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:29:47.222+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:30:21.485+0000] {processor.py:161} INFO - Started process (PID=86983) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:30:21.487+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:30:21.488+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:30:21.487+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:30:21.514+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:30:21.533+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.055 seconds
+[2024-08-17T11:30:29.570+0000] {processor.py:161} INFO - Started process (PID=87084) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:30:29.571+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:30:29.573+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:30:29.572+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:30:29.608+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:30:29.628+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.064 seconds
+[2024-08-17T11:31:03.726+0000] {processor.py:161} INFO - Started process (PID=87567) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:31:03.727+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:31:03.728+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:31:03.728+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:31:03.747+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:31:03.765+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:31:12.290+0000] {processor.py:161} INFO - Started process (PID=87674) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:31:12.292+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:31:12.293+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:31:12.292+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:31:12.315+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:31:12.335+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.052 seconds
+[2024-08-17T11:31:45.067+0000] {processor.py:161} INFO - Started process (PID=88147) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:31:45.069+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:31:45.071+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:31:45.070+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:31:45.093+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:31:45.114+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.053 seconds
+[2024-08-17T11:32:17.329+0000] {processor.py:161} INFO - Started process (PID=88590) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:32:17.331+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:32:17.332+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:32:17.331+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:32:17.353+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:32:17.370+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:32:37.356+0000] {processor.py:161} INFO - Started process (PID=88906) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:32:37.357+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:32:37.359+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:32:37.358+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:32:37.374+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:32:37.392+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.042 seconds
+[2024-08-17T11:32:42.077+0000] {processor.py:161} INFO - Started process (PID=88974) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:32:42.079+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:32:42.080+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:32:42.080+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:32:42.104+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:32:42.124+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.054 seconds
+[2024-08-17T11:33:22.881+0000] {processor.py:161} INFO - Started process (PID=89402) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:33:22.882+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:33:22.883+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:33:22.883+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:33:22.904+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:33:22.922+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:33:55.158+0000] {processor.py:161} INFO - Started process (PID=89829) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:33:55.160+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:33:55.161+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:33:55.160+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:33:55.184+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:33:55.204+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.052 seconds
+[2024-08-17T11:34:29.118+0000] {processor.py:161} INFO - Started process (PID=90312) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:34:29.119+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:34:29.122+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:34:29.122+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:34:29.142+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:34:29.162+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.051 seconds
+[2024-08-17T11:35:03.125+0000] {processor.py:161} INFO - Started process (PID=90824) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:35:03.126+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:35:03.127+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:35:03.127+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:35:03.151+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:35:03.170+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.053 seconds
+[2024-08-17T11:35:35.237+0000] {processor.py:161} INFO - Started process (PID=91278) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:35:35.238+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:35:35.240+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:35:35.239+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:35:35.259+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:35:35.279+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:36:08.504+0000] {processor.py:161} INFO - Started process (PID=91773) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:36:08.504+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:36:08.505+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:36:08.505+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:36:08.523+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:36:08.539+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.040 seconds
+[2024-08-17T11:36:40.633+0000] {processor.py:161} INFO - Started process (PID=92214) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:36:40.634+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:36:40.635+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:36:40.635+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:36:40.650+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:36:40.667+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.039 seconds
+[2024-08-17T11:37:16.227+0000] {processor.py:161} INFO - Started process (PID=92723) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:37:16.229+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:37:16.230+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:37:16.230+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:37:16.250+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:37:16.270+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:38:08.841+0000] {processor.py:161} INFO - Started process (PID=93316) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:38:08.843+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:38:08.844+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:38:08.844+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:38:08.858+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:38:08.877+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.043 seconds
+[2024-08-17T11:38:41.800+0000] {processor.py:161} INFO - Started process (PID=93837) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:38:41.801+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:38:41.803+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:38:41.801+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:38:41.822+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:38:41.840+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:39:16.340+0000] {processor.py:161} INFO - Started process (PID=94366) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:39:16.341+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:39:16.342+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:39:16.342+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:39:16.364+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:39:16.382+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:39:53.312+0000] {processor.py:161} INFO - Started process (PID=94895) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:39:53.313+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:39:53.315+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:39:53.314+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:39:53.338+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:39:53.358+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.054 seconds
+[2024-08-17T11:40:27.255+0000] {processor.py:161} INFO - Started process (PID=95415) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:40:27.256+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:40:27.257+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:40:27.257+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:40:27.275+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:40:27.297+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:41:04.376+0000] {processor.py:161} INFO - Started process (PID=95951) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:41:04.379+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:41:04.381+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:41:04.380+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:41:04.407+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:41:04.427+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.058 seconds
+[2024-08-17T11:41:38.124+0000] {processor.py:161} INFO - Started process (PID=96445) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:41:38.125+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:41:38.126+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:41:38.126+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:41:38.142+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:41:38.160+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.043 seconds
+[2024-08-17T11:42:11.617+0000] {processor.py:161} INFO - Started process (PID=96927) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:42:11.619+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:42:11.621+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:42:11.620+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:42:11.645+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:42:11.663+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.053 seconds
+[2024-08-17T11:43:10.540+0000] {processor.py:161} INFO - Started process (PID=97583) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:43:10.541+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:43:10.542+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:43:10.542+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:43:10.561+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:43:10.579+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.045 seconds
+[2024-08-17T11:43:48.647+0000] {processor.py:161} INFO - Started process (PID=98150) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:43:48.648+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:43:48.649+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:43:48.649+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:43:48.661+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:43:48.678+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.039 seconds
+[2024-08-17T11:44:26.989+0000] {processor.py:161} INFO - Started process (PID=98718) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:44:26.990+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:44:26.991+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:44:26.990+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:44:27.010+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:44:27.023+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.042 seconds
+[2024-08-17T11:45:00.919+0000] {processor.py:161} INFO - Started process (PID=99242) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:45:00.920+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:45:00.922+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:45:00.922+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:45:00.938+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:45:00.957+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:45:38.867+0000] {processor.py:161} INFO - Started process (PID=99820) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:45:38.868+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:45:38.869+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:45:38.869+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:45:38.893+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:45:38.913+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.055 seconds
+[2024-08-17T11:46:13.172+0000] {processor.py:161} INFO - Started process (PID=676) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:46:13.174+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:46:13.175+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:46:13.175+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:46:13.205+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:46:13.231+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.067 seconds
+[2024-08-17T11:46:49.765+0000] {processor.py:161} INFO - Started process (PID=1203) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:46:49.771+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:46:49.773+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:46:49.772+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:46:49.795+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:46:49.808+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.051 seconds
+[2024-08-17T11:47:25.512+0000] {processor.py:161} INFO - Started process (PID=1724) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:47:25.513+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:47:25.515+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:47:25.514+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:47:25.535+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:47:25.553+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:48:18.064+0000] {processor.py:161} INFO - Started process (PID=2295) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:48:18.067+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:48:18.069+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:48:18.069+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:48:18.099+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:48:18.122+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.068 seconds
+[2024-08-17T11:49:01.795+0000] {processor.py:161} INFO - Started process (PID=2889) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:49:01.796+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:49:01.798+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:49:01.797+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:49:01.819+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:49:01.838+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.050 seconds
+[2024-08-17T11:49:42.864+0000] {processor.py:161} INFO - Started process (PID=3473) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:49:42.865+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:49:42.866+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:49:42.866+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:49:42.886+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:49:42.904+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:50:26.333+0000] {processor.py:161} INFO - Started process (PID=4101) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:50:26.336+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:50:26.337+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:50:26.337+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:50:26.351+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:50:26.364+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.037 seconds
+[2024-08-17T11:51:05.180+0000] {processor.py:161} INFO - Started process (PID=4678) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:51:05.182+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:51:05.184+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:51:05.183+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:51:05.201+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:51:05.222+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.051 seconds
+[2024-08-17T11:51:41.975+0000] {processor.py:161} INFO - Started process (PID=5188) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:51:41.977+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:51:41.978+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:51:41.978+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:51:42.003+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:51:42.021+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.054 seconds
+[2024-08-17T11:52:16.868+0000] {processor.py:161} INFO - Started process (PID=5694) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:52:16.870+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:52:16.871+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:52:16.871+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:52:16.890+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:52:16.908+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:53:18.405+0000] {processor.py:161} INFO - Started process (PID=6369) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:53:18.407+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:53:18.409+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:53:18.408+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:53:18.426+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:53:18.444+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:54:02.354+0000] {processor.py:161} INFO - Started process (PID=7000) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:54:02.355+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:54:02.357+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:54:02.356+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:54:02.378+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:54:02.395+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:54:42.880+0000] {processor.py:161} INFO - Started process (PID=7616) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:54:42.881+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:54:42.882+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:54:42.881+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:54:42.899+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:54:42.915+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.042 seconds
+[2024-08-17T11:55:20.396+0000] {processor.py:161} INFO - Started process (PID=8155) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:55:20.399+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:55:20.400+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:55:20.399+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:55:20.418+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:55:20.438+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:56:00.564+0000] {processor.py:161} INFO - Started process (PID=8779) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:56:00.566+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:56:00.567+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:56:00.566+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:56:00.582+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:56:00.598+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.040 seconds
+[2024-08-17T11:56:37.685+0000] {processor.py:161} INFO - Started process (PID=9366) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:56:37.687+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:56:37.689+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:56:37.689+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:56:37.708+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:56:37.726+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:57:13.168+0000] {processor.py:161} INFO - Started process (PID=9916) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:57:13.169+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:57:13.171+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:57:13.170+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:57:13.190+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:57:13.210+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:58:21.749+0000] {processor.py:161} INFO - Started process (PID=10695) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:58:21.751+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:58:21.752+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:58:21.751+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:58:21.772+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:58:21.791+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:59:01.260+0000] {processor.py:161} INFO - Started process (PID=11320) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:59:01.261+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:59:01.263+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:59:01.262+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:59:01.283+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:59:01.302+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:59:43.906+0000] {processor.py:161} INFO - Started process (PID=11957) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:59:43.908+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T11:59:43.909+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:59:43.908+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:59:43.941+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T11:59:43.964+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.066 seconds
+[2024-08-17T12:00:24.754+0000] {processor.py:161} INFO - Started process (PID=12601) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:00:24.756+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:00:24.758+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:00:24.757+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:00:24.791+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:00:24.809+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.064 seconds
+[2024-08-17T12:01:06.307+0000] {processor.py:161} INFO - Started process (PID=13215) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:01:06.308+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:01:06.310+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:01:06.309+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:01:06.330+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:01:06.347+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.047 seconds
+[2024-08-17T12:01:44.117+0000] {processor.py:161} INFO - Started process (PID=13833) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:01:44.125+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:01:44.126+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:01:44.126+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:01:44.143+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:01:44.162+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.053 seconds
+[2024-08-17T12:02:27.296+0000] {processor.py:161} INFO - Started process (PID=14489) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:02:27.298+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:02:27.299+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:02:27.299+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:02:27.317+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:02:27.336+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.047 seconds
+[2024-08-17T12:03:20.314+0000] {processor.py:161} INFO - Started process (PID=15022) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:03:20.316+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:03:20.317+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:03:20.317+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:03:20.332+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:03:20.354+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.049 seconds
+[2024-08-17T12:04:05.418+0000] {processor.py:161} INFO - Started process (PID=15702) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:04:05.420+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:04:05.421+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:04:05.421+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:04:05.438+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:04:05.456+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.044 seconds
+[2024-08-17T12:04:48.874+0000] {processor.py:161} INFO - Started process (PID=16365) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:04:48.875+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:04:48.877+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:04:48.876+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:04:48.897+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:04:48.915+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.046 seconds
+[2024-08-17T12:05:32.051+0000] {processor.py:161} INFO - Started process (PID=16985) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:05:32.052+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:05:32.054+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:05:32.053+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:05:32.075+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:05:32.094+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.050 seconds
+[2024-08-17T12:06:11.220+0000] {processor.py:161} INFO - Started process (PID=17579) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:06:11.223+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:06:11.224+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:06:11.224+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:06:11.256+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:06:11.275+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.063 seconds
+[2024-08-17T12:06:49.735+0000] {processor.py:161} INFO - Started process (PID=18208) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:06:49.737+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:06:49.738+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:06:49.738+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:06:49.754+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:06:49.780+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.053 seconds
+[2024-08-17T12:07:39.619+0000] {processor.py:161} INFO - Started process (PID=18933) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:07:39.621+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:07:39.622+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:07:39.622+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:07:39.647+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:07:39.664+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.052 seconds
+[2024-08-17T12:08:45.695+0000] {processor.py:161} INFO - Started process (PID=19559) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:08:45.696+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:08:45.697+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:08:45.696+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:08:45.712+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:08:45.731+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.043 seconds
+[2024-08-17T12:09:31.680+0000] {processor.py:161} INFO - Started process (PID=20259) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:09:31.682+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:09:31.684+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:09:31.684+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:09:31.706+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:09:31.730+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.057 seconds
+[2024-08-17T12:10:21.616+0000] {processor.py:161} INFO - Started process (PID=20956) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:10:21.618+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:10:21.619+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:10:21.619+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:10:21.646+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:10:21.668+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.061 seconds
+[2024-08-17T12:11:00.754+0000] {processor.py:161} INFO - Started process (PID=21599) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:11:00.755+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:11:00.757+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:11:00.757+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:11:00.790+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:11:00.811+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.066 seconds
+[2024-08-17T12:11:52.926+0000] {processor.py:161} INFO - Started process (PID=22337) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:11:52.927+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:11:52.928+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:11:52.928+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:11:52.948+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:11:52.969+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.051 seconds
+[2024-08-17T12:12:45.566+0000] {processor.py:161} INFO - Started process (PID=23101) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:12:45.568+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:12:45.569+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:12:45.569+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:12:45.586+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:12:45.605+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.047 seconds
+[2024-08-17T12:13:36.256+0000] {processor.py:161} INFO - Started process (PID=23570) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:13:36.257+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:13:36.258+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:13:36.258+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:13:36.273+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:13:36.293+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.046 seconds
+[2024-08-17T12:14:24.566+0000] {processor.py:161} INFO - Started process (PID=24288) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:14:24.574+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:14:24.578+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:14:24.578+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:14:24.626+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:14:24.651+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.095 seconds
+[2024-08-17T12:15:21.052+0000] {processor.py:161} INFO - Started process (PID=25070) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:15:21.056+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:15:21.058+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:15:21.057+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:15:21.088+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:15:21.117+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.074 seconds
+[2024-08-17T12:16:01.632+0000] {processor.py:161} INFO - Started process (PID=25681) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:16:01.634+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:16:01.635+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:16:01.635+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:16:01.660+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:16:01.682+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.056 seconds
+[2024-08-17T12:16:59.865+0000] {processor.py:161} INFO - Started process (PID=26500) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:16:59.867+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:16:59.868+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:16:59.868+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:16:59.898+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:16:59.918+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.062 seconds
+[2024-08-17T12:18:25.060+0000] {processor.py:161} INFO - Started process (PID=27366) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:18:25.061+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:18:25.062+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:18:25.062+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:18:25.093+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:18:25.117+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.064 seconds
+[2024-08-17T12:19:21.159+0000] {processor.py:161} INFO - Started process (PID=28134) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:19:21.160+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:19:21.161+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:19:21.161+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:19:21.177+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:19:21.194+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.042 seconds
+[2024-08-17T12:20:02.682+0000] {processor.py:161} INFO - Started process (PID=28718) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:20:02.684+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:20:02.685+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:20:02.685+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:20:02.704+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:20:02.725+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.051 seconds
+[2024-08-17T12:20:59.563+0000] {processor.py:161} INFO - Started process (PID=29398) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:20:59.564+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:20:59.566+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:20:59.566+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:20:59.581+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:20:59.600+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.044 seconds
+[2024-08-17T12:21:43.095+0000] {processor.py:161} INFO - Started process (PID=30092) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:21:43.096+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:21:43.097+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:21:43.097+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:21:43.119+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:21:43.136+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.048 seconds
+[2024-08-17T12:22:38.091+0000] {processor.py:161} INFO - Started process (PID=30904) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:22:38.092+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:22:38.094+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:22:38.093+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:22:38.114+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:22:38.132+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.048 seconds
+[2024-08-17T12:23:38.042+0000] {processor.py:161} INFO - Started process (PID=31484) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:23:38.043+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:23:38.044+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:23:38.044+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:23:38.065+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:23:38.089+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.054 seconds
+[2024-08-17T12:24:23.724+0000] {processor.py:161} INFO - Started process (PID=32240) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:24:23.725+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:24:23.727+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:24:23.726+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:24:23.747+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:24:23.764+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.046 seconds
+[2024-08-17T12:25:06.369+0000] {processor.py:161} INFO - Started process (PID=32981) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:25:06.370+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:25:06.371+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:25:06.371+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:25:06.390+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:25:06.406+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.043 seconds
+[2024-08-17T12:25:50.897+0000] {processor.py:161} INFO - Started process (PID=33743) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:25:50.897+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:25:50.899+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:25:50.899+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:25:50.909+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:25:50.922+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.030 seconds
+[2024-08-17T12:26:27.637+0000] {processor.py:161} INFO - Started process (PID=34446) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:26:27.638+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:26:27.639+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:26:27.639+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:26:27.657+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:26:27.669+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.037 seconds
+[2024-08-17T12:27:07.855+0000] {processor.py:161} INFO - Started process (PID=35194) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:27:07.856+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:27:07.857+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:27:07.856+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:27:07.869+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:27:07.881+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.030 seconds
+[2024-08-17T12:27:45.266+0000] {processor.py:161} INFO - Started process (PID=35943) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:27:45.267+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:27:45.268+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:27:45.268+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:27:45.284+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:27:45.295+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.033 seconds
+[2024-08-17T12:28:37.386+0000] {processor.py:161} INFO - Started process (PID=36748) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:28:37.387+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:28:37.387+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:28:37.387+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:28:37.401+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:28:37.411+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.030 seconds
+[2024-08-17T12:29:15.852+0000] {processor.py:161} INFO - Started process (PID=37525) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:29:15.854+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:29:15.855+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:29:15.854+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:29:15.868+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:29:15.881+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.034 seconds
+[2024-08-17T12:29:49.467+0000] {processor.py:161} INFO - Started process (PID=38273) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:29:49.468+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:29:49.469+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:29:49.468+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:29:49.477+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:29:49.487+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.023 seconds
+[2024-08-17T12:30:22.640+0000] {processor.py:161} INFO - Started process (PID=38994) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:30:22.640+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:30:22.641+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:30:22.641+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:30:22.649+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:30:22.658+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.022 seconds
+[2024-08-17T12:30:54.634+0000] {processor.py:161} INFO - Started process (PID=39701) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:30:54.635+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:30:54.635+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:30:54.635+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:30:54.643+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:30:54.651+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.021 seconds
+[2024-08-17T12:31:26.862+0000] {processor.py:161} INFO - Started process (PID=40425) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:31:26.868+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:31:26.869+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:31:26.869+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:31:26.877+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:31:26.887+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.029 seconds
+[2024-08-17T12:31:58.447+0000] {processor.py:161} INFO - Started process (PID=41143) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:31:58.448+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:31:58.449+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:31:58.448+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:31:58.458+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:31:58.469+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.025 seconds
+[2024-08-17T12:32:32.196+0000] {processor.py:161} INFO - Started process (PID=41862) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:32:32.197+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:32:32.197+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:32:32.197+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:32:32.206+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:32:32.217+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.025 seconds
+[2024-08-17T12:33:15.032+0000] {processor.py:161} INFO - Started process (PID=42677) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:33:15.033+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:33:15.033+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:33:15.033+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:33:15.042+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:33:15.051+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.023 seconds
+[2024-08-17T12:33:49.083+0000] {processor.py:161} INFO - Started process (PID=43387) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:33:49.084+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:33:49.085+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:33:49.084+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:33:49.093+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:33:49.102+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.023 seconds
+[2024-08-17T12:34:23.023+0000] {processor.py:161} INFO - Started process (PID=44129) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:34:23.024+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:34:23.024+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:34:23.024+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:34:23.036+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:34:23.045+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.027 seconds
+[2024-08-17T12:34:55.664+0000] {processor.py:161} INFO - Started process (PID=44846) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:34:55.664+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:34:55.665+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:34:55.665+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:34:55.673+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:34:55.682+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.023 seconds
+[2024-08-17T12:35:30.293+0000] {processor.py:161} INFO - Started process (PID=45618) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:35:30.293+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:35:30.294+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:35:30.294+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:35:30.304+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:35:30.313+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.024 seconds
+[2024-08-17T12:36:03.446+0000] {processor.py:161} INFO - Started process (PID=46361) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:36:03.446+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:36:03.447+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:36:03.447+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:36:03.458+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:36:03.467+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.026 seconds
+[2024-08-17T12:36:36.158+0000] {processor.py:161} INFO - Started process (PID=47112) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:36:36.159+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:36:36.160+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:36:36.160+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:36:36.169+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:36:36.179+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.024 seconds
+[2024-08-17T12:37:09.521+0000] {processor.py:161} INFO - Started process (PID=47859) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:37:09.524+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:37:09.524+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:37:09.524+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:37:09.531+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:37:09.540+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.022 seconds
+[2024-08-17T12:37:41.551+0000] {processor.py:161} INFO - Started process (PID=48562) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:37:41.552+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:37:41.552+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:37:41.552+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:37:41.560+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:37:41.569+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.021 seconds
+[2024-08-17T12:38:18.588+0000] {processor.py:161} INFO - Started process (PID=49316) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:38:18.589+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:38:18.590+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:38:18.590+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:38:18.600+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:38:18.612+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.028 seconds
+[2024-08-17T12:38:53.342+0000] {processor.py:161} INFO - Started process (PID=50038) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:38:53.343+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:38:53.344+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:38:53.344+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:38:53.355+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:38:53.364+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.026 seconds
+[2024-08-17T12:39:27.660+0000] {processor.py:161} INFO - Started process (PID=50774) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:39:27.660+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:39:27.661+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:39:27.661+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:39:27.670+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:39:27.680+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.024 seconds
+[2024-08-17T12:39:59.994+0000] {processor.py:161} INFO - Started process (PID=51500) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:39:59.999+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:40:00.003+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:40:00.003+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:40:00.024+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:40:00.036+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.046 seconds
+[2024-08-17T12:40:32.063+0000] {processor.py:161} INFO - Started process (PID=52243) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:40:32.064+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:40:32.065+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:40:32.065+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:40:32.079+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:40:32.091+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.032 seconds
+[2024-08-17T12:41:03.899+0000] {processor.py:161} INFO - Started process (PID=52966) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:41:03.899+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:41:03.900+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:41:03.900+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:41:03.908+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:41:03.918+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.023 seconds
+[2024-08-17T12:41:36.628+0000] {processor.py:161} INFO - Started process (PID=53682) to work on /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:41:36.629+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl for tasks to queue
+[2024-08-17T12:41:36.629+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:41:36.629+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:41:36.638+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl
+[2024-08-17T12:41:36.647+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Haiti/deaths_TS_model.pkl took 0.023 seconds

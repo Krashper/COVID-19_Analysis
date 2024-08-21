@@ -1,0 +1,955 @@
+[2024-08-17T09:52:47.067+0000] {processor.py:161} INFO - Started process (PID=17147) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T09:52:47.068+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:52:47.068+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:52:47.068+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T09:52:47.076+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T09:52:47.085+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T09:53:18.320+0000] {processor.py:161} INFO - Started process (PID=17553) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T09:53:18.321+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:53:18.322+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:53:18.321+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T09:53:18.330+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T09:53:18.339+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T09:53:49.163+0000] {processor.py:161} INFO - Started process (PID=17984) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T09:53:49.164+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:53:49.164+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:53:49.164+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T09:53:49.173+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T09:53:49.182+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T09:54:20.424+0000] {processor.py:161} INFO - Started process (PID=18415) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T09:54:20.425+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:54:20.425+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:54:20.425+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T09:54:20.440+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T09:54:20.450+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.030 seconds
+[2024-08-17T09:54:51.053+0000] {processor.py:161} INFO - Started process (PID=18820) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T09:54:51.053+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:54:51.054+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:54:51.054+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T09:54:51.061+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T09:54:51.070+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T09:55:22.097+0000] {processor.py:161} INFO - Started process (PID=19251) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T09:55:22.098+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:55:22.099+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:55:22.098+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T09:55:22.113+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T09:55:22.124+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.030 seconds
+[2024-08-17T09:55:53.152+0000] {processor.py:161} INFO - Started process (PID=19656) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T09:55:53.152+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:55:53.153+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:55:53.153+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T09:55:53.160+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T09:55:53.170+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T09:56:24.089+0000] {processor.py:161} INFO - Started process (PID=20087) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T09:56:24.090+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:56:24.091+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:56:24.090+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T09:56:24.100+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T09:56:24.110+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T09:56:54.977+0000] {processor.py:161} INFO - Started process (PID=20518) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T09:56:54.977+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:56:54.978+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:56:54.978+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T09:56:54.987+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T09:56:54.996+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T09:57:25.997+0000] {processor.py:161} INFO - Started process (PID=20923) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T09:57:25.998+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:57:26.001+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:57:26.001+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T09:57:26.009+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T09:57:26.019+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.026 seconds
+[2024-08-17T09:57:57.201+0000] {processor.py:161} INFO - Started process (PID=21400) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T09:57:57.202+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:57:57.203+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:57:57.203+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T09:57:57.214+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T09:57:57.225+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.027 seconds
+[2024-08-17T09:58:28.324+0000] {processor.py:161} INFO - Started process (PID=21860) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T09:58:28.324+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:58:28.325+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:58:28.325+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T09:58:28.337+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T09:58:28.346+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.026 seconds
+[2024-08-17T09:58:59.300+0000] {processor.py:161} INFO - Started process (PID=22344) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T09:58:59.301+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:58:59.301+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:58:59.301+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T09:58:59.310+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T09:58:59.319+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T09:59:30.226+0000] {processor.py:161} INFO - Started process (PID=22829) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T09:59:30.227+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T09:59:30.227+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:59:30.227+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T09:59:30.236+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T09:59:30.245+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:00:01.764+0000] {processor.py:161} INFO - Started process (PID=23301) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:00:01.764+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:00:01.765+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:00:01.765+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:00:01.774+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:00:01.783+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:00:33.589+0000] {processor.py:161} INFO - Started process (PID=23799) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:00:33.589+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:00:33.590+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:00:33.590+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:00:33.602+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:00:33.611+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.026 seconds
+[2024-08-17T10:01:04.937+0000] {processor.py:161} INFO - Started process (PID=24296) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:01:04.937+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:01:04.938+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:01:04.938+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:01:04.947+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:01:04.957+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:01:36.029+0000] {processor.py:161} INFO - Started process (PID=24765) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:01:36.029+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:01:36.030+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:01:36.030+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:01:36.040+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:01:36.049+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:02:07.364+0000] {processor.py:161} INFO - Started process (PID=25263) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:02:07.365+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:02:07.366+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:02:07.365+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:02:07.385+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:02:07.395+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.035 seconds
+[2024-08-17T10:02:38.771+0000] {processor.py:161} INFO - Started process (PID=25760) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:02:38.772+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:02:38.773+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:02:38.772+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:02:38.781+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:02:38.791+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:03:10.524+0000] {processor.py:161} INFO - Started process (PID=26297) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:03:10.525+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:03:10.526+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:03:10.525+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:03:10.534+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:03:10.544+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:03:42.791+0000] {processor.py:161} INFO - Started process (PID=26860) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:03:42.792+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:03:42.793+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:03:42.793+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:03:42.803+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:03:42.812+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.026 seconds
+[2024-08-17T10:04:14.866+0000] {processor.py:161} INFO - Started process (PID=27402) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:04:14.867+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:04:14.868+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:04:14.867+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:04:14.878+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:04:14.888+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:04:46.299+0000] {processor.py:161} INFO - Started process (PID=27918) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:04:46.300+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:04:46.302+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:04:46.301+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:04:46.310+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:04:46.319+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:05:17.976+0000] {processor.py:161} INFO - Started process (PID=28480) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:05:17.977+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:05:17.978+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:05:17.978+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:05:17.987+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:05:17.997+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:05:50.341+0000] {processor.py:161} INFO - Started process (PID=29041) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:05:50.341+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:05:50.342+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:05:50.342+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:05:50.350+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:05:50.359+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T10:06:22.086+0000] {processor.py:161} INFO - Started process (PID=29572) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:06:22.087+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:06:22.088+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:06:22.087+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:06:22.098+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:06:22.108+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:06:52.944+0000] {processor.py:161} INFO - Started process (PID=30122) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:06:52.945+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:06:52.945+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:06:52.945+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:06:52.955+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:06:52.966+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:07:24.154+0000] {processor.py:161} INFO - Started process (PID=30685) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:07:24.155+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:07:24.156+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:07:24.155+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:07:24.168+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:07:24.179+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.029 seconds
+[2024-08-17T10:07:58.733+0000] {processor.py:161} INFO - Started process (PID=31121) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:07:58.734+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:07:58.735+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:07:58.735+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:07:58.746+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:07:58.756+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.027 seconds
+[2024-08-17T10:08:32.578+0000] {processor.py:161} INFO - Started process (PID=31742) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:08:32.579+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:08:32.580+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:08:32.579+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:08:32.590+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:08:32.601+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.026 seconds
+[2024-08-17T10:09:04.850+0000] {processor.py:161} INFO - Started process (PID=32371) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:09:04.850+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:09:04.851+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:09:04.851+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:09:04.862+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:09:04.872+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.027 seconds
+[2024-08-17T10:09:38.064+0000] {processor.py:161} INFO - Started process (PID=33000) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:09:38.065+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:09:38.066+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:09:38.066+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:09:38.075+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:09:38.088+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.029 seconds
+[2024-08-17T10:10:09.840+0000] {processor.py:161} INFO - Started process (PID=33610) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:10:09.841+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:10:09.842+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:10:09.841+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:10:09.849+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:10:09.858+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T10:10:42.197+0000] {processor.py:161} INFO - Started process (PID=34231) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:10:42.197+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:10:42.198+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:10:42.197+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:10:42.205+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:10:42.217+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:11:13.643+0000] {processor.py:161} INFO - Started process (PID=34838) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:11:13.644+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:11:13.645+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:11:13.644+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:11:13.654+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:11:13.663+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:11:45.160+0000] {processor.py:161} INFO - Started process (PID=35447) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:11:45.161+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:11:45.162+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:11:45.162+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:11:45.174+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:11:45.184+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.028 seconds
+[2024-08-17T10:12:16.322+0000] {processor.py:161} INFO - Started process (PID=36068) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:12:16.323+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:12:16.323+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:12:16.323+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:12:16.330+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:12:16.339+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T10:12:59.631+0000] {processor.py:161} INFO - Started process (PID=36760) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:12:59.632+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:12:59.632+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:12:59.632+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:12:59.642+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:12:59.653+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:13:32.595+0000] {processor.py:161} INFO - Started process (PID=37434) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:13:32.595+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:13:32.596+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:13:32.596+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:13:32.605+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:13:32.616+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:14:05.107+0000] {processor.py:161} INFO - Started process (PID=38120) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:14:05.108+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:14:05.109+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:14:05.109+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:14:05.117+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:14:05.126+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:14:36.877+0000] {processor.py:161} INFO - Started process (PID=38813) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:14:36.878+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:14:36.878+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:14:36.878+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:14:36.889+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:14:36.898+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:15:10.343+0000] {processor.py:161} INFO - Started process (PID=39506) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:15:10.343+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:15:10.344+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:15:10.344+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:15:10.353+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:15:10.362+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:15:43.152+0000] {processor.py:161} INFO - Started process (PID=40180) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:15:43.153+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:15:43.154+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:15:43.154+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:15:43.168+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:15:43.178+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.030 seconds
+[2024-08-17T10:16:16.592+0000] {processor.py:161} INFO - Started process (PID=40880) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:16:16.593+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:16:16.593+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:16:16.593+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:16:16.602+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:16:16.611+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T10:16:48.187+0000] {processor.py:161} INFO - Started process (PID=41571) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:16:48.189+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:16:48.189+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:16:48.189+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:16:48.198+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:16:48.208+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T10:17:21.100+0000] {processor.py:161} INFO - Started process (PID=42244) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:17:21.100+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:17:21.101+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:17:21.101+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:17:21.117+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:17:21.128+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.032 seconds
+[2024-08-17T10:18:04.175+0000] {processor.py:161} INFO - Started process (PID=42967) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:18:04.176+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:18:04.176+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:18:04.176+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:18:04.185+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:18:04.193+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T10:18:37.828+0000] {processor.py:161} INFO - Started process (PID=43710) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:18:37.829+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:18:37.829+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:18:37.829+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:18:37.838+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:18:37.849+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T10:19:12.017+0000] {processor.py:161} INFO - Started process (PID=44461) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:19:12.018+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:19:12.018+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:19:12.018+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:19:12.026+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:19:12.034+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.020 seconds
+[2024-08-17T10:19:44.405+0000] {processor.py:161} INFO - Started process (PID=45204) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:19:44.406+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:19:44.406+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:19:44.406+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:19:44.414+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:19:44.423+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T10:20:17.052+0000] {processor.py:161} INFO - Started process (PID=45949) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:20:17.052+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:20:17.053+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:20:17.053+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:20:17.060+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:20:17.068+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.020 seconds
+[2024-08-17T10:20:48.908+0000] {processor.py:161} INFO - Started process (PID=46666) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:20:48.909+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:20:48.909+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:20:48.909+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:20:48.919+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:20:48.931+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.026 seconds
+[2024-08-17T10:21:20.883+0000] {processor.py:161} INFO - Started process (PID=47409) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:21:20.884+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T10:21:20.885+0000] {logging_mixin.py:188} INFO - [2024-08-17T10:21:20.884+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:21:20.893+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T10:21:20.901+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.021 seconds
+[2024-08-17T11:12:58.026+0000] {processor.py:161} INFO - Started process (PID=73659) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:12:58.028+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:12:58.030+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:12:58.029+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:12:58.052+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:12:58.072+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.053 seconds
+[2024-08-17T11:13:31.062+0000] {processor.py:161} INFO - Started process (PID=74097) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:13:31.063+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:13:31.065+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:13:31.064+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:13:31.082+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:13:31.101+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:14:03.282+0000] {processor.py:161} INFO - Started process (PID=74505) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:14:03.283+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:14:03.285+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:14:03.284+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:14:03.306+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:14:03.327+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T11:14:34.718+0000] {processor.py:161} INFO - Started process (PID=74862) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:14:34.720+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:14:34.721+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:14:34.721+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:14:34.742+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:14:34.758+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:15:06.117+0000] {processor.py:161} INFO - Started process (PID=75264) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:15:06.120+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:15:06.121+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:15:06.121+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:15:06.141+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:15:06.158+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:15:37.298+0000] {processor.py:161} INFO - Started process (PID=75667) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:15:37.300+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:15:37.301+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:15:37.301+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:15:37.318+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:15:37.337+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:16:04.173+0000] {processor.py:161} INFO - Started process (PID=76010) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:16:04.174+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:16:04.175+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:16:04.175+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:16:04.194+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:16:04.212+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:16:38.726+0000] {processor.py:161} INFO - Started process (PID=76450) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:16:38.728+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:16:38.729+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:16:38.729+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:16:38.750+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:16:38.773+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.057 seconds
+[2024-08-17T11:17:14.130+0000] {processor.py:161} INFO - Started process (PID=76869) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:17:14.132+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:17:14.134+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:17:14.133+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:17:14.156+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:17:14.175+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T11:17:59.126+0000] {processor.py:161} INFO - Started process (PID=77316) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:17:59.127+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:17:59.128+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:17:59.128+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:17:59.143+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:17:59.160+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.043 seconds
+[2024-08-17T11:18:30.946+0000] {processor.py:161} INFO - Started process (PID=77743) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:18:30.948+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:18:30.949+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:18:30.948+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:18:30.964+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:18:30.980+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.041 seconds
+[2024-08-17T11:19:03.250+0000] {processor.py:161} INFO - Started process (PID=78197) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:19:03.251+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:19:03.252+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:19:03.252+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:19:03.274+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:19:03.291+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:19:36.468+0000] {processor.py:161} INFO - Started process (PID=78613) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:19:36.469+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:19:36.471+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:19:36.470+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:19:36.491+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:19:36.505+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.045 seconds
+[2024-08-17T11:20:09.322+0000] {processor.py:161} INFO - Started process (PID=79046) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:20:09.323+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:20:09.326+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:20:09.325+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:20:09.349+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:20:09.371+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.057 seconds
+[2024-08-17T11:20:26.538+0000] {processor.py:161} INFO - Started process (PID=79257) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:20:26.540+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:20:26.541+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:20:26.541+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:20:26.564+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:20:26.582+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.052 seconds
+[2024-08-17T11:21:00.364+0000] {processor.py:161} INFO - Started process (PID=79668) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:21:00.366+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:21:00.367+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:21:00.367+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:21:00.393+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:21:00.414+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.058 seconds
+[2024-08-17T11:21:34.298+0000] {processor.py:161} INFO - Started process (PID=80091) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:21:34.299+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:21:34.300+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:21:34.300+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:21:34.322+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:21:34.341+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T11:22:03.213+0000] {processor.py:161} INFO - Started process (PID=80473) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:22:03.215+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:22:03.216+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:22:03.216+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:22:03.233+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:22:03.249+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.044 seconds
+[2024-08-17T11:22:36.400+0000] {processor.py:161} INFO - Started process (PID=80897) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:22:36.401+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:22:36.402+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:22:36.402+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:22:36.427+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:22:36.446+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.057 seconds
+[2024-08-17T11:23:02.242+0000] {processor.py:161} INFO - Started process (PID=81067) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:23:02.243+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:23:02.245+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:23:02.244+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:23:02.263+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:23:02.282+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:23:35.791+0000] {processor.py:161} INFO - Started process (PID=81543) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:23:35.792+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:23:35.795+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:23:35.795+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:23:35.816+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:23:35.835+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.053 seconds
+[2024-08-17T11:24:09.274+0000] {processor.py:161} INFO - Started process (PID=81987) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:24:09.275+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:24:09.277+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:24:09.276+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:24:09.299+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:24:09.312+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.045 seconds
+[2024-08-17T11:24:40.993+0000] {processor.py:161} INFO - Started process (PID=82447) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:24:40.994+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:24:40.995+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:24:40.995+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:24:41.004+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:24:41.020+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.034 seconds
+[2024-08-17T11:25:13.299+0000] {processor.py:161} INFO - Started process (PID=82856) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:25:13.303+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:25:13.307+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:25:13.307+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:25:13.326+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:25:13.345+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.054 seconds
+[2024-08-17T11:25:46.252+0000] {processor.py:161} INFO - Started process (PID=83316) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:25:46.253+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:25:46.255+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:25:46.254+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:25:46.276+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:25:46.293+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:26:20.457+0000] {processor.py:161} INFO - Started process (PID=83768) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:26:20.458+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:26:20.460+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:26:20.459+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:26:20.482+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:26:20.498+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:26:53.938+0000] {processor.py:161} INFO - Started process (PID=84248) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:26:53.939+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:26:53.940+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:26:53.940+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:26:53.955+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:26:53.974+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.043 seconds
+[2024-08-17T11:27:28.706+0000] {processor.py:161} INFO - Started process (PID=84720) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:27:28.707+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:27:28.708+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:27:28.708+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:27:28.721+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:27:28.735+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.034 seconds
+[2024-08-17T11:28:05.562+0000] {processor.py:161} INFO - Started process (PID=85062) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:28:05.563+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:28:05.564+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:28:05.564+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:28:05.580+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:28:05.600+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.045 seconds
+[2024-08-17T11:28:38.785+0000] {processor.py:161} INFO - Started process (PID=85559) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:28:38.787+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:28:38.789+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:28:38.788+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:28:38.819+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:28:38.838+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.060 seconds
+[2024-08-17T11:29:13.181+0000] {processor.py:161} INFO - Started process (PID=86033) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:29:13.182+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:29:13.183+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:29:13.183+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:29:13.204+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:29:13.221+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:29:48.063+0000] {processor.py:161} INFO - Started process (PID=86530) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:29:48.064+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:29:48.065+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:29:48.065+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:29:48.085+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:29:48.104+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:29:57.694+0000] {processor.py:161} INFO - Started process (PID=86661) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:29:57.695+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:29:57.697+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:29:57.696+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:29:57.728+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:29:57.748+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.061 seconds
+[2024-08-17T11:30:29.820+0000] {processor.py:161} INFO - Started process (PID=87087) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:30:29.821+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:30:29.822+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:30:29.821+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:30:29.846+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:30:29.864+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.052 seconds
+[2024-08-17T11:31:04.051+0000] {processor.py:161} INFO - Started process (PID=87570) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:31:04.052+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:31:04.053+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:31:04.053+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:31:04.075+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:31:04.094+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T11:31:36.003+0000] {processor.py:161} INFO - Started process (PID=88029) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:31:36.005+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:31:36.007+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:31:36.006+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:31:36.028+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:31:36.048+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.052 seconds
+[2024-08-17T11:32:10.545+0000] {processor.py:161} INFO - Started process (PID=88509) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:32:10.547+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:32:10.548+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:32:10.548+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:32:10.570+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:32:10.588+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.050 seconds
+[2024-08-17T11:32:42.835+0000] {processor.py:161} INFO - Started process (PID=88983) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:32:42.836+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:32:42.837+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:32:42.837+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:32:42.856+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:32:42.870+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.042 seconds
+[2024-08-17T11:33:23.997+0000] {processor.py:161} INFO - Started process (PID=89414) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:33:23.998+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:33:23.999+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:33:23.999+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:33:24.017+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:33:24.036+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.045 seconds
+[2024-08-17T11:34:03.074+0000] {processor.py:161} INFO - Started process (PID=89948) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:34:03.075+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:34:03.077+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:34:03.076+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:34:03.097+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:34:03.115+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:34:35.273+0000] {processor.py:161} INFO - Started process (PID=90389) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:34:35.274+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:34:35.276+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:34:35.276+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:34:35.312+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:34:35.331+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.064 seconds
+[2024-08-17T11:35:08.049+0000] {processor.py:161} INFO - Started process (PID=90879) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:35:08.051+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:35:08.053+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:35:08.052+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:35:08.072+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:35:08.090+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:35:44.341+0000] {processor.py:161} INFO - Started process (PID=91406) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:35:44.342+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:35:44.343+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:35:44.343+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:35:44.362+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:35:44.379+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.045 seconds
+[2024-08-17T11:36:18.170+0000] {processor.py:161} INFO - Started process (PID=91880) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:36:18.172+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:36:18.173+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:36:18.173+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:36:18.190+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:36:18.208+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.045 seconds
+[2024-08-17T11:36:52.852+0000] {processor.py:161} INFO - Started process (PID=92402) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:36:52.853+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:36:52.855+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:36:52.854+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:36:52.874+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:36:52.891+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:37:29.238+0000] {processor.py:161} INFO - Started process (PID=92933) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:37:29.242+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:37:29.243+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:37:29.243+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:37:29.256+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:37:29.273+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.041 seconds
+[2024-08-17T11:38:09.412+0000] {processor.py:161} INFO - Started process (PID=93327) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:38:09.413+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:38:09.414+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:38:09.414+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:38:09.428+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:38:09.448+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.042 seconds
+[2024-08-17T11:38:42.250+0000] {processor.py:161} INFO - Started process (PID=93846) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:38:42.252+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:38:42.253+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:38:42.252+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:38:42.276+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:38:42.294+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.050 seconds
+[2024-08-17T11:39:16.977+0000] {processor.py:161} INFO - Started process (PID=94374) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:39:16.978+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:39:16.979+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:39:16.979+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:39:16.999+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:39:17.018+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:39:53.741+0000] {processor.py:161} INFO - Started process (PID=94903) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:39:53.742+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:39:53.744+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:39:53.744+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:39:53.775+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:39:53.794+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.060 seconds
+[2024-08-17T11:40:27.735+0000] {processor.py:161} INFO - Started process (PID=95423) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:40:27.736+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:40:27.737+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:40:27.737+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:40:27.759+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:40:27.776+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:41:05.043+0000] {processor.py:161} INFO - Started process (PID=95957) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:41:05.044+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:41:05.045+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:41:05.045+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:41:05.071+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:41:05.085+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:41:38.466+0000] {processor.py:161} INFO - Started process (PID=96451) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:41:38.468+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:41:38.470+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:41:38.469+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:41:38.489+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:41:38.511+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.053 seconds
+[2024-08-17T11:42:12.091+0000] {processor.py:161} INFO - Started process (PID=96933) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:42:12.092+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:42:12.093+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:42:12.093+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:42:12.119+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:42:12.139+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.055 seconds
+[2024-08-17T11:43:10.861+0000] {processor.py:161} INFO - Started process (PID=97589) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:43:10.863+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:43:10.864+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:43:10.864+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:43:10.880+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:43:10.896+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.043 seconds
+[2024-08-17T11:43:48.928+0000] {processor.py:161} INFO - Started process (PID=98156) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:43:48.929+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:43:48.931+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:43:48.930+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:43:48.948+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:43:48.967+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.045 seconds
+[2024-08-17T11:44:27.288+0000] {processor.py:161} INFO - Started process (PID=98724) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:44:27.289+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:44:27.291+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:44:27.290+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:44:27.305+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:44:27.326+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.045 seconds
+[2024-08-17T11:45:01.222+0000] {processor.py:161} INFO - Started process (PID=99255) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:45:01.224+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:45:01.225+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:45:01.224+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:45:01.239+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:45:01.258+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.042 seconds
+[2024-08-17T11:45:39.303+0000] {processor.py:161} INFO - Started process (PID=99826) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:45:39.304+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:45:39.306+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:45:39.305+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:45:39.328+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:45:39.346+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:46:13.533+0000] {processor.py:161} INFO - Started process (PID=682) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:46:13.534+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:46:13.535+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:46:13.535+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:46:13.550+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:46:13.569+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.042 seconds
+[2024-08-17T11:46:50.239+0000] {processor.py:161} INFO - Started process (PID=1228) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:46:50.240+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:46:50.241+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:46:50.240+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:46:50.265+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:46:50.283+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.051 seconds
+[2024-08-17T11:47:25.951+0000] {processor.py:161} INFO - Started process (PID=1730) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:47:25.952+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:47:25.954+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:47:25.953+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:47:25.974+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:47:25.993+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:48:18.459+0000] {processor.py:161} INFO - Started process (PID=2301) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:48:18.460+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:48:18.461+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:48:18.461+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:48:18.487+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:48:18.509+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.058 seconds
+[2024-08-17T11:49:02.226+0000] {processor.py:161} INFO - Started process (PID=2902) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:49:02.227+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:49:02.228+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:49:02.228+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:49:02.240+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:49:02.262+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.042 seconds
+[2024-08-17T11:49:43.193+0000] {processor.py:161} INFO - Started process (PID=3486) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:49:43.194+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:49:43.195+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:49:43.195+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:49:43.214+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:49:43.234+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:50:26.733+0000] {processor.py:161} INFO - Started process (PID=4107) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:50:26.735+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:50:26.736+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:50:26.736+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:50:26.754+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:50:26.773+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:51:05.556+0000] {processor.py:161} INFO - Started process (PID=4684) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:51:05.557+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:51:05.558+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:51:05.558+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:51:05.581+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:51:05.603+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.055 seconds
+[2024-08-17T11:51:42.438+0000] {processor.py:161} INFO - Started process (PID=5194) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:51:42.439+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:51:42.440+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:51:42.440+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:51:42.461+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:51:42.478+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T11:52:25.706+0000] {processor.py:161} INFO - Started process (PID=5812) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:52:25.707+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:52:25.708+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:52:25.708+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:52:25.729+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:52:25.747+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T11:53:19.282+0000] {processor.py:161} INFO - Started process (PID=6382) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:53:19.283+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:53:19.285+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:53:19.284+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:53:19.314+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:53:19.333+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.059 seconds
+[2024-08-17T11:54:03.327+0000] {processor.py:161} INFO - Started process (PID=7013) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:54:03.329+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:54:03.330+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:54:03.330+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:54:03.347+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:54:03.365+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.043 seconds
+[2024-08-17T11:54:44.113+0000] {processor.py:161} INFO - Started process (PID=7629) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:54:44.115+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:54:44.116+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:54:44.115+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:54:44.134+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:54:44.155+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T11:55:21.275+0000] {processor.py:161} INFO - Started process (PID=8187) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:55:21.276+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:55:21.277+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:55:21.277+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:55:21.299+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:55:21.321+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.055 seconds
+[2024-08-17T11:56:01.258+0000] {processor.py:161} INFO - Started process (PID=8811) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:56:01.259+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:56:01.262+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:56:01.261+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:56:01.285+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:56:01.305+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.056 seconds
+[2024-08-17T11:56:38.414+0000] {processor.py:161} INFO - Started process (PID=9379) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:56:38.415+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:56:38.417+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:56:38.416+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:56:38.438+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:56:38.460+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.055 seconds
+[2024-08-17T11:57:22.304+0000] {processor.py:161} INFO - Started process (PID=10046) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:57:22.305+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:57:22.307+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:57:22.306+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:57:22.324+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:57:22.341+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.045 seconds
+[2024-08-17T11:58:22.712+0000] {processor.py:161} INFO - Started process (PID=10708) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:58:22.713+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:58:22.715+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:58:22.714+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:58:22.736+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:58:22.754+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T11:59:04.352+0000] {processor.py:161} INFO - Started process (PID=11346) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:59:04.353+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:59:04.354+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:59:04.354+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:59:04.371+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:59:04.386+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.041 seconds
+[2024-08-17T11:59:44.904+0000] {processor.py:161} INFO - Started process (PID=11970) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:59:44.905+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T11:59:44.907+0000] {logging_mixin.py:188} INFO - [2024-08-17T11:59:44.906+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:59:44.932+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T11:59:44.952+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.055 seconds
+[2024-08-17T12:00:25.474+0000] {processor.py:161} INFO - Started process (PID=12614) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:00:25.476+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:00:25.477+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:00:25.477+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:00:25.491+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:00:25.511+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.045 seconds
+[2024-08-17T12:01:07.221+0000] {processor.py:161} INFO - Started process (PID=13228) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:01:07.223+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:01:07.224+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:01:07.223+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:01:07.240+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:01:07.257+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.042 seconds
+[2024-08-17T12:01:45.022+0000] {processor.py:161} INFO - Started process (PID=13846) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:01:45.024+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:01:45.025+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:01:45.025+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:01:45.048+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:01:45.066+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.050 seconds
+[2024-08-17T12:02:28.404+0000] {processor.py:161} INFO - Started process (PID=14502) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:02:28.406+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:02:28.407+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:02:28.407+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:02:28.435+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:02:28.451+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.056 seconds
+[2024-08-17T12:03:21.420+0000] {processor.py:161} INFO - Started process (PID=15054) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:03:21.422+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:03:21.423+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:03:21.423+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:03:21.443+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:03:21.460+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T12:04:06.337+0000] {processor.py:161} INFO - Started process (PID=15715) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:04:06.338+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:04:06.339+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:04:06.339+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:04:06.353+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:04:06.371+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.041 seconds
+[2024-08-17T12:04:49.876+0000] {processor.py:161} INFO - Started process (PID=16378) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:04:49.877+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:04:49.879+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:04:49.878+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:04:49.901+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:04:49.918+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.050 seconds
+[2024-08-17T12:05:33.062+0000] {processor.py:161} INFO - Started process (PID=16998) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:05:33.063+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:05:33.064+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:05:33.064+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:05:33.084+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:05:33.102+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T12:06:12.257+0000] {processor.py:161} INFO - Started process (PID=17592) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:06:12.258+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:06:12.260+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:06:12.259+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:06:12.283+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:06:12.302+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.053 seconds
+[2024-08-17T12:06:50.663+0000] {processor.py:161} INFO - Started process (PID=18221) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:06:50.664+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:06:50.665+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:06:50.665+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:06:50.686+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:06:50.704+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T12:07:40.774+0000] {processor.py:161} INFO - Started process (PID=18946) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:07:40.775+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:07:40.777+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:07:40.776+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:07:40.797+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:07:40.813+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T12:08:46.545+0000] {processor.py:161} INFO - Started process (PID=19572) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:08:46.547+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:08:46.549+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:08:46.549+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:08:46.564+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:08:46.582+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T12:09:32.827+0000] {processor.py:161} INFO - Started process (PID=20272) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:09:32.828+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:09:32.830+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:09:32.829+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:09:32.850+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:09:32.869+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T12:10:22.436+0000] {processor.py:161} INFO - Started process (PID=20969) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:10:22.437+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:10:22.438+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:10:22.438+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:10:22.454+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:10:22.473+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.044 seconds
+[2024-08-17T12:11:01.778+0000] {processor.py:161} INFO - Started process (PID=21612) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:11:01.780+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:11:01.782+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:11:01.781+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:11:01.808+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:11:01.830+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.060 seconds
+[2024-08-17T12:11:53.922+0000] {processor.py:161} INFO - Started process (PID=22357) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:11:53.923+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:11:53.924+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:11:53.924+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:11:53.946+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:11:53.967+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.053 seconds
+[2024-08-17T12:13:11.724+0000] {processor.py:161} INFO - Started process (PID=23191) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:13:11.726+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:13:11.732+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:13:11.727+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:13:11.754+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:13:11.777+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.060 seconds
+[2024-08-17T12:13:59.970+0000] {processor.py:161} INFO - Started process (PID=23970) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:13:59.971+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:13:59.973+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:13:59.972+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:13:59.994+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:14:00.017+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.056 seconds
+[2024-08-17T12:15:03.335+0000] {processor.py:161} INFO - Started process (PID=24832) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:15:03.336+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:15:03.337+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:15:03.337+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:15:03.360+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:15:03.377+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.049 seconds
+[2024-08-17T12:16:02.321+0000] {processor.py:161} INFO - Started process (PID=25709) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:16:02.322+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:16:02.323+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:16:02.323+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:16:02.342+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:16:02.361+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.047 seconds
+[2024-08-17T12:17:00.864+0000] {processor.py:161} INFO - Started process (PID=26513) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:17:00.866+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:17:00.869+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:17:00.868+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:17:00.897+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:17:00.926+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.070 seconds
+[2024-08-17T12:18:26.335+0000] {processor.py:161} INFO - Started process (PID=27379) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:18:26.338+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:18:26.339+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:18:26.339+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:18:26.372+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:18:26.393+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.067 seconds
+[2024-08-17T12:19:22.036+0000] {processor.py:161} INFO - Started process (PID=28147) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:19:22.038+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:19:22.039+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:19:22.038+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:19:22.055+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:19:22.075+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.048 seconds
+[2024-08-17T12:20:03.626+0000] {processor.py:161} INFO - Started process (PID=28731) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:20:03.628+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:20:03.630+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:20:03.629+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:20:03.657+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:20:03.678+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.059 seconds
+[2024-08-17T12:21:00.394+0000] {processor.py:161} INFO - Started process (PID=29411) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:21:00.398+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:21:00.400+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:21:00.399+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:21:00.415+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:21:00.435+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.050 seconds
+[2024-08-17T12:21:44.304+0000] {processor.py:161} INFO - Started process (PID=30124) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:21:44.305+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:21:44.306+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:21:44.306+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:21:44.325+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:21:44.344+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T12:22:38.949+0000] {processor.py:161} INFO - Started process (PID=30936) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:22:38.950+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:22:38.952+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:22:38.951+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:22:38.973+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:22:38.991+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.050 seconds
+[2024-08-17T12:23:39.037+0000] {processor.py:161} INFO - Started process (PID=31497) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:23:39.039+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:23:39.040+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:23:39.039+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:23:39.058+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:23:39.076+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.046 seconds
+[2024-08-17T12:24:24.751+0000] {processor.py:161} INFO - Started process (PID=32253) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:24:24.752+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:24:24.754+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:24:24.753+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:24:24.772+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:24:24.790+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.044 seconds
+[2024-08-17T12:25:09.269+0000] {processor.py:161} INFO - Started process (PID=33006) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:25:09.270+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:25:09.271+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:25:09.271+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:25:09.284+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:25:09.299+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.035 seconds
+[2024-08-17T12:25:51.402+0000] {processor.py:161} INFO - Started process (PID=33756) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:25:51.403+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:25:51.404+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:25:51.404+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:25:51.418+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:25:51.431+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.034 seconds
+[2024-08-17T12:26:28.315+0000] {processor.py:161} INFO - Started process (PID=34459) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:26:28.316+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:26:28.317+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:26:28.316+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:26:28.332+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:26:28.345+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.035 seconds
+[2024-08-17T12:27:08.549+0000] {processor.py:161} INFO - Started process (PID=35207) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:27:08.550+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:27:08.551+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:27:08.551+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:27:08.565+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:27:08.577+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.034 seconds
+[2024-08-17T12:27:45.960+0000] {processor.py:161} INFO - Started process (PID=35956) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:27:45.960+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:27:45.961+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:27:45.961+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:27:45.974+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:27:45.985+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.029 seconds
+[2024-08-17T12:28:38.076+0000] {processor.py:161} INFO - Started process (PID=36761) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:28:38.077+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:28:38.077+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:28:38.077+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:28:38.094+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:28:38.106+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.035 seconds
+[2024-08-17T12:29:16.417+0000] {processor.py:161} INFO - Started process (PID=37538) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:29:16.417+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:29:16.418+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:29:16.418+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:29:16.426+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:29:16.438+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T12:29:49.931+0000] {processor.py:161} INFO - Started process (PID=38286) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:29:49.932+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:29:49.933+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:29:49.933+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:29:49.949+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:29:49.960+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.034 seconds
+[2024-08-17T12:30:23.107+0000] {processor.py:161} INFO - Started process (PID=39007) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:30:23.107+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:30:23.108+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:30:23.108+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:30:23.117+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:30:23.127+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T12:30:55.450+0000] {processor.py:161} INFO - Started process (PID=39733) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:30:55.451+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:30:55.452+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:30:55.451+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:30:55.461+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:30:55.470+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T12:31:27.644+0000] {processor.py:161} INFO - Started process (PID=40457) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:31:27.645+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:31:27.646+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:31:27.645+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:31:27.657+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:31:27.667+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.026 seconds
+[2024-08-17T12:31:59.974+0000] {processor.py:161} INFO - Started process (PID=41185) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:31:59.976+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:31:59.978+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:31:59.978+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:31:59.993+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:32:00.006+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.038 seconds
+[2024-08-17T12:32:33.997+0000] {processor.py:161} INFO - Started process (PID=41912) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:32:33.998+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:32:33.998+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:32:33.998+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:32:34.012+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:32:34.022+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.029 seconds
+[2024-08-17T12:33:15.632+0000] {processor.py:161} INFO - Started process (PID=42690) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:33:15.633+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:33:15.633+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:33:15.633+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:33:15.643+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:33:15.653+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T12:33:49.584+0000] {processor.py:161} INFO - Started process (PID=43400) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:33:49.585+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:33:49.586+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:33:49.586+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:33:49.597+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:33:49.606+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.026 seconds
+[2024-08-17T12:34:23.476+0000] {processor.py:161} INFO - Started process (PID=44142) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:34:23.476+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:34:23.477+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:34:23.477+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:34:23.492+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:34:23.501+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.029 seconds
+[2024-08-17T12:34:57.624+0000] {processor.py:161} INFO - Started process (PID=44895) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:34:57.625+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:34:57.625+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:34:57.625+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:34:57.632+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:34:57.642+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T12:35:31.836+0000] {processor.py:161} INFO - Started process (PID=45641) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:35:31.837+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:35:31.838+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:35:31.837+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:35:31.849+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:35:31.859+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.028 seconds
+[2024-08-17T12:36:05.181+0000] {processor.py:161} INFO - Started process (PID=46385) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:36:05.182+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:36:05.183+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:36:05.182+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:36:05.195+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:36:05.206+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.029 seconds
+[2024-08-17T12:36:37.502+0000] {processor.py:161} INFO - Started process (PID=47130) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:36:37.502+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:36:37.503+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:36:37.503+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:36:37.511+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:36:37.520+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T12:37:09.984+0000] {processor.py:161} INFO - Started process (PID=47872) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:37:09.985+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:37:09.986+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:37:09.985+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:37:09.996+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:37:10.005+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.024 seconds
+[2024-08-17T12:37:42.135+0000] {processor.py:161} INFO - Started process (PID=48575) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:37:42.138+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:37:42.140+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:37:42.139+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:37:42.173+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:37:42.184+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.052 seconds
+[2024-08-17T12:38:19.007+0000] {processor.py:161} INFO - Started process (PID=49348) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:38:19.007+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:38:19.008+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:38:19.008+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:38:19.015+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:38:19.025+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.022 seconds
+[2024-08-17T12:38:53.778+0000] {processor.py:161} INFO - Started process (PID=50051) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:38:53.779+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:38:53.780+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:38:53.779+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:38:53.789+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:38:53.798+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.023 seconds
+[2024-08-17T12:39:28.224+0000] {processor.py:161} INFO - Started process (PID=50793) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:39:28.225+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:39:28.226+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:39:28.226+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:39:28.240+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:39:28.250+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.029 seconds
+[2024-08-17T12:40:00.557+0000] {processor.py:161} INFO - Started process (PID=51513) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:40:00.557+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:40:00.558+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:40:00.558+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:40:00.564+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:40:00.573+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.019 seconds
+[2024-08-17T12:40:33.398+0000] {processor.py:161} INFO - Started process (PID=52256) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:40:33.399+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:40:33.400+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:40:33.399+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:40:33.411+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:40:33.420+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.025 seconds
+[2024-08-17T12:41:04.965+0000] {processor.py:161} INFO - Started process (PID=52979) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:41:04.965+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:41:04.966+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:41:04.966+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:41:04.973+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:41:04.982+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.020 seconds
+[2024-08-17T12:41:37.064+0000] {processor.py:161} INFO - Started process (PID=53695) to work on /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:41:37.065+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl for tasks to queue
+[2024-08-17T12:41:37.066+0000] {logging_mixin.py:188} INFO - [2024-08-17T12:41:37.065+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:41:37.074+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl
+[2024-08-17T12:41:37.083+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Fiji/cases_TS_model.pkl took 0.022 seconds

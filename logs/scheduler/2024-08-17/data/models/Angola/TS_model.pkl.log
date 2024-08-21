@@ -1,0 +1,785 @@
+[2024-08-17T02:23:47.652+0000] {processor.py:161} INFO - Started process (PID=71024) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:23:47.653+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:23:47.654+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:23:47.654+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:23:47.670+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:23:47.681+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.034 seconds
+[2024-08-17T02:24:18.958+0000] {processor.py:161} INFO - Started process (PID=71180) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:24:18.959+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:24:18.960+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:24:18.960+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:24:18.972+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:24:18.983+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.029 seconds
+[2024-08-17T02:24:49.324+0000] {processor.py:161} INFO - Started process (PID=71360) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:24:49.324+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:24:49.325+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:24:49.325+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:24:49.334+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:24:49.344+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.025 seconds
+[2024-08-17T02:25:19.575+0000] {processor.py:161} INFO - Started process (PID=71497) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:25:19.576+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:25:19.576+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:25:19.576+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:25:19.589+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:25:19.599+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.028 seconds
+[2024-08-17T02:25:49.777+0000] {processor.py:161} INFO - Started process (PID=71678) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:25:49.778+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:25:49.778+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:25:49.778+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:25:49.788+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:25:49.798+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.026 seconds
+[2024-08-17T02:26:20.228+0000] {processor.py:161} INFO - Started process (PID=71834) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:26:20.229+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:26:20.230+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:26:20.229+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:26:20.241+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:26:20.251+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.027 seconds
+[2024-08-17T02:26:50.398+0000] {processor.py:161} INFO - Started process (PID=72016) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:26:50.400+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:26:50.401+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:26:50.401+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:26:50.409+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:26:50.420+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.026 seconds
+[2024-08-17T02:27:20.975+0000] {processor.py:161} INFO - Started process (PID=72179) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:27:20.976+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:27:20.977+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:27:20.977+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:27:20.987+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:27:20.997+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.025 seconds
+[2024-08-17T02:27:51.163+0000] {processor.py:161} INFO - Started process (PID=72354) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:27:51.164+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:27:51.164+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:27:51.164+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:27:51.176+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:27:51.187+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.028 seconds
+[2024-08-17T02:28:22.089+0000] {processor.py:161} INFO - Started process (PID=72536) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:28:22.090+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:28:22.091+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:28:22.091+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:28:22.104+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:28:22.115+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.029 seconds
+[2024-08-17T02:28:53.027+0000] {processor.py:161} INFO - Started process (PID=72723) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:28:53.028+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:28:53.029+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:28:53.028+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:28:53.044+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:28:53.058+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.035 seconds
+[2024-08-17T02:29:23.341+0000] {processor.py:161} INFO - Started process (PID=72935) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:29:23.341+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:29:23.342+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:29:23.342+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:29:23.355+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:29:23.365+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.029 seconds
+[2024-08-17T02:29:53.648+0000] {processor.py:161} INFO - Started process (PID=73121) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:29:53.649+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:29:53.649+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:29:53.649+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:29:53.660+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:29:53.669+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.026 seconds
+[2024-08-17T02:30:23.956+0000] {processor.py:161} INFO - Started process (PID=73334) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:30:23.957+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:30:23.958+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:30:23.958+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:30:23.965+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:30:23.976+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.023 seconds
+[2024-08-17T02:30:55.208+0000] {processor.py:161} INFO - Started process (PID=73508) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:30:55.209+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:30:55.209+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:30:55.209+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:30:55.222+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:30:55.232+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.028 seconds
+[2024-08-17T02:31:26.350+0000] {processor.py:161} INFO - Started process (PID=73711) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:31:26.351+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:31:26.352+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:31:26.352+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:31:26.359+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:31:26.369+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.023 seconds
+[2024-08-17T02:31:56.703+0000] {processor.py:161} INFO - Started process (PID=73923) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:31:56.703+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:31:56.704+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:31:56.704+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:31:56.712+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:31:56.722+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.023 seconds
+[2024-08-17T02:32:27.012+0000] {processor.py:161} INFO - Started process (PID=74089) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:32:27.012+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:32:27.013+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:32:27.013+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:32:27.021+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:32:27.031+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.023 seconds
+[2024-08-17T02:32:57.172+0000] {processor.py:161} INFO - Started process (PID=74299) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:32:57.172+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:32:57.173+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:32:57.173+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:32:57.182+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:32:57.193+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.026 seconds
+[2024-08-17T02:33:27.350+0000] {processor.py:161} INFO - Started process (PID=74485) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:33:27.351+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:33:27.352+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:33:27.351+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:33:27.362+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:33:27.374+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.028 seconds
+[2024-08-17T02:33:58.150+0000] {processor.py:161} INFO - Started process (PID=74729) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:33:58.151+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:33:58.152+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:33:58.151+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:33:58.163+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:33:58.173+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.028 seconds
+[2024-08-17T02:34:28.670+0000] {processor.py:161} INFO - Started process (PID=74946) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:34:28.671+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:34:28.672+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:34:28.672+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:34:28.683+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:34:28.693+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.027 seconds
+[2024-08-17T02:34:59.276+0000] {processor.py:161} INFO - Started process (PID=75189) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:34:59.277+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:34:59.277+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:34:59.277+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:34:59.288+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:34:59.298+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.026 seconds
+[2024-08-17T02:35:29.976+0000] {processor.py:161} INFO - Started process (PID=75432) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:35:29.977+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:35:29.978+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:35:29.977+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:35:29.992+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:35:30.003+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.031 seconds
+[2024-08-17T02:36:00.662+0000] {processor.py:161} INFO - Started process (PID=75649) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:36:00.663+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:36:00.666+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:36:00.666+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:36:00.700+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:36:00.711+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.052 seconds
+[2024-08-17T02:36:31.280+0000] {processor.py:161} INFO - Started process (PID=75892) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:36:31.281+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:36:31.282+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:36:31.281+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:36:31.289+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:36:31.300+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.023 seconds
+[2024-08-17T02:37:02.012+0000] {processor.py:161} INFO - Started process (PID=76109) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:37:02.040+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:37:02.044+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:37:02.043+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:37:02.091+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:37:02.104+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.096 seconds
+[2024-08-17T02:37:32.428+0000] {processor.py:161} INFO - Started process (PID=76333) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:37:32.429+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:37:32.430+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:37:32.429+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:37:32.441+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:37:32.452+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.028 seconds
+[2024-08-17T02:38:02.972+0000] {processor.py:161} INFO - Started process (PID=76548) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:38:02.973+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:38:02.974+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:38:02.974+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:38:02.987+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:38:02.998+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.031 seconds
+[2024-08-17T02:38:33.387+0000] {processor.py:161} INFO - Started process (PID=76791) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:38:33.387+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:38:33.388+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:38:33.388+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:38:33.402+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:38:33.413+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.030 seconds
+[2024-08-17T02:39:03.911+0000] {processor.py:161} INFO - Started process (PID=77027) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:39:03.912+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:39:03.912+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:39:03.912+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:39:03.924+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:39:03.934+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.027 seconds
+[2024-08-17T02:39:34.543+0000] {processor.py:161} INFO - Started process (PID=77293) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:39:34.544+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:39:34.544+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:39:34.544+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:39:34.550+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:39:34.561+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.021 seconds
+[2024-08-17T02:40:05.519+0000] {processor.py:161} INFO - Started process (PID=77566) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:40:05.520+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:40:05.520+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:40:05.520+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:40:05.534+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:40:05.545+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.030 seconds
+[2024-08-17T02:40:36.309+0000] {processor.py:161} INFO - Started process (PID=77794) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:40:36.310+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:40:36.310+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:40:36.310+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:40:36.323+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:40:36.332+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.027 seconds
+[2024-08-17T02:41:07.000+0000] {processor.py:161} INFO - Started process (PID=78065) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:41:07.001+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:41:07.001+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:41:07.001+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:41:07.011+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:41:07.021+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.026 seconds
+[2024-08-17T02:41:37.681+0000] {processor.py:161} INFO - Started process (PID=78312) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:41:37.682+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:41:37.682+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:41:37.682+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:41:37.693+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:41:37.704+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.027 seconds
+[2024-08-17T02:42:08.031+0000] {processor.py:161} INFO - Started process (PID=78586) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:42:08.031+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:42:08.032+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:42:08.032+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:42:08.046+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:42:08.057+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.033 seconds
+[2024-08-17T02:42:38.820+0000] {processor.py:161} INFO - Started process (PID=78833) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:42:38.821+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:42:38.822+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:42:38.822+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:42:38.834+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:42:38.844+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.028 seconds
+[2024-08-17T02:43:10.085+0000] {processor.py:161} INFO - Started process (PID=79107) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:43:10.086+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:43:10.086+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:43:10.086+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:43:10.098+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:43:10.108+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.027 seconds
+[2024-08-17T02:43:40.709+0000] {processor.py:161} INFO - Started process (PID=79381) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:43:40.710+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:43:40.710+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:43:40.710+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:43:40.722+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:43:40.733+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.028 seconds
+[2024-08-17T02:44:11.508+0000] {processor.py:161} INFO - Started process (PID=79619) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:44:11.509+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:44:11.510+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:44:11.510+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:44:11.522+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:44:11.532+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.028 seconds
+[2024-08-17T02:44:42.119+0000] {processor.py:161} INFO - Started process (PID=79920) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:44:42.120+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:44:42.121+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:44:42.120+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:44:42.133+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:44:42.143+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.028 seconds
+[2024-08-17T02:45:12.953+0000] {processor.py:161} INFO - Started process (PID=80197) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:45:12.953+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:45:12.954+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:45:12.954+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:45:12.965+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:45:12.975+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.027 seconds
+[2024-08-17T02:45:43.878+0000] {processor.py:161} INFO - Started process (PID=80499) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:45:43.878+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:45:43.879+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:45:43.879+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:45:43.890+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:45:43.900+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.027 seconds
+[2024-08-17T02:46:14.484+0000] {processor.py:161} INFO - Started process (PID=80761) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:46:14.485+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:46:14.487+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:46:14.487+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:46:14.506+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:46:14.519+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.042 seconds
+[2024-08-17T02:46:45.058+0000] {processor.py:161} INFO - Started process (PID=81056) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:46:45.059+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:46:45.060+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:46:45.060+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:46:45.085+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:46:45.096+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.042 seconds
+[2024-08-17T02:47:15.848+0000] {processor.py:161} INFO - Started process (PID=81358) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:47:15.849+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:47:15.849+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:47:15.849+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:47:15.864+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:47:15.876+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.033 seconds
+[2024-08-17T02:47:46.557+0000] {processor.py:161} INFO - Started process (PID=81634) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:47:46.557+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:47:46.558+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:47:46.558+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:47:46.570+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:47:46.581+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.030 seconds
+[2024-08-17T02:48:17.223+0000] {processor.py:161} INFO - Started process (PID=81937) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:48:17.224+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:48:17.225+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:48:17.225+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:48:17.236+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:48:17.247+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.028 seconds
+[2024-08-17T02:48:47.564+0000] {processor.py:161} INFO - Started process (PID=82213) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:48:47.565+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:48:47.565+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:48:47.565+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:48:47.576+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:48:47.587+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.027 seconds
+[2024-08-17T02:49:18.522+0000] {processor.py:161} INFO - Started process (PID=82544) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:49:18.522+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:49:18.523+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:49:18.523+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:49:18.532+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:49:18.542+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.024 seconds
+[2024-08-17T02:49:49.389+0000] {processor.py:161} INFO - Started process (PID=82849) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:49:49.390+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:49:49.391+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:49:49.391+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:49:49.404+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:49:49.414+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.028 seconds
+[2024-08-17T02:50:20.274+0000] {processor.py:161} INFO - Started process (PID=83179) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:50:20.274+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:50:20.275+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:50:20.275+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:50:20.286+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:50:20.296+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.026 seconds
+[2024-08-17T02:50:51.273+0000] {processor.py:161} INFO - Started process (PID=83470) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:50:51.274+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:50:51.275+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:50:51.275+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:50:51.286+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:50:51.298+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.028 seconds
+[2024-08-17T02:51:22.100+0000] {processor.py:161} INFO - Started process (PID=83790) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:51:22.101+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:51:22.101+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:51:22.101+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:51:22.112+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:51:22.122+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.026 seconds
+[2024-08-17T02:51:53.092+0000] {processor.py:161} INFO - Started process (PID=84119) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:51:53.093+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:51:53.094+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:51:53.094+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:51:53.110+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:51:53.122+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.034 seconds
+[2024-08-17T02:52:23.659+0000] {processor.py:161} INFO - Started process (PID=84422) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:52:23.660+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:52:23.661+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:52:23.661+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:52:23.668+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:52:23.678+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.023 seconds
+[2024-08-17T02:52:55.241+0000] {processor.py:161} INFO - Started process (PID=84732) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:52:55.241+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:52:55.242+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:52:55.242+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:52:55.256+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:52:55.271+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.036 seconds
+[2024-08-17T02:53:26.114+0000] {processor.py:161} INFO - Started process (PID=85033) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:53:26.115+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:53:26.115+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:53:26.115+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:53:26.129+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:53:26.141+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.031 seconds
+[2024-08-17T02:53:58.716+0000] {processor.py:161} INFO - Started process (PID=85392) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:53:58.717+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:53:58.718+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:53:58.718+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:53:58.730+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:53:58.741+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.029 seconds
+[2024-08-17T02:54:30.472+0000] {processor.py:161} INFO - Started process (PID=85751) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:54:30.473+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:54:30.474+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:54:30.473+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:54:30.489+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:54:30.500+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.032 seconds
+[2024-08-17T02:55:01.822+0000] {processor.py:161} INFO - Started process (PID=86086) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:55:01.823+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:55:01.823+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:55:01.823+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:55:01.835+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:55:01.845+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.028 seconds
+[2024-08-17T02:55:33.340+0000] {processor.py:161} INFO - Started process (PID=86452) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:55:33.341+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:55:33.342+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:55:33.342+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:55:33.356+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:55:33.368+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.032 seconds
+[2024-08-17T02:56:04.354+0000] {processor.py:161} INFO - Started process (PID=86810) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:56:04.354+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:56:04.355+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:56:04.355+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:56:04.367+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:56:04.379+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.029 seconds
+[2024-08-17T02:56:35.153+0000] {processor.py:161} INFO - Started process (PID=87142) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:56:35.154+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:56:35.154+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:56:35.154+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:56:35.184+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:56:35.194+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.045 seconds
+[2024-08-17T02:57:06.407+0000] {processor.py:161} INFO - Started process (PID=87507) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:57:06.408+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:57:06.408+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:57:06.408+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:57:06.418+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:57:06.429+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.026 seconds
+[2024-08-17T02:57:38.039+0000] {processor.py:161} INFO - Started process (PID=87852) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:57:38.040+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:57:38.041+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:57:38.040+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:57:38.060+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:57:38.072+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.038 seconds
+[2024-08-17T02:58:09.803+0000] {processor.py:161} INFO - Started process (PID=88206) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:58:09.804+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:58:09.805+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:58:09.804+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:58:09.817+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:58:09.829+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.030 seconds
+[2024-08-17T02:58:41.641+0000] {processor.py:161} INFO - Started process (PID=88565) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:58:41.642+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:58:41.643+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:58:41.643+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:58:41.655+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:58:41.665+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.028 seconds
+[2024-08-17T02:59:14.194+0000] {processor.py:161} INFO - Started process (PID=88936) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:59:14.195+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:59:14.195+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:59:14.195+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:59:14.207+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:59:14.219+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.029 seconds
+[2024-08-17T02:59:45.272+0000] {processor.py:161} INFO - Started process (PID=89296) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:59:45.273+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T02:59:45.274+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:59:45.273+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:59:45.286+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T02:59:45.297+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.028 seconds
+[2024-08-17T03:00:16.088+0000] {processor.py:161} INFO - Started process (PID=89682) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:00:16.089+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:00:16.089+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:00:16.089+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:00:16.105+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:00:16.119+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.036 seconds
+[2024-08-17T03:00:47.137+0000] {processor.py:161} INFO - Started process (PID=90043) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:00:47.137+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:00:47.139+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:00:47.138+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:00:47.149+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:00:47.161+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.028 seconds
+[2024-08-17T03:01:18.247+0000] {processor.py:161} INFO - Started process (PID=90431) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:01:18.248+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:01:18.249+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:01:18.248+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:01:18.263+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:01:18.276+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.033 seconds
+[2024-08-17T03:01:49.935+0000] {processor.py:161} INFO - Started process (PID=90801) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:01:49.936+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:01:49.937+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:01:49.936+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:01:49.949+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:01:49.961+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.031 seconds
+[2024-08-17T03:02:21.065+0000] {processor.py:161} INFO - Started process (PID=91161) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:02:21.066+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:02:21.067+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:02:21.066+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:02:21.077+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:02:21.087+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:02:52.015+0000] {processor.py:161} INFO - Started process (PID=91548) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:02:52.015+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:02:52.016+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:02:52.016+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:02:52.030+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:02:52.042+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.032 seconds
+[2024-08-17T03:03:22.834+0000] {processor.py:161} INFO - Started process (PID=91908) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:03:22.835+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:03:22.835+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:03:22.835+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:03:22.846+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:03:22.856+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:04:01.800+0000] {processor.py:161} INFO - Started process (PID=92358) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:04:01.801+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:04:01.802+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:04:01.802+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:04:01.814+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:04:01.825+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.029 seconds
+[2024-08-17T03:04:33.592+0000] {processor.py:161} INFO - Started process (PID=92765) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:04:33.593+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:04:33.593+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:04:33.593+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:04:33.606+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:04:33.618+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.031 seconds
+[2024-08-17T03:05:05.465+0000] {processor.py:161} INFO - Started process (PID=93179) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:05:05.465+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:05:05.466+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:05:05.466+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:05:05.474+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:05:05.484+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:05:37.364+0000] {processor.py:161} INFO - Started process (PID=93580) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:05:37.366+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:05:37.367+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:05:37.366+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:05:37.383+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:05:37.394+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.035 seconds
+[2024-08-17T03:06:09.067+0000] {processor.py:161} INFO - Started process (PID=93994) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:06:09.068+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:06:09.069+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:06:09.068+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:06:09.081+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:06:09.093+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.029 seconds
+[2024-08-17T03:06:40.164+0000] {processor.py:161} INFO - Started process (PID=94409) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:06:40.165+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:06:40.166+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:06:40.166+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:06:40.177+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:06:40.187+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:07:11.292+0000] {processor.py:161} INFO - Started process (PID=94798) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:07:11.293+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:07:11.294+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:07:11.293+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:07:11.307+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:07:11.319+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.032 seconds
+[2024-08-17T03:07:42.811+0000] {processor.py:161} INFO - Started process (PID=95217) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:07:42.812+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:07:42.812+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:07:42.812+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:07:42.821+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:07:42.832+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:08:15.189+0000] {processor.py:161} INFO - Started process (PID=95631) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:08:15.190+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:08:15.190+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:08:15.190+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:08:15.201+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:08:15.210+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:08:47.800+0000] {processor.py:161} INFO - Started process (PID=96019) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:08:47.801+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:08:47.802+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:08:47.802+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:08:47.809+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:08:47.819+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:09:19.113+0000] {processor.py:161} INFO - Started process (PID=96443) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:09:19.114+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:09:19.115+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:09:19.115+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:09:19.130+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:09:19.140+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.033 seconds
+[2024-08-17T03:09:50.150+0000] {processor.py:161} INFO - Started process (PID=96887) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:09:50.151+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:09:50.151+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:09:50.151+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:09:50.163+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:09:50.174+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.028 seconds
+[2024-08-17T03:10:21.174+0000] {processor.py:161} INFO - Started process (PID=97305) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:10:21.175+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:10:21.176+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:10:21.175+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:10:21.186+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:10:21.196+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:10:51.992+0000] {processor.py:161} INFO - Started process (PID=97750) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:10:51.992+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:10:51.993+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:10:51.993+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:10:52.001+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:10:52.011+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:11:23.652+0000] {processor.py:161} INFO - Started process (PID=98169) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:11:23.655+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:11:23.656+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:11:23.655+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:11:23.669+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:11:23.680+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.032 seconds
+[2024-08-17T03:11:55.904+0000] {processor.py:161} INFO - Started process (PID=98623) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:11:55.905+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:11:55.905+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:11:55.905+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:11:55.912+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:11:55.922+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:12:27.179+0000] {processor.py:161} INFO - Started process (PID=99046) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:12:27.180+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:12:27.180+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:12:27.180+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:12:27.192+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:12:27.203+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:12:58.011+0000] {processor.py:161} INFO - Started process (PID=99463) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:12:58.012+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:12:58.012+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:12:58.012+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:12:58.023+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:12:58.033+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:13:28.950+0000] {processor.py:161} INFO - Started process (PID=99908) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:13:28.951+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:13:28.951+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:13:28.951+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:13:28.960+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:13:28.970+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:14:04.051+0000] {processor.py:161} INFO - Started process (PID=667) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:14:04.051+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:14:04.052+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:14:04.052+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:14:04.059+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:14:04.068+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.020 seconds
+[2024-08-17T03:14:37.100+0000] {processor.py:161} INFO - Started process (PID=1124) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:14:37.100+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:14:37.101+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:14:37.101+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:14:37.109+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:14:37.118+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:15:08.722+0000] {processor.py:161} INFO - Started process (PID=1535) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:15:08.723+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:15:08.724+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:15:08.723+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:15:08.731+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:15:08.741+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:15:40.211+0000] {processor.py:161} INFO - Started process (PID=1989) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:15:40.211+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:15:40.212+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:15:40.212+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:15:40.221+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:15:40.230+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:16:11.287+0000] {processor.py:161} INFO - Started process (PID=2422) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:16:11.288+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:16:11.288+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:16:11.288+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:16:11.296+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:16:11.305+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:16:42.041+0000] {processor.py:161} INFO - Started process (PID=2829) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:16:42.041+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:16:42.042+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:16:42.042+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:16:42.052+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:16:42.061+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:17:12.812+0000] {processor.py:161} INFO - Started process (PID=3283) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:17:12.813+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:17:12.814+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:17:12.813+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:17:12.829+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:17:12.839+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.031 seconds
+[2024-08-17T03:17:43.428+0000] {processor.py:161} INFO - Started process (PID=3711) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:17:43.428+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:17:43.429+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:17:43.429+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:17:43.438+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:17:43.448+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:18:14.222+0000] {processor.py:161} INFO - Started process (PID=4165) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:18:14.223+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:18:14.223+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:18:14.223+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:18:14.231+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:18:14.240+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:18:45.018+0000] {processor.py:161} INFO - Started process (PID=4618) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:18:45.019+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:18:45.019+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:18:45.019+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:18:45.028+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:18:45.038+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:19:15.667+0000] {processor.py:161} INFO - Started process (PID=5046) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:19:15.667+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:19:15.668+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:19:15.668+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:19:15.676+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:19:15.685+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:19:46.436+0000] {processor.py:161} INFO - Started process (PID=5500) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:19:46.437+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:19:46.437+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:19:46.437+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:19:46.447+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:19:46.456+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:20:18.490+0000] {processor.py:161} INFO - Started process (PID=5943) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:20:18.491+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:20:18.492+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:20:18.491+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:20:18.499+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:20:18.508+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:20:50.996+0000] {processor.py:161} INFO - Started process (PID=6401) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:20:50.997+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:20:50.997+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:20:50.997+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:20:51.005+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:20:51.014+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.021 seconds
+[2024-08-17T03:21:22.069+0000] {processor.py:161} INFO - Started process (PID=6834) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:21:22.069+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:21:22.070+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:21:22.070+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:21:22.078+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:21:22.088+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:21:53.191+0000] {processor.py:161} INFO - Started process (PID=7262) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:21:53.192+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:21:53.192+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:21:53.192+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:21:53.203+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:21:53.213+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:22:24.852+0000] {processor.py:161} INFO - Started process (PID=7724) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:22:24.853+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:22:24.854+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:22:24.853+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:22:24.862+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:22:24.871+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:22:56.831+0000] {processor.py:161} INFO - Started process (PID=8179) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:22:56.832+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:22:56.832+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:22:56.832+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:22:56.840+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:22:56.849+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:23:27.834+0000] {processor.py:161} INFO - Started process (PID=8593) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:23:27.834+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:23:27.835+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:23:27.835+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:23:27.845+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:23:27.854+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:24:00.026+0000] {processor.py:161} INFO - Started process (PID=9041) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:24:00.027+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:24:00.027+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:24:00.027+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:24:00.037+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:24:00.047+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:24:31.530+0000] {processor.py:161} INFO - Started process (PID=9495) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:24:31.530+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:24:31.531+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:24:31.531+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:24:31.543+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:24:31.552+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:25:02.713+0000] {processor.py:161} INFO - Started process (PID=9930) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:25:02.714+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:25:02.715+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:25:02.714+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:25:02.723+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:25:02.731+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:25:33.850+0000] {processor.py:161} INFO - Started process (PID=10377) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:25:33.851+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:25:33.852+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:25:33.852+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:25:33.862+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:25:33.872+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:26:05.162+0000] {processor.py:161} INFO - Started process (PID=10831) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:26:05.164+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:26:05.165+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:26:05.165+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:26:05.174+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:26:05.184+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:26:36.061+0000] {processor.py:161} INFO - Started process (PID=11266) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:26:36.062+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:26:36.062+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:26:36.062+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:26:36.070+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:26:36.079+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:27:06.955+0000] {processor.py:161} INFO - Started process (PID=11713) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:27:06.956+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:27:06.956+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:27:06.956+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:27:06.965+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:27:06.973+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:27:38.171+0000] {processor.py:161} INFO - Started process (PID=12167) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:27:38.172+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:27:38.174+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:27:38.174+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:27:38.183+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:27:38.192+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:28:09.072+0000] {processor.py:161} INFO - Started process (PID=12595) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:28:09.072+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:28:09.073+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:28:09.073+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:28:09.082+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:28:09.091+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:28:40.190+0000] {processor.py:161} INFO - Started process (PID=13049) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:28:40.191+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:28:40.192+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:28:40.191+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:28:40.204+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:28:40.214+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.028 seconds
+[2024-08-17T03:29:12.074+0000] {processor.py:161} INFO - Started process (PID=13502) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:29:12.074+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:29:12.075+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:29:12.075+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:29:12.085+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:29:12.095+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:29:43.642+0000] {processor.py:161} INFO - Started process (PID=13931) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:29:43.642+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:29:43.643+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:29:43.643+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:29:43.651+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:29:43.661+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:30:14.408+0000] {processor.py:161} INFO - Started process (PID=14364) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:30:14.409+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:30:14.409+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:30:14.409+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:30:14.417+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:30:14.426+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:30:46.058+0000] {processor.py:161} INFO - Started process (PID=14819) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:30:46.059+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:30:46.059+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:30:46.059+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:30:46.067+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:30:46.076+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:31:17.259+0000] {processor.py:161} INFO - Started process (PID=15228) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:31:17.259+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:31:17.260+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:31:17.260+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:31:17.268+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:31:17.277+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:31:48.099+0000] {processor.py:161} INFO - Started process (PID=15681) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:31:48.100+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:31:48.100+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:31:48.100+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:31:48.108+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:31:48.119+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:32:18.866+0000] {processor.py:161} INFO - Started process (PID=16134) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:32:18.867+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:32:18.868+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:32:18.868+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:32:18.877+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:32:18.886+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:32:49.635+0000] {processor.py:161} INFO - Started process (PID=16562) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:32:49.636+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:32:49.637+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:32:49.636+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:32:49.645+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:32:49.654+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:33:20.409+0000] {processor.py:161} INFO - Started process (PID=17016) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:33:20.409+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:33:20.410+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:33:20.410+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:33:20.417+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:33:20.428+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:34:00.323+0000] {processor.py:161} INFO - Started process (PID=17531) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:34:00.331+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:34:00.335+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:34:00.335+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:34:00.347+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:34:00.356+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.037 seconds
+[2024-08-17T03:34:32.371+0000] {processor.py:161} INFO - Started process (PID=17995) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:34:32.372+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:34:32.372+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:34:32.372+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:34:32.403+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:34:32.414+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.047 seconds
+[2024-08-17T03:35:03.853+0000] {processor.py:161} INFO - Started process (PID=18449) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:35:03.854+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:35:03.854+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:35:03.854+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:35:03.862+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:35:03.872+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:35:35.137+0000] {processor.py:161} INFO - Started process (PID=18883) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:35:35.138+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:35:35.139+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:35:35.138+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:35:35.148+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:35:35.157+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:36:06.124+0000] {processor.py:161} INFO - Started process (PID=19337) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:36:06.125+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:36:06.125+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:36:06.125+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:36:06.133+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:36:06.145+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:36:36.844+0000] {processor.py:161} INFO - Started process (PID=19772) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:36:36.845+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:36:36.846+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:36:36.846+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:36:36.853+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:36:36.862+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.021 seconds
+[2024-08-17T03:37:08.165+0000] {processor.py:161} INFO - Started process (PID=20222) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:37:08.165+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:37:08.166+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:37:08.166+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:37:08.188+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:37:08.198+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.037 seconds
+[2024-08-17T03:37:38.968+0000] {processor.py:161} INFO - Started process (PID=20676) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:37:38.969+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T03:37:38.969+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:37:38.969+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:37:38.980+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T03:37:38.989+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.024 seconds
+[2024-08-17T09:22:55.235+0000] {processor.py:161} INFO - Started process (PID=437) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T09:22:55.236+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T09:22:55.238+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:22:55.238+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T09:22:55.244+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T09:22:55.252+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.020 seconds
+[2024-08-17T09:23:29.358+0000] {processor.py:161} INFO - Started process (PID=893) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T09:23:29.359+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T09:23:29.360+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:23:29.360+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T09:23:29.368+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T09:23:29.377+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.022 seconds
+[2024-08-17T09:24:01.349+0000] {processor.py:161} INFO - Started process (PID=1347) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T09:24:01.349+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T09:24:01.351+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:24:01.350+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T09:24:01.359+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T09:24:01.369+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.023 seconds
+[2024-08-17T09:24:33.849+0000] {processor.py:161} INFO - Started process (PID=1775) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T09:24:33.850+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T09:24:33.852+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:24:33.851+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T09:24:33.861+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T09:24:33.870+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.024 seconds
+[2024-08-17T09:25:06.062+0000] {processor.py:161} INFO - Started process (PID=2229) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T09:25:06.063+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T09:25:06.065+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:25:06.065+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T09:25:06.121+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T09:25:06.129+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.070 seconds
+[2024-08-17T09:25:37.908+0000] {processor.py:161} INFO - Started process (PID=2683) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T09:25:37.908+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T09:25:37.909+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:25:37.909+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T09:25:37.919+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T09:25:37.927+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.023 seconds
+[2024-08-17T09:26:09.361+0000] {processor.py:161} INFO - Started process (PID=3118) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T09:26:09.362+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T09:26:09.363+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:26:09.363+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T09:26:09.375+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T09:26:09.384+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.027 seconds
+[2024-08-17T09:26:40.891+0000] {processor.py:161} INFO - Started process (PID=3565) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T09:26:40.892+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T09:26:40.893+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:26:40.893+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T09:26:40.900+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T09:26:40.908+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.021 seconds
+[2024-08-17T09:27:12.181+0000] {processor.py:161} INFO - Started process (PID=4019) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T09:27:12.182+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T09:27:12.183+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:27:12.183+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T09:27:12.190+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T09:27:12.198+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.020 seconds
+[2024-08-17T09:27:48.388+0000] {processor.py:161} INFO - Started process (PID=4474) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T09:27:48.388+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T09:27:48.390+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:27:48.389+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T09:27:48.397+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T09:27:48.406+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.022 seconds
+[2024-08-17T09:28:20.236+0000] {processor.py:161} INFO - Started process (PID=4928) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T09:28:20.236+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T09:28:20.237+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:28:20.237+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T09:28:20.245+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T09:28:20.253+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.021 seconds
+[2024-08-17T09:28:51.566+0000] {processor.py:161} INFO - Started process (PID=5356) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T09:28:51.566+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T09:28:51.567+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:28:51.567+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T09:28:51.575+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T09:28:51.584+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.021 seconds
+[2024-08-17T09:29:22.891+0000] {processor.py:161} INFO - Started process (PID=5810) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T09:29:22.891+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T09:29:22.893+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:29:22.893+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T09:29:22.905+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T09:29:22.914+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.026 seconds
+[2024-08-17T09:29:53.880+0000] {processor.py:161} INFO - Started process (PID=6264) to work on /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T09:29:53.881+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Angola/TS_model.pkl for tasks to queue
+[2024-08-17T09:29:53.882+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:29:53.882+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T09:29:53.892+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Angola/TS_model.pkl
+[2024-08-17T09:29:53.901+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Angola/TS_model.pkl took 0.025 seconds

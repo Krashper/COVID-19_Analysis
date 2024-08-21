@@ -1,0 +1,455 @@
+[2024-08-17T02:58:57.317+0000] {processor.py:161} INFO - Started process (PID=88655) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T02:58:57.318+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T02:58:57.319+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:58:57.319+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T02:58:57.333+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T02:58:57.344+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.032 seconds
+[2024-08-17T02:59:28.508+0000] {processor.py:161} INFO - Started process (PID=89041) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T02:59:28.509+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T02:59:28.510+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:59:28.510+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T02:59:28.530+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T02:59:28.541+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.037 seconds
+[2024-08-17T02:59:59.296+0000] {processor.py:161} INFO - Started process (PID=89401) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T02:59:59.297+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T02:59:59.298+0000] {logging_mixin.py:188} INFO - [2024-08-17T02:59:59.298+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T02:59:59.308+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T02:59:59.319+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.028 seconds
+[2024-08-17T03:00:30.285+0000] {processor.py:161} INFO - Started process (PID=89787) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:00:30.286+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:00:30.287+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:00:30.287+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:00:30.300+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:00:30.311+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.029 seconds
+[2024-08-17T03:01:00.694+0000] {processor.py:161} INFO - Started process (PID=90147) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:01:00.695+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:01:00.695+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:01:00.695+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:01:00.706+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:01:00.717+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:01:31.327+0000] {processor.py:161} INFO - Started process (PID=90533) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:01:31.328+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:01:31.328+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:01:31.328+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:01:31.338+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:01:31.349+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:02:02.521+0000] {processor.py:161} INFO - Started process (PID=90900) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:02:02.531+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:02:02.532+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:02:02.531+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:02:02.562+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:02:02.575+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.058 seconds
+[2024-08-17T03:02:33.079+0000] {processor.py:161} INFO - Started process (PID=91258) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:02:33.080+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:02:33.080+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:02:33.080+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:02:33.093+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:02:33.104+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.029 seconds
+[2024-08-17T03:03:03.866+0000] {processor.py:161} INFO - Started process (PID=91645) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:03:03.867+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:03:03.868+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:03:03.868+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:03:03.879+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:03:03.890+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:03:34.767+0000] {processor.py:161} INFO - Started process (PID=92005) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:03:34.768+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:03:34.768+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:03:34.768+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:03:34.777+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:03:34.788+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:04:05.611+0000] {processor.py:161} INFO - Started process (PID=92420) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:04:05.612+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:04:05.614+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:04:05.613+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:04:05.625+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:04:05.636+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.029 seconds
+[2024-08-17T03:04:37.572+0000] {processor.py:161} INFO - Started process (PID=92797) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:04:37.573+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:04:37.574+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:04:37.574+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:04:37.588+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:04:37.600+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.031 seconds
+[2024-08-17T03:05:08.330+0000] {processor.py:161} INFO - Started process (PID=93202) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:05:08.331+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:05:08.331+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:05:08.331+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:05:08.347+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:05:08.359+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.033 seconds
+[2024-08-17T03:05:39.037+0000] {processor.py:161} INFO - Started process (PID=93617) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:05:39.037+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:05:39.038+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:05:39.038+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:05:39.086+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:05:39.097+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.065 seconds
+[2024-08-17T03:06:09.969+0000] {processor.py:161} INFO - Started process (PID=94006) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:06:09.970+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:06:09.971+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:06:09.971+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:06:09.990+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:06:10.000+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.035 seconds
+[2024-08-17T03:06:40.883+0000] {processor.py:161} INFO - Started process (PID=94421) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:06:40.884+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:06:40.884+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:06:40.884+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:06:40.894+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:06:40.905+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:07:12.055+0000] {processor.py:161} INFO - Started process (PID=94810) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:07:12.056+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:07:12.057+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:07:12.057+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:07:12.066+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:07:12.077+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:07:43.318+0000] {processor.py:161} INFO - Started process (PID=95224) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:07:43.319+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:07:43.319+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:07:43.319+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:07:43.328+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:07:43.338+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:08:15.747+0000] {processor.py:161} INFO - Started process (PID=95638) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:08:15.749+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:08:15.749+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:08:15.749+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:08:15.761+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:08:15.772+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.028 seconds
+[2024-08-17T03:08:48.638+0000] {processor.py:161} INFO - Started process (PID=96036) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:08:48.639+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:08:48.640+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:08:48.640+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:08:48.657+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:08:48.671+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.037 seconds
+[2024-08-17T03:09:19.969+0000] {processor.py:161} INFO - Started process (PID=96455) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:09:19.970+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:09:19.970+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:09:19.970+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:09:19.988+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:09:19.998+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.032 seconds
+[2024-08-17T03:09:50.752+0000] {processor.py:161} INFO - Started process (PID=96894) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:09:50.753+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:09:50.754+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:09:50.754+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:09:50.773+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:09:50.784+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.036 seconds
+[2024-08-17T03:10:21.828+0000] {processor.py:161} INFO - Started process (PID=97311) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:10:21.829+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:10:21.830+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:10:21.829+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:10:21.848+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:10:21.859+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.035 seconds
+[2024-08-17T03:10:52.598+0000] {processor.py:161} INFO - Started process (PID=97756) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:10:52.599+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:10:52.599+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:10:52.599+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:10:52.614+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:10:52.627+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.033 seconds
+[2024-08-17T03:11:24.171+0000] {processor.py:161} INFO - Started process (PID=98181) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:11:24.171+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:11:24.172+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:11:24.172+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:11:24.179+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:11:24.190+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:11:55.022+0000] {processor.py:161} INFO - Started process (PID=98589) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:11:55.022+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:11:55.023+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:11:55.023+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:11:55.033+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:11:55.043+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:12:25.923+0000] {processor.py:161} INFO - Started process (PID=99026) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:12:25.923+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:12:25.924+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:12:25.924+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:12:25.932+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:12:25.943+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:12:56.965+0000] {processor.py:161} INFO - Started process (PID=99443) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:12:56.965+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:12:56.966+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:12:56.966+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:12:56.978+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:12:56.989+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.029 seconds
+[2024-08-17T03:13:27.875+0000] {processor.py:161} INFO - Started process (PID=99888) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:13:27.876+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:13:27.877+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:13:27.877+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:13:27.888+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:13:27.897+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:14:03.352+0000] {processor.py:161} INFO - Started process (PID=639) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:14:03.352+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:14:03.353+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:14:03.353+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:14:03.362+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:14:03.371+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:14:34.660+0000] {processor.py:161} INFO - Started process (PID=1025) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:14:34.661+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:14:34.661+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:14:34.661+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:14:34.669+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:14:34.680+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:15:05.772+0000] {processor.py:161} INFO - Started process (PID=1460) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:15:05.772+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:15:05.773+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:15:05.773+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:15:05.781+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:15:05.790+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:15:36.756+0000] {processor.py:161} INFO - Started process (PID=1912) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:15:36.757+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:15:36.758+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:15:36.757+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:15:36.769+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:15:36.779+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.028 seconds
+[2024-08-17T03:16:07.447+0000] {processor.py:161} INFO - Started process (PID=2338) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:16:07.448+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:16:07.448+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:16:07.448+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:16:07.458+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:16:07.468+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:16:38.032+0000] {processor.py:161} INFO - Started process (PID=2792) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:16:38.033+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:16:38.034+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:16:38.033+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:16:38.041+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:16:38.050+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.021 seconds
+[2024-08-17T03:17:08.715+0000] {processor.py:161} INFO - Started process (PID=3219) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:17:08.715+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:17:08.716+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:17:08.716+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:17:08.724+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:17:08.733+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:17:39.487+0000] {processor.py:161} INFO - Started process (PID=3672) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:17:39.488+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:17:39.489+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:17:39.488+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:17:39.507+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:17:39.518+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.034 seconds
+[2024-08-17T03:18:10.401+0000] {processor.py:161} INFO - Started process (PID=4126) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:18:10.402+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:18:10.402+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:18:10.402+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:18:10.411+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:18:10.420+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:18:41.116+0000] {processor.py:161} INFO - Started process (PID=4554) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:18:41.117+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:18:41.117+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:18:41.117+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:18:41.125+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:18:41.135+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:19:12.205+0000] {processor.py:161} INFO - Started process (PID=5006) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:19:12.206+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:19:12.206+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:19:12.206+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:19:12.214+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:19:12.223+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:19:43.132+0000] {processor.py:161} INFO - Started process (PID=5403) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:19:43.133+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:19:43.133+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:19:43.133+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:19:43.142+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:19:43.155+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:20:13.648+0000] {processor.py:161} INFO - Started process (PID=5848) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:20:13.649+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:20:13.650+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:20:13.649+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:20:13.660+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:20:13.669+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:20:44.928+0000] {processor.py:161} INFO - Started process (PID=6302) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:20:44.929+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:20:44.930+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:20:44.930+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:20:44.940+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:20:44.950+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:21:15.734+0000] {processor.py:161} INFO - Started process (PID=6711) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:21:15.734+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:21:15.735+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:21:15.735+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:21:15.742+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:21:15.751+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:21:46.263+0000] {processor.py:161} INFO - Started process (PID=7163) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:21:46.265+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:21:46.266+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:21:46.265+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:21:46.275+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:21:46.286+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.026 seconds
+[2024-08-17T03:22:17.207+0000] {processor.py:161} INFO - Started process (PID=7598) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:22:17.208+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:22:17.209+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:22:17.208+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:22:17.219+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:22:17.228+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:22:47.943+0000] {processor.py:161} INFO - Started process (PID=8046) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:22:47.944+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:22:47.945+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:22:47.945+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:22:47.954+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:22:47.962+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:23:18.974+0000] {processor.py:161} INFO - Started process (PID=8500) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:23:18.975+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:23:18.976+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:23:18.975+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:23:18.984+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:23:18.993+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:23:56.288+0000] {processor.py:161} INFO - Started process (PID=8954) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:23:56.288+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:23:56.289+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:23:56.289+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:23:56.297+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:23:56.306+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:24:27.646+0000] {processor.py:161} INFO - Started process (PID=9412) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:24:27.648+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:24:27.649+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:24:27.648+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:24:27.682+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:24:27.691+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.052 seconds
+[2024-08-17T03:24:58.685+0000] {processor.py:161} INFO - Started process (PID=9840) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:24:58.686+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:24:58.687+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:24:58.687+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:24:58.695+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:24:58.704+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:25:29.511+0000] {processor.py:161} INFO - Started process (PID=10294) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:25:29.511+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:25:29.512+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:25:29.511+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:25:29.520+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:25:29.529+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:26:00.490+0000] {processor.py:161} INFO - Started process (PID=10724) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:26:00.490+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:26:00.491+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:26:00.491+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:26:00.502+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:26:00.511+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:26:31.143+0000] {processor.py:161} INFO - Started process (PID=11178) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:26:31.143+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:26:31.144+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:26:31.144+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:26:31.155+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:26:31.164+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:27:01.952+0000] {processor.py:161} INFO - Started process (PID=11632) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:27:01.953+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:27:01.953+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:27:01.953+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:27:01.962+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:27:01.973+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:27:32.476+0000] {processor.py:161} INFO - Started process (PID=12060) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:27:32.478+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:27:32.479+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:27:32.479+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:27:32.491+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:27:32.501+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.028 seconds
+[2024-08-17T03:28:03.759+0000] {processor.py:161} INFO - Started process (PID=12517) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:28:03.760+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:28:03.760+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:28:03.760+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:28:03.768+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:28:03.778+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:28:34.521+0000] {processor.py:161} INFO - Started process (PID=12931) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:28:34.522+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:28:34.524+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:28:34.524+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:28:34.535+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:28:34.546+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.028 seconds
+[2024-08-17T03:29:05.192+0000] {processor.py:161} INFO - Started process (PID=13377) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:29:05.193+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:29:05.193+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:29:05.193+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:29:05.201+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:29:05.210+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:29:35.771+0000] {processor.py:161} INFO - Started process (PID=13810) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:29:35.772+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:29:35.772+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:29:35.772+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:29:35.781+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:29:35.790+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:30:06.497+0000] {processor.py:161} INFO - Started process (PID=14238) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:30:06.498+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:30:06.498+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:30:06.498+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:30:06.507+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:30:06.515+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:30:37.335+0000] {processor.py:161} INFO - Started process (PID=14693) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:30:37.335+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:30:37.336+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:30:37.336+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:30:37.345+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:30:37.354+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:31:07.995+0000] {processor.py:161} INFO - Started process (PID=15147) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:31:07.995+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:31:07.996+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:31:07.996+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:31:08.008+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:31:08.018+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.028 seconds
+[2024-08-17T03:31:38.570+0000] {processor.py:161} INFO - Started process (PID=15576) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:31:38.571+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:31:38.572+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:31:38.571+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:31:38.580+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:31:38.589+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:32:09.170+0000] {processor.py:161} INFO - Started process (PID=16008) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:32:09.171+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:32:09.171+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:32:09.171+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:32:09.182+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:32:09.190+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.024 seconds
+[2024-08-17T03:32:39.990+0000] {processor.py:161} INFO - Started process (PID=16436) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:32:39.991+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:32:39.992+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:32:39.991+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:32:40.000+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:32:40.009+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:33:10.651+0000] {processor.py:161} INFO - Started process (PID=16890) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:33:10.660+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:33:10.666+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:33:10.666+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:33:10.683+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:33:10.693+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.058 seconds
+[2024-08-17T03:33:41.481+0000] {processor.py:161} INFO - Started process (PID=17340) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:33:41.482+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:33:41.482+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:33:41.482+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:33:41.490+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:33:41.499+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.021 seconds
+[2024-08-17T03:34:13.433+0000] {processor.py:161} INFO - Started process (PID=17774) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:34:13.434+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:34:13.436+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:34:13.435+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:34:13.448+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:34:13.457+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:34:44.964+0000] {processor.py:161} INFO - Started process (PID=18226) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:34:44.965+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:34:44.965+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:34:44.965+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:34:44.975+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:34:44.984+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:35:16.063+0000] {processor.py:161} INFO - Started process (PID=18661) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:35:16.064+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:35:16.064+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:35:16.064+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:35:16.072+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:35:16.081+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.021 seconds
+[2024-08-17T03:35:46.960+0000] {processor.py:161} INFO - Started process (PID=19082) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:35:46.961+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:35:46.962+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:35:46.961+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:35:46.973+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:35:46.982+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.025 seconds
+[2024-08-17T03:36:17.868+0000] {processor.py:161} INFO - Started process (PID=19515) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:36:17.868+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:36:17.869+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:36:17.869+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:36:17.877+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:36:17.887+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.023 seconds
+[2024-08-17T03:36:48.466+0000] {processor.py:161} INFO - Started process (PID=19949) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:36:48.466+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:36:48.467+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:36:48.467+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:36:48.475+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:36:48.484+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.022 seconds
+[2024-08-17T03:37:19.731+0000] {processor.py:161} INFO - Started process (PID=20396) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:37:19.732+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:37:19.733+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:37:19.733+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:37:19.745+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:37:19.754+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.027 seconds
+[2024-08-17T03:37:51.188+0000] {processor.py:161} INFO - Started process (PID=20849) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:37:51.189+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T03:37:51.189+0000] {logging_mixin.py:188} INFO - [2024-08-17T03:37:51.189+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:37:51.198+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T03:37:51.207+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.023 seconds
+[2024-08-17T09:22:49.476+0000] {processor.py:161} INFO - Started process (PID=223) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T09:22:49.477+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T09:22:49.478+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:22:49.478+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T09:22:49.487+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T09:22:49.497+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.024 seconds
+[2024-08-17T09:23:21.833+0000] {processor.py:161} INFO - Started process (PID=672) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T09:23:21.833+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T09:23:21.834+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:23:21.834+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T09:23:21.841+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T09:23:21.849+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.019 seconds
+[2024-08-17T09:23:53.696+0000] {processor.py:161} INFO - Started process (PID=1126) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T09:23:53.697+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T09:23:53.698+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:23:53.697+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T09:23:53.705+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T09:23:53.714+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.021 seconds
+[2024-08-17T09:24:26.677+0000] {processor.py:161} INFO - Started process (PID=1580) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T09:24:26.677+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T09:24:26.678+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:24:26.678+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T09:24:26.686+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T09:24:26.695+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.022 seconds
+[2024-08-17T09:24:57.682+0000] {processor.py:161} INFO - Started process (PID=2008) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T09:24:57.682+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T09:24:57.683+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:24:57.683+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T09:24:57.691+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T09:24:57.700+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.022 seconds
+[2024-08-17T09:25:28.663+0000] {processor.py:161} INFO - Started process (PID=2462) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T09:25:28.663+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T09:25:28.664+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:25:28.664+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T09:25:28.672+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T09:25:28.682+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.023 seconds
+[2024-08-17T09:25:59.539+0000] {processor.py:161} INFO - Started process (PID=2916) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T09:25:59.540+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T09:25:59.541+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:25:59.540+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T09:25:59.548+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T09:25:59.557+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.022 seconds
+[2024-08-17T09:26:30.336+0000] {processor.py:161} INFO - Started process (PID=3344) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T09:26:30.337+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T09:26:30.338+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:26:30.338+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T09:26:30.347+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T09:26:30.355+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.023 seconds
+[2024-08-17T09:27:01.065+0000] {processor.py:161} INFO - Started process (PID=3798) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T09:27:01.065+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T09:27:01.066+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:27:01.066+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T09:27:01.073+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T09:27:01.081+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.020 seconds
+[2024-08-17T09:27:31.887+0000] {processor.py:161} INFO - Started process (PID=4253) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T09:27:31.888+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T09:27:31.889+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:27:31.888+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T09:27:31.901+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T09:27:31.910+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.026 seconds
+[2024-08-17T09:28:02.610+0000] {processor.py:161} INFO - Started process (PID=4681) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T09:28:02.610+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T09:28:02.611+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:28:02.611+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T09:28:02.620+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T09:28:02.629+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.023 seconds
+[2024-08-17T09:28:33.675+0000] {processor.py:161} INFO - Started process (PID=5135) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T09:28:33.676+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T09:28:33.677+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:28:33.676+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T09:28:33.685+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T09:28:33.694+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.022 seconds
+[2024-08-17T09:29:05.823+0000] {processor.py:161} INFO - Started process (PID=5589) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T09:29:05.824+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T09:29:05.825+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:29:05.825+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T09:29:05.834+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T09:29:05.843+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.023 seconds
+[2024-08-17T09:29:37.806+0000] {processor.py:161} INFO - Started process (PID=6017) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T09:29:37.806+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T09:29:37.808+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:29:37.808+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T09:29:37.816+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T09:29:37.824+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.022 seconds
+[2024-08-17T09:30:08.631+0000] {processor.py:161} INFO - Started process (PID=6452) to work on /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T09:30:08.632+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl for tasks to queue
+[2024-08-17T09:30:08.633+0000] {logging_mixin.py:188} INFO - [2024-08-17T09:30:08.633+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T09:30:08.641+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl
+[2024-08-17T09:30:08.650+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/data/models/Netherlands.3/TS_model.pkl took 0.022 seconds
